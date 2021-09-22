@@ -2,9 +2,9 @@
 title: Supporto Enterprise
 description: Adobe Experience Cloud Enterprise Support Services offre un supporto avanzato per gli SLT (Service Level Targets), vantaggi di competenze tecniche e un supporto sotto forma di un tecnico del supporto denominato.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '1180'
+source-wordcount: '1205'
 ht-degree: 2%
 
 ---
@@ -321,9 +321,9 @@ Tipi di attività strategiche disponibili:
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette le informazioni sullo stato di tutti i prodotti e i servizi Adobe distribuiti in ambienti multi-tenant. I clienti possono scegliere le proprie preferenze di abbonamento per ricevere notifiche e-mail ogni volta che un Adobe crea, aggiorna o risolve un evento di prodotto. Ciò può includere problemi di manutenzione programmata o di servizio con livelli di gravità diversi. |
 | [Termini e condizioni](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono in dettaglio le offerte dei servizi di supporto. |
 
-## Ore Di Attività Regionali E Supporto Linguistico
+## Ambito regionale del supporto per Adobi, ore di funzionamento locali e supporto linguistico
 
-Gli orari di lavoro locali di Adobe vengono allineati all&#39;area di fatturazione del cliente.<sup>1</sup>
+L&#39;ambito regionale dell&#39;Assistenza Adobe è stabilito allineando l&#39;indirizzo di fatturazione del cliente (tramite l&#39;ordine di vendita o altro documento di acquisto dell&#39;Assistenza Adobe) a una delle seguenti aree:
 
 <table>
 <thead>
@@ -344,8 +344,8 @@ Gli orari di lavoro locali di Adobe vengono allineati all&#39;area di fatturazio
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Il supporto per le lingue è disponibile solo in inglese e giapponese.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce esclude il supporto per la lingua giapponese.</i></p>
-      <p><i>(Giappone) I casi P2, P3 e P4 sono limitati solo all'orario di lavoro.</i></p>
+      <p><i>Adobe Commerce esclude il supporto per la lingua giapponese.</i></p>
+      <p><i>I casi P2, P3 e P4 sono limitati all'orario di lavoro solo in Giappone.</i></p>
     </td>
   </tr>
 </tbody>
