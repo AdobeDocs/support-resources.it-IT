@@ -2,9 +2,9 @@
 title: Supporto Elite
 description: I servizi di supporto Elite di Adobe Experience Cloud offrono le migliori soluzioni SLT (Service Level Targets), supporto proattivo e partnership con un responsabile dell'account tecnico e un tecnico del supporto con nome.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1362'
 ht-degree: 2%
 
 ---
@@ -395,7 +395,6 @@ L&#39;ambito regionale dell&#39;Assistenza Adobe è stabilito allineando l&#39;i
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Il supporto per le lingue è disponibile solo in inglese e giapponese.</i></p>
-      <p><i>Adobe Commerce esclude il supporto per la lingua giapponese.</i></p>
       <p><i>I casi P2, P3 e P4 sono limitati all'orario di lavoro solo in Giappone.</i></p>
     </td>
   </tr>

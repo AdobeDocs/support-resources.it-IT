@@ -2,9 +2,9 @@
 title: Supporto Enterprise
 description: Adobe Experience Cloud Enterprise Support Services offre un supporto avanzato per gli SLT (Service Level Targets), vantaggi di competenze tecniche e un supporto sotto forma di un tecnico del supporto denominato.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 2%
 
 ---
@@ -344,7 +344,6 @@ L&#39;ambito regionale dell&#39;Assistenza Adobe è stabilito allineando l&#39;i
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Il supporto per le lingue è disponibile solo in inglese e giapponese.</i></p>
-      <p><i>Adobe Commerce esclude il supporto per la lingua giapponese.</i></p>
       <p><i>I casi P2, P3 e P4 sono limitati all'orario di lavoro solo in Giappone.</i></p>
     </td>
   </tr>
