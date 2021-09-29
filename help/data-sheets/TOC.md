@@ -4,7 +4,7 @@ user-guide-description: Risorse di supporto per Adobe Experience Cloud e Adobe E
 source-git-commit: 423424dc139e162d1abd71b91e3c579fc14ea1d4
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
    + [Business](business.md)
    + [Enterprise](enterprise.md)
    + [Elite](elite.md)
-+ [Pagina](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) Termini e Condizioni{target=&quot;_blank&quot;}
++ [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
