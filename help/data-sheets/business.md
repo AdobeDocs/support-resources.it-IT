@@ -3,9 +3,9 @@ title: Supporto Business
 description: I servizi di supporto Business per Adobe Experience Cloud consentono di accedere ai team di supporto tecnico di Adobe e a un Account Support Lead per la gestione degli account.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -55,8 +55,8 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
   </tr>
   <tr>
     <td>Supporto per problemi P1 24x7x365</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contatti interni per il supporto (per prodotto)</td>
@@ -66,12 +66,12 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
   <tr>
     <td>Supporto telefonico in diretta</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Valutazioni dei servizi all’anno</td>
@@ -138,9 +138,9 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Lead di supporto dell'account" src="assets/Accountsupportlead.png"/>
+    <img alt="Account Support Lead" src="assets/Accountsupportlead.png"/>
     <div>
-    <p><b>Lead di supporto dell'account</b></p>
+    <p><b>Account Support Lead</b></p>
     <p>Un Account Support Lead dedicato per il monitoraggio proattivo dei casi e per promuovere la collaborazione tra team, fornire webinar introduttivi, eseguire rapporti sui servizi e fornire assistenza non tecnica. Inoltre funge da riferimento per l’escalation dei problemi e da rappresentante del cliente all’interno del supporto Adobe.</p>
     </div>
   </td>
@@ -211,9 +211,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Orario ufficio</p>
+    <p>Office Hours</p>
     <p><b>Webinar</b></p>
-    <p>Office Hours è un’iniziativa nata dal team del Servizio clienti di Adobe. Queste sessioni sono progettate per informare e aiutare i partecipanti a risolvere problemi e fornire suggerimenti e trucchi utili per le soluzioni Adobe Experience Cloud, tra cui.</p>
+    <p>Office Hours è un’iniziativa nata dal team del Servizio clienti di Adobe. Queste sessioni sono progettate per informare e aiutare i partecipanti a risolvere problemi e fornire suggerimenti e trucchi utili per le soluzioni Adobe Experience Cloud.</p>
     </div>
   </td>
   <td>
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Sito del supporto Business](https://helpx.adobe.com/it/support/programs/enterprise-support-programs/premier-support-business.html) | Sito del supporto Business di Adobe. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
-## Ambito regionale del supporto per Adobi, ore di funzionamento locali e supporto linguistico
+## Supporto Adobe: aree geografiche, orari operativi e lingue
 
-L&#39;ambito regionale dell&#39;Assistenza Adobe è stabilito allineando l&#39;indirizzo di fatturazione del cliente (tramite l&#39;ordine di vendita o altro documento di acquisto dell&#39;Assistenza Adobe) a una delle seguenti aree:
+L’ambito del supporto Adobe è definito allineando l’indirizzo di fatturazione del cliente (in base all’ordine di vendita o altro documento di acquisto del servizio di supporto Adobe) a una delle seguenti aree geografiche:
 
 <table>
 <thead>
@@ -262,15 +262,15 @@ L&#39;ambito regionale dell&#39;Assistenza Adobe è stabilito allineando l&#39;i
 <tbody>
   <tr>
     <td>06:00 – 17:30</td>
-    <td>09:00 - 17:00</td>
-    <td>09:00 - 17:00</td>
-    <td>09:00 - 17:30</td>
+    <td>09:00 – 17:00</td>
+    <td>09:00 – 17:00</td>
+    <td>09:00 – 17:30</td>
   </tr>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Il supporto è disponibile solo in inglese e giapponese.</i></p>
       <p><i>Adobe Commerce non prevede il supporto in lingua giapponese.</i></p>
-      <p><i>I casi P2, P3 e P4 sono limitati all'orario di lavoro solo in Giappone.</i></p>
+      <p><i>In Giappone, i casi P2, P3 e P4 sono limitati al solo orario operativo.</i></p>
     </td>
   </tr>
 </tbody>
