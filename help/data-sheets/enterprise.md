@@ -3,9 +3,9 @@ title: Supporto Enterprise
 description: I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi di livello di servizio più elevati e un Named Support Engineer dedicato che offre competenze tecniche e sostegno.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1199'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -55,8 +55,8 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   </tr>
   <tr>
     <td>Supporto per problemi P1 24x7x365</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contatti interni per il supporto (per prodotto)</td>
@@ -66,12 +66,12 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   <tr>
     <td>Supporto telefonico in diretta</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Valutazioni dei servizi all’anno</td>
@@ -86,7 +86,7 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   <tr>
     <td>Valutazione dei casi</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestione degli eventi</td>
@@ -106,18 +106,18 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   <tr>
     <td>Attività di supporto cloud - Experience Manager as Cloud</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Servizi sul campo</td>
     <td>Launch Advisory - Nel primo anno di nuove soluzioni</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Attività di servizio sul campo</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
 </tbody>
 </table>
@@ -145,9 +145,9 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
     </div>
   </td>
   <td>
-    <img alt="Ingegnere del supporto denominato" src="assets/namedsupportengineer.png"/>
+    <img alt="Named Support Engineer" src="assets/namedsupportengineer.png"/>
     <div>
-    <p><b>Ingegnere del supporto denominato</b></p>
+    <p><b>Named Support Engineer</b></p>
     <p>Un tecnico del supporto dedicato che acquisisce familiarità con l’ambiente della soluzione e gli obiettivi di business del cliente. Il Named Support Engineer è un tecnico esperto che aiuta a coordinare la tua esperienza di assistenza Enterprise.</p>
     </div>
   </td>
@@ -241,9 +241,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Orario ufficio</p>
+    <p>Office Hours</p>
     <p><b>Webinar</b></p>
-    <p>Office Hours è un’iniziativa nata dal team del Servizio clienti di Adobe. Queste sessioni sono progettate per informare e aiutare i partecipanti a risolvere problemi e fornire suggerimenti e trucchi utili per le soluzioni Adobe Experience Cloud, tra cui.</p>
+    <p>Office Hours è un’iniziativa nata dal team del Servizio clienti di Adobe. Queste sessioni sono progettate per informare e aiutare i partecipanti a risolvere problemi e fornire suggerimenti e trucchi utili per le soluzioni Adobe Experience Cloud.</p>
     </div>
   </td>
   <td>
@@ -290,7 +290,7 @@ Launch Advisory si allinea alla pianificazione del progetto del cliente, con obi
 
 I servizi sul campo sono utilizzati per la **risoluzione rapida** e si incentrano sul successo dei clienti e la velocizzazione del **time-to-value**. Se Launch Advisory è attivo, **nel primo anno non sono previsti servizi sul campo** per i prodotti coperti da un contratto di supporto Adobe.
 
-I clienti Enterprise hanno diritto a **2 attività all’anno** di tipo **Tecnico** e/o **Strategico**.
+I clienti Enterprise hanno diritto a **2 attività all’anno** di tipo **tecnico** e/o **strategico**.
 
 Le **attività tecniche** supportano le competenze tecniche del clienti e sono volte a massimizzare l’adozione degli strumenti. In particolare, includono supporto e raccomandazioni in merito a configurazioni della piattaforma, integrazioni e risoluzione di problemi.
 
@@ -321,9 +321,9 @@ Attività strategiche disponibili:
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
-## Ambito regionale del supporto per Adobi, ore di funzionamento locali e supporto linguistico
+## Supporto Adobe: aree geografiche, orari operativi e lingue
 
-L&#39;ambito regionale dell&#39;Assistenza Adobe è stabilito allineando l&#39;indirizzo di fatturazione del cliente (tramite l&#39;ordine di vendita o altro documento di acquisto dell&#39;Assistenza Adobe) a una delle seguenti aree:
+L’ambito del supporto Adobe è definito allineando l’indirizzo di fatturazione del cliente (in base all’ordine di vendita o altro documento di acquisto del servizio di supporto Adobe) a una delle seguenti aree geografiche:
 
 <table>
 <thead>
@@ -337,14 +337,14 @@ L&#39;ambito regionale dell&#39;Assistenza Adobe è stabilito allineando l&#39;i
 <tbody>
   <tr>
     <td>06:00 – 17:30</td>
-    <td>09:00 - 17:00</td>
-    <td>09:00 - 17:00</td>
-    <td>09:00 - 17:30</td>
+    <td>09:00 – 17:00</td>
+    <td>09:00 – 17:00</td>
+    <td>09:00 – 17:30</td>
   </tr>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Il supporto è disponibile solo in inglese e giapponese.</i></p>
-      <p><i>I casi P2, P3 e P4 sono limitati all'orario di lavoro solo in Giappone.</i></p>
+      <p><i>In Giappone, i casi P2, P3 e P4 sono limitati al solo orario operativo.</i></p>
     </td>
   </tr>
 </tbody>
