@@ -3,7 +3,7 @@ title: Supporto Online
 description: I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato al supporto telefonico.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '757'
 ht-degree: 100%
 
@@ -45,15 +45,15 @@ I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato
     <td>Named Support Engineer</td>
     <td></td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Technical Account Manager</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="12">Servizi di assistenza</td>
@@ -61,14 +61,14 @@ I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato
     <td>Orario operativo</td>
     <td>Orario operativo</td>
     <td>24x5</td>
-    <td>24 x 5</td>
+    <td>24x5</td>
   </tr>
   <tr>
     <td>Supporto per problemi P1 24x7x365</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contatti interni per il supporto (per prodotto)</td>
@@ -80,16 +80,16 @@ I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato
   <tr>
     <td>Supporto telefonico in diretta</td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Valutazioni dei servizi all’anno</td>
@@ -109,44 +109,44 @@ I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato
     <td>Valutazione dei casi</td>
     <td></td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestione degli eventi</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Valutazione ambiente, manutenzione e monitoraggio</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Valutazione della roadmap di prodotti, versioni, migrazione e aggiornamento</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Attività di supporto cloud - Experience Manager as Cloud</td>
     <td></td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Servizi sul campo</td>
     <td>Launch Advisory - Nel primo anno di nuove soluzioni</td>
     <td></td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Attività di servizio sul campo</td>
@@ -186,7 +186,7 @@ Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Orario ufficio</p>
+    <p>Office Hours</p>
     <p><b>Webinar</b></p>
     <p>Le sessioni Office Hours, guidate dal team di Assistenza clienti di Adobe, sono pensate per informare e aiutare i partecipanti a risolvere eventuali problemi e forniscono suggerimenti utili per ottenere il massimo dalle soluzioni Adobe.</p>
     </div>
