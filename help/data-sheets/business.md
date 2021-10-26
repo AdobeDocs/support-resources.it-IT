@@ -3,7 +3,7 @@ title: Supporto Business
 description: I servizi di supporto Business per Adobe Experience Cloud consentono di accedere ai team di supporto tecnico di Adobe e a un Account Support Lead per la gestione degli account.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
 ht-degree: 100%
 
@@ -55,8 +55,8 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
   </tr>
   <tr>
     <td>Supporto per problemi P1 24x7x365</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contatti interni per il supporto (per prodotto)</td>
@@ -66,12 +66,12 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
   <tr>
     <td>Supporto telefonico in diretta</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Valutazioni dei servizi all’anno</td>
@@ -138,9 +138,9 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Lead di supporto dell'account" src="assets/Accountsupportlead.png"/>
+    <img alt="Account Support Lead" src="assets/Accountsupportlead.png"/>
     <div>
-    <p><b>Lead di supporto dell'account</b></p>
+    <p><b>Account Support Lead</b></p>
     <p>Un Account Support Lead dedicato per il monitoraggio proattivo dei casi e per promuovere la collaborazione tra team, fornire webinar introduttivi, eseguire rapporti sui servizi e fornire assistenza non tecnica. Inoltre funge da riferimento per l’escalation dei problemi e da rappresentante del cliente all’interno del supporto Adobe.</p>
     </div>
   </td>
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Orario ufficio</p>
+    <p>Office Hours</p>
     <p><b>Webinar</b></p>
     <p>Office Hours è un’iniziativa nata dal team del Servizio clienti di Adobe. Queste sessioni sono progettate per informare e aiutare i partecipanti a risolvere problemi e fornire suggerimenti e trucchi utili per le soluzioni Adobe Experience Cloud.</p>
     </div>
