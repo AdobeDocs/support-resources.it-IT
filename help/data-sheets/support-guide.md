@@ -2,9 +2,9 @@
 title: Guida all’Assistenza clienti di Experience Cloud
 description: La presente Guida all’Assistenza clienti ti aiuta a conoscere le offerte, i programmi, i servizi e le procedure di supporto di Experience Cloud e ti spiega come puoi raggiungerci in tutto il mondo.
 source-git-commit: 13eb1e7c2025ed83cde17c3d02a80cd50b824118
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -12,7 +12,7 @@ ht-degree: 77%
 
 Sia che tu cerchi esperti individuali o risorse di supporto autonomo, hai trovato il posto giusto per un&#39;assistenza di livello mondiale.
 
-Ci impegniamo per garantire il tuo successo fornendo servizi e supporto leader di settore e di livello mondiale. La nostra filosofia è semplice: Siamo sostenitori dei clienti. Il nostro team di supporto è composto da professionisti di varie industrie e background. Questi professionisti sono esperti nella gestione delle tecnologie e hanno una conoscenza completa del nostro ampio portafoglio di software.
+Ci impegniamo per garantire il tuo successo fornendo servizi e supporto leader di settore e di livello mondiale. La nostra filosofia è semplice: Siamo sostenitori dei clienti. Il nostro team di supporto è composto da professionisti provenienti da vari settori e con background eterogenei. Si tratta di professionisti esperti nella gestione delle tecnologie e con una conoscenza approfondita del nostro ampio portafoglio di software.
 
 Questa guida all&#39;assistenza è stata creata per aiutarti a conoscere le nostre offerte di supporto, i nostri programmi, il servizio, le procedure e ti dice come puoi raggiungerci in tutto il mondo.
 
