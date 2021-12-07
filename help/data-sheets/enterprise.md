@@ -2,8 +2,8 @@
 title: Supporto Enterprise
 description: I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi di livello di servizio più elevati e un Named Support Engineer dedicato che offre competenze tecniche e sostegno.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
-workflow-type: ht
+source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
+workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 100%
 
@@ -55,8 +55,8 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   </tr>
   <tr>
     <td>Supporto per problemi P1 24x7x365</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>↓</td>
+    <td>↓</td>
   </tr>
   <tr>
     <td>Contatti interni per il supporto (per prodotto)</td>
@@ -66,12 +66,12 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   <tr>
     <td>Supporto telefonico in diretta</td>
     <td></td>
-    <td>✔</td>
+    <td>↓</td>
   </tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
-    <td>✔</td>
+    <td>↓</td>
   </tr>
   <tr>
     <td>Valutazioni dei servizi all’anno</td>
@@ -86,7 +86,7 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   <tr>
     <td>Valutazione dei casi</td>
     <td></td>
-    <td>✔</td>
+    <td>↓</td>
   </tr>
   <tr>
     <td>Gestione degli eventi</td>
@@ -106,18 +106,18 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
   <tr>
     <td>Attività di supporto cloud - Experience Manager as Cloud</td>
     <td></td>
-    <td>✔</td>
+    <td>↓</td>
   </tr>
   <tr>
     <td rowspan="2">Servizi sul campo</td>
     <td>Launch Advisory - Nel primo anno di nuove soluzioni</td>
     <td></td>
-    <td>✔</td>
+    <td>↓</td>
   </tr>
   <tr>
     <td>Attività di servizio sul campo</td>
     <td></td>
-    <td>✔</td>
+    <td>↓</td>
   </tr>
 </tbody>
 </table>
@@ -145,9 +145,9 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
     </div>
   </td>
   <td>
-    <img alt="Named Support Engineer" src="assets/namedsupportengineer.png"/>
+    <img alt="Ingegnere del supporto denominato" src="assets/namedsupportengineer.png"/>
     <div>
-    <p><b>Named Support Engineer</b></p>
+    <p><b>Ingegnere del supporto denominato</b></p>
     <p>Un tecnico del supporto dedicato che acquisisce familiarità con l’ambiente della soluzione e gli obiettivi di business del cliente. Il Named Support Engineer è un tecnico esperto che aiuta a coordinare la tua esperienza di assistenza Enterprise.</p>
     </div>
   </td>
@@ -207,7 +207,7 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
 ## Caratteristiche del supporto online
 
 <!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions. 
 -->
 
 <table style="table-layout:fixed">
@@ -241,7 +241,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Office Hours</p>
+    <p>Orario ufficio</p>
     <p><b>Webinar</b></p>
     <p>Office Hours è un’iniziativa nata dal team del Servizio clienti di Adobe. Queste sessioni sono progettate per informare e aiutare i partecipanti a risolvere problemi e fornire suggerimenti e trucchi utili per le soluzioni Adobe Experience Cloud.</p>
     </div>
