@@ -1,23 +1,25 @@
 ---
 user-guide-title: Risorse di supporto
 user-guide-description: Risorse di supporto per Adobe Experience Cloud e Adobe Experience Platform.
-source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
-workflow-type: ht
-source-wordcount: '34'
-ht-degree: 100%
+source-git-commit: 4a523e14aba2af3b697eee7a994b51d7bb9ad9f6
+workflow-type: tm+mt
+source-wordcount: '45'
+ht-degree: 75%
 
 ---
 
 
 # Risorse di supporto {#data-sheets}
 
-+ [Panoramica](overview.md)
-+ Servizi di supporto {#data-sheets}
++ [Panoramica del supporto per Adobe](overview.md)
++ Servizi di Experience Cloud {#data-sheets}
+   + [Panoramica del supporto per Adobe](dx-overview.md)
    + [Online](online.md)
    + [Business](business.md)
    + [Enterprise](enterprise.md)
    + [Elite](elite.md)
-+ [Guida all’Assistenza clienti](support-guide.md)
+   + [Guida all’Assistenza clienti](support-guide.md)
++ [Creative Cloud e Document Cloud](dme-overview.md)
 + [Condizioni d’uso](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
