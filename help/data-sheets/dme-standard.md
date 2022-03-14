@@ -1,25 +1,25 @@
 ---
-title: Supporto Online
+title: Supporto standard
 description: I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato al supporto telefonico.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# Supporto Online
+# Supporto standard
 
 ![icona](assets/OnlineBanner.png)
 
-I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato al supporto telefonico.
+Adobe offre una gamma completa di risorse tecniche per supportare la tua attività inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli su HelpX e il coinvolgimento con altri clienti della community Adobe. Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le note sulla versione corrente pubblicate su http://www.adobe.com . Il nostro supporto standard include anche l&#39;accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare le richieste di assistenza tramite il nostro portale web di supporto.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Supporto Online</th>
+    <th>Supporto standard</th>
     <th>Supporto Business</th>
     <th>Supporto Enterprise</th>
     <th>Supporto Elite</th>
@@ -30,7 +30,7 @@ I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Supporto a pagamento ($)</td>
+    <td colspan="3">Livelli di supporto a pagamento ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Esperti assegnati<br></td>
@@ -56,7 +56,7 @@ I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato
   </tr>
   <tr>
     <td rowspan="12">Servizi di assistenza</td>
-    <td>Supporto Online</td>
+    <td>Supporto standard</td>
     <td>Orario operativo</td>
     <td>Orario operativo</td>
     <td>24x5</td>
