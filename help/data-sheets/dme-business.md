@@ -1,25 +1,29 @@
 ---
-title: Supporto Business
-description: I servizi di supporto Business per Adobe Experience Cloud consentono di accedere ai team di supporto tecnico di Adobe e a un Account Support Lead per la gestione degli account.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+title: Supporto aziendale per Creative Cloud e Adobe Document Cloud
+description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività inclusa nell’abbonamento aziendale di Adobe. Questo viene migliorato con il piano di supporto AZIENDALE. Il supporto aziendale include l'indirizzamento prioritario per i casi di supporto, al fine di garantire un collegamento più rapido a più risorse di supporto senior sui casi inviati.
+source-git-commit: 39439be547c3359739857f540e38203d938d72cb
 workflow-type: tm+mt
-source-wordcount: '872'
-ht-degree: 100%
+source-wordcount: '815'
+ht-degree: 40%
 
 ---
 
-# Supporto Business
+# Supporto aziendale per Creative Cloud e Adobe Document Cloud
 
 ![icona](assets/Businessbanner.png)
 
-I servizi di supporto Business per Adobe Experience Cloud consentono di accedere ai team di supporto tecnico di Adobe e a un Account Support Lead per la gestione degli account.
+Adobe offre una gamma completa di risorse tecniche per supportare la tua attività inclusa nell’abbonamento aziendale di Adobe. Questo viene migliorato con il piano di supporto AZIENDALE. Il supporto aziendale include l&#39;indirizzamento prioritario per i casi di supporto, al fine di garantire un collegamento più rapido a più risorse di supporto senior sui casi inviati.
+
+I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico per qualsiasi richiesta di prodotto tramite telefono o il portale web di supporto, al fine di proteggere la tua attività nei momenti più critici. I clienti aziendali potranno sfruttare il proprio Account Support Lead per la gestione dell&#39;inoltro dei casi di assistenza per ricevere comunicazioni e aggiornamenti regolari per le richieste di supporto più critiche.
+
+[Visualizza versione di PDF](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Supporto Online</th>
+    <th>Supporto standard</th>
     <th>Supporto Business</th>
   </tr>
 </thead>
@@ -47,38 +51,48 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
     <td></td>
   </tr>
   <tr>
-    <td rowspan="12">Servizi di assistenza</td>
-    <td>Supporto Online</td>
-    <td>Orario operativo</td>
-    <td>Orario operativo</td>
-  </tr>
-  <tr>
-    <td>Supporto per problemi P1 24x7x365</td>
+    <td rowspan="17">Servizi di assistenza</td>
+    <td>Supporto autonomo 24 ore su 24, 7 giorni su 7</td>
     <td>↓</td>
     <td>↓</td>
   </tr>
   <tr>
-    <td>Contatti interni per il supporto (per prodotto)</td>
-    <td>4</td>
-    <td>6</td>
+    <td>Supporto 24 ore su 24, 7 giorni su 7 tramite chat / telefono</td>
+    <td>↓</td>
+    <td>↓</td>
   </tr>
   <tr>
-    <td>Supporto telefonico in diretta</td>
+    <td>Invio di casi web</td>
+    <td>↓</td>
+    <td>↓</td>
+  </tr>
+  <tr>
+    <td>Indirizzamento dei casi di priorità</td>
     <td></td>
     <td>↓</td>
   </tr>
+  <tr>
+    <td>Priorità più rapida dei problemi</td>
+    <td></td>
+    <td>↓</td>
+  </tr>
+  <tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
     <td>↓</td>
   </tr>
-  <tr>
-    <td>Valutazioni dei servizi all’anno</td>
+    <td>Monitoraggio proattivo dei casi</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Sessioni con esperti all’anno</td>
+    <td>Accesso al supporto in-area</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Valutazione dei servizi</td>
     <td></td>
     <td></td>
   </tr>
@@ -88,33 +102,32 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
     <td></td>
   </tr>
   <tr>
-    <td>Gestione degli eventi</td>
+    <td>Revisione della soluzione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Valutazione ambiente, manutenzione e monitoraggio</td>
+    <td>Revisione della tabella di marcia</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Valutazione della roadmap di prodotti, versioni, migrazione e aggiornamento</td>
+    <td>Contatti di supporto con nome aggiuntivi</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Attività di supporto cloud - Experience Manager as Cloud</td>
+    <td>Pianificazione aggiornamento/migrazione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">Servizi sul campo</td>
-    <td>Launch Advisory - Nel primo anno di nuove soluzioni</td>
+    <td>Preparazione e pianificazione del rilascio</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Attività di servizio sul campo</td>
+    <td>Sponsor esecutivo</td>
     <td></td>
     <td></td>
   </tr>
@@ -123,35 +136,57 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
 
 ## Obiettivi del livello di servizio: risposta iniziale
 
-| Priorità | Supporto Online | Supporto Business |
-|--- |--- |--- |
-| <b>PRIORITÀ 1 (P1)</b><br>Le funzioni operative nell’ambiente di produzione del cliente non sono disponibili oppure si verificano problemi significativi di perdita di dati o deterioramento del servizio ed è richiesto un intervento immediato per ripristinare funzionalità e usabilità. | 24x7/<br>1 ora | 24x7/<br>1 ora |
-| <b>PRIORITÀ 2 (P2)</b><br>Le funzioni operative del cliente hanno subito un notevole deterioramento del servizio o potenziale perdita di dati, oppure un problema interessa una funzione importante. | Orario operativo/<br>4 ore | Orario operativo/<br>2 ore |
-| <b>PRIORITÀ 3 (P3)</b><br>Le funzioni operative del cliente sono interessate da deterioramento lieve del servizio, tuttavia è possibile procedere mediante una soluzione temporanea. | Orario operativo/<br>6 ore | Orario operativo/<br>4 ore |
-| <b>PRIORITÀ 4 (P4)</b><br>Domande generali sulle attuali funzionalità del prodotto o su una richiesta di miglioramento. | Giorni lavorativi/<br>3 giorni | Giorno lavorativo/<br>1 giorno |
-
-{style=&quot;table-layout:auto&quot;}
+<table>
+<thead>
+  <tr>
+    <th>Priorità</th>
+    <th>Supporto standard</th>
+    <th>Supporto Business</th>
+    <th>Supporto Enterprise</th>
+    <th>Supporto Elite</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>PRIORITÀ 1 (P1)</strong><br>Le funzioni operative nell’ambiente di produzione del cliente non sono disponibili oppure si verificano problemi significativi di perdita di dati o deterioramento del servizio ed è richiesto un intervento immediato per ripristinare funzionalità e usabilità.</td>
+    <td>24x7/<br>30 minuti</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>I clienti che acquistano un piano di supporto per i prodotti e i servizi di Adobe applicabili ricevono un ciclo di casi prioritari che tiene traccia dei casi ai tecnici del supporto di Adobe.</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÀ 2 (P2)</strong><br>Le funzioni operative del cliente hanno subito un notevole deterioramento del servizio o potenziale perdita di dati, oppure un problema interessa una funzione importante.</td>
+    <td>24x7/<br>1 ora</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÀ 3 (P3)</strong><br>Le funzioni operative del cliente sono interessate da deterioramento lieve del servizio, tuttavia è possibile procedere normalmente mediante una soluzione temporanea.</td>
+    <td>Giorno lavorativo/<br>4 ore</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITÀ 4 (P4)</strong><br>Domande generali sulle attuali funzionalità del prodotto o su una richiesta di miglioramento.</td>
+    <td>Giorno lavorativo/<br>1 giorno</td>
+  </tr>
+</tbody>
+</table>
 
 ## Caratteristiche del supporto Business
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Lead di supporto dell'account" src="assets/Accountsupportlead.png"/>
+    <img alt="Lead di supporto dell'account" src="assets/dmeaccountsupportlead.png"/>
     <div>
     <p><b>Lead di supporto dell'account</b></p>
-    <p>Un Account Support Lead dedicato per il monitoraggio proattivo dei casi e per promuovere la collaborazione tra team, fornire webinar introduttivi, eseguire rapporti sui servizi e fornire assistenza non tecnica. Inoltre funge da riferimento per l’escalation dei problemi e da rappresentante del cliente all’interno del supporto Adobe.</p>
+    <p>Un lead di supporto account assegnato per monitorare l’avanzamento delle richieste e fungere da punto di inoltro e da difensore interno nell’ambito del supporto Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Supporto telefonico" src="assets/livetelephonesupport.png"/>
+    <img alt="Indirizzamento dei casi di priorità" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Supporto telefonico in diretta</b></p>
-    <p>I clienti possono segnalare telefonicamente i problemi P2, P3 e P4 durante l’orario operativo per la propria area geografica. Non vi è alcun limite al numero di chiamate di supporto consentite. I clienti possono anche chiedere di essere richiamati dal supporto, o richiedere una sessione con desktop remoto condiviso a scopo di dimostrazione o risoluzione di un problema.</p>
+    <p><b>Indirizzamento dei casi di priorità</b></p>
+    <p>Ricevi indirizzamenti con priorità per garantire una connessione più veloce a più risorse di supporto senior sui casi inviati.</p>
     </div>
   </td>
   <td>
-    <img alt="Gestione delle escalation" src="assets/EscalationManagement.png"/>
+    <img alt="Gestione delle escalation" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>Gestione delle escalation</b></p>
     <p>Un contatto Adobe dedicato che può fornire assistenza e aggiornamenti regolari in merito ai casi che richiedono escalation, e assicurarsi che venga data priorità alle richieste di supporto aperte più critiche.</p>
@@ -160,76 +195,58 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
 </tr>
 <tr>
   <td>
-    <img alt="Servizi Business" src="assets/BusinessServices.png"/>
+    <img alt="Priorità più rapida dei problemi" src="assets/dmeacceleratedissue.png"/>
     <div>
-    <p><b>Servizi Business</b></p>
-    <p>Un Account Support Lead terrà dei webinar per illustrare i servizi di supporto Business.</p>
+    <p><b>Priorità più rapida dei problemi</b></p>
+    <p>Ottenere una maggiore priorità sul lavoro relativo ai casi di assistenza attraverso un coinvolgimento facilitato con il team di Engineering.</p>
     </div>
-  </td>
-  <td>
-  </td>
-  <td>
   </td>
 </tr>
 </table>
 
-## Caratteristiche del supporto online
-
-<!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
--->
+## Funzioni di supporto standard
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forum" src="assets/CommunityForums.png"/>
+    <img alt="Forum" src="assets/community-forums-icon.png"/>
     <div>
-    <p>Forum della community</p>
-    <p><b>Forum online</b></p>
-    <p>Accesso online continuo a un database in continua crescita di soluzioni tecniche, documentazione del prodotto, risposte alle domande più frequenti e altro ancora. Migliaia di clienti possono condividere best practice ed esperienze.</p>
+    <p><b>Forum della community</b></p>
+    <p>Accesso online continuo a un database in continua crescita di soluzioni tecniche, documentazione del prodotto, risposte alle domande più frequenti e altro ancora. Possibilità di relazionarsi con professionisti e altri clienti della Community Adobe per condividere best practice ed esperienze.</p>
     </div>
   </td>
   <td>
-    <img alt="Supporto telefonico" src="assets/PhoneSupport.png"/>
+    <img alt="Aiuto e documentazione" src="assets/dme-selfhelp.png"/>
     <div>
-    <p>24x7x365 P1</p>
-    <p><b>Supporto telefonico</b></p>
-    <p>Gli utenti autorizzati o i contatti interni per il supporto possono segnalare i problemi tramite tutti i canali disponibili (compreso il supporto telefonico per casi P1) e interagire con il team Adobe di assistenza tecnica per conto della tua azienda.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
-    <div>
-    <p>Experience League</p>
-    <p><b>Percorsi autoguidati</b></p>
-    <p>Diventa un Experience Maker con Experience League. Puoi acquisire rapidamente le capacità necessarie nella gestione della customer experience seguendo un percorso di apprendimento personalizzato per sviluppare nuove competenze, partecipare a una comunità globale di professionisti e guadagnare riconoscimenti di valore sul piano professionale.</p>
+    <p><b>Portale di supporto autonomo</b></p>
+    <p>Accesso on-demand al portale di assistenza autonoma per inviare richieste di supporto, esaminare lo stato dei casi e sfogliare altre risorse, come la knowledge base, notizie e avvisi, suggerimenti e altro ancora.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Office Hours" src="assets/Webinar.png"/>
+    <img alt="Supporto chat in diretta" src="assets/dmechat.png"/>
     <div>
-    <p>Orario ufficio</p>
-    <p><b>Webinar</b></p>
-    <p>Office Hours è un’iniziativa nata dal team del Servizio clienti di Adobe. Queste sessioni sono progettate per informare e aiutare i partecipanti a risolvere problemi e fornire suggerimenti e trucchi utili per le soluzioni Adobe Experience Cloud.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Supporto chat in diretta" src="assets/LiveChat.png"/>
-    <div>
-    <p>Supporto chat in diretta*</p>
     <p><b>Supporto chat</b></p>
-    <p>Avvia una sessione di chat per ottenere risposte e assistenza nell’invio di un caso.</p>
-    <p>*<i>Il supporto chat in diretta non è disponibile per tutti i prodotti.</i></p>
+    <p>Gli utenti autorizzati (amministratori) possono avviare una sessione di chat con il supporto Adobe per ottenere risposte e assistenza nell’invio dei casi</p>
+    <p><i>Soggetto agli orari locali.</i></p>
     </div>
   </td>
   <td>
-    <img alt="Aiuto e documentazione" src="assets/SelfHelpPortal.png"/>
+    <img alt="Supporto telefonico" src="assets/dmephone.png"/>
     <div>
-    <p>Portali di assistenza autonoma</p>
-    <p><b>Portale di supporto 24/7</b></p>
-    <p>Accesso on-demand al portale di assistenza autonoma per inviare richieste di supporto, esaminare lo stato dei casi e sfogliare altre risorse, come la knowledge base, notizie e avvisi, suggerimenti e altro ancora.</p>
+    <p><b>Supporto telefonico</b></p>
+    <p>Gli utenti autorizzati (amministratori) possono chiamare l’Assistenza Adobe tramite telefono per ricevere risposte e assistenza per l’invio del caso.</p>
+    <p><i>Soggetto agli orari locali.</i></p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img alt="Caso web" src="assets/dmewebcase.png"/>
+    <div>
+    <p><b>Invio di un caso web</b></p>
+    <p>Gli utenti autorizzati (amministratori) possono inviare un numero illimitato di casi web in qualsiasi momento per problemi di assistenza da sottoporre a revisione da parte del nostro team di supporto tecnico.</p>
     </div>
   </td>
 </tr>
@@ -239,40 +256,41 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | Risorsa | Descrizione |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=it) | Con Experience League, Adobe aiuta le aziende a conseguire il valore che si aspettano dalle soluzioni Adobe in cui hanno investito. In questo portale unificato, puoi imparare, relazionarti con altri professionisti e crescere seguendo un percorso personalizzato con tutorial, documentazione dei prodotti, formazione con istruttori, supporto tecnico e il sostegno dell’intera community. |
-| [Formazione](https://training.adobe.com/training/) | I corsi Adobe Digital Learning Services sono accessibili da Experience League. I corsi di apprendimento comprendono lezioni sia on-demand che guidate da istruttori. Potrai acquisire nuove competenze particolarmente ricercate nel settore e metterle in pratica nella tua organizzazione, per favorirne il successo. |
+| [Formazione e supporto aziendali](https://helpx.adobe.com/enterprise.html) | Formazione e supporto Enterprise è un luogo in cui i clienti di Adobe possono trovare esercitazioni di supporto autonomo, documentazione del prodotto, corsi di formazione condotti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
+| [Community di supporto Adobe](https://community.adobe.com/) | La Community di supporto Adobe è il luogo dove porre domande, trovare risposte, imparare dagli esperti e condividere le tue conoscenze. |
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
-| [Sito del supporto Business](https://helpx.adobe.com/it/support/programs/enterprise-support-programs/premier-support-business.html) | Sito del supporto Business di Adobe. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
-## Supporto Adobe: aree geografiche, orari operativi e lingue
+{style=&quot;table-layout:auto&quot;}
 
-L’ambito del supporto Adobe è definito allineando l’indirizzo di fatturazione del cliente (in base all’ordine di vendita o altro documento di acquisto del servizio di supporto Adobe) a una delle seguenti aree geografiche:
+## Orario operativo per area geografica e lingue
+
+L’orario di lavoro locale dell’Adobe viene allineato all’area di fatturazione del cliente.
 
 <table>
 <thead>
   <tr>
-    <th>Americhe</th>
+    <th>Americhe<sup>1</sup></th>
     <th>Europa, Medio Oriente e Africa</th>
     <th>Asia-Pacifico</th>
-    <th>Giappone<sup>1</sup></th>
+    <th>Giappone</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>06:00 – 17:30</td>
+    <td>24x7</td>
     <td>09:00 – 17:00</td>
     <td>09:00 – 17:00</td>
     <td>09:00 – 17:30</td>
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>Il supporto è disponibile solo in inglese e giapponese.</i></p>
-      <p><i>Adobe Commerce non prevede il supporto in lingua giapponese.</i></p>
-      <p><i>In Giappone, i casi P2, P3 e P4 sono limitati al solo orario operativo.</i></p>
+      <p><sup>1</sup>Supporto per le lingue americane disponibile solo in inglese.</p>
     </td>
   </tr>
 </tbody>
 </table>
 
 ![icona](assets/bottom-banner.png)
+
+*Per ulteriori informazioni sulle offerte di supporto Adobe e sul livello appropriato, contatta il tuo Named Account Manager (NAM) o Customer Success Manager (CSM).*
