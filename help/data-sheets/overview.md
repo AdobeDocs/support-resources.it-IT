@@ -1,19 +1,19 @@
 ---
-title: Panoramica del supporto per Adobe
+title: Panoramica del supporto Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
-# Panoramica del supporto per Adobe
+# Panoramica del supporto Adobe
 
-L’organizzazione Adobe Support è impegnata per il successo. Tutti gli abbonamenti includono la possibilità di ricevere assistenza tecnica entrando facilmente in contatto con personale tecnico altamente qualificato.
+L’organizzazione dedicata al supporto di Adobe si impegna per il successo dei propri clienti. Tutti gli abbonamenti includono la possibilità di ricevere assistenza tecnica entrando facilmente in contatto con personale tecnico altamente qualificato.
 
-Per esigenze più complete, offriamo servizi di supporto di Adobe che includono l&#39;accesso a professionisti e sessioni di supporto denominati per il supporto proattivo e le revisioni dei servizi. Indipendentemente dalla complessità delle esigenze di supporto, Adobe offre le competenze tecniche e operative necessarie per raggiungere prestazioni di picco e un valore ottimale dalla soluzione Adobe.
+Per esigenze più complete, offriamo i servizi di supporto di Adobe, con accesso a professionisti dedicati, sessioni di mentoring proattivo e valutazione dei servizi. A prescindere dalla complessità delle tue esigenze di supporto, Adobe ti offre le competenze tecniche e operative necessarie per massimizzare le prestazioni e il valore della tua soluzione Adobe.
 
 <table style="table-layout:fixed">
 <tr>
@@ -24,7 +24,7 @@ Per esigenze più complete, offriamo servizi di supporto di Adobe che includono 
     <div>
     <a href="dx-overview.md"><strong>Supporto Experience Cloud</strong></a>
     </div>
-    <p>Opzioni di supporto per i prodotti Experience Cloud ed Experience Platform</p>
+    <p>Opzioni di supporto per i prodotti Experience Cloud e Experience Platform</p>
     <br>
   </td>
   <td>
