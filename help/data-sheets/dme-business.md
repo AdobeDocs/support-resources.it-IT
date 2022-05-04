@@ -1,29 +1,30 @@
 ---
-title: Supporto aziendale per Creative Cloud e Adobe Document Cloud
-description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività inclusa nell’abbonamento aziendale di Adobe. Questo viene migliorato con il piano di supporto AZIENDALE. Il supporto aziendale include l'indirizzamento prioritario per i casi di supporto, al fine di garantire un collegamento più rapido a più risorse di supporto senior sui casi inviati.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+title: Supporto Business per Creative Cloud e Adobe Document Cloud
+description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Ottimizzato con il piano di supporto BUSINESS. Il supporto BUSINESS include l’inoltro prioritario dei casi di supporto, grazie al quale i casi inviati vengono sottoposti più rapidamente all’attenzione delle risorse di supporto più esperte.
+exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: ht
 source-wordcount: '815'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
-# Supporto aziendale per Creative Cloud e Adobe Document Cloud
+# Supporto Business per Creative Cloud e Adobe Document Cloud
 
 ![icona](assets/Businessbanner.png)
 
-Adobe offre una gamma completa di risorse tecniche per supportare la tua attività inclusa nell’abbonamento aziendale di Adobe. Questo viene migliorato con il piano di supporto AZIENDALE. Il supporto aziendale include l&#39;indirizzamento prioritario per i casi di supporto, al fine di garantire un collegamento più rapido a più risorse di supporto senior sui casi inviati.
+Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Ottimizzato con il piano di supporto BUSINESS. Il supporto BUSINESS include l’inoltro prioritario dei casi di supporto, grazie al quale i casi inviati vengono sottoposti più rapidamente all’attenzione delle risorse di supporto più esperte.
 
-I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico per qualsiasi richiesta di prodotto tramite telefono o il portale web di supporto, al fine di proteggere la tua attività nei momenti più critici. I clienti aziendali potranno sfruttare il proprio Account Support Lead per la gestione dell&#39;inoltro dei casi di assistenza per ricevere comunicazioni e aggiornamenti regolari per le richieste di supporto più critiche.
+I clienti BUSINESS possono inoltre accedere ai nostri team di supporto tecnico per qualsiasi richiesta di prodotto tramite telefono o portale web di supporto, al fine di proteggere la tua attività nei momenti più critici. I clienti BUSINESS potranno contare sul proprio Account Support Lead per la gestione dell’inoltro dei casi di assistenza, per ricevere comunicazioni e aggiornamenti regolari in merito alle richieste di supporto più critiche.
 
-[Visualizza versione di PDF](assets/DMeBusinessSupportDatasheet_2022.pdf)
+[Visualizza versione PDF](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Supporto standard</th>
+    <th>Supporto Standard</th>
     <th>Supporto Business</th>
   </tr>
 </thead>
@@ -52,35 +53,35 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
   </tr>
   <tr>
     <td rowspan="17">Servizi di assistenza</td>
-    <td>Supporto autonomo 24 ore su 24, 7 giorni su 7</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>Supporto autonomo 24x7</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Supporto 24 ore su 24, 7 giorni su 7 tramite chat / telefono</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>Supporto 24x7 tramite chat/telefono</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Invio di casi web</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Indirizzamento dei casi di priorità</td>
+    <td>Inoltro prioritario dei casi</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Priorità più rapida dei problemi</td>
+    <td>Priorità problemi accelerata</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
     <td>Monitoraggio proattivo dei casi</td>
     <td></td>
@@ -102,17 +103,17 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
     <td></td>
   </tr>
   <tr>
-    <td>Revisione della soluzione</td>
+    <td>Valutazione soluzione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Revisione della tabella di marcia</td>
+    <td>Valutazione roadmap</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Contatti di supporto con nome aggiuntivi</td>
+    <td>Contatti interni aggiuntivi per il supporto</td>
     <td></td>
     <td></td>
   </tr>
@@ -122,12 +123,12 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
     <td></td>
   </tr>
   <tr>
-    <td>Preparazione e pianificazione del rilascio</td>
+    <td>Preparazione e pianificazione della versione</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Sponsor esecutivo</td>
+    <td>Executive Sponsor</td>
     <td></td>
     <td></td>
   </tr>
@@ -140,7 +141,7 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
 <thead>
   <tr>
     <th>Priorità</th>
-    <th>Supporto standard</th>
+    <th>Supporto Standard</th>
     <th>Supporto Business</th>
     <th>Supporto Enterprise</th>
     <th>Supporto Elite</th>
@@ -150,7 +151,7 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
   <tr>
     <td><strong>PRIORITÀ 1 (P1)</strong><br>Le funzioni operative nell’ambiente di produzione del cliente non sono disponibili oppure si verificano problemi significativi di perdita di dati o deterioramento del servizio ed è richiesto un intervento immediato per ripristinare funzionalità e usabilità.</td>
     <td>24x7/<br>30 minuti</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>I clienti che acquistano un piano di supporto per i prodotti e i servizi di Adobe applicabili ricevono un ciclo di casi prioritari che tiene traccia dei casi ai tecnici del supporto di Adobe.</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>I clienti che acquistano un piano di supporto per i prodotti e i servizi di Adobe idonei usufruiscono del trattamento prioritario dei casi che ne accelera l’inoltro ai tecnici del supporto Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORITÀ 2 (P2)</strong><br>Le funzioni operative del cliente hanno subito un notevole deterioramento del servizio o potenziale perdita di dati, oppure un problema interessa una funzione importante.</td>
@@ -161,7 +162,7 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
     <td>Giorno lavorativo/<br>4 ore</td>
   </tr>
   <tr>
-    <td><strong>PRIORITÀ 4 (P4)</strong><br>Domande generali sulle attuali funzionalità del prodotto o su una richiesta di miglioramento.</td>
+    <td><strong>PRIORITÀ 4 (P4)</strong><br>Domande generali sulle attuali funzionalità del prodotto o richieste di miglioramento.</td>
     <td>Giorno lavorativo/<br>1 giorno</td>
   </tr>
 </tbody>
@@ -172,17 +173,17 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Lead di supporto dell'account" src="assets/dmeaccountsupportlead.png"/>
+    <img alt="Account Support Lead" src="assets/dmeaccountsupportlead.png"/>
     <div>
-    <p><b>Lead di supporto dell'account</b></p>
-    <p>Un lead di supporto account assegnato per monitorare l’avanzamento delle richieste e fungere da punto di inoltro e da difensore interno nell’ambito del supporto Adobe.</p>
+    <p><b>Account Support Lead</b></p>
+    <p>Un Account Support Lead dedicato che provvede al monitoraggio dei casi e funge da riferimento per le escalation e sostenitore interno nell’ambito del supporto Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Indirizzamento dei casi di priorità" src="assets/dmeprioritycaserouting.png"/>
+    <img alt="Inoltro prioritario dei casi" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Indirizzamento dei casi di priorità</b></p>
-    <p>Ricevi indirizzamenti con priorità per garantire una connessione più veloce a più risorse di supporto senior sui casi inviati.</p>
+    <p><b>Inoltro prioritario dei casi</b></p>
+    <p>Grazie all’inoltro prioritario, i casi inviati vengono sottoposti più rapidamente all’attenzione delle risorse di supporto più esperte.</p>
     </div>
   </td>
   <td>
@@ -195,10 +196,10 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
 </tr>
 <tr>
   <td>
-    <img alt="Priorità più rapida dei problemi" src="assets/dmeacceleratedissue.png"/>
+    <img alt="Priorità problemi accelerata" src="assets/dmeacceleratedissue.png"/>
     <div>
-    <p><b>Priorità più rapida dei problemi</b></p>
-    <p>Ottenere una maggiore priorità sul lavoro relativo ai casi di assistenza attraverso un coinvolgimento facilitato con il team di Engineering.</p>
+    <p><b>Priorità problemi accelerata</b></p>
+    <p>I casi vengono trattati con un livello di priorità più elevato e usufruiscono del coinvolgimento agevolato con il team di Engineering.</p>
     </div>
   </td>
 </tr>
@@ -218,7 +219,7 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
   <td>
     <img alt="Aiuto e documentazione" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>Portale di supporto autonomo</b></p>
+    <p><b>Portale di assistenza autonoma</b></p>
     <p>Accesso on-demand al portale di assistenza autonoma per inviare richieste di supporto, esaminare lo stato dei casi e sfogliare altre risorse, come la knowledge base, notizie e avvisi, suggerimenti e altro ancora.</p>
     </div>
   </td>
@@ -236,7 +237,7 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
     <img alt="Supporto telefonico" src="assets/dmephone.png"/>
     <div>
     <p><b>Supporto telefonico</b></p>
-    <p>Gli utenti autorizzati (amministratori) possono chiamare l’Assistenza Adobe tramite telefono per ricevere risposte e assistenza per l’invio del caso.</p>
+    <p>Gli utenti autorizzati (amministratori) possono contattare telefonicamente l’Assistenza Adobe per ricevere risposte e assistenza nell’invio dei casi.</p>
     <p><i>Soggetto agli orari locali.</i></p>
     </div>
   </td>
@@ -246,7 +247,7 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
     <img alt="Caso web" src="assets/dmewebcase.png"/>
     <div>
     <p><b>Invio di un caso web</b></p>
-    <p>Gli utenti autorizzati (amministratori) possono inviare un numero illimitato di casi web in qualsiasi momento per problemi di assistenza da sottoporre a revisione da parte del nostro team di supporto tecnico.</p>
+    <p>Gli utenti autorizzati (amministratori) possono inviare un numero illimitato di casi web in qualsiasi momento per i problemi di assistenza da sottoporre al nostro team di supporto tecnico.</p>
     </div>
   </td>
 </tr>
@@ -256,8 +257,8 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
 
 | Risorsa | Descrizione |
 |--- |--- |
-| [Formazione e supporto aziendali](https://helpx.adobe.com/enterprise.html) | Formazione e supporto Enterprise è un luogo in cui i clienti di Adobe possono trovare esercitazioni di supporto autonomo, documentazione del prodotto, corsi di formazione condotti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
-| [Community di supporto Adobe](https://community.adobe.com/) | La Community di supporto Adobe è il luogo dove porre domande, trovare risposte, imparare dagli esperti e condividere le tue conoscenze. |
+| [Formazione e supporto Enterprise](https://helpx.adobe.com/it/enterprise.html) | Formazione e supporto Enterprise è l’area in cui i clienti di Adobe possono trovare tutorial di supporto autonomo, documentazione dei prodotti, corsi di formazione con istruttore, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
+| [Community di supporto Adobe](https://community.adobe.com/) | Nella community di supporto Adobe è possibile porre domande, trovare risposte, imparare dagli esperti e condividere le proprie conoscenze. |
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
@@ -265,7 +266,7 @@ I clienti aziendali possono inoltre accedere ai nostri team di supporto tecnico 
 
 ## Orario operativo per area geografica e lingue
 
-L’orario di lavoro locale dell’Adobe viene allineato all’area di fatturazione del cliente.
+Gli orari operativi locali di Adobe dipendono dall’area di fatturazione del cliente.
 
 <table>
 <thead>
@@ -285,7 +286,7 @@ L’orario di lavoro locale dell’Adobe viene allineato all’area di fatturazi
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Supporto per le lingue americane disponibile solo in inglese.</p>
+      <p><sup>1</sup>Supporto per le lingue delle Americhe disponibile solo in inglese.</p>
     </td>
   </tr>
 </tbody>
