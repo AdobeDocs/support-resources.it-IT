@@ -1,10 +1,11 @@
 ---
 title: Supporto standard per Adobe Creative Cloud e Adobe Document Cloud
-description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli su HelpX e il coinvolgimento con altri clienti della community Adobe.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe per interagire con altri clienti.
+exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
@@ -12,18 +13,18 @@ ht-degree: 41%
 
 ![icona](assets/StandardBanner.png)
 
-Adobe offre una gamma completa di risorse tecniche per supportare la tua attività inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli su HelpX e il coinvolgimento con altri clienti della community Adobe.
+Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe per interagire con altri clienti.
 
-Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le note sulla versione pubblicate su <http://www.adobe.com>. Il nostro supporto standard include anche l&#39;accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare le richieste di assistenza tramite il nostro portale web di supporto.
+Puoi consultare la documentazione tecnica e dettagliata dei prodotti le note sulla versione pubblicate su <http://www.adobe.com>. Accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare richieste di assistenza tramite il nostro portale web di supporto.
 
-[Visualizza versione di PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
+[Visualizza versione PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Supporto standard</th>
+    <th>Supporto Standard</th>
     <th>Supporto Business</th>
     <th>Supporto Enterprise</th>
     <th>Supporto Elite</th>
@@ -48,72 +49,72 @@ Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le no
     <td>Named Support Engineer</td>
     <td></td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Technical Account Manager</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="17">Servizi di assistenza</td>
-    <td>Supporto autonomo 24 ore su 24, 7 giorni su 7</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>Supporto autonomo 24x7</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Supporto 24 ore su 24, 7 giorni su 7 tramite chat / telefono</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>Supporto 24x7 tramite chat/telefono</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Invio di casi web</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Indirizzamento dei casi di priorità</td>
+    <td>Inoltro prioritario dei casi</td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Priorità più rapida dei problemi</td>
+    <td>Priorità problemi accelerata</td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
   <tr>
     <td>Gestione delle escalation</td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
     <td>Monitoraggio proattivo dei casi</td>
     <td></td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Accesso al supporto in-area</td>
     <td></td>
     <td></td>
-    <td>↓</td>
-    <td>↓</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Valutazione dei servizi</td>
@@ -130,46 +131,46 @@ Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le no
     <td>2/mese</td>
   </tr>
   <tr>
-    <td>Revisione della soluzione</td>
+    <td>Valutazione soluzione</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Revisione della tabella di marcia</td>
+    <td>Valutazione roadmap</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Contatti di supporto con nome aggiuntivi</td>
+    <td>Contatti interni aggiuntivi per il supporto</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Pianificazione aggiornamento/migrazione</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Preparazione e pianificazione del rilascio</td>
+    <td>Preparazione e pianificazione della versione</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Sponsor esecutivo</td>
+    <td>Executive Sponsor</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>↓</td>
+    <td>✔</td>
   </tr>
 </tbody>
 </table>
@@ -180,7 +181,7 @@ Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le no
 <thead>
   <tr>
     <th>Priorità</th>
-    <th>Supporto standard</th>
+    <th>Supporto Standard</th>
     <th>Supporto Business</th>
     <th>Supporto Enterprise</th>
     <th>Supporto Elite</th>
@@ -190,7 +191,7 @@ Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le no
   <tr>
     <td><strong>PRIORITÀ 1 (P1)</strong><br>Le funzioni operative nell’ambiente di produzione del cliente non sono disponibili oppure si verificano problemi significativi di perdita di dati o deterioramento del servizio ed è richiesto un intervento immediato per ripristinare funzionalità e usabilità.</td>
     <td>24x7/<br>30 minuti</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>I clienti che acquistano un piano di supporto per i prodotti e i servizi di Adobe applicabili ricevono un ciclo di casi prioritari che tiene traccia dei casi ai tecnici del supporto di Adobe.</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>I clienti che acquistano un piano di supporto per i prodotti e i servizi di Adobe idonei usufruiscono del trattamento prioritario dei casi che ne accelera l’inoltro ai tecnici del supporto Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORITÀ 2 (P2)</strong><br>Le funzioni operative del cliente hanno subito un notevole deterioramento del servizio o potenziale perdita di dati, oppure un problema interessa una funzione importante.</td>
@@ -201,7 +202,7 @@ Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le no
     <td>Giorno lavorativo/<br>4 ore</td>
   </tr>
   <tr>
-    <td><strong>PRIORITÀ 4 (P4)</strong><br>Domande generali sulle attuali funzionalità del prodotto o su una richiesta di miglioramento.</td>
+    <td><strong>PRIORITÀ 4 (P4)</strong><br>Domande generali sulle attuali funzionalità del prodotto o richieste di miglioramento.</td>
     <td>Giorno lavorativo/<br>1 giorno</td>
   </tr>
 </tbody>
@@ -211,9 +212,9 @@ Puoi sfruttare la nostra documentazione tecnica dettagliata del prodotto e le no
 &nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
 -->
 
-## Supporto standard {#standard-support-options}
+## Supporto Standard {#standard-support-options}
 
-L’Assistenza clienti di Adobe offre l’accesso alle risorse per la documentazione e il coinvolgimento con altri esperti e clienti per le best practice. Sono disponibili diversi canali per l’inoltro di domande e richieste di assistenza
+Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online per la documentazione e acquisire le best practice con l’aiuto di altri esperti e clienti. Sono disponibili diversi canali per l’inoltro di domande e richieste di assistenza
 
 <table style="table-layout:fixed">
 <tr>
@@ -227,7 +228,7 @@ L’Assistenza clienti di Adobe offre l’accesso alle risorse per la documentaz
   <td>
     <img alt="Aiuto e documentazione" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>Portale di supporto autonomo</b></p>
+    <p><b>Portale di assistenza autonoma</b></p>
     <p>Accesso on-demand al portale di assistenza autonoma per inviare richieste di supporto, esaminare lo stato dei casi e sfogliare altre risorse, come la knowledge base, notizie e avvisi, suggerimenti e altro ancora.</p>
     </div>
   </td>
@@ -245,7 +246,7 @@ L’Assistenza clienti di Adobe offre l’accesso alle risorse per la documentaz
     <img alt="Supporto telefonico" src="assets/dmephone.png"/>
     <div>
     <p><b>Supporto telefonico</b></p>
-    <p>Gli utenti autorizzati (amministratori) possono chiamare l’Assistenza Adobe tramite telefono per ricevere risposte e assistenza per l’invio del caso.</p>
+    <p>Gli utenti autorizzati (amministratori) possono contattare telefonicamente l’Assistenza Adobe per ricevere risposte e assistenza nell’invio dei casi.</p>
     <p><i>Soggetto agli orari locali.</i></p>
     </div>
   </td>
@@ -255,7 +256,7 @@ L’Assistenza clienti di Adobe offre l’accesso alle risorse per la documentaz
     <img alt="Caso web" src="assets/dmewebcase.png"/>
     <div>
     <p><b>Invio di un caso web</b></p>
-    <p>Gli utenti autorizzati (amministratori) possono inviare un numero illimitato di casi web in qualsiasi momento per problemi di assistenza da sottoporre a revisione da parte del nostro team di supporto tecnico.</p>
+    <p>Gli utenti autorizzati (amministratori) possono inviare un numero illimitato di casi web in qualsiasi momento per i problemi di assistenza da sottoporre al nostro team di supporto tecnico.</p>
     </div>
   </td>
 </tr>
@@ -265,8 +266,8 @@ L’Assistenza clienti di Adobe offre l’accesso alle risorse per la documentaz
 
 | Risorsa | Descrizione |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=it) | Experience League è un luogo in cui i clienti di Adobe possono trovare esercitazioni di supporto autonomo, documentazione del prodotto, corsi di formazione condotti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
-| [Community di supporto Adobe](https://community.adobe.com/) | La Community di supporto Adobe è il luogo dove porre domande, trovare risposte, imparare dagli esperti e condividere le tue conoscenze. |
+| [Experience League](https://experienceleague.adobe.com/?lang=it) | Experience League è un portale in cui i clienti Adobe possono trovare tutorial per supporto autonomo, documentazione dei prodotti, corsi di formazione tenuti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
+| [Community di supporto Adobe](https://community.adobe.com/) | Nella community di supporto Adobe è possibile porre domande, trovare risposte, imparare dagli esperti e condividere le proprie conoscenze. |
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
@@ -274,7 +275,7 @@ L’Assistenza clienti di Adobe offre l’accesso alle risorse per la documentaz
 
 ## Orario operativo per area geografica e lingue
 
-L’orario di lavoro locale dell’Adobe viene allineato all’area di fatturazione del cliente.
+Gli orari operativi locali di Adobe dipendono dall’area di fatturazione del cliente.
 
 <table>
 <thead>
@@ -294,7 +295,7 @@ L’orario di lavoro locale dell’Adobe viene allineato all’area di fatturazi
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Supporto per le lingue americane disponibile solo in inglese.</p>
+      <p><sup>1</sup>Supporto per le lingue delle Americhe disponibile solo in inglese.</p>
     </td>
   </tr>
 </tbody>
@@ -302,4 +303,4 @@ L’orario di lavoro locale dell’Adobe viene allineato all’area di fatturazi
 
 ![icona](assets/bottom-banner.png)
 
-*Per ulteriori informazioni sulle offerte di supporto Adobe e sul livello appropriato, contatta il tuo Named Account Manager (NAM) o Customer Success Manager (CSM).*
+*Per scoprire di più sulle offerte di supporto Adobe e sul livello più adeguato, contatta il tuo Named Account Manager (NAM) o Customer Success Manager (CSM).*
