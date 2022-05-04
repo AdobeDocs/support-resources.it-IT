@@ -3,7 +3,7 @@ title: Panoramica del supporto Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
