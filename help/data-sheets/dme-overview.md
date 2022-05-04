@@ -3,9 +3,9 @@ title: Panoramica dei servizi di supporto per Creative Enterprise e Document Clo
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Creative Cloud e Document Cloud. Le opzioni disponibili sono Standard, Business, Enterprise ed Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Per esigenze più complete, offriamo diversi piani di supporto Adobe, con access
     <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Supporto Standard</strong></a> (visualizzazione <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>Supporto Standard</strong></a> (vedi <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>Accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare richieste di assistenza tramite il nostro portale web di supporto. </p>
     <br>
@@ -56,7 +56,7 @@ Per esigenze più complete, offriamo diversi piani di supporto Adobe, con access
     <div>
     <a href="dme-elite.md"><strong>Supporto Elite</strong></a> (vedi <a href="assets/DMeEliteSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Contatto tecnico designato nel team di supporto Adobe e un Technical Account Manager che collabora con te fornendoti assistenza proattiva di alta qualità per consentirti di trarre il massimo dall’investimento nella soluzione Adobe e di evitare i problemi prima che si verifichino.</p>
+    <p>Contatto tecnico dedicato nel team di supporto Adobe e un Technical Account Manager che collabora con te fornendoti assistenza proattiva di alta qualità per consentirti di trarre il massimo dall’investimento nella soluzione Adobe e di evitare i problemi prima che si verifichino.</p>
     <br>
   </td>
 </tr>
