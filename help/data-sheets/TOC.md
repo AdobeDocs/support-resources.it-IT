@@ -2,18 +2,18 @@
 user-guide-title: Risorse di supporto
 user-guide-description: Risorse di supporto per Adobe Experience Cloud e Adobe Experience Platform.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 
 # Risorse di supporto {#data-sheets}
 
-+ [Panoramica sui piani di supporto per Adobe](overview.md)
-+ Piani di supporto per Adobe precedenti al 16 giugno 2022{#prior-plans}
-   + [Panoramica dei piani di supporto Adobi precedenti](overview-prior-plans.md)
++ [Panoramica dei piani di supporto di Adobe](overview.md)
++ Piani di supporto di Adobe precedenti al 16 giugno 2022 {#prior-plans}
+   + [Panoramica dei piani di supporto di Adobe precedenti](overview-prior-plans.md)
    + Servizi di Experience Cloud {#data-sheets}
       + [Panoramica del supporto Adobe](dx-overview.md)
       + [Online](online.md)
