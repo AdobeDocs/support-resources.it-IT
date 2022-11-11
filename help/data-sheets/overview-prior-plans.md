@@ -1,18 +1,18 @@
 ---
-title: Panoramica dei piani di supporto Adobi precedenti
+title: Panoramica dei piani di supporto di Adobe precedenti
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# Panoramica dei piani di supporto Adobi precedenti
+# Panoramica dei piani di supporto di Adobe precedenti
 
 >[!NOTE]
 >
->Questo piano fa riferimento ai piani di supporto Adobe precedenti al 16 giugno 2022. Per gli attuali piani di supporto, consulta [Panoramica sull&#39;offerta di supporto Adobe](overview.md).
+>Questo piano si riferisce ai piani di supporto di Adobe precedenti al 16 giugno 2022. Per i piani di supporto correnti, consulta [Panoramica sull’offerta di supporto di Adobe](overview.md).
 
 L’organizzazione dedicata al supporto di Adobe si impegna per il successo dei propri clienti. Tutti gli abbonamenti includono la possibilità di ricevere assistenza tecnica entrando facilmente in contatto con personale tecnico altamente qualificato.
 
