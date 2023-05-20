@@ -3,8 +3,8 @@ title: Supporto standard per Adobe Creative Cloud e Adobe Document Cloud
 description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe per interagire con altri clienti.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '732'
+workflow-type: tm+mt
+source-wordcount: '729'
 ht-degree: 100%
 
 ---
@@ -271,7 +271,7 @@ Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Orario operativo per area geografica e lingue
 
@@ -303,4 +303,4 @@ Gli orari operativi locali di Adobe dipendono dall’area di fatturazione del cl
 
 ![icona](assets/bottom-banner.png)
 
-*Per scoprire di più sulle offerte di supporto Adobe e sul livello più adeguato, contatta il tuo Named Account Manager (NAM) o Customer Success Manager (CSM).*
+*Per ulteriori informazioni sulle offerte di supporto Adobe e sul livello appropriato, contatta il tuo Named Account Manager (NAM) o Customer Success Manager (CSM).*

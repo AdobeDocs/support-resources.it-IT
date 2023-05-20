@@ -3,8 +3,8 @@ title: Supporto Elite
 description: I servizi di supporto Elite per Adobe Experience Cloud offrono obiettivi di livello di servizio d’eccellenza, supporto proattivo e l’affiancamento di un Technical Account Manager e un Named Support Engineer.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1362'
+workflow-type: tm+mt
+source-wordcount: '1359'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ I servizi di supporto Elite per Adobe Experience Cloud offrono obiettivi di live
 | <b>PRIORITÀ 3 (P3)</b><br>Le funzioni operative del cliente sono interessate da deterioramento lieve del servizio (o nessun deterioramento), tuttavia è possibile procedere normalmente mediante una soluzione temporanea. | Orario operativo/<br>6 ore | 24x5/<br> 1 ora |
 | <b>PRIORITÀ 4 (P4)</b><br>Domande generali sulle attuali funzionalità del prodotto o su una richiesta di miglioramento. | Giorni lavorativi/<br>3 giorni | Giorno lavorativo/<br>1 giorno |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Caratteristiche del supporto Elite
 

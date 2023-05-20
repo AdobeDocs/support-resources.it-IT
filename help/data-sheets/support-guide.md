@@ -1,8 +1,9 @@
 ---
 title: Guida all’Assistenza clienti di Experience Cloud
 description: La presente Guida all’Assistenza clienti ti aiuta a conoscere le offerte, i programmi, i servizi e le procedure di supporto di Experience Cloud e ti spiega come puoi raggiungerci in tutto il mondo.
-source-git-commit: 13eb1e7c2025ed83cde17c3d02a80cd50b824118
-workflow-type: ht
+exl-id: 8128a504-708f-44d8-94be-a63fb6bb473f
+source-git-commit: c0836675d4f8f16a26740c41d266320fa44c2393
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 

@@ -3,8 +3,8 @@ title: Supporto Business
 description: I servizi di supporto Business per Adobe Experience Cloud consentono di accedere ai team di supporto tecnico di Adobe e a un Account Support Lead per la gestione degli account.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+workflow-type: tm+mt
+source-wordcount: '869'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ I servizi di supporto Business per Adobe Experience Cloud consentono di accedere
 | <b>PRIORITÀ 3 (P3)</b><br>Le funzioni operative del cliente sono interessate da deterioramento lieve del servizio, tuttavia è possibile procedere mediante una soluzione temporanea. | Orario operativo/<br>6 ore | Orario operativo/<br>4 ore |
 | <b>PRIORITÀ 4 (P4)</b><br>Domande generali sulle attuali funzionalità del prodotto o su una richiesta di miglioramento. | Giorni lavorativi/<br>3 giorni | Giorno lavorativo/<br>1 giorno |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Caratteristiche del supporto Business
 

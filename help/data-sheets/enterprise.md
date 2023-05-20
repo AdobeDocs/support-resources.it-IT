@@ -3,8 +3,8 @@ title: Supporto Enterprise
 description: I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi di livello di servizio più elevati e un Named Support Engineer dedicato che offre competenze tecniche e sostegno.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: ht
-source-wordcount: '1192'
+workflow-type: tm+mt
+source-wordcount: '1189'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ I servizi di supporto Enterprise per Adobe Experience Cloud prevedono obiettivi 
 | <b>PRIORITÀ 3 (P3)</b><br>Le funzioni operative del cliente sono interessate da deterioramento lieve del servizio, tuttavia è possibile procedere normalmente mediante una soluzione temporanea. | Orario operativo/<br>6 ore | Orario operativo/<br>2 ore |
 | <b>PRIORITÀ 4 (P4)</b><br>Domande generali sulle attuali funzionalità del prodotto o su una richiesta di miglioramento. | Giorni lavorativi/<br>3 giorni | Giorno lavorativo/<br>1 giorno |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Caratteristiche del supporto Enterprise
 

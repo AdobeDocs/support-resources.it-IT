@@ -3,8 +3,8 @@ title: Supporto Elite per Creative Cloud e Adobe Document Cloud
 description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Ottimizzato con il piano di supporto ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '1097'
+workflow-type: tm+mt
+source-wordcount: '1094'
 ht-degree: 100%
 
 ---
@@ -212,7 +212,7 @@ Grazie alla profonda esperienza nelle tue soluzioni di Creative Cloud e Document
     <img alt="Valutazione dei servizi" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>Valutazione dei servizi</b></p>
-    <p>Analisi semestrale completa dei servizi, dei benefici e delle prestazioni di supporto dei programmi aziendali. Può essere combinato con altre valutazioni aziendali strategiche svolte con Adobe.</p>
+    <p>Analisi semestrale completa dei servizi, dei benefici e delle prestazioni di supporto dei programmi Enterprise. Può essere combinato con altre valutazioni aziendali strategiche svolte con Adobe.</p>
     </div>
   </td>
 </tr>
@@ -221,7 +221,7 @@ Grazie alla profonda esperienza nelle tue soluzioni di Creative Cloud e Document
     <img alt="Accesso al supporto in-area" src="assets/dmeinregionsupportaccess.png"/>
     <div>
     <p><b>Accesso al supporto in-area</b></p>
-    <p>Ricevi assistenza dai membri del nostro team di supporto Adobe nella tua stessa area geografica. Questo può includere supporto nel paese e/o nella lingua di pertinenza.</p>
+    <p>Ricevi supporto dai membri del team di supporto Adobe che si trova nella tua area geografica. Questo può includere supporto nel paese e/o nella lingua di pertinenza.</p>
     </div>
   </td>
   <td>
@@ -319,7 +319,7 @@ Grazie alla profonda esperienza nelle tue soluzioni di Creative Cloud e Document
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Orario operativo per area geografica e lingue
 

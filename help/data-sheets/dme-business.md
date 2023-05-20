@@ -3,8 +3,8 @@ title: Supporto Business per Creative Cloud e Adobe Document Cloud
 description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Ottimizzato con il piano di supporto BUSINESS. Il supporto BUSINESS include l’inoltro prioritario dei casi di supporto, grazie al quale i casi inviati vengono sottoposti più rapidamente all’attenzione delle risorse di supporto più esperte.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '815'
+workflow-type: tm+mt
+source-wordcount: '812'
 ht-degree: 100%
 
 ---
@@ -262,7 +262,7 @@ I clienti BUSINESS possono inoltre accedere ai nostri team di supporto tecnico p
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Orario operativo per area geografica e lingue
 

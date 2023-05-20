@@ -3,8 +3,8 @@ title: Panoramica dei piani di supporto di Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
-workflow-type: ht
-source-wordcount: '1990'
+workflow-type: tm+mt
+source-wordcount: '1984'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 | P3 | **Impatto minimo sull’azienda:** <br>le funzioni operative del cliente sono interessate da deterioramento lieve del servizio, uttavia è possibile procedere normalmente mediante una soluzione temporanea. | 4 ore durante il normale orario di lavoro di Adobe | 1 ora durante l’orario di lavoro dell’area geografica di Adobe | L’Assistenza clienti Adobe contatterà i contatti interni per il supporto solamente durante l’orario di lavoro. |
 | P4 | **Nessun impatto sull’azienda:** <br>domande generali sulle attuali funzionalità del prodotto o richieste di miglioramento. | 1 giorno lavorativo | 1 giorno lavorativo | L’Assistenza clienti Adobe contatterà i contatti interni per il supporto solamente durante l’orario di lavoro. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Funzioni chiave
 
@@ -152,7 +152,7 @@ Il supporto standard per i prodotti Adobe Commerce: Managed Services concessi in
 | P3 | **Impatto minimo sull’azienda:** <br>le funzioni operative del cliente sono interessate da deterioramento lieve del servizio, tuttavia è possibile procedere normalmente mediante una soluzione temporanea. | 2 ore durante il normale orario di lavoro di Adobe | L’Assistenza clienti Adobe contatterà i contatti interni per il supporto solamente durante l’orario di lavoro. |
 | P4 | **Nessun impatto sull’azienda:** <br>domande generali sulle attuali funzionalità del prodotto o richieste di miglioramento. | 1 giorno lavorativo | L’Assistenza clienti Adobe contatterà i contatti interni per il supporto solamente durante l’orario di lavoro. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Servizi di Launch Advisory - Attività proattive graduali
 
