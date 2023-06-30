@@ -2,10 +2,10 @@
 title: Panoramica dei piani di supporto di Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: ht
-source-wordcount: '1729'
-ht-degree: 100%
+source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+workflow-type: tm+mt
+source-wordcount: '1748'
+ht-degree: 97%
 
 ---
 
@@ -48,7 +48,9 @@ I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 
 ## Supporto Ultimate: contatti interni per il supporto
 
-Nell’ambito del supporto Ultimate, il cliente avrà diritto a una capacità estesa fino a quindici (15) contatti interni per il supporto per prodotto AEC (erano quattro (4) totali in tutti i prodotti AEC per il supporto specialistico).
+Scusa, ancora. Ora, penso che sia necessario correggere la seguente descrizione in https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en:
+
+Nell’ambito del supporto Ultimate, il Cliente avrà diritto a una capacità estesa fino a quindici (15) Contatti interni per il supporto per prodotto AEC (incrementata da quattro (4) per prodotto AEC per il supporto di esperti).
 
 I contatti interni per il supporto possono segnalare i problemi tramite tutti i canali disponibili e interagire, se necessario, con il team di assistenza tecnica di Adobe per conto del cliente. Uno (1) di tali contatti interni per il supporto può anche essere designato come amministratore dell’account del cliente, che può aggiornare autonomamente l’elenco dei contatti interni per il supporto e imporre limitazioni alle autorizzazioni tramite il portale di supporto fornito da Adobe.
 
