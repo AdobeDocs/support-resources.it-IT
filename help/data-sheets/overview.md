@@ -2,10 +2,10 @@
 title: Panoramica dei piani di supporto di Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 97%
+source-wordcount: '1727'
+ht-degree: 98%
 
 ---
 
@@ -47,8 +47,6 @@ I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 | P4 | **Nessun impatto sull’azienda:** <br>domande generali sulle attuali funzionalità del prodotto o richieste di miglioramento. | 1 giorno lavorativo | 1 giorno lavorativo | L’Assistenza clienti Adobe contatterà i contatti interni per il supporto solamente durante l’orario di lavoro. |
 
 ## Supporto Ultimate: contatti interni per il supporto
-
-Scusa, ancora. Ora, penso che sia necessario correggere la seguente descrizione in https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en:
 
 Nell’ambito del supporto Ultimate, il Cliente avrà diritto a una capacità estesa fino a quindici (15) Contatti interni per il supporto per prodotto AEC (incrementata da quattro (4) per prodotto AEC per il supporto di esperti).
 
