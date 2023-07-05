@@ -5,7 +5,7 @@ exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
 source-wordcount: '1727'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 98%
 
 I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi per offrirti un nuovo tipo di esperienza personalizzata che manterrà i tuoi livelli aziendali avanti rispetto a qualsiasi problema. Il coinvolgimento con le nostre competenze tecniche approfondite e il nostro modello di supporto innovativo migliorerà le prestazioni tecnologiche e ti aiuterà a realizzare il potenziale delle soluzioni di Adobe.
 
-## Confronto tra i piani di supporto specialistico e Ultimate
+## Confronto tra i piani di supporto Expert e Ultimate
 
-|  | Piano di supporto specialistico | Piano di supporto Ultimate |
+|  | Piano di supporto Expert | Piano di supporto Ultimate |
 |--- |--- |--- |
-| Due livelli di coinvolgimento, **specialistico e Ultimate**, assicurano che ogni cliente riceva il giusto livello di supporto, competenza e assistenza. | Con il piano di supporto specialistico, puoi accedere all’**assistenza di esperti 24 ore su 24, 7 giorni su 7** per la risoluzione dei problemi tecnici e indicazioni sui problemi aziendali critici. Oppure puoi trovare soluzioni rapide attingendo alle nostre risorse autonome, alle best practice esclusive e a una community online di esperti e colleghi di Adobe. *Incluso con tutte le licenze di Adobe Experience Cloud.* | Con il piano di supporto Ultimate, potrai contare su un **supporto ad alto livello con una guida e un’assistenza esperta, personalizzata e proattiva**. Le applicazioni Adobe saranno monitorate in modo sicuro e coerente da un team di esperti che hanno familiarità con il tuo ambiente e si concentreranno sugli obiettivi aziendali e sull’integrità delle soluzioni. |
+| Due livelli di coinvolgimento, **specialistico e Ultimate**, assicurano che ogni cliente riceva il giusto livello di supporto, competenza e assistenza. | Con il piano di supporto Expert, puoi accedere all’**assistenza di esperti 24 ore su 24, 7 giorni su 7** per la risoluzione dei problemi tecnici e indicazioni sui problemi aziendali critici. Oppure puoi trovare soluzioni rapide attingendo alle nostre risorse autonome, alle best practice esclusive e a una community online di esperti e colleghi di Adobe. *Incluso con tutte le licenze di Adobe Experience Cloud.* | Con il piano di supporto Ultimate, potrai contare su un **supporto ad alto livello con una guida e un’assistenza esperta, personalizzata e proattiva**. Le applicazioni Adobe saranno monitorate in modo sicuro e coerente da un team di esperti che hanno familiarità con il tuo ambiente e si concentreranno sugli obiettivi aziendali e sull’integrità delle soluzioni. |
 | **Canali di supporto** | Online, chat, telefono, Experience League, forum, video di supporto autonomo | Chat online personalizzata, supporto telefonico prioritario, Experience League, forum Ultimate personalizzati |
 | **Team di supporto** | Gruppo di team di esperti | Technical Account Manager, responsabile dei servizi di supporto e gruppo di team di esperti tecnici dedicati |
 | **Supporto tecnico** | <ul><li>Gestione delle interruzioni standard </li><li>Supporto P1 per problemi 24 ore su 24, 7</li><li>Supporto P2/P3/P4 nell’orario di lavoro</li><li>Gestione di gruppi di escalation</li></ul> | <ul><li>Gestione delle interruzioni con priorità</li><li>Supporto P1 per problemi 24 ore su 24, 7</li><li>Supporto P2/P3 per problemi 24 ore su 24, 5 giorni su 7</li><li>Supporto P4 nell’orario di lavoro</li><li>Gestione dell’escalation da parte di esperti dedicati</li></ul> |
@@ -27,7 +27,7 @@ I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 
 ## Componenti aggiuntivi di supporto
 
-| Componenti aggiuntivi | Piano di supporto specialistico | Piano di supporto Ultimate |
+| Componenti aggiuntivi | Piano di supporto Expert | Piano di supporto Ultimate |
 |--- |--- |--- |
 | **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
@@ -39,7 +39,7 @@ I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 
 ## Tempo di risposta mirato iniziale per il supporto
 
-| Priorità | Definizione | Tempo di risposta mirato: supporto specialistico | Tempo di risposta mirato: supporto Ultimate | Impegno del cliente |
+| Priorità | Definizione | Tempo di risposta mirato: supporto Expert | Tempo di risposta mirato: supporto Ultimate | Impegno del cliente |
 |---|---|---|---|---|
 | P1 | **Impatto critico sull’azienda:** <br>le funzioni operative di produzione del cliente non sono disponibili oppure si verificano problemi significativi di perdita di dati o deterioramento del servizio ed è richiesto un intervento immediato per ripristinare funzionalità e usabilità. | 1 ora | 15 minuti | Il cliente si impegna a un coinvolgimento continuo 24 ore su 24, 7 giorni su 7 con l’Assistenza clienti di Adobe fino alla mitigazione. Se l’Assistenza clienti Adobe non è in grado di ottenere informazioni critiche per la gestione della risposta dai Contatti interni per il supporto, Adobe può diminuire la priorità della richiesta di assistenza da P1 a un livello inferiore. |
 | P2 | **Impatto notevole sull’azienda:** <br>le funzioni operative del cliente hanno subito un importante deterioramento del servizio o una potenziale perdita di dati, oppure il problema interessa una funzione importante. | 2 ore durante il normale orario di lavoro di Adobe | 30 minuti durante l’orario di lavoro dell’area geografica di Adobe | Il supporto Adobe contatterà i contatti interni per il supporto solamente durante l’orario di lavoro. Se l’Assistenza clienti Adobe non è in grado di ottenere informazioni critiche per la gestione di una risposta dai Contatti interni per il supporto, Adobe può diminuire la priorità della richiesta di assistenza da P2 a un livello inferiore. |
@@ -48,7 +48,7 @@ I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 
 ## Supporto Ultimate: contatti interni per il supporto
 
-Nell’ambito del supporto Ultimate, il Cliente avrà diritto a una capacità estesa fino a quindici (15) Contatti interni per il supporto per prodotto AEC (incrementata da quattro (4) per prodotto AEC per il supporto di esperti).
+Nell’ambito del supporto Ultimate, il cliente avrà diritto a una capacità estesa fino a quindici (15) contatti interni per il supporto per prodotto AEC (erano quattro (4) per i prodotti AEC per il supporto Expert).
 
 I contatti interni per il supporto possono segnalare i problemi tramite tutti i canali disponibili e interagire, se necessario, con il team di assistenza tecnica di Adobe per conto del cliente. Uno (1) di tali contatti interni per il supporto può anche essere designato come amministratore dell’account del cliente, che può aggiornare autonomamente l’elenco dei contatti interni per il supporto e imporre limitazioni alle autorizzazioni tramite il portale di supporto fornito da Adobe.
 
