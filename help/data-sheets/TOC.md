@@ -4,7 +4,7 @@ user-guide-description: Risorse di supporto per Adobe Experience Cloud e Adobe E
 feature-set: Experience Cloud
 feature: Support
 source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Risorse di supporto {#data-sheets}
 
 + [Panoramica dei piani di supporto di Adobe](overview.md)
-+ Piani di supporto di Adobe precedenti al 16 giugno 2022 {#prior-plans}
++ Piani di supporto di Adobe precedenti al 16 giugno 2022{#prior-plans}
    + [Panoramica dei piani di supporto di Adobe precedenti](overview-prior-plans.md)
    + Servizi di Experience Cloud {#data-sheets}
       + [Panoramica del supporto Adobe](dx-overview.md)
