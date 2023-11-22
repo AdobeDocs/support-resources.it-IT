@@ -3,9 +3,9 @@ title: Panoramica dei piani di supporto di Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1756'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 | **Componente aggiuntivo Supporto cloud avanzato**<br> Assistenza e garanzia del valore di massimo livello per i clienti di Adobe Experience Manager as a Cloud Service | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Sessioni tutor**<br> Fornisce apprendimento basato sulle abilità in un metodo di formazione just-in-time | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/green_checkmark.svg){width="20"} Inclusa |
 | **Componente aggiuntivo Developer Boost**<br> Fornisce agli esperti tecnici l’accesso sul campo per fornire assistenza per il break-fix | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
-| **Componente aggiuntivo Bundle code prioritarie**<br> Salta la riga per far sì che i tuoi biglietti funzionino per primi con accesso aggiuntivo a Mentor Sessions e Developer Boost | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
+| **Pacchetto componente aggiuntivo coda di priorità**<br> Salta la coda per far sì che i tuoi biglietti siano i primi con accesso aggiuntivo a Sessioni tutor e Developer Boost | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
 
 {style="table-layout:fixed"}
 
