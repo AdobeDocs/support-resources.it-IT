@@ -1,19 +1,19 @@
 ---
-user-guide-title: Risorse di supporto
-user-guide-description: Risorse di supporto per Adobe Experience Cloud e Adobe Experience Platform.
+user-guide-title: Risorse dei piani di successo
+user-guide-description: Piani di successo e risorse di supporto per Adobe Experience Cloud e Adobe Experience Platform.
 feature-set: Experience Cloud
-feature: Support
-source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+feature: Success Plans
+source-git-commit: 65ee13adb8e35d6714d0ebe705b788b1a535400f
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 57%
 
 ---
 
 
-# Risorse di supporto {#data-sheets}
+# Risorse dei piani di successo {#data-sheets}
 
-+ [Panoramica dei piani di supporto di Adobe](overview.md)
++ [Panoramica dei piani di successo di Adobe](overview.md)
 + Piani di supporto di Adobe precedenti al 16 giugno 2022{#prior-plans}
    + [Panoramica dei piani di supporto di Adobe precedenti](overview-prior-plans.md)
    + Servizi di Experience Cloud {#data-sheets}
@@ -23,7 +23,7 @@ ht-degree: 100%
       + [Enterprise](enterprise.md)
       + [Elite](elite.md)
       + [Guida all’Assistenza clienti](support-guide.md)
-   + Servizi per Creative Cloud e Document Cloud {#dme-data-sheets}
+   + Servizi Creative Cloud e Document Cloud {#dme-data-sheets}
       + [Servizi per Creative Cloud e Document Cloud](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Business](dme-business.md)

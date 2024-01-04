@@ -1,33 +1,34 @@
 ---
-title: Panoramica dei piani di supporto di Adobe
+title: Panoramica dei piani di successo di Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
-workflow-type: ht
-source-wordcount: '1756'
-ht-degree: 100%
+source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 83%
 
 ---
 
-# Panoramica dei piani di supporto di Adobe
+# Panoramica dei piani di successo di Adobe
 
-I piani di supporto di Adobe vanno oltre la risoluzione reattiva dei problemi per offrirti un nuovo tipo di esperienza personalizzata che manterrà i tuoi livelli aziendali avanti rispetto a qualsiasi problema. Il coinvolgimento con le nostre competenze tecniche approfondite e il nostro modello di supporto innovativo migliorerà le prestazioni tecnologiche e ti aiuterà a realizzare il potenziale delle soluzioni di Adobe.
+I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi per offrirti un nuovo tipo di esperienza personalizzata che manterrà i tuoi passaggi aziendali avanti rispetto a qualsiasi problema. Il tuo team di Adobi si avvale di competenze tecniche approfondite, funzionalità diversificate e una metodologia avanzata per fornirti il livello giusto di supporto, competenze e assistenza tecnica e strategica di cui hai bisogno.
 
-## Confronto tra i piani di supporto Expert e Ultimate
+## Confronto tra Expert e i piani di successo Ultimate
 
-|  | Piano di supporto Expert | Piano di supporto Ultimate |
+|  | Piano di successo degli esperti | Ultimate Success Plan |
 |--- |--- |--- |
-| Due livelli di coinvolgimento, **specialistico e Ultimate**, assicurano che ogni cliente riceva il giusto livello di supporto, competenza e assistenza. | Con il piano di supporto Expert, puoi accedere all’**assistenza di esperti 24 ore su 24, 7 giorni su 7** per la risoluzione dei problemi tecnici e indicazioni sui problemi aziendali critici. Oppure puoi trovare soluzioni rapide attingendo alle nostre risorse autonome, alle best practice esclusive e a una community online di esperti e colleghi di Adobe. *Incluso con tutte le licenze di Adobe Experience Cloud.* | Con il piano di supporto Ultimate, potrai contare su un **supporto ad alto livello con una guida e un’assistenza esperta, personalizzata e proattiva**. Le applicazioni Adobe saranno monitorate in modo sicuro e coerente da un team di esperti che hanno familiarità con il tuo ambiente e si concentreranno sugli obiettivi aziendali e sull’integrità delle soluzioni. |
-| **Canali di supporto** | Online, chat, telefono, Experience League, forum, video di supporto autonomo | Chat online personalizzata, supporto telefonico prioritario, Experience League, forum Ultimate personalizzati |
-| **Team di supporto** | Gruppo di team di esperti | Technical Account Manager, responsabile dei servizi di supporto e gruppo di team di esperti tecnici dedicati |
-| **Supporto tecnico** | <ul><li>Gestione delle interruzioni standard </li><li>Supporto P1 per problemi 24 ore su 24, 7</li><li>Supporto P2/P3/P4 nell’orario di lavoro</li><li>Gestione di gruppi di escalation</li></ul> | <ul><li>Gestione delle interruzioni con priorità</li><li>Supporto P1 per problemi 24 ore su 24, 7</li><li>Supporto P2/P3 per problemi 24 ore su 24, 5 giorni su 7</li><li>Supporto P4 nell’orario di lavoro</li><li>Gestione dell’escalation da parte di esperti dedicati</li></ul> |
-| **Supporto proattivo tecnico e operativo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | <ul><li>Valutazione roadmap, pianificazione della distribuzione dei servizi </li><li>Manutenzione e monitoraggio</li><li> Aggiornamento e valutazione della migrazione</li><li>Valutazione delle nuove versioni e preparazione </li><li>Trasferimento delle conoscenze, risoluzione dei problemi delle soluzioni </li><li> Pianificazione degli eventi (limitata, consultare il componente aggiuntivo Gestione eventi)</li><li> Servizi di consulenza per l’avvio</li></ul> |
+|  | Con il piano di successo Expert, puoi accedere a **Assistenza esperta 24 ore su 24, 7 giorni su 7** per la risoluzione dei problemi tecnici e indicazioni sui problemi aziendali critici. Oppure puoi trovare soluzioni rapide attingendo alle nostre risorse autonome, alle best practice esclusive e a una community online di esperti e colleghi di Adobe. <p> *Incluso con tutte le licenze di Adobe Experience Cloud.* | Con il piano di successo Ultimate, sperimenterai **orientamento strategico e assistenza tecnica proattiva per fornire esperienze digitali ad alte prestazioni**. L’ambiente di Adobe sarà supportato da un team di esperti che hanno familiarità con la tua azienda e si concentreranno sull’esecuzione di una roadmap in linea con gli obiettivi e le priorità per l’impatto aziendale. |
+| **Team di successo** | Gruppo di tecnici del supporto | Include: <ul><li> Responsabile dell’account tecnico designato </li><li> Customer Success Manager designato </li><li> Responsabile servizi di supporto designati</li><li> Gruppo di tecnici ed esperti strategici che forniscono acceleratori di successo </li><li> Gruppo di tecnici del supporto </li></ul> |
+| **Supporto proattivo tecnico e operativo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Include: <ul><li>Revisioni degli aggiornamenti e della migrazione, preparazione delle versioni </li><li>Revisioni della roadmap dei prodotti</li><li> Orientamenti tecnici e strategici allineati</li><li>Preparazione e pianificazione degli eventi chiave</li><li>Pianificazione dell’abilitazione pertinente e tempestiva</li><li>Best practice tecniche e indicazioni di settore</li><li>Supporto/allineamento con i team di prodotto</li><li>Piano unificato per il raggiungimento dei principali obiettivi aziendali - Piano d&#39;azione reciproco (MAP)</li></ul> |
+| **Supporto tecnico** | Include: <ul><li>**P1**: supporto per problemi 24x7</li><li>**P2, P3, P4**: supporto per gli orari lavorativi</li><li>Gestione delle interruzioni standard</li><li>Gestione di gruppi di escalation</li></ul> | Include: <ul><li>**P1**: supporto per problemi 24x7</li><li>**P2/P3**: supporto per problemi 24x5</li><li>**P4**: supporto per gli orari lavorativi</li><li>Gestione delle interruzioni con priorità</li><li>Gestione dell’escalation da parte di esperti dedicati</li></ul> |
+| **Acceleratori di successo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Acceleratori di successo pianificati regolarmente dal TAM e dal CSM<p>*(per ulteriori informazioni, consulta Catalogo Acceleratore di successo)* |
+| **Canali di supporto** | Online, telefono, Experience League, forum | Portale online personalizzato, telefono con priorità, Experience League, forum |
 
 {style="table-layout:fixed"}
 
 ## Componenti aggiuntivi di supporto
 
-| Componenti aggiuntivi | Piano di supporto Expert | Piano di supporto Ultimate |
+| Componenti aggiuntivi | Piano di successo degli esperti | Ultimate Success Plan |
 |--- |--- |--- |
 | **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
