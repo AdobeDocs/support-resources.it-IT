@@ -1,34 +1,34 @@
 ---
-title: Panoramica dei piani di successo di Adobe
+title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1830'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# Panoramica dei piani di successo di Adobe
+# Panoramica dei piani di successo Adobe
 
-I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi per offrirti un nuovo tipo di esperienza personalizzata che manterrà i tuoi passaggi aziendali avanti rispetto a qualsiasi problema. Il tuo team di Adobi si avvale di competenze tecniche approfondite, funzionalità diversificate e una metodologia avanzata per fornirti il livello giusto di supporto, competenze e assistenza tecnica e strategica di cui hai bisogno.
+I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi per offrirti un nuovo tipo di esperienza personalizzata che manterrà i tuoi livelli aziendali avanti rispetto a qualsiasi problema. Il team di Adobe si avvale di competenze tecniche approfondite, funzionalità diversificate e una metodologia avanzata per fornirti il livello giusto di supporto, competenze e assistenza tecnica e strategica di cui hai bisogno.
 
-## Confronto tra Expert e i piani di successo Ultimate
+## Confronto tra i piani di successo Expert e Ultimate
 
-|  | Piano di successo degli esperti | Ultimate Success Plan |
+|  | Piano di successo Expert | Piano di successo Ultimate |
 |--- |--- |--- |
-|  | Con il piano di successo Expert, puoi accedere a **Assistenza esperta 24 ore su 24, 7 giorni su 7** per la risoluzione dei problemi tecnici e indicazioni sui problemi aziendali critici. Oppure puoi trovare soluzioni rapide attingendo alle nostre risorse autonome, alle best practice esclusive e a una community online di esperti e colleghi di Adobe. <p> *Incluso con tutte le licenze di Adobe Experience Cloud.* | Con il piano di successo Ultimate, sperimenterai **orientamento strategico e assistenza tecnica proattiva per fornire esperienze digitali ad alte prestazioni**. L’ambiente di Adobe sarà supportato da un team di esperti che hanno familiarità con la tua azienda e si concentreranno sull’esecuzione di una roadmap in linea con gli obiettivi e le priorità per l’impatto aziendale. |
-| **Team di successo** | Gruppo di tecnici del supporto | Include: <ul><li> Responsabile dell’account tecnico designato </li><li> Customer Success Manager designato </li><li> Responsabile servizi di supporto designati</li><li> Gruppo di tecnici ed esperti strategici che forniscono acceleratori di successo </li><li> Gruppo di tecnici del supporto </li></ul> |
-| **Supporto proattivo tecnico e operativo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Include: <ul><li>Revisioni degli aggiornamenti e della migrazione, preparazione delle versioni </li><li>Revisioni della roadmap dei prodotti</li><li> Orientamenti tecnici e strategici allineati</li><li>Preparazione e pianificazione degli eventi chiave</li><li>Pianificazione dell’abilitazione pertinente e tempestiva</li><li>Best practice tecniche e indicazioni di settore</li><li>Supporto/allineamento con i team di prodotto</li><li>Piano unificato per il raggiungimento dei principali obiettivi aziendali - Piano d&#39;azione reciproco (MAP)</li></ul> |
-| **Supporto tecnico** | Include: <ul><li>**P1**: supporto per problemi 24x7</li><li>**P2, P3, P4**: supporto per gli orari lavorativi</li><li>Gestione delle interruzioni standard</li><li>Gestione di gruppi di escalation</li></ul> | Include: <ul><li>**P1**: supporto per problemi 24x7</li><li>**P2/P3**: supporto per problemi 24x5</li><li>**P4**: supporto per gli orari lavorativi</li><li>Gestione delle interruzioni con priorità</li><li>Gestione dell’escalation da parte di esperti dedicati</li></ul> |
-| **Acceleratori di successo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Acceleratori di successo pianificati regolarmente dal TAM e dal CSM<p>*(per ulteriori informazioni, consulta Catalogo Acceleratore di successo)* |
-| **Canali di supporto** | Online, telefono, Experience League, forum | Portale online personalizzato, telefono con priorità, Experience League, forum |
+|  | Con il piano di successo Expert, puoi accedere all’**assistenza di esperti 24 ore su 24, 7 giorni su 7** per la risoluzione dei problemi tecnici e indicazioni sui problemi aziendali critici. Oppure puoi trovare soluzioni rapide attingendo alle nostre risorse autonome, alle best practice esclusive e a una community online di esperti e colleghi di Adobe. <p> *Incluso con tutte le licenze di Adobe Experience Cloud.* | Con il piano di successo Ultimate, potrai contare su un’**assistenza strategica e tecnica proattiva per fornire esperienze digitali ad alte prestazioni**. L’ambiente di Adobe sarà supportato da un team di esperti che ha familiarità con la tua azienda e si concentrerà sull’esecuzione di una roadmap in linea con gli obiettivi e le priorità per l’impatto aziendale. |
+| **Team di successo** | Gruppo di team di tecnici del supporto | Include: <ul><li> Technical Account Manager designato </li><li> Customer Success Manager designato </li><li> Support Services Manager designato</li><li> Gruppo di team di tecnici ed esperti strategici che forniscono acceleratori per il successo </li><li> Gruppo di team di tecnici del supporto </li></ul> |
+| **Supporto proattivo tecnico e operativo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Include: <ul><li>Aggiornamento e valutazione della migrazione, preparazione delle versioni </li><li>Valutazione della roadmap dei prodotti</li><li> Roadmap tecniche e strategiche allineate</li><li>Preparazione e pianificazione degli eventi chiave</li><li>Pianificazione dell’abilitazione pertinente e tempestiva</li><li>Best practice tecniche e linee guida del settore</li><li>Sostegno/allineamento con i team di prodotto</li><li>Piano unificato per il raggiungimento dei principali obiettivi aziendali: piano d’azione reciproco (MAP)</li></ul> |
+| **Supporto tecnico** | Include: <ul><li>**P1**: supporto per problemi 24 ore su 24, 7 giorni su 7</li><li>**P2, P3, P4**: supporto nell’orario di lavoro</li><li>Gestione delle interruzioni standard</li><li>Gestione di gruppi di escalation</li></ul> | Include: <ul><li>**P1**: supporto dei problemi 24 ore su 24, 7 giorni su 7</li><li>**P2/P3**: supporto dei problemi 24 ore su 24, 5 giorni su 7</li><li>**P4**: supporto nell’orario di lavoro</li><li>Gestione delle interruzioni con priorità</li><li>Gestione dell’escalation da parte di esperti dedicati</li></ul> |
+| **Acceleratori per il successo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Acceleratori per il successo pianificati regolarmente dal TAM e dal CSM<p>*(per ulteriori informazioni, consulta il Catalogo acceleratori per il successo)* |
+| **Canali di supporto** | Online, telefono, Experience League, forum | Portale online personalizzato, supporto telefonico con priorità, Experience League, forum |
 
 {style="table-layout:fixed"}
 
 ## Componenti aggiuntivi di supporto
 
-| Componenti aggiuntivi | Piano di successo degli esperti | Ultimate Success Plan |
+| Componenti aggiuntivi | Piano di successo Expert | Piano di successo Ultimate |
 |--- |--- |--- |
 | **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
