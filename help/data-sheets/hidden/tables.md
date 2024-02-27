@@ -3,16 +3,18 @@ title: Tabelle
 description: Utilizzo delle tabelle markdown e delle tabelle HTML.
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1421'
 ht-degree: 3%
 
 ---
 
 # Tabelle
 
-Matt era qui ancora e ancora
+Matt era qui ancora e ancora -
+
+EDS
 
 Standard Markdown supporta solo tabelle di base. Per AdobeDocs Markdown, sono disponibili le seguenti opzioni:
 
