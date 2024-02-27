@@ -3,14 +3,16 @@ title: Interruzioni di tabella
 description: Verifica di interruzioni di tabella diverse
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '270'
 ht-degree: 12%
 
 ---
 
 # Interruzioni di tabella
+
+Non c&#39;è molto da vedere.
 
 ## Tabella markdown standard con `<br>`
 
