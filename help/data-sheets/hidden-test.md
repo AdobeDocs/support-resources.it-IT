@@ -5,34 +5,44 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Scarica Premium"
 badgeExam: label="Esame ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 2%
+source-wordcount: '830'
+ht-degree: 94%
 
 ---
 
 # Pagina di test nascosta
 
-Attivare? Ricontrolla invia intorno alle 15:10. Andrà in diretta alle 15:30?
+Attiva? Verifica di nuovo l’invio verso le 15:10. Andrà in diretta alle 15:30?
 
-## Anteprima problema
+## Pulsanti
 
-Il paragrafo seguente non riesce a eseguire correttamente il rendering in Anteprima VSC. Non sono sicuro del perché.
+[Pulsante predefinito](https://www.adobe.com/)
 
-Se la password viene gestita da [!DNL Adobe], è possibile [modifica la password nel tuo account di Adobe](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
+**[Pulsante principale](https://www.adobe.com/)**
 
-## Tipi di note
+_[Pulsante secondario](https://www.adobe.com/)_
+
+**_[Terziario pulsante](https://www.adobe.com/)_**
+
+## Problema anteprima
+
+Il paragrafo seguente non riesce a eseguire correttamente il rendering nell’anteprima VSC. Non sono sicuro del perché.
+
+Se la password viene gestita da [!DNL Adobe], è possibile [modificare la password nel tuo account Adobe](https://helpx.adobe.com/it/manage-account/using/change-or-reset-password.html){target="_blank"}.
+
+## Tipi di nota
 
 Tutti i tipi di nota supportati.
 
 >[!NOTE]
 >
->This is a standard NOTE block.
+>Questo è un blocco per le NOTE standard.
 
 >[!TIP]
 >
->This is a standard tip.
+>Questo è un suggerimento standard.
 
 >[!IMPORTANT]
 >
@@ -44,11 +54,11 @@ Tutti i tipi di nota supportati.
 
 >[!CAUTION]
 >
->Questa è un&#39;avvertenza.
+>Questa è un’avvertenza.
 
 >[!ADMIN]
 >
->Questa è una nota per gli amministratori di cui viene eseguito il rendering come AMMINISTRAZIONE. Solo EXL.
+>Questa è una nota per gli amministratori che esegue il rendering come AMMINISTRAZIONE. Solo EXL.
 
 >[!AVAILABILITY]
 >
@@ -64,7 +74,7 @@ Tutti i tipi di nota supportati.
 
 >[!ERROR]
 >
->Nota di errore. Solo EXL.
+>Questa è una nota di errore. Solo EXL.
 
 >[!SUCCESS]
 >
@@ -75,16 +85,16 @@ Tutti i tipi di nota supportati.
 >* Pagina 1
 >* Pagina 2
 
-## Distintivi
+## Badge
 
 Un badge è un’etichetta colorata utilizzata come indicatore di contenuto. Ad esempio, puoi aggiungere un badge per contrassegnare un articolo come _Beta_ o una sezione come _Premium_. Puoi modificare il colore di un badge e associare un URL e una descrizione.
 
 [!BADGE Esempio di badge]
 
-Esistono due tipi of badge, ciascuno con sintassi diversa:
+Esistono due tipi of di badge, ciascuno con una sintassi diversa:
 
-* **Metadati** - Visualizza il badge nella parte superiore di una pagina
-* **In linea** - Visualizza il badge in cui si trova la sintassi
+* **Metadati**: il badge viene visualizzato nella parte superiore di una pagina
+* **In linea**: il badge viene visualizzato nella posizione in cui si trova la sintassi
 
 ### Badge metadati
 
@@ -99,15 +109,15 @@ badgePremium: label="Premium" type="Positive" url="https://www.premium-product.c
 badgeExam: label="Exam ADO-E903" type="neutral"
 ```
 
-* **badgePremium:** In questo esempio viene visualizzato un badge Premium con un URL e una descrizione comando.
+* **badgePremium:** questo esempio mostra un badge Premium con un URL e una descrizione.
 
-* **badgeExam:** In questo esempio viene visualizzato un badge scuro con un numero ID esame.
+* **badgeExam:** questo esempio mostra un badge scuro con un numero di ID esame.
 
 #### Badge in linea
 
 Specifica le informazioni del badge sulla propria riga o in un’intestazione, una tabella o un altro elemento della pagina.
 
-Di seguito è riportata la sintassi per un badge in linea con etichetta beta, colore blu, URL e descrizione comando:
+Di seguito è riportata la sintassi per un badge in linea con etichetta beta, colore blu, URL e descrizione:
 
 `[!BADGE Beta]{type=Informative url="https://www.example.com" tooltip="Go to example.com"}`
 
@@ -118,10 +128,10 @@ I badge utilizzano i colori definiti nello spettro Adobe:
 | Tipo | Badge |
 |---|---|
 | Informativo (impostazione predefinita) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nuova funzionalità]{type=Positive url="https://www.example.com" tooltip="Vai a example.com"} |
-| Negativo | [!BADGE Interrotto]{type=negative tooltip="Questa funzione è giunta al termine del ciclo di vita"} |
-| Neutro | [!BADGE Forse]{type=Neutral tooltip="Un cavaliere è caduto dal cavallo..."} |
-| Attenzione | [!BADGE Attenzione]{type=Caution tooltip="Stato giallo"} |
+| Positivo | [!BADGE Nuova funzionalità]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Vai a example.com&quot;} |
+| Negativo | [!BADGE Interrotto]{type=negative tooltip=&quot;Questa funzione è ora al termine del ciclo di vita&quot;} |
+| Neutro | [!BADGE Forse]{type=Neutral tooltip=&quot;Un pilota è caduto dal cavallo...&quot;} |
+| Attenzione | [!BADGE Attenzione]{type=Caution tooltip=&quot;Stato giallo&quot;} |
 
 Esempi di sintassi
 
@@ -135,12 +145,12 @@ Esempi di sintassi
 |Caution|[!BADGE Attention]{type=Caution tooltip="Yellow status"}|
 ```
 
-### Requisiti dei distintivi
+### Requisiti dei badge
 
 * Nei metadati sono consentiti solo due badge. Questa regola è configurabile, pertanto contattaci se hai bisogno di un’eccezione.
-* È necessaria solo l’etichetta del badge. Il `type`, `url`, e `tooltip` I parametri sono facoltativi. Il `type` Il parametro determina il colore. Il `url` Il parametro consente agli utenti di fare clic sul badge per aprire un articolo o una pagina. Il `tooltip` Il parametro visualizza il testo della descrizione comandi al passaggio del mouse.
-* Aggiunta di un badge a `TOC.md` file mostra il badge su ogni articolo della guida. Se specifichi un URL per il badge per passare a un articolo, assicurati di utilizzare un collegamento root (ad esempio, `/help/guide/article.md`) non un collegamento relativo (ad es. `article.md`) per tenere conto degli articoli in cartelle diverse.
-* Aggiunta di un badge a `metadata-new.md` mostra il badge su ogni articolo in un archivio.
+* È obbligatoria solo l’etichetta del badge. I parametri `type`, `url` e `tooltip` sono facoltativi. Il parametro `type` determina il colore. Il parametro `url` consente agli utenti di fare clic sul badge per aprire un articolo o una pagina. Il parametro `tooltip` mostra il testo della descrizione al passaggio del mouse.
+* L’aggiunta di un badge al file `TOC.md` mostra il badge su ogni articolo della guida. Se specifichi un URL per far sì che il badge passi a un articolo, assicurati di utilizzare un collegamento root (ad esempio, `/help/guide/article.md`) non un collegamento relativo (ad es. `article.md`) per tenere conto degli articoli in cartelle diverse.
+* L’aggiunta di un badge a `metadata-new.md` mostra il badge su ogni articolo in un repository.
 * Per i badge di metadati, assicurati che tutti i valori siano racchiusi tra virgolette. Per i badge in linea, assicurati che `url` e `tooltip` sono racchiusi tra virgolette.
 * I valori validi per il tipo includono *Informativo* (impostazione predefinita, blu), *Positivo* (verde) *Negativo* (rosso), *Neutro* (grigio scuro) e *Attenzione* (giallo).
 * Le etichette dei badge sono localizzate.
@@ -157,7 +167,7 @@ Esempi di sintassi
 
 ## Evidenziazione testo
 
-Il team Workfront ha chiesto di poter utilizzare l’evidenziazione gialla per indicare l’anteprima delle prossime funzioni. Ecco come funziona.
+Il team Workfront ha chiesto di poter utilizzare l’evidenziazione gialla per indicare l’anteprima delle funzioni in arrivo. Ecco come funziona.
 
 Esempio 1:
 
@@ -167,7 +177,7 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 Rendering:
 
-L&#39;intero paragrafo NON deve essere evidenziato. <span class="preview"> Questa parola è **grassetto** in una frase evidenziata.</span> E questa è solo l&#39;ultima frase.
+L’intero paragrafo NON deve essere evidenziato. <span class="preview"> Questa parola è in **grassetto** all&#39;interno di una frase evidenziata.</span> E questa è solo l’ultima frase.
 
 Esempio 2:
 
@@ -195,9 +205,9 @@ L’evidenziazione deve iniziare dopo questo paragrafo.
 
 <div class="preview">
 
-Inizio DIV.
+Inizio di DIV.
 
-Questo è un nuovo paragrafo, quindi un’immagine
+Questo è un nuovo paragrafo, quindi segue un’immagine
 
 ![immagine](/help/data-sheets/assets/BusinessSupportThumbnail.png)
 
@@ -207,9 +217,9 @@ Ultimo elemento evidenziato.
 
 Non evidenziato
 
-## Evidenziazione della sintassi per i blocchi di codice
+## Evidenziazione della sintassi per blocchi di codice
 
-L’Experience League supporta l’evidenziazione della sintassi per i blocchi di codice. Assicurati di specificare una lingua come `java` dopo il set di apri dei segni di graduazione posteriori per verificare che la sintassi sia evidenziata correttamente. Per un elenco delle lingue valide, consulta [https://prismjs.com](https://prismjs.com/#supported-languages). Se mancano le lingue, registra un ticket jira.
+Experience League supporta l’evidenziazione della sintassi per i blocchi di codice. Assicurati di specificare una lingua come `java` dopo la coppia di apici retroversi di apertura per verificare che la sintassi sia evidenziata correttamente. Per un elenco delle lingue valide, consulta [https://prismjs.com](https://prismjs.com/#supported-languages). Se mancano delle lingue, inoltra un ticket jira.
 
 ### Numerazione delle righe nei blocchi di codice
 
@@ -229,9 +239,9 @@ Esempio con numeri di riga (&grave;&grave;&grave;`html {line-numbers="true"}`):
 </html>
 ```
 
-**Inizia numerazione sulla riga _**
+**Inizia numerazione alla riga _**
 
-Aggiungi `start-number="n"` dopo la sintassi dei numeri di riga per iniziare la numerazione su un numero diverso da 1.
+Aggiungi `start-number="n"` dopo la sintassi dei numeri di riga per iniziare la numerazione con un numero diverso da 1.
 
 Esempio con nuova riga iniziale (&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`):
 
@@ -250,7 +260,7 @@ Esempio con nuova riga iniziale (&grave;&grave;&grave;`html {line-numbers="true"
 
 ### Evidenziazione riga nei blocchi di codice
 
-Aggiungi `highlight="n"` dopo la sintassi dei numeri di riga per evidenziare le righe all’interno di un blocco di codice. Specifica `11-13, 16` evidenzierà le righe da 11 a 13 e 16.
+Aggiungi `highlight="n"` dopo la sintassi dei numeri di riga per evidenziare le righe all’interno di un blocco di codice. Specificando `11-13, 16` verranno evidenziate le righe da 11 a 13 e 16.
 
 Esempio con evidenziazione riga (&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
 
