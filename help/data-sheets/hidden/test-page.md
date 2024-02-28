@@ -3,9 +3,9 @@ title: Pagina di prova (nascosta)
 description: Pagina di prova a scopo di test interno
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1028'
 ht-degree: 11%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 11%
 # Pagina di prova (nascosta)
 
 Pagina di test nascosta
+
+## Pulsanti
+
+[Pulsante predefinito](https://www.adobe.com/)
+
+**[Pulsante principale](https://www.adobe.com/)**
+
+_[Pulsante secondario](https://www.adobe.com/)_
+
+**_[Terziario pulsante](https://www.adobe.com/)_**
 
 ## Immagini (EXLM-412)
 
