@@ -128,7 +128,7 @@ I badge utilizzano i colori definiti nello spettro Adobe:
 | Tipo | Badge |
 |---|---|
 | Informativo (impostazione predefinita) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nuova funzionalità]{type=Positive url="https://www.example.com&quot; tooltip="Vai a example.com"} |
+| Positivo | [!BADGE Nuova funzionalità]{type=Positive url="https://www.example.com" tooltip="Vai a example.com"} |
 | Negativo | [!BADGE Interrotto]{type=negative tooltip="Questa funzione è ora al termine del ciclo di vita"} |
 | Neutro | [!BADGE Forse]{type=Neutral tooltip="Un pilota è caduto dal cavallo..."} |
 | Attenzione | [!BADGE Attenzione]{type=Caution tooltip="Stato giallo"} |
