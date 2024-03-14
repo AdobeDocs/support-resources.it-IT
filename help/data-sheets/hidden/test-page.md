@@ -3,10 +3,10 @@ title: Pagina di prova (nascosta)
 description: Pagina di prova a scopo di test interno
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 10%
+source-wordcount: '1026'
+ht-degree: 11%
 
 ---
 
@@ -17,14 +17,6 @@ Pagina di test nascosta
 ## Benvenuti nell&#39;EDS dell&#39;AEM!
 
 Pubblica test
-
-**Emoji**
-
-Questo verrà ignorato.
-
-È così divertente! :joy:
-
-:smiley:
 
 ## Pulsanti
 
@@ -41,12 +33,6 @@ _[Pulsante secondario](https://www.adobe.com/)_
 ### Immagine con testo al passaggio del mouse
 
 ![testo alternativo - package.png](assets/package.png "Testo al passaggio del mouse: package.png")
-
-### Testo centrato
-
-<p align="center">Sono centrato</p>
-
-<center>Sono centrato</center>
 
 ### Immagini zoomabili
 
@@ -131,7 +117,7 @@ Vedi il titolo in grassetto sopra.
 
 L&#39;icona è allineata a destra, l&#39;immagine di immersione è centrata di 200 pixel, l&#39;immagine di capovolgimento è a destra del 50%.
 
-| <center>Sinistra | In mezzo | Destra</center> |
+| Sinistra | In mezzo | Destra |
 |---|---|---|
 | ![testo alternativo](assets/package.png "align=right"){align=right} | ![testo alternativo](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![testo alternativo](assets/maui-flip.jpg "align=right width=larghezza destra=50%"){align="right" width="50%"} |
 
