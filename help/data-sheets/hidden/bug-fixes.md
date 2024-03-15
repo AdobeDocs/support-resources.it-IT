@@ -3,14 +3,20 @@ title: Correzioni di bug (nascosti)
 description: Pagina di prova a scopo di test interno
 hide: true
 hidefromtoc: true
-source-git-commit: 0279a8985376d587b470bf81fbe8958a5679afb5
+source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1346'
 ht-degree: 4%
 
 ---
 
 # Correzioni di bug
+
+## I badge in linea non funzionano
+
+- [[!DNL Mixpanel]](note-test.md) [!BADGE Note]{type=Informative}
+- [[!DNL Pendo]](tables.md) [!BADGE Tabelle]{type=Positive}
+- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guida allo stile di sintassi]{type=Positive}
 
 ## UGP-10560 - Distintivi nelle sezioni comprimibili
 
