@@ -2,9 +2,9 @@
 title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 
 | Componenti aggiuntivi | Piano di successo Expert | Piano di successo Ultimate |
 |--- |--- |--- |
-| **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | Disponibile |
+| **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | Disponibile | Disponibile |
 | **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | Non disponibile | Disponibile |
 | **Componente aggiuntivo Supporto cloud avanzato**<br> Assistenza e garanzia del valore di massimo livello per i clienti di Adobe Experience Manager as a Cloud Service | Disponibile | Disponibile |
 | **Componente aggiuntivo Sessioni tutor**<br> Fornisce apprendimento basato sulle abilità in un metodo di formazione just-in-time | Disponibile | Incluso |
