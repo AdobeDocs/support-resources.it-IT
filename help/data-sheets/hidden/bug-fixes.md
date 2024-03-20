@@ -3,9 +3,9 @@ title: Correzioni di bug (nascosti)
 description: Pagina di prova a scopo di test interno
 hide: true
 hidefromtoc: true
-source-git-commit: 57c0a39d3b2dcb50259ee285b1a61f8ad4db12ea
+source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1827'
 ht-degree: 27%
 
 ---
@@ -176,6 +176,14 @@ _9 agosto 2022_
 * Tipi di prodotto che utilizzano prezzi specifici per il cliente B2B.
 
 +++
+
+## [!BADGE Obsoleta]{type=negative}
+
+Vedi il titolo precedente. E la prossima.
+
+### [!BADGE Beta]{type=Informative}
+
+Bob
 
 ## UGP-10565 - Evidenziazione testo
 
