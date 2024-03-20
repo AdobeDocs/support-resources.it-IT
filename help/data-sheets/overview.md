@@ -2,7 +2,7 @@
 title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
+source-git-commit: e1290f63ff691ff2c5bce15df442a225e9554b74
 workflow-type: tm+mt
 source-wordcount: '1799'
 ht-degree: 99%
@@ -12,6 +12,9 @@ ht-degree: 99%
 # Panoramica dei piani di successo Adobe
 
 I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi per offrirti un nuovo tipo di esperienza personalizzata che manterrà i tuoi livelli aziendali avanti rispetto a qualsiasi problema. Il team di Adobe si avvale di competenze tecniche approfondite, funzionalità diversificate e una metodologia avanzata per fornirti il livello giusto di supporto, competenze e assistenza tecnica e strategica di cui hai bisogno.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on)
+
 
 ## Confronto tra i piani di successo Expert e Ultimate
 
