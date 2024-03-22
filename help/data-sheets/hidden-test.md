@@ -8,7 +8,7 @@ badgeExam: label="Esame ADO-E903" type="neutral"
 source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
 source-wordcount: '1276'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -48,13 +48,13 @@ Attiva? Verifica di nuovo l’invio verso le 15:10. Andrà in diretta alle 15:30
 
 ## Pulsanti
 
-[Pulsante predefinito](https://www.adobe.com/)
+[Pulsante predefinito](https://www.adobe.com/it/)
 
-**[Pulsante principale](https://www.adobe.com/)**
+**[Pulsante principale](https://www.adobe.com/it/)**
 
-_[Pulsante secondario](https://www.adobe.com/)_
+_[Pulsante secondario](https://www.adobe.com/it/)_
 
-**_[Terziario pulsante](https://www.adobe.com/)_**
+**_[Pulsante terziario](https://www.adobe.com/it/)_**
 
 ## Problema anteprima
 
@@ -158,10 +158,10 @@ I badge utilizzano i colori definiti nello spettro Adobe:
 | Tipo | Badge |
 |---|---|
 | Informativo (impostazione predefinita) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nuova funzionalità]{type=Positive url="https://www.example.com" tooltip="Vai a example.com"} |
-| Negativo | [!BADGE Interrotto]{type=negative tooltip="Questa funzione è ora al termine del ciclo di vita"} |
-| Neutro | [!BADGE Forse]{type=Neutral tooltip="Un pilota è caduto dal cavallo..."} |
-| Attenzione | [!BADGE Attenzione]{type=Caution tooltip="Stato giallo"} |
+| Positivo | [!BADGE Nuova funzione]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativo | [!BADGE Interrotto]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutro | [!BADGE Forse]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| Attenzione | [!BADGE Attenzione]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 Esempi di sintassi
 
