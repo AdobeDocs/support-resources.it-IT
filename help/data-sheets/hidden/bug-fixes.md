@@ -3,9 +3,9 @@ title: Correzioni di bug (nascosti)
 description: Pagina di prova a scopo di test interno
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 27%
 
 ---
@@ -180,6 +180,10 @@ _9 agosto 2022_
 ## [!BADGE Obsoleta]{type=negative}
 
 Vedi il titolo precedente. E la prossima.
+
+## Test attivazione automatica
+
+Ho aggiunto questo elemento venerdì pomeriggio ma non ho fatto clic su Pubblica ora.
 
 ### [!BADGE Beta]{type=Informative}
 
