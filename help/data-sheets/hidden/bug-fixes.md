@@ -3,14 +3,19 @@ title: Correzioni di bug (nascosti)
 description: Pagina di prova a scopo di test interno
 hide: true
 hidefromtoc: true
-source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
+exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
+source-git-commit: c937df9669153698a82842510337df73dfa28bd8
 workflow-type: tm+mt
-source-wordcount: '1841'
+source-wordcount: '1852'
 ht-degree: 27%
 
 ---
 
 # Correzioni di bug
+
+## Test di attivazione automatica
+
+L&#39;ho fatto sabato mattina. Nessuna pubblicazione ora.
 
 ## I badge in linea UGP-10584 non funzionano
 
