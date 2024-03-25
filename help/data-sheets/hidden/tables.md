@@ -3,7 +3,8 @@ title: Tabelle
 description: Utilizzo delle tabelle markdown e delle tabelle HTML.
 hide: true
 hidefromtoc: true
-source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
+exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
+source-git-commit: 6893d1e41c3899c3ab6a9b02b305161eb3f7e049
 workflow-type: tm+mt
 source-wordcount: '1421'
 ht-degree: 3%
@@ -239,11 +240,11 @@ Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Flusso di lavoro per lead di Adobe</strong></a>
+    <a href="note-test.md"><strong>Flusso di lavoro per lead di Adobe</strong></a>
     </div>
     <em>Flusso di lavoro di modifica principale per autori di lead.</em>
     <br>
@@ -276,11 +277,11 @@ Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Flusso di lavoro per lead di Adobe</strong></a>
+    <a href="note-test.md"><strong>Flusso di lavoro per lead di Adobe</strong></a>
     </div>
     <em>Flusso di lavoro di modifica principale per autori di lead.</em>
     <br>
