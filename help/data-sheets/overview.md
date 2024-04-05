@@ -2,9 +2,9 @@
 title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bebe3f87895e30910279dd8a55e300d4d7ce4fd0
-workflow-type: ht
-source-wordcount: '1801'
+source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+workflow-type: tm+mt
+source-wordcount: '1832'
 ht-degree: 100%
 
 ---
@@ -21,40 +21,23 @@ I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 |--- |--- |--- |
 |  | Con il piano di successo Expert, puoi accedere all’**assistenza di esperti 24 ore su 24, 7 giorni su 7** per la risoluzione dei problemi tecnici e indicazioni sui problemi aziendali critici. Oppure puoi trovare soluzioni rapide attingendo alle nostre risorse autonome, alle best practice esclusive e a una community online di esperti e colleghi di Adobe. <p> *Incluso con tutte le licenze di Adobe Experience Cloud.* | Con il piano di successo Ultimate, potrai contare su un’**assistenza strategica e tecnica proattiva per fornire esperienze digitali ad alte prestazioni**. L’ambiente di Adobe sarà supportato da un team di esperti che ha familiarità con la tua azienda e si concentrerà sull’esecuzione di una roadmap in linea con gli obiettivi e le priorità per l’impatto aziendale. |
 | **Team di successo** | Gruppo di team di tecnici del supporto | Include: <ul><li> Technical Account Manager designato </li><li> Customer Success Manager designato </li><li> Support Services Manager designato</li><li> Gruppo di team di tecnici ed esperti strategici che forniscono acceleratori per il successo </li><li> Gruppo di team di tecnici del supporto </li></ul> |
-| **Supporto proattivo tecnico e operativo** | Non incluso | Include: <ul><li>Aggiornamento e valutazione della migrazione, preparazione delle versioni </li><li>Valutazione della roadmap dei prodotti</li><li> Roadmap tecniche e strategiche allineate</li><li>Preparazione e pianificazione degli eventi chiave</li><li>Pianificazione dell’abilitazione pertinente e tempestiva</li><li>Best practice tecniche e linee guida del settore</li><li>Sostegno/allineamento con i team di prodotto</li><li>Piano unificato per il raggiungimento dei principali obiettivi aziendali: piano d’azione reciproco (MAP)</li></ul> |
+| **Supporto proattivo tecnico e operativo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Include: <ul><li>Aggiornamento e valutazione della migrazione, preparazione delle versioni </li><li>Valutazione della roadmap dei prodotti</li><li> Roadmap tecniche e strategiche allineate</li><li>Preparazione e pianificazione degli eventi chiave</li><li>Pianificazione dell’abilitazione pertinente e tempestiva</li><li>Best practice tecniche e linee guida del settore</li><li>Sostegno/allineamento con i team di prodotto</li><li>Piano unificato per il raggiungimento dei principali obiettivi aziendali: piano d’azione reciproco (MAP)</li></ul> |
 | **Supporto tecnico** | Include: <ul><li>**P1**: supporto per problemi 24 ore su 24, 7 giorni su 7</li><li>**P2, P3, P4**: supporto nell’orario di lavoro</li><li>Gestione delle interruzioni standard</li><li>Gestione di gruppi di escalation</li></ul> | Include: <ul><li>**P1**: supporto dei problemi 24 ore su 24, 7 giorni su 7</li><li>**P2/P3**: supporto dei problemi 24 ore su 24, 5 giorni su 7</li><li>**P4**: supporto nell’orario di lavoro</li><li>Gestione delle interruzioni con priorità</li><li>Gestione dell’escalation da parte di esperti dedicati</li></ul> |
-| **Acceleratori per il successo** | Non incluso | Acceleratori per il successo pianificati regolarmente dal TAM e dal CSM<p>*(per ulteriori informazioni, consulta il Catalogo acceleratori per il successo)* |
+| **Acceleratori per il successo** | ![icona non incluso](assets/Cross_red_circle.svg){width="20"} Non incluso | Acceleratori per il successo pianificati regolarmente dal TAM e dal CSM<p>*(per ulteriori informazioni, consulta il Catalogo acceleratori per il successo)* |
 | **Canali di supporto** | Online, telefono, Experience League, forum | Portale online personalizzato, supporto telefonico con priorità, Experience League, forum |
 
 {style="table-layout:fixed"}
-
-<!--
-![not included icon](assets/Cross_red_circle.svg){width="20"}
-![not included icon](assets/Cross_red_circle.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"} 
-![available icon](assets/Plus_blue.svg){width="20"}
-![included icon](assets/green_checkmark.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"} 
-![available icon](assets/Plus_blue.svg){width="20"}
-![available icon](assets/green_checkmark.svg){width="20"} 
-![available icon](assets/Plus_blue.svg){width="20"}
-![included icon](assets/green_checkmark.svg){width="20"}
-![not available icon](assets/Cross_red_circle.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"}
-![available icon](assets/Plus_blue.svg){width="20"}
--->
 
 ## Componenti aggiuntivi di supporto
 
 | Componenti aggiuntivi | Piano di successo Expert | Piano di successo Ultimate |
 |--- |--- |--- |
-| **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | Disponibile | Disponibile |
-| **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | Non disponibile | Disponibile |
-| **Componente aggiuntivo Supporto cloud avanzato**<br> Assistenza e garanzia del valore di massimo livello per i clienti di Adobe Experience Manager as a Cloud Service | Disponibile | Disponibile |
-| **Componente aggiuntivo Sessioni tutor**<br> Fornisce apprendimento basato sulle abilità in un metodo di formazione just-in-time | Disponibile | Incluso |
-| **Componente aggiuntivo Developer Boost**<br> Fornisce agli esperti tecnici l’accesso sul campo per fornire assistenza per il break-fix | Disponibile | Incluso |
-| **Pacchetto componente aggiuntivo coda di priorità**<br> Salta la coda per far sì che i tuoi biglietti siano i primi con accesso aggiuntivo a Sessioni tutor e Developer Boost | Disponibile | Incluso |
+| **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
+| **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
+| **Componente aggiuntivo Supporto cloud avanzato**<br> Assistenza e garanzia del valore di massimo livello per i clienti di Adobe Experience Manager as a Cloud Service | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
+| **Componente aggiuntivo Sessioni tutor**<br> Fornisce apprendimento basato sulle abilità in un metodo di formazione just-in-time | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/green_checkmark.svg){width="20"} Inclusa |
+| **Componente aggiuntivo Developer Boost**<br> Fornisce agli esperti tecnici l’accesso sul campo per fornire assistenza per il break-fix | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
+| **Pacchetto componente aggiuntivo coda di priorità**<br> Salta la coda per far sì che i tuoi biglietti siano i primi con accesso aggiuntivo a Sessioni tutor e Developer Boost | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
 
 {style="table-layout:fixed"}
 
