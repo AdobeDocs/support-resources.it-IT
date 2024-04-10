@@ -3,10 +3,10 @@ user-guide-title: Risorse dei piani di successo
 user-guide-description: Piani di successo e risorse di supporto per Adobe Experience Cloud e Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 712d5425375a8437116a729c271c0fafcad98b0f
+source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 94%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -36,9 +36,10 @@ ht-degree: 94%
 + [Riquadro di test EDS nascosto](hidden/test-page.md)
 + [Test reindirizzamenti nascosti](hidden/test-redirection.md)
 + [Guida alla sintassi nascosta](hidden/syntax-style-guide.md)
-+ [Test tabelle nascoste](hidden/tables.md)
++ [Test di tabelle nascoste](hidden/tables.md)
 + [Interruzioni di tabella nascoste](hidden/table-breaks.md)
 + [Test nota nascosta](hidden/note-test.md)
++ [Nascosto Nuovo Solo Attivazione Automatica](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
