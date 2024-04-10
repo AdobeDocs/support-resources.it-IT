@@ -3,8 +3,8 @@ title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 45d7df912c336c9275545612e625869c005eb448
-workflow-type: tm+mt
-source-wordcount: '1832'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
