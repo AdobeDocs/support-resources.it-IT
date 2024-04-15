@@ -4,9 +4,9 @@ user-guide-description: Piani di successo e risorse di supporto per Adobe Experi
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 95%
 + [Test di tabelle nascoste](hidden/tables.md)
 + [Interruzioni di tabella nascoste](hidden/table-breaks.md)
 + [Test nota nascosta](hidden/note-test.md)
-+ [Nascosto Nuovo Solo Attivazione Automatica](hidden/autoactivate.md)
++ [Solo nuova attivazione automatica nascosta](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
