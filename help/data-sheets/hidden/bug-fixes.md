@@ -4,9 +4,9 @@ description: Pagina di prova a scopo di test interno
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
+source-wordcount: '1926'
 ht-degree: 27%
 
 ---
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## Test di attivazione automatica
 
 Questi bug devono essere corretti.
+
+## Collegamenti UGP-10866 non in grassetto nelle caselle ombra
+
+>[!BEGINSHADEBOX]
+
+**Sommario**
+
+* [Introduzione all’assistente IA](note-test.md)
+* **[Generazione di e-mail con l’Assistente AI](syntax-style-guide.md)**
+* [Generazione di SMS con l’Assistente IA](test-page.md)
+* [Generazione push con l’Assistente AI](tables.md)
+* [Esperimento sui contenuti con l’Assistente AI](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+Nessuna casella ombreggiata
+
+**Sommario**
+
+* [Introduzione all’assistente IA](note-test.md)
+* **[Generazione di e-mail con l’Assistente AI](syntax-style-guide.md)**
+* [Generazione di SMS con l’Assistente IA](test-page.md)
+* [Generazione push con l’Assistente AI](tables.md)
+* [Esperimento sui contenuti con l’Assistente AI](test-redirection.md)
+
 
 ## I badge in linea UGP-10584 non funzionano
 
