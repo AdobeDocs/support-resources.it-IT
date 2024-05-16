@@ -4,9 +4,9 @@ user-guide-description: Piani di successo e risorse di supporto per Adobe Experi
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
