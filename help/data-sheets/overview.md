@@ -2,10 +2,10 @@
 title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 8ed1a2a189ad715277aa48b578468ad90f8c18cf
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+workflow-type: tm+mt
+source-wordcount: '2201'
+ht-degree: 83%
 
 ---
 
@@ -107,6 +107,41 @@ I contatti interni per il supporto possono segnalare i problemi tramite tutti i 
 | Americhe | Europa, Medio Oriente e Africa | Asia-Pacifico | Giappone |
 |---|---|---|---|
 | 06:00 – 17:30 | 09:00 – 17:00 | 09:00 – 17:00 | 09:00 – 17:00 |
+
+## Ciclo di vita del caso di supporto - Disponibile a breve
+
+Questa documentazione illustra i miglioramenti apportati al ciclo di vita dei casi di supporto Adobe DX con l&#39;obiettivo di aumentare le comunicazioni e fornire ai clienti risoluzioni il più rapidamente possibile per garantire il successo dei clienti. Di seguito sono riportate le tempistiche e le notifiche per vari scenari riscontrati durante il processo di supporto:
+
+**Promemoria di follow-up dei casi**
+
+| Notifica | Stato del caso | Tempistica notifica | Giorni allo stato chiusura caso |
+|--- |--- |--- |--- |
+| **1°** | Risposta O Risoluzione In Attesa Fornita | 24 ore / 1 giorno | 5 giorni |
+| **2°** | Risposta O Risoluzione In Sospeso Fornita | 72 ore / 3 giorni | 3 giorni |
+| **3rd** | Risposta O Risoluzione In Attesa Fornita | 120 ore / 5 giorni | 1 giorno |
+| **4th** | La risposta o la risoluzione in sospeso fornita è stata modificata in &quot;Chiusa automaticamente&quot; | 144 ore / 6 giorni | chiuso |
+
+**Scenari in dettaglio**
+
+**Il cliente deve fornire ulteriori informazioni**
+
+In questo scenario, quando sono necessarie informazioni aggiuntive da parte di un cliente, vengono eseguiti i seguenti passaggi:
+
+* Il tecnico invia un aggiornamento richiedendo informazioni e lo stato del caso è impostato su &quot;In attesa di risposta&quot;.
+* Il primo, il terzo e il quinto giorno successivo all’impostazione dello stato su &quot;In attesa di risposta&quot;, al cliente che richiede le informazioni aggiuntive vengono inviate notifiche di follow-up.
+* Se non viene ricevuta alcuna risposta dal cliente per 6 giorni dopo l’impostazione dello stato su &quot;In attesa di risposta&quot;, il caso viene impostato su chiuso e viene inviata una notifica di chiusura.
+
+I clienti possono riaprire un caso chiuso entro 14 giorni per continuare la comunicazione. Oltre 14 giorni, è possibile aprire un nuovo caso di supporto per continuare la comunicazione relativa a un caso precedentemente chiuso.
+
+**Il tecnico fornisce una soluzione**
+
+In questo scenario, quando un ingegnere offre una soluzione, vengono eseguiti i seguenti passaggi:
+
+* Il tecnico invia un aggiornamento con una soluzione proposta e lo stato del caso è impostato su &quot;Risoluzione fornita&quot;.
+* Il primo, il terzo e il quinto giorno dopo l’impostazione dello stato su &quot;Risoluzione fornita&quot;, vengono inviate al cliente notifiche di follow-up con la richiesta di conferma della soluzione fornita.
+* Se il cliente non risponde entro 6 giorni dall’impostazione dello stato su &quot;Risoluzione fornita&quot;, il caso viene impostato su chiuso e viene inviata una notifica di chiusura.
+
+I clienti possono riaprire un caso chiuso entro 14 giorni per continuare la comunicazione. Oltre 14 giorni, è possibile aprire un nuovo caso di supporto per continuare la comunicazione relativa a un caso precedentemente chiuso.
 
 ## Termini aggiuntivi applicabili ad Adobe Commerce on Managed Services (in precedenza Magento Commerce Pro: Managed Services)
 
