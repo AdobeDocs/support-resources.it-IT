@@ -3,9 +3,9 @@ title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2201'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -108,40 +108,40 @@ I contatti interni per il supporto possono segnalare i problemi tramite tutti i 
 |---|---|---|---|
 | 06:00 – 17:30 | 09:00 – 17:00 | 09:00 – 17:00 | 09:00 – 17:00 |
 
-## Ciclo di vita del caso di supporto - Disponibile a breve
+## Ciclo di vita del caso di supporto: disponibile a breve
 
-Questa documentazione illustra i miglioramenti apportati al ciclo di vita dei casi di supporto Adobe DX con l&#39;obiettivo di aumentare le comunicazioni e fornire ai clienti risoluzioni il più rapidamente possibile per garantire il successo dei clienti. Di seguito sono riportate le tempistiche e le notifiche per vari scenari riscontrati durante il processo di supporto:
+Questa documentazione illustra i miglioramenti del ciclo di vita del caso di supporto di Adobe DX con e l’intenzione di aumentare la comunicazione e di fornire risoluzioni per i clienti il più velocemente possibile, per assicurare il loro successo. Qui di seguito sono disponibili le timeline e le notifiche per i vari scenari incontrati durante il processo di supporto:
 
-**Promemoria di follow-up dei casi**
+**Promemoria di follow up del caso**
 
-| Notifica | Stato del caso | Tempistica notifica | Giorni allo stato chiusura caso |
+| Notifica | Stato del caso | Tempistica notifiche | Giorni allo Stato di chiusura del caso |
 |--- |--- |--- |--- |
-| **1°** | Risposta O Risoluzione In Attesa Fornita | 24 ore / 1 giorno | 5 giorni |
-| **2°** | Risposta O Risoluzione In Sospeso Fornita | 72 ore / 3 giorni | 3 giorni |
-| **3rd** | Risposta O Risoluzione In Attesa Fornita | 120 ore / 5 giorni | 1 giorno |
-| **4th** | La risposta o la risoluzione in sospeso fornita è stata modificata in &quot;Chiusa automaticamente&quot; | 144 ore / 6 giorni | chiuso |
+| **1°** | Risposta in sospeso o risoluzione fornita | 24 ore/1 giorno | 5 giorni |
+| **2°** | Risposta in sospeso o risoluzione fornita | 72 ore/3 giorni | 3 giorni |
+| **3°** | Risposta in sospeso o risoluzione fornita | 120 ore/5 giorni | 1 giorno |
+| **4°** | Risposta in sospeso o risoluzione fornita cambiate in “Chiuso automaticamente” | 144 ore/6 giorni | chiuso |
 
-**Scenari in dettaglio**
+**Scenari nei dettagli**
 
-**Il cliente deve fornire ulteriori informazioni**
+**Un cliente richiede informazioni aggiuntive**
 
-In questo scenario, quando sono necessarie informazioni aggiuntive da parte di un cliente, vengono eseguiti i seguenti passaggi:
+In questo scenario, quando un cliente richiede informazioni aggiuntive, si eseguono i seguenti passaggi:
 
-* Il tecnico invia un aggiornamento richiedendo informazioni e lo stato del caso è impostato su &quot;In attesa di risposta&quot;.
-* Il primo, il terzo e il quinto giorno successivo all’impostazione dello stato su &quot;In attesa di risposta&quot;, al cliente che richiede le informazioni aggiuntive vengono inviate notifiche di follow-up.
-* Se non viene ricevuta alcuna risposta dal cliente per 6 giorni dopo l’impostazione dello stato su &quot;In attesa di risposta&quot;, il caso viene impostato su chiuso e viene inviata una notifica di chiusura.
+* L’ingegnere invia un aggiornamento richiedendo informazioni e lo stato del caso è impostato su “Risposta in sospeso”.
+* Al 1°, 3° e 5° giorno dopo che lo stato è impostato su “Risposta in sospeso”, al cliente che richiedeva informazioni aggiuntive, vengono inviate notifiche di follow up.
+* Se il cliente non risponde entro 6 giorni da quando lo stato è impostato su “Risposta in sospeso”, il caso è impostato su “chiuso” e viene inviata una notifica di chiusura.
 
-I clienti possono riaprire un caso chiuso entro 14 giorni per continuare la comunicazione. Oltre 14 giorni, è possibile aprire un nuovo caso di supporto per continuare la comunicazione relativa a un caso precedentemente chiuso.
+I clienti possono riaprire un caso chiuso entro 14 giorni per continuare la comunicazione. Dopo 14 giorni, un nuovo caso di supporto può esser aperto per continuare la comunicazione relativa al caso chiuso precedente.
 
-**Il tecnico fornisce una soluzione**
+**L’ngegnere fornisce una soluzione**
 
 In questo scenario, quando un ingegnere offre una soluzione, vengono eseguiti i seguenti passaggi:
 
-* Il tecnico invia un aggiornamento con una soluzione proposta e lo stato del caso è impostato su &quot;Risoluzione fornita&quot;.
-* Il primo, il terzo e il quinto giorno dopo l’impostazione dello stato su &quot;Risoluzione fornita&quot;, vengono inviate al cliente notifiche di follow-up con la richiesta di conferma della soluzione fornita.
-* Se il cliente non risponde entro 6 giorni dall’impostazione dello stato su &quot;Risoluzione fornita&quot;, il caso viene impostato su chiuso e viene inviata una notifica di chiusura.
+* L’ingegnere invia un aggiornamento con una soluzione proposta e lo stato del caso viene impostato su “Fornita risoluzione”.
+* Al 1°, 3° e 5° giorno dopo che lo stato è impostato su “Fornita risoluzione”, vengono inviate notifiche di follow up al cliente richiedendo la conferma della soluzione fornita.
+* Se il cliente non risponde entro 6 giorni da quando lo stato è impostato su “Fornita risoluzione”, il caso viene impostato su “Chiuso” e viene inviata una notifica.
 
-I clienti possono riaprire un caso chiuso entro 14 giorni per continuare la comunicazione. Oltre 14 giorni, è possibile aprire un nuovo caso di supporto per continuare la comunicazione relativa a un caso precedentemente chiuso.
+I clienti possono riaprire un caso chiuso entro 14 giorni per continuare la comunicazione. Dopo 14 giorni, un nuovo caso di supporto può esser aperto per continuare la comunicazione relativa al caso chiuso precedente.
 
 ## Termini aggiuntivi applicabili ad Adobe Commerce on Managed Services (in precedenza Magento Commerce Pro: Managed Services)
 
