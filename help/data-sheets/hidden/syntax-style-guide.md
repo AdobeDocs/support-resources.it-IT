@@ -4,7 +4,8 @@ description: Introduzione di base allo stile Markdown
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
+exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '4238'
 ht-degree: 13%
@@ -25,7 +26,7 @@ Consulta qui: [Adobe.com](https://www.adobe.com){rel=nofollow}
 
 >[!TIP]
 >
->Guarda questo [Video su AdobeDocs Markdown](https://video.tv.adobe.com/v/26165).
+>Guarda questo [video su AdobeDocs Markdown](https://video.tv.adobe.com/v/26165).
 
 Per la maggior parte, usiamo la sintassi standard GFM (Git-Flavored Markdown) per la formattazione del testo. Tuttavia, alcune sintassi (come le righe orizzontali) non sono supportate e Markdown è stato esteso in diversi modi per soddisfare le esigenze di documentazione.
 
@@ -33,7 +34,7 @@ Per la maggior parte, usiamo la sintassi standard GFM (Git-Flavored Markdown) pe
 
 Un paragrafo non richiede una sintassi speciale in Markdown. Aggiungi una riga vuota tra ciascun paragrafo.
 
-Per formattare il testo come **grassetto**, è possibile racchiuderlo in due asterischi:
+Per formattare il testo come **grassetto**, è necessario racchiuderlo in due asterischi:
 
 ```
 This text is **bold**.
@@ -45,7 +46,7 @@ Per formattare il testo in *corsivo*, è necessario racchiuderlo in un singolo a
 This text is *italic*.
 ```
 
-Per formattare il testo come entrambi ***grassetto e corsivo***, lo racchiudi in tre asterischi:
+Per formattare il testo in ***grassetto e corsivo***, è necessario racchiuderlo in tre asterischi:
 
 ```
 This is text is both ***bold and italic***.
@@ -117,7 +118,7 @@ There are two ways to create badges:
 
 ## Virgolette
 
-Il nostro sistema di authoring utilizza la sintassi blockquote (`>` all’inizio delle righe) per identificare estensioni personalizzate per markdown per suggerimenti, note e video. È possibile creare i blockquote effettivi aggiungendo un `>` carattere davanti a un paragrafo.
+Il nostro sistema di authoring utilizza la sintassi dei blockquote (`>` all&#39;inizio delle righe) per identificare le estensioni personalizzate per markdown per suggerimenti, note e video. È possibile creare i blockquote effettivi aggiungendo un carattere `>` davanti a un paragrafo.
 
 >Si tratta di un&#39;offerta blockquote.
 
@@ -131,9 +132,9 @@ Il nostro sistema di authoring utilizza la sintassi blockquote (`>` all’inizio
 
 Utilizzato per eseguire il rendering di un codice in linea in una frase. Ideale per richiamare un nome di cookie, un nome di file, un valore o un comando che non richiede un blocco di codice completo.
 
-Il contenuto all’interno dei blocchi di codice viene rappresentato così come è e non localizzato. (L’unica eccezione a questa regola è `!UICONTROL` e `!DNL` che viene eliminata durante la creazione del pacchetto per la pubblicazione.)
+Il contenuto all’interno dei blocchi di codice viene rappresentato così come è e non localizzato. L&#39;unica eccezione a questa regola è la sintassi `!UICONTROL` e `!DNL`, che viene eliminata durante la creazione del pacchetto per la pubblicazione.
 
-Utilizza anche blocchi di codice per URL di esempio che non devono essere convalidati: `https://www.example.com`
+Utilizzare anche blocchi di codice per URL di esempio che non devono essere convalidati: `https://www.example.com`
 
 **Sintassi**
 
@@ -149,7 +150,7 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
->Puoi anche racchiudere il testo in tre apici retroversi (&grave;&grave;&grave;) per creare un blocco di codice in linea. Questa funzione è particolarmente utile quando devi fare riferimento a un carattere di apice inverso all’interno di un blocco di codice in linea. Esempio:
+>Puoi anche racchiudere il testo in tre apici posteriori (&grave;&grave;&grave;&grave;) per creare un blocco di codice in linea. Questa funzione è particolarmente utile quando devi fare riferimento a un carattere di apice inverso all’interno di un blocco di codice in linea. Esempio:
 >
 &grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;
 
@@ -163,11 +164,11 @@ I blocchi di codice non sono localizzati.
 
 >[!TIP]
 >
-Specifica una lingua quando crei un blocco di codice delimitato. Specificando un linguaggio si consente l&#39;evidenziazione della sintassi specifica per tale linguaggio e si visualizza un **Copia** per gli utenti. È inoltre possibile visualizzare i numeri di riga se si specifica una lingua.
+Specifica una lingua quando crei un blocco di codice delimitato. La specifica di una lingua consente l&#39;evidenziazione della sintassi specifica della lingua e visualizza un pulsante **Copia** per gli utenti. È inoltre possibile visualizzare i numeri di riga se si specifica una lingua.
 
 **Sintassi**
 
-Utilizza tre apici retroversi ( &grave;&grave;&grave; ) prima e dopo le righe di codice. Assicuratevi che i segni di graduazione apri e chiudi all&#39;indietro siano rientrati nello stesso numero di spazi. Per un rendering ottimale, specifica un linguaggio di codice.
+Utilizza tre apici posteriori ( &grave;&grave;&grave; ) prima e dopo le righe di codice. Assicuratevi che i segni di graduazione apri e chiudi all&#39;indietro siano rientrati nello stesso numero di spazi. Per un rendering ottimale, specifica un linguaggio di codice.
 
 &grave;&grave;&grave;`javascript`
 
@@ -247,11 +248,11 @@ Esempio con evidenziazione riga (&grave;&grave;&grave;`html {line-numbers="true"
 
 ### Formattazione delle variabili nei blocchi di codice
 
-Sintassi delle variabili come `<i>italic</i>` non è supportato nei blocchi di codice. Per indicare il testo variabile, è possibile utilizzare le parentesi angolari `< >`.
+La sintassi della variabile, ad esempio `<i>italic</i>`, non è supportata nei blocchi di codice. Per indicare il testo variabile, è possibile utilizzare le parentesi angolari `< >`.
 
 ## Sezioni comprimibili
 
-È possibile creare una sezione comprimibile, a volte denominata **soffietto**) nascosto per impostazione predefinita. L’utente può fare clic sul titolo per espandere o comprimere la sezione.
+È possibile creare una sezione comprimibile, a volte denominata **Pannello a soffietto**, nascosta per impostazione predefinita. L’utente può fare clic sul titolo per espandere o comprimere la sezione.
 
 Il testo comprimibile può essere utilizzato per semplificare contenuti complessi, ad esempio per semplificare una pagina di domande frequenti o per rendere meno complessa una procedura con elenchi nidificati. Ad esempio, invece di visualizzare un set di passaggi secondari, è possibile comprimerli in una sezione &quot;Visualizza dettagli&quot;.
 
@@ -270,7 +271,8 @@ This is text inside a collapsible section.
 
 **Esempio**
 
-+++Vedi i dettagli Questo è il testo all&#39;interno di una sezione comprimibile.
++++Vedi i dettagli
+Testo all&#39;interno di una sezione comprimibile.
 
 * Punto elenco uno
 * Punto due
@@ -280,12 +282,12 @@ This is text inside a collapsible section.
 
 **Note**
 
-* Non nidificare sezioni comprimibili all&#39;interno di sezioni comprimibili. Le sezioni comprimibili nidificate non vengono riprodotte correttamente. Tuttavia, poiché non impediscono la convalida, gli utenti visualizzeranno `+++` sintassi della sezione nidificata.
+* Non nidificare sezioni comprimibili all&#39;interno di sezioni comprimibili. Le sezioni comprimibili nidificate non vengono riprodotte correttamente. Tuttavia, non causano errori di convalida, pertanto gli utenti visualizzeranno la sintassi `+++` della sezione nidificata.
 * Assicurati di aggiungere righe vuote sopra e sotto elementi come elenchi puntati e blocchi di codice all’interno della sezione comprimibile, altrimenti si verificherà un errore di convalida.
 * È possibile aggiungere titoli all&#39;interno di sezioni comprimibili, ma non è consigliabile.
 * [Le Accordions non sono sempre la risposta per i contenuti complessi sui desktop](https://www.nngroup.com/articles/accordions-complex-content/)
-* Un inconveniente storico delle sezioni comprimibili è che **Trova nella pagina** (Ctrl/Comando+F) ignora il testo compresso. Anche se questo è ancora vero in Safari, non lo è più in Chrome; Trova nella pagina rileva il testo compresso in Chrome.
-* Esempio di [aggiornamenti di manutenzione](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) utilizzando sezioni comprimibili.
+* Uno svantaggio storico delle sezioni comprimibili è che **Trova nella pagina** (Ctrl/Comando+F) ignora il testo compresso. Anche se questo è ancora vero in Safari, non lo è più in Chrome; Trova nella pagina rileva il testo compresso in Chrome.
+* Esempio di [aggiornamenti di manutenzione](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) pagina utilizzando sezioni comprimibili.
 
 ## Commenti e osservazioni
 
@@ -306,7 +308,7 @@ Non è possibile visualizzare il testo sottostante (&quot;Non è possibile visua
 You can't see me (unless you're editing in Git).
 -->
 
-**Promemoria:** I commenti (osservazioni) non vengono visualizzati negli articoli della guida rivolti al pubblico. Tuttavia, i commenti vengono visualizzati nei file Markdown rivolti al pubblico che gli utenti possono visualizzare e modificare.
+**Promemoria:** i commenti (osservazioni) non vengono visualizzati negli articoli della guida rivolti al pubblico. Tuttavia, i commenti vengono visualizzati nei file Markdown rivolti al pubblico che gli utenti possono visualizzare e modificare.
 
 >[!IMPORTANT]
 >
@@ -368,7 +370,7 @@ Cat
 
 Carica il file .zip o un altro file scaricabile nella directory delle risorse, quindi collegalo. Se si tratta di un file .zip, facendo clic sul collegamento verrà scaricato il file. Se si tratta di un tipo di file, ad esempio PDF o PNG, che può essere aperto in un browser, facendo clic sul collegamento verrà aperta una nuova scheda. Per tali file, è consigliabile comprimerli o fornire istruzioni per fare clic con il pulsante destro del mouse sul collegamento e scaricarli.
 
-`Download` &amp;assente;`download-test.zip`&amp;rack;`(assets/download-test.zip)`
+`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
 
 Rendering:
 
@@ -380,7 +382,7 @@ La dimensione massima del file per il download di file e immagini è di 100 MB. 
 
 ## Intestazioni {#headings}
 
-In Markdown si utilizzano i segni cancelletto (`#`) per identificare i livelli di intestazione. Il primo livello (`#`) è il titolo dell’articolo, specificato anche nell’intestazione dei metadati, mantienili invariati. Il secondo livello (`##`) rappresenta i titoli principali della pagina che verranno inclusi nel mini-sommario. Se sei abituato a scrivere in AEM (chl-author), le intestazioni di livello 2 (`##`) mappare la componente &quot;Rubrica 1&quot; nell&#39;AEM.
+In Markdown si utilizzano i cancelletti (`#`) per identificare i livelli di intestazione. Il primo livello (`#`) è il titolo dell&#39;articolo, anch&#39;esso specificato nell&#39;intestazione dei metadati. Mantenerli invariati. Il secondo livello (`##`) rappresenta le intestazioni principali della pagina che verranno incluse nel mini-sommario. Se si è abituati a scrivere in AEM (chl-author), le intestazioni di livello 2 (`##`) vengono mappate al componente &quot;Titolo 1&quot; nell&#39;AEM.
 
 Numero massimo di caratteri per le intestazioni: 69 caratteri (inglese) / 120 caratteri (LOC).
 
@@ -394,16 +396,16 @@ Numero massimo di caratteri per le intestazioni: 69 caratteri (inglese) / 120 ca
 
 **Best practice per i titoli**
 
-* Assicurati che un&#39;intestazione di livello 1 (`#`) segue una riga vuota dopo i metadati in ciascun articolo.
-* Non saltare i livelli, ad esempio dal livello 2 (`##`) al livello 4 (`####`).
-* Includi una riga vuota *prima di* e *dopo* ogni titolo.
-* Se un&#39;intestazione include numeri, specifica un ID titolo esplicito che non inizi con un numero, ad esempio `## Release notes for 2016 {#release-notes-2016}`.
+* Assicurarsi che un&#39;intestazione di livello 1 (`#`) segua una riga vuota dopo i metadati in ogni articolo.
+* Non saltare i livelli, ad esempio passare dal livello 2 (`##`) al livello 4 (`####`).
+* Includi una riga vuota *prima* e *dopo* ogni intestazione.
+* Se un&#39;intestazione include numeri, specificare un ID titolo esplicito che non inizi con un numero, ad esempio `## Release notes for 2016 {#release-notes-2016}`.
 * Consigliamo solo 3 livelli di intestazione. Al momento, i livelli 4 e successivi non vengono riprodotti correttamente.
-* Le intestazioni vengono visualizzate nella barra di spostamento a destra, in modo che gli utenti possano fare clic per passare a una sezione. Per impostazione predefinita, nella barra di navigazione a destra vengono visualizzati due livelli di intestazione. Se si desidera modificare il numero di livelli, utilizzare `mini-toc-levels` metadati, come `mini-toc-levels: 3`.
+* Le intestazioni vengono visualizzate nella barra di spostamento a destra, in modo che gli utenti possano fare clic per passare a una sezione. Per impostazione predefinita, nella barra di navigazione a destra vengono visualizzati due livelli di intestazione. Se si desidera modificare il numero di livelli, utilizzare i metadati `mini-toc-levels`, ad esempio `mini-toc-levels: 3`.
 
 **ID intestazione**
 
-ID intestazione (denominati anche *ID di ancoraggio*) vengono utilizzati per creare collegamenti profondi personalizzati alle sezioni all’interno degli articoli. Per specificare un ID intestazione, usa questo formato:
+Gli ID intestazione (detti anche *ID di ancoraggio*) vengono utilizzati per creare collegamenti profondi personalizzati alle sezioni all&#39;interno degli articoli. Per specificare un ID intestazione, usa questo formato:
 
 ```
 ## Creating processing rules {#processing-rules}
@@ -411,7 +413,7 @@ ID intestazione (denominati anche *ID di ancoraggio*) vengono utilizzati per cre
 
 Gli ID intestazione devono essere minuscoli e sillabati.
 
-Se non si specifica un ID titolo per un titolo, l&#39;ID titolo predefinito è l&#39;intestazione &quot;slugificato&quot; (minuscolo e sillabato). Ad esempio, il `## Creating widgets and Such` l’intestazione avrà un `#creating-widgets-and-such` ancoraggio.
+Se non si specifica un ID titolo per un titolo, l&#39;ID titolo predefinito è l&#39;intestazione &quot;slugificato&quot; (minuscolo e sillabato). Ad esempio, l&#39;intestazione `## Creating widgets and Such` avrà un ancoraggio `#creating-widgets-and-such`.
 
 ## Sintassi HTML {#html}
 
@@ -458,13 +460,13 @@ Se desideri aggiungere la sintassi HTML a questo elenco, registra un ticket o co
 
 ## Immagini {#images}
 
-Utilizza il `![]()` per le immagini. Parentesi `[ ]` includere testo alternativo e le parentesi `( )` includi la posizione dell’immagine e il testo opzionale al passaggio del mouse (descrizione comando). Il punto esclamativo distingue un&#39;immagine da un collegamento.
+Utilizza la sintassi `![]()` per le immagini. Le parentesi quadre `[ ]` includono il testo alternativo e le parentesi `( )` includono la posizione dell&#39;immagine e il testo al passaggio del mouse facoltativo (descrizione comando). Il punto esclamativo distingue un&#39;immagine da un collegamento.
 
 ```
 ![alt text](assets/logo.png "Hover text")
 ```
 
-![testo alternativo](assets/logo.png "Testo al passaggio del mouse")
+![Testo alternativo](assets/logo.png "Testo al passaggio del mouse")
 
 Per le immagini condivise, puoi posizionarle in una cartella di risorse principale e quindi utilizzare un collegamento principale che funziona da qualsiasi file all’interno di un archivio:
 
@@ -484,12 +486,12 @@ Utilizza una sintassi come quella riportata di seguito per modificare la larghez
 
 Rendering:
 
-![Testo alternativo immagine immersione](assets/maui-dive.jpg "Testo al passaggio del mouse - La larghezza dell’immersione audio è di 300 pixel e centrata"){width="300" align="center"}
+![Testo alternativo immagine immersione](assets/maui-dive.jpg "Testo al passaggio del mouse - La larghezza dell&#39;immersione Maui è di 300 pixel e centrata"){width="300" align="center"}
 
 * Per le immagini di grandi dimensioni, si consiglia di creare immagini di dimensioni sufficienti per essere ridimensionate in modo da rientrare nella larghezza della pagina, ovvero con una larghezza di almeno 640 pixel. La larghezza consigliata è di 1500 pixel. Non è necessario creare immagini di dimensioni superiori a 2500 pixel o 500 kilobyte. La dimensione massima del file per le immagini è 100 MB.
-* Per le immagini di piccole dimensioni, crea le immagini utilizzando la larghezza desiderata in pixel oppure utilizza il parametro width, ad esempio `{width="250"}` (pixel) o `{width="50%"}` (percentuale di area di visualizzazione, non dimensioni immagine originali). Le immagini vengono ridimensionate proporzionalmente. Tieni presente che le immagini possono essere ridimensionate verso l’alto o il basso, quindi fai attenzione alla pixelazione.
+* Per le immagini di piccole dimensioni, creare le immagini utilizzando la larghezza desiderata in pixel oppure utilizzare il parametro width, ad esempio `{width="250"}` (pixel) o `{width="50%"}` (percentuale dell&#39;area di visualizzazione, non le dimensioni dell&#39;immagine originale). Le immagini vengono ridimensionate proporzionalmente. Tieni presente che le immagini possono essere ridimensionate verso l’alto o il basso, quindi fai attenzione alla pixelazione.
 * In alcuni casi, le immagini della stessa interfaccia appariranno sproporzionate sulla pagina perché le immagini più grandi (come una barra degli strumenti) vengono ridimensionate, mentre le immagini più strette (come un pannello) non vengono ridimensionate. In questi casi, puoi ridimensionare immagini più ampie per migliorare la coerenza visiva.
-* È possibile modificare l&#39;allineamento di un&#39;immagine all&#39;interno dell&#39;area di visualizzazione. Utilizza uno dei seguenti `{align="center"}` o `{align="right"}`. Il `valign` parametro non supportato.
+* È possibile modificare l&#39;allineamento di un&#39;immagine all&#39;interno dell&#39;area di visualizzazione. Utilizzare `{align="center"}` o `{align="right"}`. Il parametro `valign` non è supportato.
 
 >[!NOTE]
 >
@@ -540,7 +542,7 @@ Rendering:
 
 [Adobe](https://www.adobe.com)
 
-Se aggiungi un URL direttamente al testo, non viene convertito automaticamente in un collegamento. Se desideri che un URL venga visualizzato come collegamento, aggiungi `< >` sintassi. Esempi:
+Se aggiungi un URL direttamente al testo, non viene convertito automaticamente in un collegamento. Se si desidera che un URL venga visualizzato come collegamento, aggiungere la sintassi `< >`. Esempi:
 
 ```
 https://www.adobe.com
@@ -564,7 +566,7 @@ Ecco l’aspetto di un collegamento relativo standard:
 See [Overview example article](collaborative-doc-instructions/overview.md)
 ```
 
-Il percorso deve tenere conto della posizione del file di origine e del file di destinazione. Puoi utilizzare tutti gli operandi di collegamento relativo, ad esempio `./` (directory corrente), `../` (indietro di una directory), e `../../` (indietro di due directory).
+Il percorso deve tenere conto della posizione del file di origine e del file di destinazione. È possibile utilizzare tutti gli operandi di collegamento relativo, ad esempio `./` (directory corrente), `../` (indietro di una directory) e `../../` (indietro di due directory).
 
 **Opzione 2: collegamento relativo principale**
 
@@ -590,7 +592,7 @@ Per collegare questa intestazione da un articolo diverso nell’archivio, aggiun
 
 **Apri in una nuova scheda**
 
-Se desideri che un collegamento apra una nuova scheda, ad esempio quando passi a un’altra guida, utilizza `{target="_blank"}` nel collegamento.
+Se si desidera che un collegamento apra una nuova scheda, ad esempio quando si passa a un&#39;altra guida, utilizzare la proprietà `{target="_blank"}` nel collegamento.
 
 Esempio:
 
@@ -619,7 +621,7 @@ Utilizza il componente &quot;Altri argomenti correlati&quot; per visualizzare i 
 
 **Sintassi**
 
-![Altri argomenti correlati](assets/morelikethis.png)
+![Altri argomenti correlati a questa sintassi](assets/morelikethis.png)
 
 **Esempio**
 
@@ -734,9 +736,9 @@ Questa è una nota di successo. Solo EXL.
 
 ## Elenchi numerati ed elenchi puntati {#lists}
 
-Per creare elenchi numerati, inizia una riga con `1.` o `1)`, ma scegli un metodo e utilizzalo in modo coerente all’interno dell’articolo. Non è necessario specificare i numeri, che sono gestiti automaticamente da GitHub.
+Per creare elenchi numerati, iniziare una riga con `1.` o `1)`, ma scegliere un metodo e utilizzarlo in modo coerente all&#39;interno dell&#39;articolo. Non è necessario specificare i numeri, che sono gestiti automaticamente da GitHub.
 
-Usa il numero `1` per ogni passaggio nell&#39;elenco numerato.
+Utilizzare il numero `1` per ogni passaggio dell&#39;elenco numerato.
 
 Aggiungere righe vuote prima e dopo gli elenchi.
 
@@ -766,9 +768,9 @@ Aggiungere righe vuote prima e dopo gli elenchi.
 
 1. This is yet another step, the third.
 
-Per creare elenchi puntati, inizia una riga con `*` o `-` o `+`, ma scegli un metodo e utilizzalo in modo coerente all’interno dell’articolo. (se si combinano i formati, ad esempio `*` e `+`, quando si archivia il file verrà restituito un errore di convalida Markdown.)
+Per creare elenchi puntati, iniziare una riga con `*` o `-` o `+`, ma scegliere un metodo e utilizzarlo in modo coerente all&#39;interno dell&#39;articolo. Se si combinano i formati, ad esempio `*` e `+`, verrà restituito un errore di convalida Markdown quando si archivia il file.
 
-**Best practice:** Utilizzare `*` per i punti elenco. In Visual Studio Code viene applicato l&#39;asterisco per i punti elenco, pertanto è più semplice utilizzare gli asterischi per automatizzare la creazione di un elenco non ordinato. (Potresti aver notato che il file TOC.md utilizza i segni più (+) `+` per gli elenchi. È una perdita dovuta alla migrazione. Qualsiasi carattere punto elenco valido funziona se è coerente all’interno dell’articolo.)
+**Best practice:** utilizza `*` per i punti elenco. In Visual Studio Code viene applicato l&#39;asterisco per i punti elenco, pertanto è più semplice utilizzare gli asterischi per automatizzare la creazione di un elenco non ordinato. È possibile che il file TOC.md utilizzi i segni più `+` per gli elenchi. È una perdita dovuta alla migrazione. Qualsiasi carattere punto elenco valido funziona se è coerente all’interno dell’articolo.)
 
 **Sintassi**
 
@@ -838,13 +840,13 @@ NOTA: se esegui un rientro eccessivo, ad esempio 6 spazi invece di 3, il contenu
 
 Le caselle di ombreggiatura sono utili per impostare una sezione di contenuto dal resto della pagina. Ad esempio, al team di Workfront piace aggiungere caselle di esempio contenenti testo, immagini ed esempi di codice per raggiungere uno scopo specifico. Una casella di ombreggiatura può essere utile anche per sezioni &quot;In proprio&quot; o &quot;Caso d’uso&quot; o per note o suggerimenti estesi.
 
-Per creare una casella di ombreggiatura, aggiungere `>[!BEGINSHADEBOX]` all’inizio della sezione e `>[!ENDSHADEBOX]` alla fine. Tutto il contenuto tra questi tag di inizio e di fine avrà uno sfondo grigio. Aggiunta di un’etichetta a `BEGINSHADEBOX` (ad esempio `>[!BEGINSHADEBOX "Use Case]` è un metodo facoltativo per creare un titolo di riquadro ombreggiato. È inoltre possibile aggiungere semplicemente testo in grassetto o un titolo alla riga successiva.
+Per creare una casella ombreggiata, aggiungere `>[!BEGINSHADEBOX]` all&#39;inizio della sezione e `>[!ENDSHADEBOX]` alla fine. Tutto il contenuto tra questi tag di inizio e di fine avrà uno sfondo grigio. L&#39;aggiunta di un&#39;etichetta a `BEGINSHADEBOX` (ad esempio `>[!BEGINSHADEBOX "Use Case]` è un metodo facoltativo per creare un titolo di riquadro ombreggiato. È inoltre possibile aggiungere semplicemente testo in grassetto o un titolo alla riga successiva.
 
 Esempio:
 
 >[!BEGINSHADEBOX]
 
-**Rimozione del bordo di una tabella HTML**
+**Rimozione del bordo in una tabella HTML**
 
 In alcuni casi, si utilizza una tabella HTML per creare una progettazione equilibrata, ma non si desidera che il contenuto abbia l&#39;aspetto di una tabella. Per disattivare un bordo per una tabella HTML a una riga, utilizzare la sintassi seguente:
 
@@ -859,7 +861,7 @@ Non usi troppo. Per le tabelle normali, vogliamo mantenere una progettazione coe
 
 ![suggerimento tabella](assets/table-no-border.png)
 
-In una tabella a tre colonne, puoi anche aggiungere `<td align="center">` e `<td align="right">` per distribuire uniformemente il contenuto della cella nell&#39;area di visualizzazione. Se non fosse stato così, te l&#39;avrei detto.
+In una tabella a tre colonne è inoltre possibile aggiungere `<td align="center">` e `<td align="right">` per distribuire il contenuto delle celle in modo uniforme nell&#39;area di visualizzazione. Se non fosse stato così, te l&#39;avrei detto.
 
 Questa è l&#39;ultima riga della casella di ombreggiatura.
 
@@ -867,7 +869,7 @@ Questa è l&#39;ultima riga della casella di ombreggiatura.
 
 ## Snippet e include
 
-Per condividere il testo tra gli articoli in un archivio, crea un’ `_includes` cartella in `help` cartella. Questo `_includes` la cartella può avere file con estensione md a cui è possibile fare riferimento (inclusi) da altri file nell’archivio. Inoltre, un `snippets.md` Il file in questo archivio può includere ancoraggi Head2 a cui è possibile fare riferimento da qualsiasi file nell’archivio.
+Per condividere il testo tra gli articoli di un repository, creare una cartella `_includes` nella cartella `help`. La cartella `_includes` può contenere file con estensione md a cui è possibile fare riferimento (inclusi) da altri file nell&#39;archivio. Inoltre, un file `snippets.md` in questo repository può includere ancoraggi Head2 a cui è possibile fare riferimento da qualsiasi file nel repository.
 
 Riferimento a H2 nel file snippets.md: `{{id-name}}`
 
@@ -879,11 +881,11 @@ Le tabelle possono essere problematiche in Markdown. Quando si esegue la migrazi
 
 >[!TIP]
 >
-Osserva [Video sulle tabelle Markdown](https://video.tv.adobe.com/v/26220)
+Guarda il video [Tabelle Markdown](https://video.tv.adobe.com/v/26220)
 
 Le tabelle native hanno spesso un aspetto migliore in Markdown. Le colonne vengono ridimensionate in base al contenuto. Le tabelle HTML vengono sottoposte a rendering con colonne di uguale larghezza.
 
-Per impostazione predefinita, Markdown non supporta più righe o elenchi nelle celle. Tuttavia, sono disponibili tabelle Markdown estese per consentire l’inserimento di più righe nelle celle (utilizzando `<p>` o `<br>`) o elenchi di base (utilizzando `<ul><li>` ecc.).
+Per impostazione predefinita, Markdown non supporta più righe o elenchi nelle celle. Tuttavia, sono disponibili tabelle Markdown estese per consentire più righe nelle celle (utilizzando `<p>` o `<br>`) o elenchi di base (utilizzando `<ul><li>` e così via).
 
 >[!IMPORTANT]
 >
@@ -893,7 +895,7 @@ Non consentito in alcuna tabella: iframe, estensioni di celle, tabelle incorpora
 
 Non consentito nella tabella nativa Markdown: elenchi nidificati o complessi.
 
-Consulta [Tabelle](tables.md)
+Vedi [Tabelle](tables.md)
 
 **Sintassi**
 
@@ -926,10 +928,10 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 
 | Header | Another header | Yet another header |
 |------------|----------|----------------|
-| row 1 | primo paragrafo della cella<p>secondo paragrafo in cell(`<p>`)<br>interruzione di riga (`br`) | row 1 column 3 |
+| row 1 | primo paragrafo della cella<p>secondo paragrafo nella cella (`<p>`)<br>interruzione di riga (`br`) | row 1 column 3 |
 | row 2 | elenco puntato<ul><li>elemento 1</li><li>elemento 2</li><li>elemento 3</li></ul> | row 2 column 3 |
 
-**Tabella Markdown con interruzioni di riga e elenco di elementi falsi**
+**Tabella Markdown con interruzioni di riga e elenco non valido**
 
 Soluzione alternativa con i punti elenco manuali.
 
@@ -944,8 +946,8 @@ Soluzione alternativa con i punti elenco manuali.
 
 | Colore | Cose da fare |
 |--- |--- |
-| Rosso | * Letto <br> * Scrittura <br> * Studio |
-| Blu | * Nuoto <br> * Esecuzione <br> * Lift <br> **Nota**: ricordati di allenarti in modo intelligente. |
+| Rosso | * Lettura di <br> * Scrittura di <br> * Studio |
+| Blu | * Nuotare <br> * Eseguire <br> * Incrementare <br> **Nota**: ricorda di addestrare gli smart. |
 .32
 
 
@@ -953,7 +955,7 @@ Soluzione alternativa con i punti elenco manuali.
 
 Una scheda è un’area cliccabile nella parte superiore di una sezione che mostra contenuti diversi. Quando si fa clic su una scheda, viene visualizzato il contenuto della scheda e quello delle altre schede è nascosto.
 
-Per creare un set di schede, aggiungi `>[!BEGINTABS]` all&#39;inizio del set di schede e `>[!ENDTABS]` dopo l’ultima scheda. Aggiungi `>[!TAB <tab title>]` per ogni sezione della scheda e aggiungi il contenuto di ogni scheda sotto di essa.
+Per creare un set di schede, aggiungere `>[!BEGINTABS]` all&#39;inizio del set di schede e `>[!ENDTABS]` dopo l&#39;ultima scheda. Aggiungi `>[!TAB <tab title>]` tag per ogni sezione della scheda e aggiungi il contenuto di ogni scheda sotto di essa.
 
 **Sintassi della scheda**
 
@@ -983,7 +985,7 @@ This content appears in the Linux tab.
 >[!ENDTABS]
 ```
 
-**Rendering**
+**Rendering** eseguito
 
 >[!BEGINTABS]
 
@@ -1013,7 +1015,7 @@ Questo contenuto viene visualizzato nella scheda Linux.
 
 * Gli utenti non possono utilizzare la ricerca nella pagina (Ctrl+F/Comando+F) per individuare il contenuto all’interno di schede non visualizzate.
 * Se i titoli delle schede si estendono oltre la larghezza della visualizzazione della pagina nel browser dell’utente, viene visualizzata una barra di scorrimento orizzontale.
-* Non è possibile formattare i titoli delle schede. Qualsiasi sintassi aggiunta verrà trasmessa come parte del titolo. Ad esempio: `>[!TAB **iOS**]` verrà visualizzato come `**iOS**`.
+* Non è possibile formattare i titoli delle schede. Qualsiasi sintassi aggiunta verrà trasmessa come parte del titolo. `>[!TAB **iOS**]` verrà visualizzato come `**iOS**`.
 * È possibile creare più set di schede in una pagina, ma non è possibile nidificare un set di schede all&#39;interno di un altro set di schede.
 * Al set di schede viene applicato uno sfondo ombreggiato che consente agli utenti di distinguere il contenuto della scheda dagli altri contenuti.
 
@@ -1031,7 +1033,7 @@ Rendering:
 
 L’intero paragrafo NON deve essere evidenziato. <span class="preview"> Questa parola è in **grassetto** all&#39;interno di una frase evidenziata.</span> E questa è solo l’ultima frase.
 
-Come regola generale, utilizza `<span class="preview">` per evidenziare un paragrafo o un testo all&#39;interno di un paragrafo e utilizzare `<div class="preview">` per più paragrafi e componenti.
+Come regola generale, utilizza `<span class="preview">` per evidenziare un paragrafo o un testo all&#39;interno di un paragrafo e utilizza `<div class="preview">` per più paragrafi e componenti.
 
 >[!NOTE]
 >
@@ -1041,7 +1043,7 @@ L&#39;anteprima VSC non supporta ancora l&#39;evidenziazione.
 
 ## Video
 
-I video non verranno riprodotti in modo nativo in Markdown. Per visualizzare un video in linea, utilizzate l&#39;indicatore del componente `[!VIDEO]` e poi l&#39;url.
+I video non verranno riprodotti in modo nativo in Markdown. Per visualizzare un video in linea, utilizzare l&#39;indicatore del componente `[!VIDEO]` e quindi l&#39;URL.
 
 **Sintassi**
 
@@ -1076,11 +1078,11 @@ I componenti speciali vengono dichiarati in un block quote contenitore utilizzan
 * Evidenziazione testo
 * Schede pagina
 
-Utilizza il block quote di Markdown ( `>` ) all&#39;inizio di ogni riga per collegare un componente basato su paragrafo, ad esempio una nota. Per migliorare l&#39;anteprima, aggiungete una riga immediatamente dopo l&#39;inizio della sezione che contiene solo un simbolo di virgolette (`>`). Per terminare la sezione, aggiungi una riga vuota.
+Utilizzare il block quote di Markdown ( `>` ) all&#39;inizio di ogni riga per collegare un componente basato su paragrafi, ad esempio una nota. Per migliorare l&#39;anteprima, aggiungere una riga immediatamente dopo l&#39;inizio della sezione che contiene solo un simbolo di virgolette di blocco (`>`). Per terminare la sezione, aggiungi una riga vuota.
 
-Se devi utilizzare dei sottocomponenti all’interno dei componenti, aggiungi un ulteriore livello di block quote (`>  >`) per la sezione di quel sottocomponente. Ad esempio, una NOTA all’interno di una sezione DONOTLOCALIZE deve iniziare con `>  >`.
+Se è necessario utilizzare sottocomponenti all&#39;interno di componenti, aggiungere un ulteriore livello di block quote (`>  >`) per la sezione di quel sottocomponente. Ad esempio, una NOTA all&#39;interno di una sezione DONOTLOCALIZE deve iniziare con `>  >`.
 
-In alcuni casi, è necessario supportare impostazioni specifiche per gli elementi Markdown, ad esempio i titoli. Per modificare le impostazioni predefinite, aggiungere i parametri tra parentesi graffe `{# }` dopo il componente.
+In alcuni casi, è necessario supportare impostazioni specifiche per gli elementi Markdown, ad esempio i titoli. Se è necessario modificare le impostazioni predefinite, aggiungere i parametri tra parentesi graffe `{# }` dopo il componente.
 
 ### Righe vuote
 
@@ -1094,15 +1096,15 @@ Questo potrebbe non sembrare molto impressionante qui, ma provare righe vuote qu
 
 ### Caratteri per &quot;escape&quot; {#characters-to-escape}
 
-Diversi caratteri (`# { } [ ] < > * + - . !`) hanno un significato speciale in Markdown o HTML per la creazione di intestazioni, immagini, elenchi e altri componenti. Quando si utilizzano questi caratteri, il motore di rendering ritiene che si stia aggiungendo codice. Tuttavia, in alcuni casi, è necessario visualizzare questi caratteri nel testo. Per farlo, devi &quot;fuggire&quot; dai personaggi. Il metodo di escape più semplice consiste nel far precedere il carattere da una barra rovesciata (`\`). Ad esempio, se si desidera iniziare una riga con un `#` in modo che non venga interpretato come un titolo, è necessario digitare `\#`:
+Diversi caratteri (`# { } [ ] < > * + - . !`) hanno un significato speciale in Markdown o HTML per la creazione di intestazioni, immagini, elenchi e altri componenti. Quando si utilizzano questi caratteri, il motore di rendering ritiene che si stia aggiungendo codice. Tuttavia, in alcuni casi, è necessario visualizzare questi caratteri nel testo. Per farlo, devi &quot;fuggire&quot; dai personaggi. Il metodo di escape più semplice consiste nell&#39;anteporre al carattere una barra rovesciata (`\`). Se ad esempio si desidera iniziare una riga con un carattere `#` in modo che non venga interpretata come intestazione, digitare `\#`:
 
 `\# This is not a heading`
 
-**Rendering:**
+**Rendering eseguito:**
 
 \# Non è un titolo
 
-La barra rovesciata funziona solo con questi caratteri: `# { } [ ] * + - . !`. Se è necessario utilizzare caratteri di escape quali parentesi angolari (ad esempio `<yourname>`), è possibile racchiudere il testo tra apici retroversi per applicare un blocco di codice in linea oppure utilizzare il codice entità HTML al posto del carattere. Esempi di codici HTML comuni:
+La barra rovesciata funziona solo con i seguenti caratteri: `# { } [ ] * + - . !`. Se è necessario applicare caratteri di escape come parentesi angolari (ad esempio `<yourname>`), è possibile racchiudere il testo tra apici retroversi per applicare un blocco di codice in linea oppure utilizzare il codice dell&#39;entità HTML al posto del carattere. Esempi di codici HTML comuni:
 
 * `&lt;` (&lt;)
 * `&gt;` (>)
@@ -1111,15 +1113,15 @@ La barra rovesciata funziona solo con questi caratteri: `# { } [ ] * + - . !`. S
 * `&mdash;` (—)
 * `&ndash;` (-)
 
-Un elenco completo delle entità HTML è disponibile sul sito [Sito Web Freeformatter](https://www.freeformatter.com/html-entities.html). In questo modo sarà possibile cercare tutti i caratteri speciali.
+Un elenco completo delle entità HTML è disponibile nel [sito Web Freeformatter](https://www.freeformatter.com/html-entities.html). In questo modo sarà possibile cercare tutti i caratteri speciali.
 
 >[!NOTE]
 >
-Per passaggi a catena come &quot;Scegli file > Salva con nome&quot;, non è necessario eseguire l&#39;escape del `>` perché non è accanto ad altri caratteri. Per variabili quali `<filename>` puoi applicare l’escape alle parentesi angolari utilizzando uno dei due blocchi di codice `backticks` o codici carattere (`&lt;filename&gt;`).
+Per passaggi a catena come &quot;Scegli file > Salva con nome&quot;, non è necessario eseguire l&#39;escape del carattere `>` perché non è accanto ad altri caratteri. Per le variabili come `<filename>` è necessario applicare l&#39;escape alle parentesi angolari utilizzando il blocco di codice `backticks` o i codici di carattere (`&lt;filename&gt;`).
 
-Se utilizzi entità HTML nei blocchi di codice, il testo dell’entità non viene convertito nel carattere speciale. Ad esempio: `&gt;` viene visualizzato in un blocco di codice come &quot; `&gt;` &quot; invece di &quot; > &quot;.
+Se utilizzi entità HTML nei blocchi di codice, il testo dell’entità non viene convertito nel carattere speciale. Ad esempio, `&gt;` viene visualizzato in un blocco di codice come &quot; `&gt;` &quot; invece di &quot; > &quot;.
 
-Per sfuggire alle zecche posteriori ( &grave; ), utilizza `&grave;` oppure inserisci il segno di spunta posteriore all’interno di tre segni di spunta posteriori che racchiudono un blocco di codice in linea.
+Per eseguire l&#39;escape per gli apici retroversi ( &grave; ), utilizzare `&grave;` o inserire l&#39;apice retroverso all&#39;interno di apici tripli che racchiudono un blocco di codice in linea.
 
 ### Elementi non supportati
 
@@ -1127,7 +1129,7 @@ Ci sono alcuni articoli di Markdown aromatizzati con Git che non intendiamo supp
 
 **Elenco attività**
 
-Non supportati
+Non supportato
 
 ```
 * [x] Set up Jersey Shore recording
@@ -1138,7 +1140,7 @@ Non supportati
 
 **Emoji**
 
-Non supportati
+Non supportato
 
 ```
 :bowtie:
@@ -1146,15 +1148,15 @@ Non supportati
 
 **Regola orizzontale**
 
-Non supportati
+Non supportato
 
 ```
 ***
 ```
 
-**Virgolette**
+**Citazioni**
 
-Utilizziamo le citazioni (`>` all’inizio di una riga) per indicare la sintassi estesa di Markdown, ad esempio note e video, come descritto di seguito. Ma puoi anche utilizzare `>` per creare una sezione di block quote.
+Per indicare la sintassi Markdown estesa, ad esempio note e video, usiamo block quote (`>` all&#39;inizio di una riga), come descritto di seguito. È tuttavia possibile utilizzare la sintassi `>` anche per creare una sezione di block quote.
 
 >[!NOTE]
 >

@@ -7,7 +7,7 @@ exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
 source-git-commit: 6893d1e41c3899c3ab6a9b02b305161eb3f7e049
 workflow-type: tm+mt
 source-wordcount: '1421'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ Standard Markdown supporta solo tabelle di base. Per AdobeDocs Markdown, sono di
 
 * Tabelle Markdown di base
 * Tabelle HTML
-* Tabelle Markdown con sintassi HTML limitata per le interruzioni di paragrafo (`<p>`), interruzioni di riga (`<br>`) ed elenchi di base (`<ul>`, `<ol>`).
+* Tabelle Markdown con sintassi HTML limitata per interruzioni di paragrafo (`<p>`), interruzioni di riga (`<br>`) ed elenchi di base (`<ul>`, `<ol>`).
 
 ## Conversione di tabelle HTML in tabelle Markdown
 
@@ -29,24 +29,24 @@ In alcuni casi, è necessario convertire una tabella HTML in una tabella Markdow
 
 Sfortunatamente, non è stato possibile trovare un singolo strumento che converta correttamente le tabelle di HTML. Di solito usiamo una combinazione di strumenti per assemblare un tavolo Markdown decente.
 
-| Strumento | Effetto |
+| Strumento | Funzionamento |
 |--- |--- |
 | [Generatore di tabelle Markdown](https://www.tablesgenerator.com/markdown_tables) | Ideale per creare tabelle Markdown da zero. |
-| [Convertitore tabella avanzato](https://tableconvert.com/html-to-markdown) | Convertire le tabelle da qualsiasi formato in qualsiasi formato. <p>**Nota:** I collegamenti e le immagini vengono appiattiti al momento della conversione. |
-| [Tabella di base html > convertitore markdown](https://jmalarcon.github.io/markdowntables/) | Convertitore HTML semplice <p>**Nota:** I collegamenti e le immagini vengono appiattiti al momento della conversione. |
-| [HTML non tabella > Convertitore Markdown](https://codebeautify.org/html-to-markdown) | Converte le tabelle HTML in sintassi markdown non di tabella. Usare in combinazione con gli strumenti di cui sopra per copiare collegamenti, immagini e qualsiasi altro elemento appiattito. |
+| [Convertitore tabella avanzato](https://tableconvert.com/html-to-markdown) | Convertire le tabelle da qualsiasi formato in qualsiasi formato. <p>**Nota:** i collegamenti e le immagini vengono appiattiti al momento della conversione. |
+| [HTML tabella di base > convertitore markdown](https://jmalarcon.github.io/markdowntables/) | Convertitore HTML semplice <p>**Nota:** i collegamenti e le immagini vengono appiattiti al momento della conversione. |
+| [HTML non di tabella > Convertitore Markdown](https://codebeautify.org/html-to-markdown) | Converte le tabelle HTML in sintassi markdown non di tabella. Usare in combinazione con gli strumenti di cui sopra per copiare collegamenti, immagini e qualsiasi altro elemento appiattito. |
 
 ## Tabelle Markdown di base
 
 * Assicurarsi di aggiungere almeno tre trattini nella seconda riga che determina le proprietà della tabella. Esempio: `|--- |--- |--- |` per una tabella a 3 colonne.
 * Le tabelle Markdown devono avere almeno una riga di intestazione e una riga di corpo. Non è possibile creare una tabella markdown a una riga o a una cella (utilizzare invece HTML).
-* Assicurarsi che ogni riga abbia lo stesso numero di caratteri di barra verticale ( &amp;vert; ). Se è necessario includere un carattere barra rovesciata all&#39;interno di una cella di tabella, eseguire l&#39;escape premendo una barra rovesciata (`\|`) o utilizzando il codice entità HTML (`&vert;`).
+* Assicurarsi che ogni riga abbia lo stesso numero di caratteri di barra verticale ( &amp;vert; ). Se è necessario includere un carattere barra verticale all&#39;interno di una cella di tabella, eseguire l&#39;escape precedendolo con una barra rovesciata (`\|`) o utilizzando il codice entità HTML (`&vert;`).
 * Presta attenzione quando utilizzi i blocchi di codice nelle tabelle. I blocchi di codice in linea possono causare larghezze di colonna sproporzionate.
-* È possibile modificare il rendering della tabella specificando Automatico o Fisso. Consulta [Modifica del rendering delle tabelle](#table-rendering).
+* È possibile modificare il rendering della tabella specificando Automatico o Fisso. Vedere [Modifica del rendering delle tabelle](#table-rendering).
 
 ## Creazione di tabelle Markdown con bonus HTML
 
-Per facilitare la migrazione, abbiamo esteso le tabelle Markdown per supportare le interruzioni di paragrafo di HTML (`<p>`), interruzioni di riga (`<br>`) ed elenchi di HTML di base (`<ul>` e `<ol>`) nelle tabelle Markdown.
+Per facilitare la migrazione, sono state estese le tabelle Markdown per supportare le interruzioni di paragrafo (`<p>`), le interruzioni di riga (`<br>`) e gli elenchi di base di HTML HTML (`<ul>` e `<ol>`) all&#39;interno delle tabelle Markdown.
 
 **Tabella Markdown con interruzioni di riga ed elenchi**
 
@@ -105,7 +105,7 @@ Lo strumento di migrazione ha cercato di mantenere il più possibile la formatta
 </table>
 ```
 
-**Rendering**
+**Rendering** eseguito
 
 <table> 
  <tbody>
@@ -117,12 +117,12 @@ Lo strumento di migrazione ha cercato di mantenere il più possibile la formatta
   <tr>
    <td>badgingPath</td> 
    <td>Stringa[]</td> 
-   <td><p><i>(Obbligatorio)</i> Una stringa con più valori di immagini di badge fino al numero di badgeLevels. I percorsi delle immagini del badge devono essere ordinati in modo che il primo venga assegnato al massimo esperto. Se il numero di badge è inferiore a quello indicato da badgingLevels, l’ultimo badge nell’array occuperà il resto dell’array. Esempio di voce:</p><p> <code>/etc/community/badging/images/expert-badge/jcr:content/expert.png</code></p></td> 
+   <td><p><i>(Obbligatorio)</i> Stringa con più valori di immagini di badge fino al numero di badgingLevels. I percorsi delle immagini del badge devono essere ordinati in modo che il primo venga assegnato al massimo esperto. Se il numero di badge è inferiore a quello indicato da badgingLevels, l’ultimo badge nell’array occuperà il resto dell’array. Esempio di voce:</p><p> <code>/etc/community/badging/images/expert-badge/jcr:content/expert.png</code></p></td> 
   </tr>
   <tr>
    <td>badgingLevels</td> 
    <td>Lungo</td> 
-   <td><p><i>(Facoltativo)</i> Specifica i livelli di esperienza da assegnare. Ad esempio, se deve essere <code>expert </code>e un <code>almost expert</code> (due badge), il valore deve essere impostato su 2. Il valore badgingLevel deve corrispondere al numero di immagini badge correlate all’esperto elencate per la proprietà badgingPath. Il valore predefinito è 1.</p></td> 
+   <td><p><i>(Facoltativo)</i> Specifica i livelli di esperienza da assegnare. Ad esempio, se devono essere presenti <code>expert </code> e <code>almost expert</code> (due badge), il valore deve essere impostato su 2. Il valore badgingLevel deve corrispondere al numero di immagini badge correlate all’esperto elencate per la proprietà badgingPath. Il valore predefinito è 1.</p></td> 
   </tr>
   <tr>
    <td>badgingType</td> 
@@ -142,12 +142,12 @@ Lo strumento di migrazione ha cercato di mantenere il più possibile la formatta
 
 **Note per l&#39;utilizzo delle tabelle HTML**
 
-* Non utilizzare la sintassi Markdown nelle tabelle HTML. Ad esempio, se aggiungi `[!NOTE]` in una tabella HTML, verrà riprodotto così com’è (`[!NOTE]`). Utilizza invece la sintassi HTML per elementi come note e immagini.
+* Non utilizzare la sintassi Markdown nelle tabelle HTML. Se ad esempio si aggiunge `[!NOTE]` a una tabella HTML, verrà eseguito il rendering così com&#39;è (`[!NOTE]`). Utilizza invece la sintassi HTML per elementi come note e immagini.
 
   I tag localizzati rappresentano un’eccezione a questa regola, perché i tag UICONTROL e DNL vengono eliminati prima del rendering delle pagine.
 
 * Nelle tabelle non è supportata tutta la sintassi HTML. Gli elementi di larghezza, altezza, colore e altri elementi di sintassi HTML vengono ignorati durante il rendering in EXL. È possibile lasciare questi valori in a meno che non generino errori di convalida.
-* Per allineare il testo, utilizza `align: "left|center|right"` in HTML. Ad esempio, per centrare il contenuto di una cella di tabella, utilizzare `<td align="center">`.
+* Per allineare il testo, utilizzare `align: "left|center|right"` in HTML. Ad esempio, per centrare il contenuto di una cella di tabella, utilizzare `<td align="center">`.
 * Le tabelle HTML non possono includere tabelle nidificate.
 
 >[!TIP]
@@ -163,12 +163,12 @@ Lo strumento di migrazione ha cercato di mantenere il più possibile la formatta
 
 È possibile eseguire il rendering delle tabelle in due modi:
 
-* **Fisso** (attualmente l’impostazione predefinita) - Include regole personalizzate per il rendering delle tabelle, incluse le tabelle HTML con immagini. Le tabelle vengono riprodotte a larghezza intera senza scorrimento, il che a volte causa la sovrapposizione del testo.
-* **Automatico** - Simile al Git-Flavored Markdown (GFM). Le tabelle possono scorrere, pertanto il testo non si sovrappone.
+* **Fisso** (attualmente l&#39;impostazione predefinita) - Include regole personalizzate per il rendering delle tabelle, incluse le tabelle HTML con immagini. Le tabelle vengono riprodotte a larghezza intera senza scorrimento, il che a volte causa la sovrapposizione del testo.
+* **Automatico** - Simile a Git-Flavored Markdown (GFM). Le tabelle possono scorrere, pertanto il testo non si sovrappone.
 
-Nella maggior parte dei casi, le tabelle vengono visualizzate con lo stesso aspetto. Tuttavia, se la tabella include testo sovrapposto, è necessario applicare `auto` tag. Oppure, se il rendering della tabella HTML con le schede immagine non viene eseguito correttamente, potrebbe essere utile applicare il `fixed` tag.
+Nella maggior parte dei casi, le tabelle vengono visualizzate con lo stesso aspetto. Tuttavia, se la tabella include testo sovrapposto, si desidera applicare il tag `auto`. In alternativa, se il rendering della tabella HTML con le schede immagine non viene eseguito correttamente, è possibile applicare il tag `fixed`.
 
-Stiamo considerando di modificare il valore predefinito da `fixed` a `auto`.
+Stiamo valutando di cambiare il valore predefinito da `fixed` a `auto`.
 
 ## Modifica delle tabelle Markdown
 
@@ -177,7 +177,7 @@ Se si desidera specificare la modalità di rendering di una tabella di markdown 
 * `{style="table-layout:auto"}`
 * `{style="table-layout:fixed"}`
 
-![rendering di tabelle](assets/table-render.png)
+![rendering della tabella](assets/table-render.png)
 
 ### Modifica delle tabelle di HTML
 
@@ -203,18 +203,18 @@ Se si desidera specificare la modalità di rendering di una tabella HTML, utiliz
 
 **Testo sovrapposto**
 
-Utilizzare `auto` per tabelle con blocchi di codice lunghi o testo che causa la sovrapposizione del testo quando `fixed` (impostazione predefinita) è selezionato.
+Utilizzare `auto` per le tabelle con blocchi di codice lunghi o testo che causa la sovrapposizione del testo quando è selezionato `fixed` (impostazione predefinita).
 
-*Fisso (predefinito)*
+*Fisso (Predefinito)*
 
 | Metrica Approfondimenti | Descrizione | Parametro query ID |
 | ---- | ---- | ---- |
-| **timeseries.data.collection.validation.category.type.count** | Numero totale di messaggi di &quot;tipo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.range.count** | Numero totale di messaggi &quot;intervallo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.format.count** | Numero totale di messaggi &quot;format&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.pattern.count** | Numero totale di messaggi &quot;pattern&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.presence.count** | Numero totale di messaggi di &quot;presenza&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.enum.count** | Numero totale di messaggi &quot;enum&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.type.count** | Numero totale di messaggi di &quot;tipo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.range.count** | Numero totale di messaggi &quot;intervallo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.format.count** | Numero totale di messaggi &quot;format&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.pattern.count** | Numero totale di messaggi &quot;pattern&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.presence.count** | Numero totale di messaggi di &quot;presenza&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.enum.count** | Numero totale di messaggi &quot;enum&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
 
 {style="table-layout:fixed"}
 
@@ -222,18 +222,18 @@ Utilizzare `auto` per tabelle con blocchi di codice lunghi o testo che causa la 
 
 | Metrica Approfondimenti | Descrizione | Parametro query ID |
 | ---- | ---- | ---- |
-| **timeseries.data.collection.validation.category.type.count** | Numero totale di messaggi di &quot;tipo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.range.count** | Numero totale di messaggi &quot;intervallo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.format.count** | Numero totale di messaggi &quot;format&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.pattern.count** | Numero totale di messaggi &quot;pattern&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.presence.count** | Numero totale di messaggi di &quot;presenza&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
-| **timeseries.data.collection.validation.category.enum.count** | Numero totale di messaggi &quot;enum&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.type.count** | Numero totale di messaggi di &quot;tipo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.range.count** | Numero totale di messaggi &quot;intervallo&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.format.count** | Numero totale di messaggi &quot;format&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.pattern.count** | Numero totale di messaggi &quot;pattern&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.presence.count** | Numero totale di messaggi di &quot;presenza&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
+| **serie temporali.data.collection.validation.category.enum.count** | Numero totale di messaggi &quot;enum&quot; non validi per un set di dati o per tutti i set di dati. | ID set di dati |
 
 {style="table-layout:auto"}
 
-**Tabelle HTML con immagini bilanciate**
+**tabelle HTML con immagini bilanciate**
 
-Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si sbilanciano quando `auto` è selezionato. In questo esempio, le dimensioni delle immagini sono identiche, ma la colonna centrale contiene più testo.
+Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si sbilanciano quando si seleziona `auto`. In questo esempio, le dimensioni delle immagini sono identiche, ma la colonna centrale contiene più testo.
 
 *Automatico*
 
@@ -246,7 +246,7 @@ Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si
     <div>
     <a href="note-test.md"><strong>Flusso di lavoro per lead di Adobe</strong></a>
     </div>
-    <em>Flusso di lavoro di modifica principale per autori di lead.</em>
+    <em>Flusso di lavoro di modifica principale per autori lead.</em>
     <br>
   </td>
   <td>
@@ -256,7 +256,7 @@ Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si
     <div>
     <a href="syntax-style-guide.md"><strong>Flusso di lavoro per utenti non frequenti</strong></a>
     </div>
-    <em>Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi.</em>
+    <em>Non sei un autore principale? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi.</em>
     <br>
   </td>
   <td>
@@ -272,7 +272,7 @@ Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si
 </tr>
 </table>
 
-*Fisso (in più modi)*
+*Corretto (in più modi)*
 
 <table style="table-layout:fixed">
 <tr>
@@ -283,7 +283,7 @@ Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si
     <div>
     <a href="note-test.md"><strong>Flusso di lavoro per lead di Adobe</strong></a>
     </div>
-    <em>Flusso di lavoro di modifica principale per autori di lead.</em>
+    <em>Flusso di lavoro di modifica principale per autori lead.</em>
     <br>
   </td>
   <td>
@@ -293,7 +293,7 @@ Utilizzare `fixed` per le tabelle HTML che richiedono immagini bilanciate che si
     <div>
     <a href="syntax-style-guide.md"><strong>Flusso di lavoro per utenti non frequenti</strong></a>
     </div>
-    <em>Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi.</em>
+    <em>Non sei un autore principale? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi. Non sei uno scrittore? Scopri i modi più semplici per apportare contributi.</em>
     <br>
   </td>
   <td>

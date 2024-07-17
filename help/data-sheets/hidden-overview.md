@@ -27,6 +27,6 @@ ht-degree: 39%
 
 ## Nuova sezione
 
-Non sto facendo clic su Pubblica ora, quindi se vedi questo messaggio, l&#39;attivazione automatica ha funzionato.
+Non sto facendo clic su Publish Now (Attivazione automatica), quindi se vedi questo messaggio, l&#39;attivazione automatica ha funzionato.
 
 6 giugno, 19:12 PT

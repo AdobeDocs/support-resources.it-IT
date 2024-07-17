@@ -3,10 +3,11 @@ title: Interruzioni di tabella
 description: Verifica di interruzioni di tabella diverse
 hide: true
 hidefromtoc: true
-source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
+exl-id: a769fcb7-f8d3-419b-bdd4-98b71bdf3b5d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 12%
+ht-degree: 8%
 
 ---
 
@@ -16,7 +17,7 @@ Non c&#39;è molto da vedere.
 
 ## Tabella markdown standard con `<br>`
 
-**FISSO`Green<br>Red<br>Blue`**
+**CORRETTO`Green<br>Red<br>Blue`**
 
 |  | Numero | Colori |
 |---|---|---|
@@ -34,9 +35,9 @@ Non c&#39;è molto da vedere.
 
 {style="table-layout:auto"}
 
-## Tabella Markdown con doppio `<br>`s
+## Tabella Markdown con `<br>` doppi
 
-**FISSO`Green<br><br>Red<br><br>Blue`**
+**CORRETTO`Green<br><br>Red<br><br>Blue`**
 
 |  | Numero | Colori |
 |---|---|---|
@@ -56,7 +57,7 @@ Non c&#39;è molto da vedere.
 
 ## Tabella Markdown con `<p>`
 
-**FISSO`Green<p>Red<p>Blue`**
+**CORRETTO`Green<p>Red<p>Blue`**
 
 |  | Numero | Colori |
 |---|---|---|
@@ -76,14 +77,14 @@ Non c&#39;è molto da vedere.
 
 |  | Numero | Colori |
 |---|---|---|
-| Juanya | 17 | Questo è il colore **verde** ed è destinato a racchiudere in una riga diversa come materia e/o mezzo di prova le suddette interruzioni di paragrafo. <p>Questo è il colore **rosso** ed è destinato a racchiudere in una riga diversa come materia e/o mezzo di prova le suddette interruzioni di paragrafo. <p>Questo è il colore **blu** ed è destinato a racchiudere in una riga diversa come materia e/o mezzo di prova le suddette interruzioni di paragrafo. |
+| Juanya | 17 | Questo è il colore **verde** ed è destinato a racchiudere in una riga diversa come argomento e/o mezzo di verifica di tali interruzioni di paragrafo. <p>Questo è il colore **rosso** ed è destinato a racchiudere in un&#39;altra riga come argomento e/o mezzo di verifica delle interruzioni di paragrafo sopra indicate. <p>Questo è il colore **blu** ed è destinato a racchiudere in un&#39;altra riga come argomento e/o mezzo di verifica delle interruzioni di paragrafo sopra indicate. |
 | Maria | 23 | Giallo<p>Marrone |
 
 {style="table-layout:fixed"}
 
 |  | Numero | Colori |
 |---|---|---|
-| Juanya | 17 | Questo è il colore **verde** ed è destinato a racchiudere in una riga diversa come materia e/o mezzo di prova le suddette interruzioni di paragrafo. <p>Questo è il colore **rosso** ed è destinato a racchiudere in una riga diversa come materia e/o mezzo di prova le suddette interruzioni di paragrafo. <p>Questo è il colore **blu** ed è destinato a racchiudere in una riga diversa come materia e/o mezzo di prova le suddette interruzioni di paragrafo. |
+| Juanya | 17 | Questo è il colore **verde** ed è destinato a racchiudere in una riga diversa come argomento e/o mezzo di verifica di tali interruzioni di paragrafo. <p>Questo è il colore **rosso** ed è destinato a racchiudere in un&#39;altra riga come argomento e/o mezzo di verifica delle interruzioni di paragrafo sopra indicate. <p>Questo è il colore **blu** ed è destinato a racchiudere in un&#39;altra riga come argomento e/o mezzo di verifica delle interruzioni di paragrafo sopra indicate. |
 | Maria | 23 | Giallo<p>Marrone |
 
 {style="table-layout:auto"}

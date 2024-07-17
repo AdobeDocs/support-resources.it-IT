@@ -158,10 +158,10 @@ I badge utilizzano i colori definiti nello spettro Adobe:
 | Tipo | Badge |
 |---|---|
 | Informativo (impostazione predefinita) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nuova funzione]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativo | [!BADGE Interrotto]{type=negative tooltip="This feature is now end of life"} |
-| Neutro | [!BADGE Forse]{type=Neutral tooltip="A rider fell off the horse..."} |
-| Attenzione | [!BADGE Attenzione]{type=Caution tooltip="Yellow status"} |
+| Positivo | [!BADGE Nuova funzione]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativo | [!BADGE Interrotto]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutro | [!BADGE Forse]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| Attenzione | [!BADGE Attenzione]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 Esempi di sintassi
 

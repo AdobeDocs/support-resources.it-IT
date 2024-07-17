@@ -3,7 +3,7 @@ title: Supporto Business
 description: I servizi di supporto Business per Adobe Experience Cloud consentono di accedere ai team di supporto tecnico di Adobe e a un Account Support Lead per la gestione degli account.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 100%
 
