@@ -3,9 +3,9 @@ title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2199'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 | **Componente aggiuntivo Supporto cloud avanzato**<br> Assistenza e garanzia del valore di massimo livello per i clienti di Adobe Experience Manager as a Cloud Service | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Sessioni tutor**<br> Fornisce apprendimento basato sulle abilità in un metodo di formazione just-in-time | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/green_checkmark.svg){width="20"} Inclusa |
 | **Componente aggiuntivo Developer Boost**<br> Fornisce agli esperti tecnici l’accesso sul campo per fornire assistenza per il break-fix | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
-| **Componente aggiuntivo Priority Queue Bundle**<br> Fornisce tempi di risposta più rapidi, un unico punto di contatto per le attività di supporto e l&#39;accesso agli Acceleratori di successo. | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
+| **Pacchetto componente aggiuntivo per coda di priorità**<br> Fornisce tempi di risposta più rapidi, un unico punto di contatto per le attività di supporto e l’accesso agli Acceleratori di successo. | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
 
 {style="table-layout:fixed"}
 
