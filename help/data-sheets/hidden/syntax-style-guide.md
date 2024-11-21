@@ -5,16 +5,16 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
+source-git-commit: 0c01084577891a2869a2f5538381ca952514ff9c
 workflow-type: tm+mt
-source-wordcount: '4300'
+source-wordcount: '4305'
 ht-degree: 13%
 
 ---
 
 # Guida allo stile della sintassi Markdown
 
-Questa pagina illustra il componente markdown per l’authoring della documentazione tecnica delle esperienze digitali utilizzando il formato markdown (.md). Questa pagina include dettagli per Adobe i dipendenti.
+Questa pagina illustra il componente markdown per l’authoring della documentazione tecnica delle esperienze digitali utilizzando il formato markdown (.md). Questa pagina include i dettagli per i dipendenti Adobe.
 
 EDS
 
@@ -486,6 +486,8 @@ Utilizza una sintassi come quella riportata di seguito per modificare la larghez
 
 Rendering:
 
+Bob - Larghezza = 300 pixel sotto
+
 ![Testo alternativo immagine immersione](assets/maui-dive.jpg "Testo al passaggio del mouse - La larghezza dell&#39;immersione Maui è di 300 pixel e centrata"){width="300" align="center"}
 
 * Per le immagini di grandi dimensioni, si consiglia di creare immagini di dimensioni sufficienti per essere ridimensionate in modo da rientrare nella larghezza della pagina, ovvero con una larghezza di almeno 640 pixel. La larghezza consigliata è di 1500 pixel. Non è necessario creare immagini di dimensioni superiori a 2500 pixel o 500 kilobyte. La dimensione massima del file per le immagini è 100 MB.
@@ -509,7 +511,7 @@ Se desideri consentire agli utenti di fare clic su un’immagine per passare a u
 
 **Esempio**
 
-Fai clic su questa immagine per passare al sito web dell’Adobe.
+Fai clic su questa immagine per passare al sito web di Adobe.
 
 [![immagine](assets/core-services_96.png)](https://www.adobe.com)
 
