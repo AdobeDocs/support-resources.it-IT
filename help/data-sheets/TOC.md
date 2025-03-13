@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: af88f8e75bcc3a5402c8b81ea2cf2a219e06e6fe
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -53,8 +53,8 @@ ht-degree: 98%
 + [Test di tabelle nascoste](hidden/tables.md)
 + [Interruzioni di tabella nascoste](hidden/table-breaks.md)
 + [Test nota nascosta](hidden/note-test.md)
-+ Sezione test {#test-section}
-   + [Solo nuova attivazione automatica nascosta](hidden/autoactivate.md)
++ Sezione Test {#test-section}
+   + [Nascosto - Solo per nuova attivazione automatica](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
