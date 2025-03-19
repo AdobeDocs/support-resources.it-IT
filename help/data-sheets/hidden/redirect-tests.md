@@ -3,10 +3,11 @@ description: Una serie di reindirizzamenti esterni
 title: Reindirizza il test
 hide: true
 hidefromtoc: true
-source-git-commit: 28328922d7213abc4bb115b85686d74e10fcaefe
+exl-id: 5a6af4ed-120d-44b5-ba91-f55fdbacfd8f
+source-git-commit: 0b336ae2ef1d02a6283b48752c5b12ebd5e09ca2
 workflow-type: tm+mt
-source-wordcount: '27'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
@@ -42,6 +43,18 @@ ht-degree: 0%
 
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
 
+<https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.10.3>
+
+Collegamenti non corretti dalla guida di AEM 6.5 (l’URL del collegamento include spazi non desiderati):
+
+Per ulteriori informazioni, vedere [Assegnazione di tipi di nodo mixin]&#x200B;(https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.10.3 Assegnazione di tipi di nodo mixin) e [Aggiunta di nodi e impostazione di proprietà]&#x200B;(https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.4 Aggiunta di nodi e impostazione di proprietà)
+
+Vedi [Modifica video 360/VR](https://helpx.adobe.com/premiere-pro/how-to/edit-360-vr-video.html).
+
+Visualizza [app desktop AEM](https://helpx.adobe.com/experience-manager/desktop-app/aem-desktop-app.html)
+
+* [[!DNL Adobe Stock] Domande frequenti](https://helpx.adobe.com/stock/faq.html)
+
 ## Reindirizzamenti interrotti
 
 Reindirizza quel 404s
@@ -49,6 +62,8 @@ Reindirizza quel 404s
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
 
 ## Reindirizza all’interno di commento e blocco di codice
+
+Commento con collegamento seguente:
 
 <!--
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
