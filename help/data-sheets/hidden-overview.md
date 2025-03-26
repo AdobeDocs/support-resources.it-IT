@@ -4,9 +4,9 @@ description: Questa pagina è nascosta dalla ricerca e dal sommario
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 35b37b154def58575a1d7fff82fbfa21d02e3b55
+source-git-commit: e366d6c1e2dbeba4d81f837afa8e2d289f0db08a
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 33%
 
 ---
@@ -29,4 +29,4 @@ ht-degree: 33%
 
 Verifica se SCCM funziona ancora correttamente.
 
-Exl-pr è super lento?
+La nuova riga di Bob
