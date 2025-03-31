@@ -6,16 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Scarica Premium"
 badgeExam: label="Esame ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+source-git-commit: 571a428c6b4caeb651264bb5895ca5dd21d8663d
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 100%
+source-wordcount: '1272'
+ht-degree: 99%
 
 ---
 
 # Pagina di test nascosta
 
-Attiva? Verifica di nuovo l’invio verso le 15:10. Andrà in diretta alle 15:30?
+Anteprima? Dovrebbe passare per Jenkins. 31 marzo.
 
 ## Tabelle del problema con immagini
 
@@ -158,10 +158,10 @@ I badge utilizzano i colori definiti nello spettro Adobe:
 | Tipo | Badge |
 |---|---|
 | Informativo (impostazione predefinita) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nuova funzione]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativo | [!BADGE Interrotto]{type=negative tooltip="This feature is now end of life"} |
-| Neutro | [!BADGE Forse]{type=Neutral tooltip="A rider fell off the horse..."} |
-| Attenzione | [!BADGE Attenzione]{type=Caution tooltip="Yellow status"} |
+| Positivo | [!BADGE Nuova funzione]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativo | [!BADGE Interrotto]{type=negative tooltip=&quot;This feature is now end of life&quot;} |
+| Neutro | [!BADGE Forse]{type=Neutral tooltip=&quot;A rider fell off the horse...&quot;} |
+| Attenzione | [!BADGE Attenzione]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 Esempi di sintassi
 
