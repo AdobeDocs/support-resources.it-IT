@@ -6,7 +6,7 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Scarica Premium"
 badgeExam: label="Esame ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: 9eb78be80323d500ffff02b39a37aa190fab2ad3
+source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
 workflow-type: tm+mt
 source-wordcount: '1274'
 ht-degree: 99%
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 Riprovare l&#39;anteprima? Dovrebbe passare per Jenkins. 31 marzo.
 
-00:16
+15:02
 
 ## Tabelle del problema con immagini
 
