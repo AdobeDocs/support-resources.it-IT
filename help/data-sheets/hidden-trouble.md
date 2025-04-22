@@ -5,10 +5,10 @@ type: Troubleshooting
 hide: true
 hidefromtoc: true
 exl-id: dfb54d2d-e4f4-420f-8e91-f1aba704cb31
-source-git-commit: d163b3a086aaabf98d75625ffab653a7cfd5bd67
+source-git-commit: 67de7cd70c1f75d65e6d88c05a66058f6c6ead7e
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 12%
+source-wordcount: '36'
+ht-degree: 11%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 12%
 
 ## Tabella codici
 
-dritto `<code>`
+codice diritto
 
 <table>
     <tr>
@@ -31,7 +31,7 @@ dritto `<code>`
     </tr>
   </table>
 
-con `<pre lang="json"><code>`
+con codice pre-lang
 
 
 <table>
