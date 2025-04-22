@@ -5,10 +5,10 @@ type: Troubleshooting
 hide: true
 hidefromtoc: true
 exl-id: dfb54d2d-e4f4-420f-8e91-f1aba704cb31
-source-git-commit: 67de7cd70c1f75d65e6d88c05a66058f6c6ead7e
+source-git-commit: a9acc52cf5469ffeb9711ac6f4b52d54bb99086f
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 11%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,23 @@ ht-degree: 11%
 
 ## Tabella codici
 
-codice diritto
+**fuori dalla tabella**
+
+```json
+PrimaryIdentities [
+  {"id": "ccid-2", "namespace": "CCID"},
+  {"id": "ecid-1", "namespace": "ECID"},
+  {"id": "ecid-2", "namespace": "ECID"}
+  ]
+NonPrimaryIdentities [
+  {"id": "ccid-1", "namespace": "CCID"},
+  {"id": "ecid-3", "namespace": "ECID"}
+  ]
+  "id": "ccid-1",
+    "namespace": "CCID"
+```
+
+**codice diritto nella tabella**
 
 <table>
     <tr>
@@ -31,8 +47,7 @@ codice diritto
     </tr>
   </table>
 
-con codice pre-lang
-
+**utilizzo del codice pre-lang nella tabella**
 
 <table>
     <tr>
@@ -45,3 +60,10 @@ con codice pre-lang
     </tr>
   </table>
 
+## Collegamenti profondi con una nuova scheda
+
+Fai clic qui: [Collegamento relativo all&#39;articolo aperto in una nuova scheda](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+
+```
+Click here: [Relative link to article open in new tab](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+```
