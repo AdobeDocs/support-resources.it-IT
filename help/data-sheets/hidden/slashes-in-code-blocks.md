@@ -26,4 +26,4 @@ vendor/bin/magento-patches -n stato |grep &quot;27015\|Stato&quot;
 
 Barra rovesciata con escape:
 
-vendor/bin/magento-patches -n stato |grep &quot;27015&amp;bsol;|Stato&quot;
+vendor/bin/magento-patches -n stato |grep &quot;27015&bsol;|Stato&quot;

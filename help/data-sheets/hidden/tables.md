@@ -40,7 +40,7 @@ Sfortunatamente, non è stato possibile trovare un singolo strumento che convert
 
 * Assicurarsi di aggiungere almeno tre trattini nella seconda riga che determina le proprietà della tabella. Esempio: `|--- |--- |--- |` per una tabella a 3 colonne.
 * Le tabelle Markdown devono avere almeno una riga di intestazione e una riga di corpo. Non è possibile creare una tabella markdown a una riga o a una cella (utilizzare invece HTML).
-* Assicurarsi che ogni riga abbia lo stesso numero di caratteri di barra verticale ( &amp;vert; ). Se è necessario includere un carattere barra verticale all&#39;interno di una cella di tabella, eseguire l&#39;escape precedendolo con una barra rovesciata (`\|`) o utilizzando il codice entità HTML (`&vert;`).
+* Assicurarsi che ogni riga abbia lo stesso numero di caratteri di barra verticale ( &vert; ). Se è necessario includere un carattere barra verticale all&#39;interno di una cella di tabella, eseguire l&#39;escape precedendolo con una barra rovesciata (`\|`) o utilizzando il codice entità HTML (`&vert;`).
 * Presta attenzione quando utilizzi i blocchi di codice nelle tabelle. I blocchi di codice in linea possono causare larghezze di colonna sproporzionate.
 * È possibile modificare il rendering della tabella specificando Automatico o Fisso. Vedere [Modifica del rendering delle tabelle](#table-rendering).
 

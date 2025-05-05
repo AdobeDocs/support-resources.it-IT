@@ -132,7 +132,7 @@ Il nostro sistema di authoring utilizza la sintassi dei blockquote (`>` all&#39;
 
 Utilizzato per eseguire il rendering di un codice in linea in una frase. Ideale per richiamare un nome di cookie, un nome di file, un valore o un comando che non richiede un blocco di codice completo.
 
-Il contenuto all’interno dei blocchi di codice viene rappresentato così come è e non localizzato. L&#39;unica eccezione a questa regola è la sintassi `!UICONTROL` e `!DNL`, che viene eliminata durante la creazione del pacchetto per la pubblicazione.
+Il contenuto all’interno dei blocchi di codice viene rappresentato così come è e non localizzato. L&#39;unica eccezione a questa regola è la sintassi `` e ``, che viene eliminata durante la creazione del pacchetto per la pubblicazione.
 
 Utilizzare anche blocchi di codice per URL di esempio che non devono essere convalidati: `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >Puoi anche racchiudere il testo in tre apici posteriori (&grave;&grave;&grave;&grave;) per creare un blocco di codice in linea. Questa funzione è particolarmente utile quando devi fare riferimento a un carattere di apice inverso all’interno di un blocco di codice in linea. Esempio:
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;
+>&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;
 
 ## Blocco di codice (delimitato)
 
@@ -164,7 +164,7 @@ I blocchi di codice non sono localizzati.
 
 >[!TIP]
 >
-Specifica una lingua quando crei un blocco di codice delimitato. La specifica di una lingua consente l&#39;evidenziazione della sintassi specifica della lingua e visualizza un pulsante **Copia** per gli utenti. È inoltre possibile visualizzare i numeri di riga se si specifica una lingua.
+>Specifica una lingua quando crei un blocco di codice delimitato. La specifica di una lingua consente l&#39;evidenziazione della sintassi specifica della lingua e visualizza un pulsante **Copia** per gli utenti. È inoltre possibile visualizzare i numeri di riga se si specifica una lingua.
 
 **Sintassi**
 
@@ -282,7 +282,7 @@ Testo all&#39;interno di una sezione comprimibile.
 
 **Note**
 
-* Non nidificare sezioni comprimibili all&#39;interno di sezioni comprimibili. Le sezioni comprimibili nidificate non vengono riprodotte correttamente. Tuttavia, non causano errori di convalida, pertanto gli utenti visualizzeranno la sintassi `+++` della sezione nidificata.
++++* Non nidificare sezioni comprimibili all&#39;interno di sezioni comprimibili. Le sezioni comprimibili nidificate non vengono riprodotte correttamente. Tuttavia, non causano errori di convalida, pertanto gli utenti visualizzeranno la sintassi `` della sezione nidificata.
 * Assicurati di aggiungere righe vuote sopra e sotto elementi come elenchi puntati e blocchi di codice all’interno della sezione comprimibile, altrimenti si verificherà un errore di convalida.
 * È possibile aggiungere titoli all&#39;interno di sezioni comprimibili, ma non è consigliabile.
 * [Le Accordions non sono sempre la risposta per i contenuti complessi sui desktop](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-Evita di aggiungere commenti all’interno di componenti di blocco come gli elenchi puntati, in particolare gli elenchi puntati nidificati. Il commento può modificare il rendering dell’elenco puntato.
+>Evita di aggiungere commenti all’interno di componenti di blocco come gli elenchi puntati, in particolare gli elenchi puntati nidificati. Il commento può modificare il rendering dell’elenco puntato.
 >
-Nel file TOC.md, non inserire commenti nelle righe al centro dell&#39;elenco del sommario. Ciò potrebbe causare la suddivisione dell’elenco sommario e causare errori di convalida. Spostare invece i commenti nel sommario alla fine del file.
+>Nel file TOC.md, non inserire commenti nelle righe al centro dell&#39;elenco del sommario. Ciò potrebbe causare la suddivisione dell’elenco sommario e causare errori di convalida. Spostare invece i commenti nel sommario alla fine del file.
 
 ## CONTEXTUALHELP
 
@@ -370,7 +370,7 @@ Cat
 
 Carica il file .zip o un altro file scaricabile nella directory delle risorse, quindi collegalo. Se si tratta di un file .zip, facendo clic sul collegamento verrà scaricato il file. Se si tratta di un tipo di file, ad esempio PDF o PNG, che può essere aperto in un browser, facendo clic sul collegamento verrà aperta una nuova scheda. Per tali file, è consigliabile comprimerli o fornire istruzioni per fare clic con il pulsante destro del mouse sul collegamento e scaricarli.
 
-`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
+`Download` &lbrack;`download-test.zip`&rbrack;`(assets/download-test.zip)`
 
 Rendering:
 
@@ -378,7 +378,7 @@ Scarica [scarica zip di prova](assets/download-test.zip)
 
 >[!NOTE]
 >
-La dimensione massima del file per il download di file e immagini è di 100 MB. Questo è il limite di github.com. Il limite di git.corp.adobe.com è più alto (250 MB), ma è necessario poter copiare i file nel mirror di github.com.
+>La dimensione massima del file per il download di file e immagini è di 100 MB. Questo è il limite di github.com. Il limite di git.corp.adobe.com è più alto (250 MB), ma è necessario poter copiare i file nel mirror di github.com.
 
 ## Intestazioni {#headings}
 
@@ -497,7 +497,7 @@ Bob - Larghezza = 300 pixel sotto
 
 >[!NOTE]
 >
-La dimensione massima del file per le immagini è 100 MB. Questo è il limite di github.com. Il limite di git.corp.adobe.com è più alto (250 MB), ma è necessario poter copiare i file nel mirror di github.com.
+>La dimensione massima del file per le immagini è 100 MB. Questo è il limite di github.com. Il limite di git.corp.adobe.com è più alto (250 MB), ma è necessario poter copiare i file nel mirror di github.com.
 
 ### Collegamenti immagine
 
@@ -626,8 +626,8 @@ Utilizza il componente &quot;Altri argomenti correlati&quot; per visualizzare i 
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/it/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/it/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/it/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/it/support/audience-manager.html)
 
 ## Appunti/ammonizioni
 
@@ -645,7 +645,7 @@ Abbiamo esteso Markdown per formattare vari tipi di note: Nota, Suggerimento, Im
 
 >[!NOTE]
 >
-Questo è un blocco per le NOTE standard.
+>Questo è un blocco per le NOTE standard.
 
 **Sintassi**
 
@@ -659,7 +659,7 @@ Questo è un blocco per le NOTE standard.
 
 >[!TIP]
 >
-Questo è un suggerimento standard.
+>Questo è un suggerimento standard.
 
 **Sintassi**
 
@@ -673,7 +673,7 @@ Questo è un suggerimento standard.
 
 >[!WARNING]
 >
-Questo è un blocco di avviso standard.
+>Questo è un blocco di avviso standard.
 
 **Sintassi**
 
@@ -687,7 +687,7 @@ Questo è un blocco di avviso standard.
 
 >[!IMPORTANT]
 >
-Questo è un blocco importante standard.
+>Questo è un blocco importante standard.
 
 **Sintassi**
 
@@ -703,35 +703,35 @@ Questo è un blocco importante standard.
 
 >[!NOTE]
 >
-Questo è un blocco per le NOTE standard.
+>Questo è un blocco per le NOTE standard.
 >
-Include più paragrafi.
+>Include più paragrafi.
 
 Nuovi tipi di note supportati:
 
 >[!ADMIN]
 >
-Questa è una nota dell&#39;amministratore. Solo EXL.
+>Questa è una nota dell&#39;amministratore. Solo EXL.
 
 >[!AVAILABILITY]
 >
-Questa è una nota sulla disponibilità. Solo EXL.
+>Questa è una nota sulla disponibilità. Solo EXL.
 
 >[!PREREQUISITES]
 >
-Questa è una nota sui prerequisiti. Solo EXL.
+>Questa è una nota sui prerequisiti. Solo EXL.
 
 >[!INFO]
 >
-Questa è una nota informativa. Solo EXL.
+>Questa è una nota informativa. Solo EXL.
 
 >[!ERROR]
 >
-Questa è una nota di errore. Solo EXL.
+>Questa è una nota di errore. Solo EXL.
 
 >[!SUCCESS]
 >
-Questa è una nota di successo. Solo EXL.
+>Questa è una nota di successo. Solo EXL.
 
 ## Elenchi numerati ed elenchi puntati {#lists}
 
@@ -827,7 +827,7 @@ Per creare elenchi puntati, iniziare una riga con `*` o `-` o `+`, ma scegliere 
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ In alcuni casi, si utilizza una tabella HTML per creare una progettazione equili
 
 >[!NOTE]
 >
-Non usi troppo. Per le tabelle normali, vogliamo mantenere una progettazione coerente per tutto il contenuto.
+>Non usi troppo. Per le tabelle normali, vogliamo mantenere una progettazione coerente per tutto il contenuto.
 
 ![suggerimento tabella](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ Le tabelle possono essere problematiche in Markdown. Quando si esegue la migrazi
 
 >[!TIP]
 >
-Guarda il video [Tabelle Markdown](https://video.tv.adobe.com/v/26220)
+>Guarda il video [Tabelle Markdown](https://video.tv.adobe.com/v/26220)
 
 Le tabelle native hanno spesso un aspetto migliore in Markdown. Le colonne vengono ridimensionate in base al contenuto. Le tabelle HTML vengono sottoposte a rendering con colonne di uguale larghezza.
 
@@ -888,7 +888,7 @@ Per impostazione predefinita, Markdown non supporta più righe o elenchi nelle c
 
 >[!IMPORTANT]
 >
-Presta attenzione quando aggiungi questi codici HTML alle tabelle Markdown. Se la sintassi non è corretta, si verificherà un errore di convalida che non descrive con precisione il problema. Controlla la sintassi HTML per assicurarti che sia ben formata.
+>Presta attenzione quando aggiungi questi codici HTML alle tabelle Markdown. Se la sintassi non è corretta, si verificherà un errore di convalida che non descrive con precisione il problema. Controlla la sintassi HTML per assicurarti che sia ben formata.
 
 Non consentito in alcuna tabella: iframe, estensioni di celle, tabelle incorporate.
 
@@ -1035,9 +1035,9 @@ Come regola generale, utilizza `<span class="preview">` per evidenziare un parag
 
 >[!NOTE]
 >
-Stiamo ancora lavorando al miglioramento della visualizzazione evidenziazione di alcuni elementi di pagina come note e tabelle. Sentiti libero di registrare i bug JIRA se vedi un rendering improprio. In corso.
+>Stiamo ancora lavorando al miglioramento della visualizzazione evidenziazione di alcuni elementi di pagina come note e tabelle. Sentiti libero di registrare i bug JIRA se vedi un rendering improprio. In corso.
 >
-L&#39;anteprima VSC non supporta ancora l&#39;evidenziazione.
+>L&#39;anteprima VSC non supporta ancora l&#39;evidenziazione.
 
 ## Video
 
@@ -1115,7 +1115,7 @@ Un elenco completo delle entità HTML è disponibile nel [sito Web Freeformatter
 
 >[!NOTE]
 >
-Per passaggi a catena come &quot;Scegli file > Salva con nome&quot;, non è necessario eseguire l&#39;escape del carattere `>` perché non è accanto ad altri caratteri. Per le variabili come `<filename>` è necessario applicare l&#39;escape alle parentesi angolari utilizzando il blocco di codice `backticks` o i codici di carattere (`&lt;filename&gt;`).
+>Per passaggi a catena come &quot;Scegli file > Salva con nome&quot;, non è necessario eseguire l&#39;escape del carattere `>` perché non è accanto ad altri caratteri. Per le variabili come `<filename>` è necessario applicare l&#39;escape alle parentesi angolari utilizzando il blocco di codice `backticks` o i codici di carattere (`&lt;filename&gt;`).
 
 Se utilizzi entità HTML nei blocchi di codice, il testo dell’entità non viene convertito nel carattere speciale. Ad esempio, `&gt;` viene visualizzato in un blocco di codice come &quot; `&gt;` &quot; invece di &quot; > &quot;.
 
@@ -1158,4 +1158,4 @@ Per indicare la sintassi Markdown estesa, ad esempio note e video, usiamo block 
 
 >[!NOTE]
 >
-Se applica un rientro eccessivo, ad esempio sei spazi invece di tre, il contenuto viene rappresentato come virgolette. Utilizza la quantità corretta di rientro per evitare che il contenuto venga rappresentato erroneamente come un’offerta di blocco.
+>Se applica un rientro eccessivo, ad esempio sei spazi invece di tre, il contenuto viene rappresentato come virgolette. Utilizza la quantità corretta di rientro per evitare che il contenuto venga rappresentato erroneamente come un’offerta di blocco.
