@@ -266,7 +266,7 @@ Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online
 
 | Risorsa | Descrizione |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=it) | Experience League è un portale in cui i clienti Adobe possono trovare tutorial per supporto autonomo, documentazione dei prodotti, corsi di formazione tenuti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
+| [Experience League](https://experienceleague.adobe.com/it?lang=it) | Experience League è un portale in cui i clienti Adobe possono trovare tutorial per supporto autonomo, documentazione dei prodotti, corsi di formazione tenuti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
 | [Community di supporto Adobe](https://community.adobe.com/) | Nella community di supporto Adobe è possibile porre domande, trovare risposte, imparare dagli esperti e condividere le proprie conoscenze. |
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |

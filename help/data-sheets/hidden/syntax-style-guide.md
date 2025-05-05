@@ -287,7 +287,7 @@ Testo all&#39;interno di una sezione comprimibile.
 * È possibile aggiungere titoli all&#39;interno di sezioni comprimibili, ma non è consigliabile.
 * [Le Accordions non sono sempre la risposta per i contenuti complessi sui desktop](https://www.nngroup.com/articles/accordions-complex-content/)
 * Uno svantaggio storico delle sezioni comprimibili è che **Trova nella pagina** (Ctrl/Comando+F) ignora il testo compresso. Anche se questo è ancora vero in Safari, non lo è più in Chrome; Trova nella pagina rileva il testo compresso in Chrome.
-* Esempio di [aggiornamenti di manutenzione](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) pagina utilizzando sezioni comprimibili.
+* Esempio di [aggiornamenti di manutenzione](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=it) pagina utilizzando sezioni comprimibili.
 
 ## Commenti e osservazioni
 
