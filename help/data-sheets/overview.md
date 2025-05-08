@@ -2,7 +2,7 @@
 title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
+source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
 workflow-type: ht
 source-wordcount: '2203'
 ht-degree: 100%
@@ -32,7 +32,7 @@ I piani di successo di Adobe vanno oltre la risoluzione reattiva dei problemi pe
 | Componenti aggiuntivi | Piano di successo Expert | Piano di successo Ultimate |
 |--- |--- |--- |
 | **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
-| **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
+| **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione a livello di leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Supporto cloud avanzato**<br> Assistenza e garanzia del valore di massimo livello per i clienti di Adobe Experience Manager as a Cloud Service | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Sessioni tutor**<br> Fornisce apprendimento basato sulle abilità in un metodo di formazione just-in-time | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/green_checkmark.svg){width="20"} Inclusa |
 | **Componente aggiuntivo Developer Boost**<br> Fornisce agli esperti tecnici l’accesso sul campo per fornire assistenza per il break-fix | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
@@ -110,7 +110,7 @@ I contatti interni per il supporto possono segnalare i problemi tramite tutti i 
 
 ## Ciclo di vita del caso di supporto: disponibile a breve
 
-Questa documentazione illustra i miglioramenti del ciclo di vita del caso di supporto di Adobe DX con e l’intenzione di aumentare la comunicazione e di fornire risoluzioni per i clienti il più velocemente possibile, per assicurare il loro successo. Qui di seguito sono disponibili le timeline e le notifiche per i vari scenari incontrati durante il processo di supporto:
+Questa documentazione illustra i miglioramenti del ciclo di vita del caso di supporto di Adobe DX con l’intenzione di aumentare la comunicazione e di fornire ai clienti risoluzioni il più velocemente possibile, per assicurare il loro successo. Qui di seguito sono disponibili le timeline e le notifiche per i vari scenari incontrati durante il processo di supporto:
 
 **Promemoria di follow up del caso**
 
@@ -204,3 +204,4 @@ Il supporto standard per i prodotti Adobe Commerce: Managed Services concessi in
 >[!NOTE]
 >
 >I servizi sul campo non sostituiscono gli impegni di consulenza di Adobe. I servizi sul campo supportano l’implementazione post-LAS del cliente e integrano qualsiasi coinvolgimento di consulenza più ampio.
+
