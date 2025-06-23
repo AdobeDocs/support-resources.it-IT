@@ -3,10 +3,10 @@ user-guide-title: Risorse dei piani di successo
 user-guide-description: Piani di successo e risorse di supporto per Adobe Experience Cloud e Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 92%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Risorse dei piani di successo {#data-sheets}
 
 + [Panoramica dei piani di successo Adobe](overview.md)
-+ The Crux Podcast{#crux-podcast}
++ Il podcast Crux{#crux-podcast}
    + [Ep.1 - Billy Georgaros](episode1.md)
      [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
@@ -42,7 +42,6 @@ ht-degree: 100%
 + [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Panoramica nascosta](hidden-overview.md)
 + [Risoluzione dei problemi nascosta](hidden-trouble.md)
-+ [Test di Lakshay nascosto](hidden-lakshay-test.md)
 + [Barra obliqua nascosta nel blocco di codice](hidden/slashes-in-code-blocks.md)
 + [Nuovo test nascosto](hidden-new-test.md)
 + [Nuovo test 2 nascosto](hidden-new-test-2.md)
@@ -55,10 +54,12 @@ ht-degree: 100%
 + [Interruzioni di tabella nascoste](hidden/table-breaks.md)
 + [Test nota nascosta](hidden/note-test.md)
 + [Reindirizzamenti nascosti](hidden/redirect-tests.md)
-+ Sezione Test {#test-section}
++ Sezione di prova {#test-section}
    + [Nascosto - Solo per nuova attivazione automatica](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
