@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Scarica Premium"
 badgeExam: label="Esame ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 97%
 
 ---
 
 # Pagina di test nascosta
 
-Riprovare l&#39;anteprima? Dovrebbe passare per Jenkins. 31 marzo.
-
-15:02
+Pubblica test. 25 giugno 2025 alle 00:20.
 
 ## Tabelle del problema con immagini
 
@@ -39,7 +37,7 @@ Riprovare l&#39;anteprima? Dovrebbe passare per Jenkins. 31 marzo.
 | Componenti aggiuntivi | Piano di successo Expert | Piano di successo Ultimate |
 |--- |--- |--- |
 | **Componente aggiuntivo Gestione eventi**<br> Offre guida e supporto end-to-end necessari per gestire l’intero ciclo di vita degli eventi chiave | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
-| **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione sulla leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
+| **Componente aggiuntivo Direttore tecnico dell’account**<br> La risorsa tecnica principale che fornisce supervisione a livello di leadership, è responsabile del coinvolgimento dei dirigenti e garantisce la governance per massimizzare i risultati aziendali | ![icona non disponibile](assets/Cross_red_circle.svg){width="20"} Non disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Supporto cloud avanzato**<br> Assistenza e garanzia del valore di massimo livello per i clienti di Adobe Experience Manager as a Cloud Service | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile |
 | **Componente aggiuntivo Sessioni tutor**<br> Fornisce apprendimento basato sulle abilità in un metodo di formazione just-in-time | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona disponibile](assets/green_checkmark.svg){width="20"} Inclusa |
 | **Componente aggiuntivo Developer Boost**<br> Fornisce agli esperti tecnici l’accesso sul campo per fornire assistenza per il break-fix | ![icona disponibile](assets/Plus_blue.svg){width="20"} Disponibile | ![icona incluso](assets/green_checkmark.svg){width="20"} Incluso |
@@ -62,7 +60,7 @@ _[Pulsante secondario](https://www.adobe.com/it/)_
 
 Il paragrafo seguente non riesce a eseguire correttamente il rendering nell’anteprima VSC. Non sono sicuro del perché.
 
-Se la password viene gestita da [!DNL Adobe], è possibile [modificare la password nel tuo account Adobe](https://helpx.adobe.com/it/manage-account/using/change-or-reset-password.html){target="_blank"}.
+Se la password è gestita da [!DNL Adobe], puoi [modificare la password nel tuo account Adobe](https://helpx.adobe.com/it/manage-account/using/change-or-reset-password.html){target="_blank"}.
 
 ## Tipi di nota
 
@@ -123,7 +121,7 @@ Un badge è un’etichetta colorata utilizzata come indicatore di contenuto. Ad 
 
 [!BADGE Esempio di badge]
 
-Esistono due tipi of di badge, ciascuno con una sintassi diversa:
+Esistono due tipi di badge, ciascuno con una sintassi diversa:
 
 * **Metadati**: il badge viene visualizzato nella parte superiore di una pagina
 * **In linea**: il badge viene visualizzato nella posizione in cui si trova la sintassi
@@ -160,10 +158,10 @@ I badge utilizzano i colori definiti nello spettro Adobe:
 | Tipo | Badge |
 |---|---|
 | Informativo (impostazione predefinita) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nuova funzione]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativo | [!BADGE Interrotto]{type=negative tooltip="This feature is now end of life"} |
-| Neutro | [!BADGE Forse]{type=Neutral tooltip="A rider fell off the horse..."} |
-| Attenzione | [!BADGE Attenzione]{type=Caution tooltip="Yellow status"} |
+| Positivo | [!BADGE Nuova funzionalità]{type=Positive url="https://www.example.com" tooltip="Vai a example.com"} |
+| Negativo | [!BADGE Fuori produzione]{type=negative tooltip="Questa funzione è giunta al termine del ciclo di vita"} |
+| Neutro | [!BADGE Forse]{type=Neutral tooltip="Un cavaliere è caduto dal cavallo..."} |
+| Attenzione | [!BADGE Attenzione]{type=Caution tooltip="Stato giallo"} |
 
 Esempi di sintassi
 
