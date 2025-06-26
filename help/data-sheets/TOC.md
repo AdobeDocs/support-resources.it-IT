@@ -4,9 +4,9 @@ user-guide-description: Piani di successo e risorse di supporto per Adobe Experi
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,8 @@ ht-degree: 92%
 # Risorse dei piani di successo {#data-sheets}
 
 + [Panoramica dei piani di successo Adobe](overview.md)
-+ Il podcast Crux{#crux-podcast}
++ The Crux Podcast{#crux-podcast}
    + [Ep.1 - Billy Georgaros](episode1.md)
-
      [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
      [Ep.4 - Jessica Ouellette](episode4.md)
@@ -55,7 +54,7 @@ ht-degree: 92%
 + [Interruzioni di tabella nascoste](hidden/table-breaks.md)
 + [Test nota nascosta](hidden/note-test.md)
 + [Reindirizzamenti nascosti](hidden/redirect-tests.md)
-+ Sezione di prova {#test-section}
++ Sezione test {#test-section}
    + [Nascosto - Solo per nuova attivazione automatica](hidden/autoactivate.md)
 
 <!--
