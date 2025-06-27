@@ -19,7 +19,7 @@ Giugno 27
 
 <ol><li>Utilizza la variabile "{{name}}".</li></ol>
 
-<ol><li>Utilizzare la variabile &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
+<ol><li>Utilizzare la variabile &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
 
 ## Test nidificato
 
