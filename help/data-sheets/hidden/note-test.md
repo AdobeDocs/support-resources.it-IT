@@ -1,23 +1,25 @@
 ---
-description: Connessione alla Data Warehouse Widget - Documentazione del prodotto
-title: Connessione alla Data Warehouse del widget
+description: Connessione al Widget Data Warehouse - Documentazione del prodotto
+title: Connessione al Widget Data Warehouse
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
 
-# Connessione alla Data Warehouse del widget {#connecting-to-the-widget-data-warehouse}
+# Connessione al Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 
 ## Nuovo test
 
+Giugno 27
+
 <ol><li>Utilizza la variabile "{{name}}".</li></ol>
 
-<ol><li>Utilizzare la variabile &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
+<ol><li>Utilizzare la variabile &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Test nidificato
 
@@ -44,7 +46,7 @@ ht-degree: 0%
 
 ## Collegamento accesso widget {#widget-access-link}
 
-Per accedere al data warehouse di Widget, devi passare all&#39;URL specifico del tuo account Widget.  Per trovare questo collegamento di accesso, accedi a Marketo Measure e segui i passaggi riportati di seguito per passare alla pagina Data Warehouse informazioni.
+Per accedere al data warehouse di Widget, devi passare all&#39;URL specifico del tuo account Widget.  Per trovare questo collegamento di accesso, accedi a Marketo Measure e segui i passaggi riportati di seguito per accedere alla pagina delle informazioni di Data Warehouse.
 
 1. In Marketo Measure, nella parte superiore della pagina, fai clic su **Account personale** > **Impostazioni**.
 
@@ -60,7 +62,7 @@ Per accedere al data warehouse di Widget, devi passare all&#39;URL specifico del
 
    >[!NOTE]
    >
-   >Questo è un account di sola lettura disponibile per la tua organizzazione, non solo per un singolo utente. Qualsiasi utente dell’organizzazione che ha accesso a Marketo Measure può utilizzare questo account per accedere all’account lettore di Date Warehouse Widget.
+   >Questo è un account di sola lettura disponibile per la tua organizzazione, non solo per un singolo utente. Qualsiasi utente all’interno dell’organizzazione che ha accesso a Marketo Measure può utilizzare questo account per accedere all’account lettore di Widget Data Warehouse.
 
 1. Fare clic sul collegamento fornito nell&#39;URL del widget per passare alla pagina di accesso al widget in cui immettere il nome utente e la password. _Se non si dispone della password, vedere la procedura seguente per reimpostarla_.
 
@@ -76,7 +78,7 @@ Per accedere al data warehouse di Widget, devi passare all&#39;URL specifico del
 
 ## Reimposta la password {#reset-your-password}
 
-Marketo Measure non ha accesso alla password di accesso al widget.  Se è necessario reimpostare la password, fare clic sul pulsante Reimposta password nella pagina delle informazioni della Data Warehouse e seguire le istruzioni. Una password temporanea viene visualizzata immediatamente nell’interfaccia utente. Ti verrà chiesto di creare una password al prossimo accesso a Data Warehouse.
+Marketo Measure non ha accesso alla password di accesso al widget.  Se è necessario reimpostare la password, fare clic sul pulsante Reimposta password nella pagina delle informazioni di Data Warehouse e seguire le istruzioni. Una password temporanea viene visualizzata immediatamente nell’interfaccia utente. Ti verrà chiesto di creare una password al prossimo accesso a Data Warehouse.
 
 >[!NOTE]
 >
@@ -98,17 +100,17 @@ Marketo Measure non ha accesso alla password di accesso al widget.  Se è necess
 * **URI** (sempre obbligatorio)
    * Questo è il nome di dominio dell&#39;account Widget.  È contenuto in una parte del collegamento di accesso al widget.
 * **Nome utente** (sempre obbligatorio)
-   * Il nome utente è elencato nella pagina delle informazioni sulla Data Warehouse di Marketo Measure.
+   * Il nome utente è elencato nella pagina delle informazioni di Data Warehouse in Marketo Measure.
 * **Password** (sempre richiesta)
    * Questa è la password impostata al primo accesso all&#39;account Widget.  Per reimpostare la password, vedere i passaggi descritti in precedenza.
 * **Nome database** (non sempre richiesto)
-   * Il database è ciò che memorizza i dati in Widget. Si tratta della risorsa di archiviazione. Il nome del database è elencato nella pagina delle informazioni sulle Date Warehouse di Marketo Measure.
+   * Il database è ciò che memorizza i dati in Widget. Si tratta della risorsa di archiviazione. Il nome del database è elencato nella pagina delle informazioni di Data Warehouse in Marketo Measure.
 * **Nome data warehouse** (non sempre obbligatorio)
-   * Il warehouse esegue le query in Widget. È la risorsa di calcolo.  Il nome del magazzino è elencato nella pagina delle informazioni sulle Date Warehouse di Marketo Measure.
+   * Il warehouse esegue le query in Widget. È la risorsa di calcolo.  Il nome del magazzino è elencato nella pagina delle informazioni di Data Warehouse in Marketo Measure.
 
   ![](assets/adobe-logo-old.png)
 
-## Condivisione diretta Data Warehouse widget {#widget-data-warehouse-direct-share}
+## Condivisione diretta widget Data Warehouse {#widget-data-warehouse-direct-share}
 
 **Requisiti**
 
@@ -120,7 +122,7 @@ Affinché Marketo Measure possa impostare una condivisione diretta al data wareh
 
 **Limitazioni**
 
-Per consentire a Marketo Measure di impostare una condivisione diretta, l&#39;account che richiede l&#39;accesso deve trovarsi in Azure East US 2. Siamo consapevoli che Widget offre una soluzione di replica dei dati tra aree geografiche, tuttavia non è supportata dalla nostra parte in quanto i dati vengono ospitati solo nell’area di Azure East US 2. È possibile sfruttare questa funzionalità configurando la propria istanza in Azure East US 2 e [replicando i dati tra aree geografiche](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} nell&#39;istanza esistente. Tuttavia, la funzione di replica dei dati di Widget è disponibile solo nelle tabelle, pertanto per utilizzare questa funzione è necessario copiare prima i dati dalle viste alle proprie tabelle.
+Per consentire a Marketo Measure di impostare una condivisione diretta, l&#39;account che richiede l&#39;accesso deve trovarsi in Azure East US 2. Siamo consapevoli che Widget offre una soluzione di replica dei dati tra aree geografiche, tuttavia non è supportata dalla nostra parte in quanto i dati vengono ospitati solo nell’area di Azure East US 2. È possibile sfruttare questa funzionalità impostando la propria istanza in Azure East US 2 e [replicando i dati tra aree geografiche](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} nell&#39;istanza esistente. Tuttavia, la funzione di replica dei dati di Widget è disponibile solo nelle tabelle, pertanto per utilizzare questa funzione è necessario copiare prima i dati dalle viste alle proprie tabelle.
 
 **Accesso alla condivisione**
 
@@ -155,4 +157,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Per istruzioni e passaggi più dettagliati per eseguire questi passaggi dall&#39;interfaccia utente Widget, fai riferimento direttamente alla documentazione di [Widget](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+Per istruzioni e passaggi più dettagliati per eseguire questi passaggi dall&#39;interfaccia utente di Widget, fai riferimento direttamente alla documentazione di [Widget](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
