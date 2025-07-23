@@ -4,9 +4,9 @@ user-guide-description: Piani di successo e risorse di supporto per Adobe Experi
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Panoramica dei piani di successo Adobe](overview.md)
 + The Crux Podcast{#crux-podcast}
    + [Ep.1 - Billy Georgaros](episode1.md)
-
      [Ep.2 - Karrie Benjamin](episode2.md)
      [Ep.3 - George Kotsinis](episode3.md)
      [Ep.4 - Jessica Ouellette](episode4.md)
@@ -43,7 +42,7 @@ ht-degree: 97%
 + [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Panoramica nascosta](hidden-overview.md)
 + [Risoluzione dei problemi nascosta](hidden-trouble.md)
-+ [Intestazioni funky UGP-13342](hidden-funky-headings.md)
++ [Intestazioni creative UGP-13342](hidden-funky-headings.md)
 + [Barra obliqua nascosta nel blocco di codice](hidden/slashes-in-code-blocks.md)
 + [Nuovo test nascosto](hidden-new-test.md)
 + [Nuovo test 2 nascosto](hidden-new-test-2.md)
