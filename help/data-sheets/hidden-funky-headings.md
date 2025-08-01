@@ -10,7 +10,7 @@ hide: true
 hidefromtoc: true
 role: Developer
 exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
-source-git-commit: 3f2ed618aa8e5d738315a0ff114551c183761a7d
+source-git-commit: 3128bd389ee7998736993f7b17c9ac53d146e929
 workflow-type: tm+mt
 source-wordcount: '2458'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Le librerie di tag Granite, CQ e Sling consentono di accedere a funzioni specifi
 
 Questo è un titolo in grassetto qui sopra.
 
-giovedì 30 luglio 2025
+venerdì 31 luglio 2025
 
 ## *Intestazione in corsivo*
 
