@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## Prova di scorrimento
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nuova sezione 30 gennaio
 
