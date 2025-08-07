@@ -4,10 +4,10 @@ description: Questa pagina è nascosta dalla ricerca e dal sommario
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 1aa822339d54cb585fe9d9024862d38043a6048d
+source-git-commit: 37213356a84428d3104f772c21c22daa8b42ecfd
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 32%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
 
@@ -24,6 +24,10 @@ ht-degree: 32%
 + [File di prova 2](hidden-test.md)
 + [Reindirizza il test](hidden/test-redirection.md)
 + [Test di attivazione automatica](hidden/autoactivate.md)
+
+## Prova di scorrimento
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nuova sezione 30 gennaio
 
