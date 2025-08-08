@@ -35,7 +35,7 @@ sintassi uno:
 
 con rendering:
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 sintassi due:
@@ -48,7 +48,7 @@ sintassi due:
 
 con rendering:
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
