@@ -3,10 +3,10 @@ user-guide-title: Risorse dei piani di successo
 user-guide-description: Piani di successo e risorse di supporto per Adobe Experience Cloud e Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Panoramica nascosta](hidden-overview.md)
-+ [Compressione nascosta](hidden-collapse.md)
-+ [Risoluzione dei problemi nascosta](hidden-trouble.md)
-+ [Intestazioni creative UGP-13342](hidden-funky-headings.md)
-+ [Barra obliqua nascosta nel blocco di codice](hidden/slashes-in-code-blocks.md)
-+ [Nuovo test nascosto](hidden-new-test.md)
-+ [Nuovo test 2 nascosto](hidden-new-test-2.md)
-+ [File di test nascosto](hidden-test.md)
-+ [Correzioni di bug nascosti](hidden/bug-fixes.md)
-+ [Riquadro di test EDS nascosto](hidden/test-page.md)
-+ [Test reindirizzamenti nascosti](hidden/test-redirection.md)
-+ [Guida alla sintassi nascosta](hidden/syntax-style-guide.md)
-+ [Test di tabelle nascoste](hidden/tables.md)
-+ [Interruzioni di tabella nascoste](hidden/table-breaks.md)
-+ [Test nota nascosta](hidden/note-test.md)
-+ [Reindirizzamenti nascosti](hidden/redirect-tests.md)
-+ Sezione test {#test-section}
-   + [Nascosto - Solo per nuova attivazione automatica](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
