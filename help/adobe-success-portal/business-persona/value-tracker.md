@@ -1,23 +1,23 @@
 ---
 title: '[!UICONTROL Tracciamento valori]'
 description: La pagina [!UICONTROL Tracciamento valore] fornisce una visualizzazione dei [!UICONTROL Casi d'uso] organizzati da KBO.
-source-git-commit: e48c0e344dd06a19aecae3f2114d4d4d292f293e
+exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
+source-git-commit: 7da6cd7e5dd0ed11809292ab03772c9c7197e78c
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
-
 # [!UICONTROL Tracciamento valori]
 
-La pagina **[!UICONTROL Tracciamento valore]** fornisce una visualizzazione di diversi **[!UICONTROL Casi d&#39;uso]** organizzati da KBO. Puoi filtrare quali **[!UICONTROL Casi d&#39;uso]** vengono visualizzati in questa visualizzazione sfruttando i filtri nella parte superiore della pagina.
+La pagina **[!UICONTROL Tracciamento valore]** fornisce una visualizzazione di diversi **[!UICONTROL Casi d&#39;uso]** organizzati da KBO. Puoi filtrare i casi di utilizzo visualizzati in questa vista sfruttando i filtri nella parte superiore della pagina.
 
 Per accedere a **[!UICONTROL Value Tracker]**, fare clic sull&#39;icona ![value-tracker-icon](/help/adobe-success-portal/assets/value-tracker-icon.png) nel pannello di navigazione a sinistra della home page del portale.
 
 ![value-tracker-landing-page](/help/adobe-success-portal/assets/value-tracker-landing-page.png)
 
-Fai clic su una scheda del **[!UICONTROL caso d&#39;uso]** per aprire una visualizzazione dettagliata con:
+Fai clic su una scheda del **[!UICONTROL caso d&#39;uso]** per aprire una visualizzazione dettagliata del caso d&#39;uso che presenta:
 
 * *[!UICONTROL Metrica di successo]*
 * *[!UICONTROL Pubblico]*
@@ -28,4 +28,3 @@ Fai clic su una scheda del **[!UICONTROL caso d&#39;uso]** per aprire una visual
 * *Soluzioni Adobe collegate*
 
 ![esempio-caso-utilizzo-tracker-valore](/help/adobe-success-portal/assets/value-tracker-use-case-example.png)
-
