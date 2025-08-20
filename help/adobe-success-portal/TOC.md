@@ -6,9 +6,9 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: 9fe24daa92a39136debed35f4a2ade64ed56f11d
+source-git-commit: d3dc26237d66f2e8daa63675d3ca9fdcfe23885b
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 1%
 # Portale di successo Adobe {#adobe-success-portal}
 
 - [Introduzione al portale  [!DNL Adobe Success] ](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Accesso al portale  [!DNL Adobe Success] ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
 - [Domande frequenti sui clienti](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - Persona aziendale {#business-persona}
    - [Funzionalità chiave per la persona aziendale](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
@@ -28,4 +29,6 @@ ht-degree: 1%
    - [Funzionalità chiave per l’utente tecnico](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - Supporto e approfondimenti {#support-and-insights}
       - [Panoramica di supporto e approfondimenti](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
+      - [Crea e gestisci i casi nel portale  [!DNL Adobe Success] ](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
+      - [Gestisci risultati nel  [!DNL Adobe Success]  portale](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [Glossario](/help/adobe-success-portal/glossary.md)
