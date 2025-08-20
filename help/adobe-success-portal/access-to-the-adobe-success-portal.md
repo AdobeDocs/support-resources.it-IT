@@ -1,10 +1,11 @@
 ---
 title: 'Accedi al portale  [!DNL Adobe Success] '
 description: Scopri come gestire i casi nel portale  [!DNL Adobe Success] .
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ Questa guida spiega come accedere al portale [!DNL Adobe Success] e ricevere ass
 
 Riceverai una notifica dal team del portale **[!UICONTROL Operazione riuscita]** che conferma l&#39;accesso. Questo messaggio includerà i dettagli di accesso.
 
-1. Vai su https://experience.adobe.com/.
+1. Vai a [https://experience.adobe.com/](https://experience.adobe.com/).
 1. Accedi con il tuo Adobe ID.
-1. Selezionare l&#39;icona del portale [!DNL Adobe Success] (Alpha).
+1. Seleziona l&#39;icona **[!UICONTROL Portale di successo (Alpha)]**.
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ Puoi usare il pulsante **[!UICONTROL Feedback di Alpha]** sul portale per inviar
 >Lo strumento di feedback non è un canale di supporto dedicato. Non è adatto per problemi urgenti di accesso.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
