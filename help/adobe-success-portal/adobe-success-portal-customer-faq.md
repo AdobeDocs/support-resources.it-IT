@@ -2,9 +2,9 @@
 title: 'Portale [!DNL Adobe Success]: domande frequenti sui clienti'
 description: Questo articolo di domande frequenti risponde alle domande frequenti sul portale  [!DNL Adobe Success] .
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 # Portale [!DNL Adobe Success]: domande frequenti dei clienti
 
  
-
 ## Ambito del portale [!DNL Adobe Success]
 
 Adobe Il portale [!DNL Adobe Success] è la nuova piattaforma centralizzata rivolta ai clienti progettata per unificare l&#39;esperienza post-vendita per supporto, successo e coinvolgimento. La versione di Alpha si concentra sulla fornitura di un’esperienza coerente che consolida strumenti e flussi di lavoro precedentemente distribuiti su più piattaforme (ad esempio, portale di supporto, artefatti manuali di Ultimate Success). L’obiettivo è semplificare il modo in cui i clienti si impegnano con Adobe durante tutto il loro ciclo di vita, dall’onboarding al rinnovo, migliorando al contempo la trasparenza, l’autonomia e la realizzazione di valore.
@@ -35,7 +34,7 @@ Per ulteriori informazioni sul portale [!DNL Adobe Success], fare riferimento al
 
 ## Come posso accedere al portale?
 
-Il portale [!DNL Adobe Success] è ospitato su Adobe Experience Cloud. Per accedere al portale [!DNL Adobe Success], impostato a livello di organizzazione IMS, è necessario accedere ad Experience Cloud. Consulta [questa guida](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) per i passaggi su come accedere al portale.
+Il portale [!DNL Adobe Success] è ospitato su Adobe Experience Cloud. Per accedere al portale [!DNL Adobe Success], impostato a livello di organizzazione IMS, è necessario accedere ad Experience Cloud. Consulta [Accedere al [!DNL Adobe Success] portale](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) per i passaggi su come accedere al portale.
 
 L’accesso al portale per Alpha è limitato a un elenco predefinito di utenti identificati per partecipare al programma Alpha. Per ulteriori informazioni su chi dispone dell&#39;accesso dalla tua organizzazione e per richiedere l&#39;accesso ad altri utenti, contatta il team di prodotto utilizzando [il canale Team Alpha](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
