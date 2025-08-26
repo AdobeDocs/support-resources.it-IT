@@ -3,9 +3,9 @@ title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2221'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -106,7 +106,7 @@ I contatti interni per il supporto possono segnalare i problemi tramite tutti i 
 
 | Americhe | Europa, Medio Oriente e Africa | Asia-Pacifico | Giappone |
 |---|---|---|---|
-| 06:00 - 17:00:30 | 09:00 – 17:00 | 09:00 – 17:00 | 09:00 – 17:00 |
+| 06:00 – 17:00:30 | 09:00 – 17:00 | 09:00 – 17:00 | 09:00 – 17:00 |
 
 ## Ciclo di vita del caso di supporto: disponibile a breve
 
@@ -131,7 +131,7 @@ In questo scenario, quando un cliente richiede informazioni aggiuntive, si esegu
 * Al 1°, 3° e 5° giorno dopo che lo stato è impostato su “Risposta in sospeso”, al cliente che richiedeva informazioni aggiuntive, vengono inviate notifiche di follow up.
 * Se il cliente non risponde entro 6 giorni da quando lo stato è impostato su “Risposta in sospeso”, il caso è impostato su “chiuso” e viene inviata una notifica di chiusura.
 
-I clienti possono riaprire un caso chiuso su Experience League entro 14 giorni per continuare la comunicazione. Oltre 14 giorni, è possibile aprire un nuovo caso di supporto per continuare la comunicazione relativa a un caso precedentemente chiuso. La risposta a un’e-mail relativa a un ticket chiuso non lo riaprirà.
+È possibile riaprire un caso chiuso in Experience League entro 14 giorni per riprendere la comunicazione. Dopo 14 giorni, sarà possibile aprire un nuovo caso di assistenza per riprendere la comunicazione relativa al caso chiuso in precedenza. Se si risponde a a un’e-mail relativa a un ticket chiuso, questo non verrà riaperto.
 
 **L’ngegnere fornisce una soluzione**
 
