@@ -1,25 +1,26 @@
 ---
-title: 'Crea e gestisci i casi nel portale  [!DNL Adobe Success] '
-description: Scopri come gestire i casi nel portale  [!DNL Adobe Success] .
-source-git-commit: f68a62004b2802ef6e1b780a687d202571754e70
-workflow-type: tm+mt
+title: 'Creare e gestire i casi nel portale [!DNL Adobe Success] '
+description: Scopri come gestire i casi nel portale [!DNL Adobe Success] .
+exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
+source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Crea e gestisci i casi nel portale [!DNL Adobe Success]
+# Creare e gestire i casi nel portale [!DNL Adobe Success]
 
-Questa guida spiega come creare, visualizzare e scaricare i report relativi ai casi nel portale [!DNL Adobe Success].
+Questa guida spiega come creare, visualizzare e scaricare rapporti relativi ai casi nel portale [!DNL Adobe Success].
 
-## Apri una controversia
+## Aprire un caso
 
-Puoi aprire un caso dalla scheda Home o dalla scheda **[!UICONTROL Supporto e approfondimenti]**.
+Puoi aprire un caso dalla scheda Home o dalla scheda **[!UICONTROL Assistenza e insight]**.
 
 Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda Home:
 
 1. Passa alla scheda Home.
-1. Seleziona **[!UICONTROL Apri controversia]**.
+1. Seleziona **[!UICONTROL Apri caso]**.
 
 
    ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
@@ -39,10 +40,10 @@ Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda Home:
 
 
 
-Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda **[!UICONTROL Supporto e approfondimenti]**.
+Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda **[!UICONTROL Assistenza e insight]**.
 
-1. Passa alla scheda **[!UICONTROL Supporto e approfondimenti]**.
-1. Seleziona **[!UICONTROL Apri controversia]**.
+1. Passa alla scheda **[!UICONTROL Assistenza e insight]**.
+1. Seleziona **[!UICONTROL Apri caso]**.
 
 
 
@@ -50,11 +51,11 @@ Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda **[!UICONTROL S
 
 
 
-Seguire gli stessi passaggi indicati sopra per completare e inviare il caso.
+Segui gli stessi passaggi indicati sopra per completare e inviare il caso.
 
-## Visualizza un caso
+## Visualizzare un caso
 
-Puoi visualizzare un caso dalla scheda Home o dalla scheda **[!UICONTROL Supporto e approfondimenti]**.
+Puoi visualizzare un caso dalla scheda Home o dalla scheda **[!UICONTROL Assistenza e insight]**.
 
 Per accedere alla pagina **[!UICONTROL Visualizza casi]** dalla scheda Home:
 
@@ -63,15 +64,15 @@ Per accedere alla pagina **[!UICONTROL Visualizza casi]** dalla scheda Home:
 
 
 
-   ![adobe-success-portal-view-CASES](../../assets/adobe-success-portal-view-cases.png)
+   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
 
 
-1. Seleziona la scheda prodotto da visualizzare, quindi scegli **[!UICONTROL Casi aperti]** o **[!UICONTROL Casi chiusi]**.
+1. Seleziona la scheda prodotto che desideri visualizzare, quindi scegli **[!UICONTROL Casi aperti]** o **[!UICONTROL Casi chiusi]**.
 
    >[!NOTE]
    >
-   >Puoi anche selezionare la scheda **[!UICONTROL Supporto e approfondimenti]** per accedere rapidamente alle schede dei prodotti con **[!UICONTROL collegamenti a casi aperti]** o **[!UICONTROL a casi chiusi]**.
+   >Puoi anche selezionare la scheda **[!UICONTROL Assistenza e insight]** per accedere rapidamente alle schede prodotto con collegamenti a **[!UICONTROL casi aperti]** o a **[!UICONTROL casi chiusi]**.
 
 
 
@@ -79,7 +80,7 @@ Per accedere alla pagina **[!UICONTROL Visualizza casi]** dalla scheda Home:
 
 
 
-1. Fare clic su **[!UICONTROL Numero caso]** per visualizzare i dettagli del caso.
+1. Fai clic su **[!UICONTROL Numero caso]** per visualizzare i dettagli del caso.
 
 
 
@@ -89,23 +90,23 @@ Per accedere alla pagina **[!UICONTROL Visualizza casi]** dalla scheda Home:
 
 ## Scaricare i rapporti sui casi
 
-Per scaricare i rapporti di PDF sui tuoi casi:
+Per scaricare i rapporti in PDF dei casi:
 
 1. Passa alla scheda Home.
 1. Seleziona **[!UICONTROL Visualizza casi]**.
 
 
-   ![adobe-success-portal-view-CASES](../../assets/adobe-success-portal-view-cases.png)
+   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
 
-1. Seleziona la scheda prodotto da visualizzare, quindi scegli **[!UICONTROL Casi aperti]** o **[!UICONTROL Casi chiusi]**.
+1. Seleziona la scheda prodotto che desideri visualizzare, quindi scegli **[!UICONTROL Casi aperti]** o **[!UICONTROL Casi chiusi]**.
 
    >[!NOTE]
    >
-   >Puoi anche selezionare la scheda **[!UICONTROL Supporto e approfondimenti]** per accedere rapidamente alle schede dei prodotti con collegamenti a **[!UICONTROL Casi aperti]** o **[!UICONTROL Casi chiusi]**.
+   >Puoi anche selezionare la scheda **[!UICONTROL Assistenza e insight]** per accedere rapidamente alle schede dei prodotti con collegamenti a **[!UICONTROL casi aperti]** o a **[!UICONTROL casi chiusi]**.
 
    ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
 
-1. Nella pagina [Prodotto] - Casi di supporto, seleziona la casella di controllo accanto al caso da scaricare e seleziona **[!UICONTROL Casi di download]**.
+1. Nella pagina [Prodotto] - Casi di assistenza, seleziona la casella di controllo accanto al caso che desideri scaricare e seleziona **[!UICONTROL Scarica casi]**.
 
-   ![casi-successo-portale-download-di-adobe](../../assets/adobe-success-portal-download-cases.png)
+   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)

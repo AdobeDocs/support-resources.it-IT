@@ -1,17 +1,17 @@
 ---
 title: Funzionalità chiave per l’utente tipo aziendale
-description: Le funzionalità del portale /[!DNL Adobe Success/] per un utente tipo aziendale consentono la misurazione del valore tra gli obiettivi aziendali chiave, tenendo traccia dell'avanzamento e offrendo informazioni in una visualizzazione facilmente accessibile.
+description: Le funzioni del portale [!DNL Adobe Success/] per un utente tipo aziendale consentono di misurare il valore in base agli obiettivi aziendali chiave, tenendo traccia dell’avanzamento e offrendo insight in una vista facilmente accessibile.
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
 source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Funzionalità chiave per l’utente tipo aziendale
 
-Le funzionalità del portale [!DNL Adobe Success] per una persona aziendale consentono la misurazione del valore in [[!UICONTROL Obiettivi aziendali chiave]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO), tenendo traccia dell&#39;avanzamento e offrendo informazioni in una visualizzazione facilmente accessibile.
+Le funzioni del portale [!DNL Adobe Success] per un utente tipo aziendale consentono di misurare il valore in base agli [[!UICONTROL obiettivi aziendali chiave]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO, Key Business Objectives), tenendo traccia dell’avanzamento e offrendo insight in una vista facilmente accessibile.
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
