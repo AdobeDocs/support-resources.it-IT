@@ -7,9 +7,9 @@ type: Documentation
 hide: true
 index: false
 role: User, Admin
-source-git-commit: 53a3354794afaf700613a073025129d641744fab
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: 058a02175c050cf5a1e351f95fbbc85962f7bb96
+workflow-type: tm+mt
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -33,3 +33,5 @@ ht-degree: 100%
       - [Creare e gestire i casi nel portale [!DNL Adobe Success] ](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
       - [Gestire i risultati nel portale [!DNL Adobe Success] ](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [Glossario](/help/adobe-success-portal/glossary.md)
+- [Note sulla versione](/help/adobe-success-portal/release-notes.md)
+
