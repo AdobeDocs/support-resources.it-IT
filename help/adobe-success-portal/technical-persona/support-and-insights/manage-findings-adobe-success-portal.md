@@ -62,7 +62,8 @@ Per visualizzare insight su un prodotto:
 
 Segui questi passaggi per verificare se ciascun risultato è ancora applicabile o può essere ignorato.
 
->[!NOTE]:
+>[!NOTE]
+>:
 >
 >Sulle istanze vengono eseguiti controlli standard. Se i controlli non rilevano la presenza del problema nella tua istanza, lo stato risulterà **[!UICONTROL Non rilevato]**.
 
