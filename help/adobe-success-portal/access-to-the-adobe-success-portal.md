@@ -2,10 +2,10 @@
 title: 'Accedere al portale [!DNL Adobe Success] '
 description: Scopri come gestire i casi nel portale [!DNL Adobe Success] .
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: ht
-source-wordcount: '141'
-ht-degree: 100%
+source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 81%
 
 ---
 
@@ -19,13 +19,13 @@ Riceverai una notifica dal team del portale **[!UICONTROL Success]** che conferm
 1. Accedi con il tuo Adobe ID.
 1. Seleziona l’icona del **[!UICONTROL portale Success (Alpha)]**.
 
-   ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
+   ![Icona ed etichetta per il portale di successo (Alpha)](assets/alpha-success-portal-alpha.png "Accesso al portale di successo (Alpha)")
 
 
 
 1. Una volta effettuato l’accesso, vengono visualizzate cinque schede:
 
-   ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
+   ![Barra laterale dell&#39;interfaccia del portale di successo di Adobe](assets/adobe-success-portal-tabs.png "Schede barra laterale")
 
 
    * Home
@@ -44,4 +44,4 @@ Puoi usare il pulsante **[!UICONTROL Feedback Alpha]** sul portale per inviare f
 >
 >Lo strumento di feedback non è un canale di supporto dedicato. Non è adatto per problemi di accesso urgenti.
 
-![adobe-success-portal-home](assets/adobe-success-portal-home.png)
+![Pulsante Feedback di Alpha sul portale per inviare feedback](assets/adobe-success-portal-home.png "Pulsante Feedback di Alpha")
