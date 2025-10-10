@@ -3,9 +3,9 @@ title: 'Gestire risultati nel portale [!DNL Adobe Success] '
 description: Questa guida spiega come accedere, interpretare e agire sui risultati nel portale [!DNL Adobe Success] per aiutarti a gestire in modo proattivo i rischi relativi a prestazioni, sicurezza e funzionalità dei prodotti.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
 source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '864'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -39,31 +39,30 @@ Per visualizzare insight su un prodotto:
 1. Passa a **[!UICONTROL Assistenza e insight]**.
 1. Seleziona la scheda prodotto pertinente. Seleziona la scheda **[!UICONTROL Risultati]**.
 
-   ![Evidenziazione dei risultati del Success Portal di Adobe in AEM as Cloud Service - Assets con 3 elementi elencati](../../assets/asp-support-inisghts-findings.png "Visualizza i risultati per AEM Assets in Cloud Service")
+   ![Portale Adobe Success che evidenzia i risultati in AEM as Cloud Service - Sono elencate risorse con 3 elementi](../../assets/asp-support-inisghts-findings.png "Visualizza i risultati di AEM Assets in Cloud Service")
 
 
 1. Viene visualizzato un elenco di tutti i risultati per il prodotto selezionato.
 
-   ![Adobe Success Portal mostra la scheda Risultati per AEM Cloud Service - Assets con problemi di caching elencati](../../assets/adobe-success-portal-findings.png "Visualizza i risultati relativi alla caching per AEM Assets in Cloud Service")
+   ![Portale Adobe Success che mostra la scheda Risultati per AEM Cloud Service - Sono elencate risorse con problemi di memorizzazione in cache](../../assets/adobe-success-portal-findings.png "Visualizza i risultati relativi alla memorizzazione in cache di AEM Assets in Cloud Service")
 
-1. Da qui, puoi eseguire quanto segue:
+1. Da qui, puoi:
 
-   ![L&#39;interfaccia del portale di successo di Adobe evidenzia la barra di ricerca, il pulsante di download e un risultato a rischio grave in AEM Sites](../../assets/adobe-success-portal-download.png "Cerca, scarica o visualizza i risultati per AEM Sites in Cloud Service")
+   ![L’interfaccia del portale Adobe Success che evidenzia la barra di ricerca, il pulsante di download e un risultato a rischio grave in AEM Sites](../../assets/adobe-success-portal-download.png "Cerca, scarica o visualizza i risultati di AEM Sites in Cloud Service")
 
    * Cerca voci specifiche.
    * Esporta l’elenco dei risultati selezionando **[!UICONTROL Scarica risultati]**. Per esportare un rapporto di un risultato, seleziona la casella di controllo accanto al risultato rilevante nella colonna **[!UICONTROL Nome risultato]**. Se non selezioni un risultato, per impostazione predefinita il PDF contiene un elenco di tutti i risultati.
    * Visualizza i dettagli di un risultato, inclusa una risoluzione consigliata, selezionando un risultato in **[!UICONTROL Nome risultato]**. Nella pagina dei dettagli del risultato viene visualizzato il risultato selezionato con contesto aggiuntivo e un consiglio. Per visualizzare questo rapporto, seleziona la freccia di download.
 
 
-     ![Pulsante Scarica per esportare i dettagli dei risultati nel portale di successo di Adobe](../../assets/findings-details.png "Scarica il report dei risultati")
+     ![Pulsante Scarica per esportare i dettagli dei risultati nel portale Adobe Success](../../assets/findings-details.png "Scarica il rapporto dei risultati")
 
 
 ## Intervenire in base ai risultati
 
 Segui questi passaggi per verificare se ciascun risultato è ancora applicabile o può essere ignorato.
 
->[!NOTE]
->:
+>[!NOTE]:
 >
 >Sulle istanze vengono eseguiti controlli standard. Se i controlli non rilevano la presenza del problema nella tua istanza, lo stato risulterà **[!UICONTROL Non rilevato]**.
 
@@ -73,7 +72,7 @@ Segui questi passaggi per verificare se ciascun risultato è ancora applicabile 
 1. Seleziona una voce in **[!UICONTROL Nome risultato]**. Nella pagina dei dettagli del risultato:
    * Seleziona **[!UICONTROL Convalida]** per controllare se il problema è ancora presente (il pulsante **[!UICONTROL Convalida]** è progettato per confermare che il problema è stato risolto):
 
-   ![Pulsante Convalida nel pannello Risultati per confermare la risoluzione dei problemi nel portale di successo di Adobe](../../assets/adobe-success-portal-validate.png "Pulsante Convalida")
+   ![Pulsante Convalida nel pannello Risultati per confermare la risoluzione dei problemi nel portale Adobe Success](../../assets/adobe-success-portal-validate.png "Pulsante Convalida")
 
 
    * Se il problema persiste, viene visualizzato il seguente messaggio: *[!UICONTROL Convalida completata. Risultato ancora rilevato]*. Utilizza le informazioni e i consigli nella pagina dei dettagli del risultato per indagare e risolvere.

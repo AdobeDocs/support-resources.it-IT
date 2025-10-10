@@ -3,9 +3,9 @@ title: 'Creare e gestire i casi nel portale [!DNL Adobe Success] '
 description: Scopri come gestire i casi nel portale [!DNL Adobe Success] .
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
 source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda Home:
 1. Seleziona **[!UICONTROL Apri caso]**.
 
 
-   ![Pulsante Apri caso nella sezione Crea un nuovo caso di Adobe Success Portal](../../assets/adobe-success-portal-home-page-open-case.png "Pulsante Apri caso")
+   ![Pulsante Apri caso nella sezione Crea un nuovo caso del portale Adobe Success](../../assets/adobe-success-portal-home-page-open-case.png "Pulsante Apri caso")
 
 
 
@@ -35,7 +35,7 @@ Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda Home:
 
 
 
-   ![Pulsante Invia richiesta in fondo al modulo della richiesta di assistenza nel portale di successo Adobe](../../assets/adobe-success-portal-submit-case.png "Invia la richiesta di assistenza")
+   ![Pulsante Invia caso nella parte inferiore del modulo del ticket di supporto nel portale Adobe Success](../../assets/adobe-success-portal-submit-case.png "Invia la richiesta di supporto")
 
 
 
@@ -47,7 +47,7 @@ Per accedere alla pagina **[!UICONTROL Apri caso]** dalla scheda **[!UICONTROL A
 
 
 
-   ![Pulsante Apri caso nella sezione Crea un nuovo caso di Adobe Success Portal](../../assets/adobe-success-portal-support-insights-open-case.png "Pulsante Apri caso")
+   ![Pulsante Apri caso nella sezione Crea un nuovo caso del portale Adobe Success](../../assets/adobe-success-portal-support-insights-open-case.png "Pulsante Apri caso")
 
 
 
@@ -64,7 +64,7 @@ Per accedere alla pagina **[!UICONTROL Visualizza casi]** dalla scheda Home:
 
 
 
-   ![Pulsante Visualizza casi nella sezione Crea un nuovo caso del portale di successo Adobe](../../assets/adobe-success-portal-view-cases.png "Visualizza i casi di supporto esistenti")
+   ![Pulsante Visualizza casi nella sezione Crea un nuovo caso del portale Adobe Success](../../assets/adobe-success-portal-view-cases.png "Visualizza i casi di supporto esistenti")
 
 
 
@@ -76,7 +76,7 @@ Per accedere alla pagina **[!UICONTROL Visualizza casi]** dalla scheda Home:
 
 
 
-   ![Indicatori di casi aperti e chiusi nella sezione Supporto e approfondimenti per AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Visualizza riepilogo dei casi di supporto aperti e chiusi")
+   ![Indicatori di casi aperti e chiusi nella sezione Supporto e insight di AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Visualizza riepilogo dei casi di supporto aperti e chiusi")
 
 
 
@@ -84,7 +84,7 @@ Per accedere alla pagina **[!UICONTROL Visualizza casi]** dalla scheda Home:
 
 
 
-   ![Collegamento Numero caso nei casi di supporto di Adobe Success Portal](../../assets/adobe-success-portal-case-number.png "Fare clic per visualizzare i dettagli del caso")
+   ![Collegamento Numero caso nei casi di supporto del portale Adobe Success](../../assets/adobe-success-portal-case-number.png "Fai clic per visualizzare i dettagli del caso")
 
 
 
@@ -96,7 +96,7 @@ Per scaricare i rapporti in PDF dei casi:
 1. Seleziona **[!UICONTROL Visualizza casi]**.
 
 
-   ![Pulsante Visualizza casi nella sezione Crea un nuovo caso del portale di successo Adobe](../../assets/adobe-success-portal-view-cases.png "Visualizza i casi di supporto esistenti")
+   ![Pulsante Visualizza casi nella sezione Crea un nuovo caso del portale Adobe Success](../../assets/adobe-success-portal-view-cases.png "Visualizza i casi di supporto esistenti")
 
 
 1. Seleziona la scheda prodotto che desideri visualizzare, quindi scegli **[!UICONTROL Casi aperti]** o **[!UICONTROL Casi chiusi]**.
@@ -105,8 +105,8 @@ Per scaricare i rapporti in PDF dei casi:
    >
    >Puoi anche selezionare la scheda **[!UICONTROL Assistenza e insight]** per accedere rapidamente alle schede dei prodotti con collegamenti a **[!UICONTROL casi aperti]** o a **[!UICONTROL casi chiusi]**.
 
-   ![Indicatori di casi aperti e chiusi nella sezione Supporto e approfondimenti per AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Visualizza riepilogo dei casi di supporto aperti e chiusi")
+   ![Indicatori di casi aperti e chiusi nella sezione Supporto e insight per AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Visualizza riepilogo dei casi di supporto aperti e chiusi")
 
-1. Nella pagina [Prodotto] - Casi di assistenza, seleziona la casella di controllo accanto al caso che desideri scaricare e seleziona **[!UICONTROL Scarica casi]**.
+1. Nella pagina [Prodotto] - Casi di supporto, seleziona la casella di controllo accanto al caso che desideri scaricare e seleziona **[!UICONTROL Scarica casi]**.
 
-   ![Pulsante Scarica casi nella sezione Gestione dei casi del portale di successo Adobe](../../assets/adobe-success-portal-download-cases.png "Scarica i dati dei casi di supporto")
+   ![Pulsante Scarica casi nella sezione Gestione dei casi del portale Adobe Success](../../assets/adobe-success-portal-download-cases.png "Scarica i dati del caso di supporto")
