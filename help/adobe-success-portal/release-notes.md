@@ -3,10 +3,10 @@ title: Note sulla versione del portale Adobe Success
 description: Informazioni sulla versione più recente del [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 36%
+source-wordcount: '595'
+ht-degree: 31%
 
 ---
 
@@ -17,6 +17,18 @@ Queste note sulla versione contengono aggiornamenti per il [!DNL Adobe Success p
 ![Nuovo](../adobe-success-portal/assets/new.svg): nuove funzioni
 ![Correzione](../adobe-success-portal/assets/fix.svg): correzioni e miglioramenti
 ![Bug](../adobe-success-portal/assets/bug.svg): problemi noti
+
+## 4,0
+
+_11 novembre 2025_
+
+![Correzione](../adobe-success-portal/assets/fix.svg): l&#39;ordine di conversazione nella pagina dei dettagli del caso è stato ottimizzato per scorrere automaticamente fino al messaggio più recente.
+
+![Correzione](../adobe-success-portal/assets/fix.svg) Aggiornamento dei dettagli del caso in modo che, quando viene aperto in una nuova scheda utilizzando **Ctrl+clic** / **Comando+clic**, il pulsante Indietro sia disabilitato correttamente per evitare errori di navigazione.
+
+![Bug](../adobe-success-portal/assets/bug.svg) è stato risolto un problema che causava la visualizzazione di dettagli errati sullo stato, sull&#39;area geografica o sul fuso orario per **[!UICONTROL avvisi sullo stato di Adobe]** in **[!UICONTROL Supporto e approfondimenti]**.
+
+![Bug](../adobe-success-portal/assets/bug.svg) ha risolto problemi di visualizzazione con **[!UICONTROL Acceleratori]** e **[!UICONTROL Attività]** collegati a **[!UICONTROL Partner strategici]**.
 
 ## 3,0
 
