@@ -2,7 +2,8 @@
 title: Panoramica dei piani di successo Adobe
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud, Adobe Document Cloud e Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 3d7d582ed5725ba9cb3c599910110d441114b066
+hide: true
+source-git-commit: 1cf43efd9effb8436f4bff7a6e89d4a497b3f35b
 workflow-type: tm+mt
 source-wordcount: '1833'
 ht-degree: 100%
@@ -167,4 +168,4 @@ Il supporto standard per i prodotti Adobe Commerce: Managed Services concessi in
 
 >[!NOTE]
 >
->I servizi sul campo non sostituiscono gli impegni di consulenza di Adobe. I servizi sul campo supportano l’implementazione post-LAS del cliente e integrano qualsiasi coinvolgimento di consulenza più ampio.
+>I servizi sul campo non sostituiscono le attività di Adobe Consulting. I servizi sul campo supportano l’implementazione post-LAS del cliente e integrano qualsiasi coinvolgimento di consulenza più ampio.
