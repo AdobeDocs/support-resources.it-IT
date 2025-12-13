@@ -119,7 +119,7 @@ Per preparare Adobe Journey Optimizer per le festività natalizie, le organizzaz
    * ora di invio
    * tipo di offerta
    * mix di canali
-Consulta [Best practice per AJO Experimentation Accelerator](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Consulta [Best practice per AJO Experimentation Accelerator](https://experienceleague.adobe.com/it/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * Eseguire la convalida end-to-end del percorso:
    * trigger di evento
    * voce di segmentazione
