@@ -57,7 +57,7 @@ I clienti riceveranno istruzioni e coordinazione da un team Workfront interno in
 
 +++**Quali risorse di formazione sono disponibili per AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/it/enterprise/using/admin-console.html >
 
 +++
 
