@@ -2,9 +2,9 @@
 keywords: FAQ;domande frequenti
 title: Domande frequenti su Adobe Business Platform e Admin Console
 description: Domande frequenti per Adobe Workfront
-source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
+source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '473'
 ht-degree: 11%
 
 ---
@@ -51,13 +51,13 @@ I clienti riceveranno istruzioni e coordinazione da un team Workfront interno in
 
 +++**Quali nuove funzionalità sono disponibili in AAC non sono attualmente disponibili per i clienti in Workfront?**
 
-Consulta [questo documento](overview.md) in cui sono evidenziate alcune delle nuove funzionalità disponibili.
+
 
 +++
 
 +++**Quali risorse di formazione sono disponibili per AAC?**
 
-&lt;https://helpx.adobe.com/it/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
