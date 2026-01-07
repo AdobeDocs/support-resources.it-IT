@@ -27,7 +27,7 @@ La gerarchia amministrativa può essere utilizzata per soddisfare i requisiti sp
 
 >[!NOTE]
 >
->La gerarchia amministrativa non si applica ai clienti dei team. I clienti Team hanno un solo ruolo di **Amministratore di sistema**. Il proprietario del contratto (_precedentemente denominato **Amministratore principale**_) è l&#39;amministratore di sistema con accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il proprietario del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente denominato **amministratore secondario**_) come proprietario del contratto.
+>La gerarchia amministrativa non si applica ai clienti dei team. I clienti Team hanno un solo ruolo di **Amministratore di sistema**. Il proprietario del contratto (_precedentemente denominato **Amministratore principale**&#x200B;_) è l&#39;amministratore di sistema con accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il proprietario del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente denominato **amministratore secondario**&#x200B;_) come proprietario del contratto.
 
 ![immagine amministratore](assets/storage_admin.png)
 
@@ -53,7 +53,7 @@ In qualità di amministratore, puoi assegnare un ruolo di amministratore ad altr
 
 Per aggiungere o invitare un amministratore:
 
-1. In **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)** scegliere **[!UICONTROL Utenti]** > **[!UICONTROL Amministratori]**.
+1. In **[[!UICONTROL Adobe Admin Console]](https://adminconsole.adobe.com/)** scegliere **[!UICONTROL Utenti]** > **[!UICONTROL Amministratori]**.
 
    In alternativa, vai al prodotto, al profilo di prodotto o al gruppo di utenti pertinente e passa alla scheda **[!UICONTROL Amministratori]**.
 
