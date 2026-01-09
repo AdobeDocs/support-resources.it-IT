@@ -72,7 +72,7 @@ Per richiedere una capacità cloud aggiuntiva temporanea, invia un [ticket di su
 
 1. Scegli *Ridimensionamento progetto cloud (vCPU)* dal menu a discesa **[!UICONTROL Quale modifica ad infrarossi desideri eseguire oggi]**.
 
-1. **Selezionare l&#39;architettura **:
+1. **Selezionare l&#39;architettura &#x200B;**:
    * *Architettura predefinita:* Seleziona *Dimensione disponibile successiva* dal menu a discesa **Seleziona dimensione**.
    * *Architettura ridimensionata:* Se selezionata, la schermata cambia per mostrare due campi aggiuntivi:
       * *Dimensioni per nodo Web*
