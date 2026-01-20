@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 36451c1cc9894de0fcea7890ce3ff1d6b2bf2a0d
+source-git-commit: 068b2404d78bffdf5973c5b553acae6134bae6d0
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 8%
+source-wordcount: '63'
+ht-degree: 7%
 
 ---
 
@@ -25,4 +25,5 @@ ht-degree: 8%
    - [Come richiedere l’upsize temporaneo dell’infrastruttura cloud per Adobe Commerce](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Hotline per le notifiche Adobe Commerce P1](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Supporto Adobe accesso ai dati dei clienti e privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+   - [Aggiornamento dei criteri del ciclo di vita dei ticket di supporto Adobe Commerce](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
 
