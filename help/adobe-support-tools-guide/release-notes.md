@@ -55,7 +55,7 @@ La nuova esperienza di creazione dei casi introduce un modulo aggiornato progett
    - Nome proprietà tag
 
 
-![](../adobe-support-tools-guide/assets/new.svg) Nuovo Aggiunto un **pannello[!UICONTROL  Raccomandazioni basato sull&#39;intelligenza]** artificiale per visualizzare indicazioni utili senza interrompere il flusso di creazione del caso.
+![](../adobe-support-tools-guide/assets/new.svg) Nuovo Aggiunto un **pannello[!UICONTROL &#x200B; Raccomandazioni basato sull&#39;intelligenza]** artificiale per visualizzare indicazioni utili senza interrompere il flusso di creazione del caso.
 
 ![](../adobe-support-tools-guide/assets/new.svg) Nuovo È stato aggiunto il [!UICONTROL passaggio Riepilogo] recensioni per fornire una vista consolidata di tutte le informazioni immesse e consentire agli utenti di:
 
