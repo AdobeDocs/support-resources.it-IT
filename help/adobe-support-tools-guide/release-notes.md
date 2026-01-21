@@ -1,68 +1,68 @@
 ---
-title: Note sulla versione del nuovo modulo per casi EXL
-description: Informazioni aggiornate sulla versione del modulo per casi in EXL.
+title: Note sulla versione di Nuovo Experience League Case Form
+description: Informazioni sull'ultima versione del modulo caso EXL.
 feature: Release Notes
-source-git-commit: 421ef19ed939cd757e3182c8fa5bbda13fd7561e
+source-git-commit: 7bca9c4ae25c77092de6957193ceecd146d19a1a
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '274'
 ht-degree: 7%
 
 ---
 
 
-# Note sulla versione del nuovo modulo per casi EXL
+# Note sulla versione di Nuovo Experience League Case Form
 
-La nuova esperienza di Creazione di casi introduce un modulo aggiornato progettato per semplificare la risoluzione dei problemi e include:
+La nuova esperienza di creazione dei casi introduce un modulo aggiornato progettato per semplificare la risoluzione dei problemi e include:
 
 ![Nuovo](../adobe-support-tools-guide/assets/new.svg): nuove funzioni
 ![Correzione](../adobe-support-tools-guide/assets/fix.svg): correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg): problemi noti
 
-## Versione 1.0 - Modulo per la creazione di casi avanzati
+## Versione 1.0 – Modulo avanzato per la creazione di casi
 
 *venerdì 15 gennaio 2026*
 
-![Nuovo](../adobe-support-tools-guide/assets/new.svg) Il modulo del caso è organizzato in un flusso guidato che aiuta gli utenti a comprendere quali informazioni sono necessarie in ogni fase:
+![](../adobe-support-tools-guide/assets/new.svg) Nuovo Il modulo del caso è organizzato in un flusso guidato, che aiuta gli utenti a capire quali informazioni sono necessarie in ogni fase:
 
 - [!UICONTROL Selezione prodotti]
-- [!UICONTROL Dettagli problema]
+- [!UICONTROL Dettagli del problema]
 - [!UICONTROL Informazioni di sistema]
 - [!UICONTROL Impatto]
 - [!UICONTROL Informazioni di contatto]
 - [!UICONTROL Rivedi e invia]
 
-![Nuovo](../adobe-support-tools-guide/assets/new.svg) Aggiunto **Nuovo [!UICONTROL Passaggi da riprodurre] Campo** per acquisire dettagli fruibili e accelerare la risoluzione dei problemi.
+![](../adobe-support-tools-guide/assets/new.svg) Nuovo sono stati aggiunti **Nuovo [!UICONTROL passaggi per riprodurre] il campo** per acquisire dettagli utilizzabili e accelerare la risoluzione dei problemi.
 
-![Nuovo](../adobe-support-tools-guide/assets/new.svg) Aggiunto **Ulteriori [!UICONTROL Campi Contesto dell&#39;ambiente]** per i prodotti autorizzati per acquisire i dettagli critici:
+![](../adobe-support-tools-guide/assets/new.svg) Nuovo Sono stati aggiunti **ulteriori [!UICONTROL campi contesto] ambientali per consentire l&#39;acquisizione** dei dettagli critico relativi ai prodotti autorizzati:
 
 - **Marketo**
    - ID Munchkin
 - **Adobe Target**
    - Nome attività
-   - URL del sito (nome proprietà tag)/registro HAR o Assurance
+   - URL sito (nome proprietà tag) / registro HAR o garanzia
 - **Adobe Analytics**
    - RSID
-   - URL del sito (nome proprietà tag) / registro HAR o Assurance / cURL / registro di debug
-   - Collegamento rapido Workspace
-- **Adobe Journey Optimizer (AJO)**
-   - ID PERCORSO o URL PERCORSO
+   - URL sito (nome proprietà tag) / HAR o registro di garanzia / cURL / registro di debug
+   - Area di lavoro collegamento rapido
+- **Adobe Systems Journey Optimizer (AJO)**
+   - ID viaggio o URL percorso
    - Esempio di profilo
 - **Real-Time Customer Data Platform (RTCDP)**
-   - ID componente interessato (ID destinazione, ID profilo, ID pubblico, ID set di dati o ID flusso di dati)
-   - File HAR / Registri di Assurance
+   - ID componente interessato (ID destinazione, ID profilo, ID audience, ID set di dati o ID flusso di dati)
+   - File HAR / Registri di garanzia
 - **Customer Journey Analytics (CJA)**
-   - progetto Workspace
+   - Area di lavoro progetto
    - Nome proprietà tag
 
 
-![New](../adobe-support-tools-guide/assets/new.svg) ha aggiunto un **pannello [!UICONTROL Recommendations]** basato sull&#39;intelligenza artificiale per visualizzare indicazioni utili senza interrompere il flusso di creazione dei casi.
+![](../adobe-support-tools-guide/assets/new.svg) Nuovo Aggiunto un **pannello[!UICONTROL  Raccomandazioni basato sull&#39;intelligenza]** artificiale per visualizzare indicazioni utili senza interrompere il flusso di creazione del caso.
 
-![Nuovo](../adobe-support-tools-guide/assets/new.svg) Aggiunto [!UICONTROL Riepilogo recensioni] passaggio per fornire una visualizzazione consolidata di tutte le informazioni immesse e consentire agli utenti di:
+![](../adobe-support-tools-guide/assets/new.svg) Nuovo È stato aggiunto il [!UICONTROL passaggio Riepilogo] recensioni per fornire una vista consolidata di tutte le informazioni immesse e consentire agli utenti di:
 
-- Rivedere i dettagli del caso in un&#39;unica posizione
+- Esamina i dettagli del caso in un unico posto
 - Torna ai passaggi precedenti per apportare modifiche
-- Torna al riepilogo senza perdere l’avanzamento
+- Torna al riepilogo senza perdere i progressi
 
-![Correzione](../adobe-support-tools-guide/assets/fix.svg) del campo Descrizione caso rinominato in *[!UICONTROL &quot;Descrivere il problema&quot;]* per una maggiore chiarezza.
+![È stato corretto](../adobe-support-tools-guide/assets/fix.svg) il caso Descrizione il campo rinominato in *[!UICONTROL &quot;Descrivi il problema&quot;]* per maggiore chiarezza.
 
-![Correzione](../adobe-support-tools-guide/assets/fix.svg) aggiunto l&#39;asterisco (*) come indicatori di campo obbligatori per garantire la completezza e ridurre gli errori di invio.
+![Correzione dell&#39;asterisco](../adobe-support-tools-guide/assets/fix.svg) aggiunto (*) come indicatori di campo obbligatori per garantire la completezza e ridurre gli errori di invio.
