@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Ticket di supporto Experience League
 
-I ticket di supporto sono ora inviati tramite [Experience League](https://experienceleague.adobe.com/home#support). Per istruzioni su come inviare un ticket di supporto, consulta la sezione per [inviare un ticket di supporto](#create-a-support-ticket-with-experience-league).
+I ticket di supporto sono ora inviati tramite [Experience League](https://experienceleague.adobe.com/home?lang=it#support). Per istruzioni su come inviare un ticket di supporto, consulta la sezione per [inviare un ticket di supporto](#create-a-support-ticket-with-experience-league).
 
 Stiamo lavorando per migliorarti il modo in cui interagisci con l’Assistenza clienti di Adobe. Il nostro obiettivo è semplificare l’esperienza di supporto passando a un singolo punto di ingresso, utilizzando Experience League. Una volta attivo, l’organizzazione sarà in grado di accedere facilmente all’Assistenza clienti di Adobe, avere maggiore visibilità sulla cronologia dei servizi tramite un sistema comune tra i prodotti e richiedere assistenza tramite telefono, web e chat tramite un singolo portale.
 
-Se sei un utente di Adobe Commerce, consulta [Invia un caso di supporto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) nella Guida utente del supporto Experience League per Adobe Commerce.
+Se sei un utente di Adobe Commerce, consulta [Invia un caso di supporto](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) nella Guida utente del supporto Experience League per Adobe Commerce.
 
 ## Ruoli autorizzati di supporto necessari per l’invio dei casi {#submit-ticket}
 
-Per inviare un ticket di supporto in [Experience League](https://experienceleague.adobe.com/home#support), è necessario che il ruolo di amministratore del supporto sia assegnato da un amministratore di sistema. Solo un amministratore di sistema della tua organizzazione può assegnare questo ruolo. Prodotto, Profilo prodotto e altri ruoli amministrativi non possono assegnare il ruolo di amministratore del supporto e non sono in grado di visualizzare l&#39;opzione **[!UICONTROL Crea caso]** utilizzata per inviare un ticket di supporto. Per ulteriori informazioni sui diversi tipi di ruoli di amministratore e sui relativi diritti, fare riferimento a [Ruoli di amministratore](admin-roles.md).
+Per inviare un ticket di supporto in [Experience League](https://experienceleague.adobe.com/home?lang=it#support), è necessario che il ruolo di amministratore del supporto sia assegnato da un amministratore di sistema. Solo un amministratore di sistema della tua organizzazione può assegnare questo ruolo. Prodotto, Profilo prodotto e altri ruoli amministrativi non possono assegnare il ruolo di amministratore del supporto e non sono in grado di visualizzare l&#39;opzione **[!UICONTROL Crea caso]** utilizzata per inviare un ticket di supporto. Per ulteriori informazioni sui diversi tipi di ruoli di amministratore e sui relativi diritti, fare riferimento a [Ruoli di amministratore](admin-roles.md).
 
-Se utilizzi Commerce, la procedura per condividere l’accesso e lavorare con i casi di supporto è diversa. Per ulteriori informazioni, consulta [Accesso condiviso: concedere privilegi ad altri utenti per accedere al tuo account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) nella Guida utente del supporto Experience League per Adobe Commerce.
+Se utilizzi Commerce, la procedura per condividere l’accesso e lavorare con i casi di supporto è diversa. Per ulteriori informazioni, consulta [Accesso condiviso: concedere privilegi ad altri utenti per accedere al tuo account](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) nella Guida utente del supporto Experience League per Adobe Commerce.
 
 ### Aggiunta di ruoli di supporto a un’organizzazione
 
@@ -76,7 +76,7 @@ Per ulteriori dettagli seguire le istruzioni [modifica ruolo amministratore orga
 
 Experience League è un portale di supporto self-service progettato per fornire assistenza personalizzata e un’esperienza di facile utilizzo ai clienti autorizzati.
 
-1. Per creare un ticket in [Experience League](https://experienceleague.adobe.com/home#support), seleziona la scheda **[!UICONTROL Supporto]** nell&#39;area di navigazione superiore.
+1. Per creare un ticket in [Experience League](https://experienceleague.adobe.com/home?lang=it#support), seleziona la scheda **[!UICONTROL Supporto]** nell&#39;area di navigazione superiore.
 
    ![Scheda Supporto Experience League](./assets/experience-league-support-tab.png)
 
@@ -144,7 +144,7 @@ Per creare un ticket di supporto, segui la procedura riportata di seguito:
 
    ![Dettagli sull&#39;impatto di Experience League](./assets/impact.png)
 
-   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, vedere [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
+   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, vedere [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/it/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
 
 1. Fai clic su **[!UICONTROL Avanti]**.
 
