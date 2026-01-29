@@ -1,14 +1,14 @@
 ---
-title: Descrizioni ticket supporto Adobe Commerce **[!UICONTROL Motivo problema]**
+title: Descrizioni del ticket di supporto Adobe Commerce [!UICONTROL Motivo del problema]
 description: In questo articolo sono elencate le opzioni del campo **[!UICONTROL Motivo problema]** della segnalazione di supporto e sono fornite descrizioni dettagliate di ciascuna di esse.
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
 
 ---
 
-# Descrizioni del ticket di supporto Adobe Commerce **[!UICONTROL Motivo del problema]**
+# Descrizioni del ticket di supporto Adobe Commerce [!UICONTROL Motivo del problema]
 
 In questo articolo sono elencate le opzioni di campo **[!UICONTROL Motivo del problema]** per il ticket di supporto e sono fornite descrizioni dettagliate di ciascuna.
 
@@ -55,4 +55,4 @@ In questo articolo sono elencate le opzioni di campo **[!UICONTROL Motivo del pr
 
 ## Lettura correlata
 
-* [Invia un caso di supporto](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) nella Guida utente del supporto Experience League per Adobe Commerce.
+* [Invia un caso di supporto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) nella Guida utente del supporto Experience League per Adobe Commerce.
