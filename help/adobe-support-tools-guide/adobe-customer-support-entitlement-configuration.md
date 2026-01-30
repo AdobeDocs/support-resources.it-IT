@@ -1,24 +1,24 @@
 ---
 title: Configurazione dei diritti per l’assistenza clienti Adobe
-description: In che modo i clienti Adobe possono configurare le adesioni al supporto per abilitare l’invio dei casi.
+description: Come i clienti di Adobe possono impostare e gestire i diritti all’assistenza in Admin Console in modo che gli utenti possano accedere alle risorse di supporto, inviare problemi e gestire l’attività dei casi.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Assistenza clienti per Adobe
+# Configurazione dei diritti per l’assistenza clienti Adobe
 
 Per configurare i diritti di supporto per la tua organizzazione, aggiungi o invita l’utente tramite Admin Console.
 
 ## Aggiunta di ruoli di supporto per l’adesione a un’organizzazione
 
-Il ruolo amministratore del supporto è un ruolo non amministrativo che ha accesso alle informazioni relative al supporto. Gli amministratori del supporto possono visualizzare, creare e gestire i rapporti sui problemi.
+Il ruolo **[!UICONTROL Amministratore supporto]** è un ruolo non amministrativo che ha accesso alle informazioni relative al supporto. Un **[!UICONTROL amministratore del supporto]** può visualizzare, creare e gestire i report sui problemi.
 
 Per aggiungere o invitare un amministratore:
 
@@ -32,7 +32,7 @@ Per aggiungere o invitare un amministratore:
 
 1. Fai clic su **[!UICONTROL Avanti]**. Viene visualizzato un elenco di ruoli di amministratore.
 
-Per assegnare un ruolo di amministratore del supporto a un utente (consentire a un utente di contattare il supporto):
+Per assegnare un ruolo di **[!UICONTROL amministratore del supporto]** a un utente (consentire a un utente di contattare il supporto):
 
 1. Selezionare l&#39;opzione **[!UICONTROL Amministratore supporto]**.
 
@@ -55,4 +55,4 @@ Come parte del processo di accesso, agli utenti può essere richiesto di imposta
 
 ![Conferma diritti amministratore](assets/admin-rights-confirmation.png)
 
-Per ulteriori dettagli fare riferimento alle istruzioni [modifica ruolo amministratore organizzazione](admin-roles.md#add-enterprise-role) nella documentazione dei ruoli amministrativi. Solo un amministratore di sistema dell’organizzazione può assegnare questo ruolo. Per ulteriori informazioni sulla gerarchia amministrativa, consulta la documentazione di [ruoli amministrativi](admin-roles.md).
+Per ulteriori dettagli fare riferimento alle istruzioni [Modifica ruolo amministratore organizzazione](admin-roles.md#edit-enterprise-admin-role) nella documentazione dei ruoli amministrativi. Solo un amministratore di sistema dell’organizzazione può assegnare questo ruolo. Per ulteriori informazioni sulla gerarchia amministrativa, consulta la documentazione [Ruoli amministrativi](admin-roles.md).
