@@ -1,8 +1,8 @@
 ---
 title: Supporto standard per Adobe Creative Cloud e Adobe Document Cloud
-description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe per interagire con altri clienti.
+description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe che favorisce il coinvolgimento e l’interazione con altri clienti.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
@@ -13,9 +13,9 @@ ht-degree: 100%
 
 ![icona](assets/StandardBanner.png)
 
-Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe per interagire con altri clienti.
+Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe che favorisce il coinvolgimento e l’interazione con altri clienti.
 
-Puoi consultare la documentazione tecnica e dettagliata dei prodotti le note sulla versione pubblicate su <http://www.adobe.com>. Accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare richieste di assistenza tramite il nostro portale web di supporto.
+Puoi consultare la documentazione tecnica e dettagliata dei prodotti le note sulla versione pubblicate su <https://www.adobe.com>. Accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare richieste di assistenza tramite il nostro portale web di supporto.
 
 [Visualizza versione PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -152,7 +152,7 @@ Puoi consultare la documentazione tecnica e dettagliata dei prodotti le note sul
     <td>✔</td>
   </tr>
   <tr>
-    <td>Pianificazione aggiornamento/migrazione</td>
+    <td>Pianificazione dell’aggiornamento o della migrazione</td>
     <td></td>
     <td></td>
     <td></td>
@@ -214,7 +214,7 @@ Puoi consultare la documentazione tecnica e dettagliata dei prodotti le note sul
 
 ## Supporto Standard {#standard-support-options}
 
-Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online per la documentazione e acquisire le best practice con l’aiuto di altri esperti e clienti. Sono disponibili diversi canali per l’inoltro di domande e richieste di assistenza
+L’Assistenza clienti di Adobe offre risorse online per la documentazione e la possibilità di acquisire le best practice attraverso il coinvolgimento e l’interazione con altri esperti e clienti. Sono disponibili diversi canali per l’inoltro di domande e richieste di assistenza
 
 <table style="table-layout:fixed">
 <tr>
@@ -266,9 +266,9 @@ Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online
 
 | Risorsa | Descrizione |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/it?lang=it) | Experience League è un portale in cui i clienti Adobe possono trovare tutorial per supporto autonomo, documentazione dei prodotti, corsi di formazione tenuti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
+| [Experience League](https://experienceleague.adobe.com/?lang=it) | Experience League è un portale in cui i clienti Adobe possono trovare tutorial per supporto autonomo, documentazione dei prodotti, corsi di formazione tenuti da istruttori, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
 | [Community di supporto Adobe](https://community.adobe.com/) | Nella community di supporto Adobe è possibile porre domande, trovare risposte, imparare dagli esperti e condividere le proprie conoscenze. |
-| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
+| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
 {style="table-layout:auto"}
