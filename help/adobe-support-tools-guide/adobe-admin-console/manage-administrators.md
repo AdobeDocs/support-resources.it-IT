@@ -152,7 +152,7 @@ Un amministratore globale può creare organizzazioni, distribuire risorse quali 
 
    Se tenti di aggiungere un utente esistente come amministratore, scegli lo stesso tipo di account dell’utente esistente, altrimenti l’operazione di aggiunta non riuscirà.
 
-   > [!Note]
+   > [ !Note]
    > 
    > Le organizzazioni possono disporre di restrizioni sui tipi di account che è possibile aggiungere. Questi possono essere basati su [criteri](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) o su altri parametri di configurazione per un&#39;organizzazione. Le organizzazioni non consentono di aggiungere contemporaneamente sia utenti Adobe ID che utenti BusinessID. In generale, in un’organizzazione non dovrebbero essere presenti utenti di entrambi i tipi, ma a seconda dell’ordine in cui vengono impostate le regole, alcuni utenti di un particolare Tipo di account potrebbero essere precedenti all’applicazione di policy o regole.
 
