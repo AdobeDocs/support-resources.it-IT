@@ -18,7 +18,7 @@ Scopri come scegliere un’organizzazione per la modifica in Global Admin Consol
 
 >[!NOTE]
 >
->Dopo aver avuto accesso a [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access), puoi iniziare selezionando un&#39;organizzazione per visualizzarne e gestirne il nome, i gruppi di utenti, i profili di prodotto, gli amministratori e i criteri di organizzazione. Per accedere a Global Admin Console, [fai clic qui](https://global-admin-console.adobe.com/).
+>Dopo aver avuto accesso a [Global Admin Console](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html#request-access), puoi iniziare selezionando un&#39;organizzazione per visualizzarne e gestirne il nome, i gruppi di utenti, i profili di prodotto, gli amministratori e i criteri di organizzazione. Per accedere a Global Admin Console, [fai clic qui](https://global-admin-console.adobe.com/).
 
 Global Admin Console funge da hub di gestione centrale dell’organizzazione per le risorse Adobe. Gli amministratori globali possono:
 
@@ -79,6 +79,6 @@ Tutti gli amministratori aggiunti o rimossi da un’organizzazione riceveranno u
 
 - Il percorso dell’organizzazione è univoco, ma il nome semplice è univoco solo tra i suoi pari livello. In altre parti della gerarchia delle organizzazioni possono essere presenti organizzazioni con lo stesso nome semplice.
 
-- Puoi visualizzare l’elenco dei domini collegati all’organizzazione selezionata solo utilizzando Global Admin Console. Se sei un amministratore di sistema dell&#39;organizzazione selezionata, seleziona **[!UICONTROL Apri in Admin Console]** per [gestire i domini](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Per informazioni visualizzate nella scheda Domini, vedere [esportare e importare schemi](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- Puoi visualizzare l’elenco dei domini collegati all’organizzazione selezionata solo utilizzando Global Admin Console. Se sei un amministratore di sistema dell&#39;organizzazione selezionata, seleziona **[!UICONTROL Apri in Admin Console]** per [gestire i domini](https://helpx.adobe.com/it/enterprise/using/manage-domains-directories.html). Per informazioni visualizzate nella scheda Domini, vedere [esportare e importare schemi](https://helpx.adobe.com/it/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
 
 - IE 11 non è supportato per l&#39;accesso all&#39;amministrazione globale. Utilizza un browser diverso o una versione più recente del browser IE.
