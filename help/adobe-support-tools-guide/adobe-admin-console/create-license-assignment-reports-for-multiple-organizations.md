@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Scopri come gli amministratori globali possono generare e scaricare rapporti dettagliati sulle licenze per più organizzazioni e prodotti per intervalli di date specifici per facilitare il tracciamento preciso del provisioning delle licenze.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Per creare, visualizzare ed esportare un report di assegnazione licenze, accedere a [Global Admin Console](https://global-admin-console.adobe.com/) e passare a **[!UICONTROL Insights]** > **[!UICONTROL Report]** > **[!UICONTROL Assegnazione licenza]**.
 
@@ -26,7 +26,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
 1. Vai alla scheda **[[!UICONTROL Approfondimenti]](https://global-admin-console.adobe.com/insights)** in Global Admin Console.
 2. Nella pagina **[!UICONTROL Assegnazione licenza]**, selezionare **[!UICONTROL Crea report]**.
 3. Seleziona le organizzazioni e seleziona **[!UICONTROL Avanti]**. È possibile scegliere singolarmente ogni organizzazione o selezionare tutte le organizzazioni figlio all&#39;interno di un padre utilizzando il pulsante **[!UICONTROL Seleziona tutto]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Impossibile selezionare alcune organizzazioni**:
    >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
@@ -35,7 +35,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
    >
    > È possibile creare rapporti sulle assegnazioni solo per le organizzazioni con un contratto attivo.
 4. Selezionare i prodotti da includere nel report e selezionare **[!UICONTROL Avanti]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Impossibile selezionare alcuni prodotti**:
    >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come [!DNL Workfront], [!DNL Adobe Experience Manager] e [!DNL Adobe Experience Platform] e anche prodotti come [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] e [!DNL Adobe Stock]. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
