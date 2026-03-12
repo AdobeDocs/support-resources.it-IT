@@ -4,7 +4,8 @@ description: Genera, visualizza e scarica rapporti sull’assegnazione delle lic
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: 1ab0cf0f1e813e3d7cd594c60cd2d58e4f09c072
+exl-id: e3380a89-8529-473f-bd17-efb05466eab9
+source-git-commit: dbbd971e57265e1651f44f834e56d461159ab4fc
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 1%
@@ -15,33 +16,37 @@ ht-degree: 1%
 
 Scopri come gli amministratori globali possono generare e scaricare rapporti dettagliati sulle licenze per più organizzazioni e prodotti per intervalli di date specifici per facilitare il tracciamento preciso del provisioning delle licenze.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Per creare, visualizzare ed esportare un report di assegnazione licenze, accedere a [Global Admin Console](https://global-admin-console.adobe.com/) e passare a **[!UICONTROL Insights]** > **[!UICONTROL Report]** > **[!UICONTROL Assegnazione licenza]**.
+>Per creare, visualizzare ed esportare un report di assegnazione licenze, accedere a [Global Admin Console](https://global-admin-console.adobe.com/) e passare a **[!UICONTROL Insights]** > **[!UICONTROL Report]** > **[!UICONTROL Assegnazione licenza]**.
 
 ## Creare un rapporto
 
 I rapporti sull’assegnazione delle licenze consentono di monitorare in modo proattivo il provisioning delle licenze e ridurre il tracciamento manuale. Gli amministratori globali possono creare un rapporto di assegnazione delle licenze per determinati prodotti per un numero qualsiasi di organizzazioni figlio, al fine di monitorare i dati di provisioning delle licenze software in tutti i reparti.
 
 1. Vai alla scheda **[[!UICONTROL Approfondimenti]](https://global-admin-console.adobe.com/insights)** in Global Admin Console.
-2. Nella pagina **[!UICONTROL Assegnazione licenza]**, selezionare **[!UICONTROL Crea report]**.
-3. Seleziona le organizzazioni e seleziona **[!UICONTROL Avanti]**. È possibile scegliere singolarmente ogni organizzazione o selezionare tutte le organizzazioni figlio all&#39;interno di un padre utilizzando il pulsante **[!UICONTROL Seleziona tutto]**.
-   &#x200B;> [!NOTE]
-   >
-   >**Impossibile selezionare alcune organizzazioni**:
-   >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
-   >
-   > [!NOTE]
-   >
-   > È possibile creare rapporti sulle assegnazioni solo per le organizzazioni con un contratto attivo.
-4. Selezionare i prodotti da includere nel report e selezionare **[!UICONTROL Avanti]**.
-   &#x200B;> [!NOTE]
-   >
-   >**Impossibile selezionare alcuni prodotti**:
-   >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come [!DNL Workfront], [!DNL Adobe Experience Manager] e [!DNL Adobe Experience Platform] e anche prodotti come [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] e [!DNL Adobe Stock]. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
-5. Seleziona se aggregare il rapporto per mese o anno.
-6. Seleziona un intervallo di date personalizzato o scegli tra le opzioni predefinite. Puoi scegliere una data di inizio qualsiasi dal 18 giugno 2020 fino al giorno precedente, purché non preceda la data di inizio del contratto.
-7. Seleziona **[!UICONTROL Scarica]** per esportare il rapporto come file CSV.
+1. Nella pagina **[!UICONTROL Assegnazione licenza]**, selezionare **[!UICONTROL Crea report]**.
+1. Seleziona le organizzazioni e seleziona **[!UICONTROL Avanti]**. È possibile scegliere singolarmente ogni organizzazione o selezionare tutte le organizzazioni figlio all&#39;interno di un padre utilizzando il pulsante **[!UICONTROL Seleziona tutto]**.
+
+>[!NOTE]
+>
+>**Impossibile selezionare alcune organizzazioni**:
+>Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+>
+>[!NOTE]
+>
+>È possibile creare rapporti sulle assegnazioni solo per le organizzazioni con un contratto attivo.
+
+1. Selezionare i prodotti da includere nel report e selezionare **[!UICONTROL Avanti]**.
+
+>[!NOTE]
+>
+>**Impossibile selezionare alcuni prodotti**:
+>I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come [!DNL Workfront], [!DNL Adobe Experience Manager] e [!DNL Adobe Experience Platform] e anche prodotti come [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] e [!DNL Adobe Stock]. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+
+1. Seleziona se aggregare il rapporto per mese o anno.
+1. Seleziona un intervallo di date personalizzato o scegli tra le opzioni predefinite. Puoi scegliere una data di inizio qualsiasi dal 18 giugno 2020 fino al giorno precedente, purché non preceda la data di inizio del contratto.
+1. Seleziona **[!UICONTROL Scarica]** per esportare il rapporto come file CSV.
 
 Il report inizia l&#39;elaborazione e viene visualizzato nella pagina **[!UICONTROL Assegnazione licenza]** con dettagli quali nome, creatore, ora di creazione, intervallo di date e stato. Quando è pronto, ricevi una notifica e-mail e il rapporto viene scaricato automaticamente.
 
