@@ -6,13 +6,12 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
+source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
-
 
 # Guida al supporto e agli strumenti di Adobe {#adobe-support-tools-guide}
 
@@ -24,6 +23,7 @@ ht-degree: 2%
 - [Ruoli di amministratore](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigazione in Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Gestisci gerarchia organizzazione](adobe-admin-console/set-up-organizations.md)
    - [Creazione di report di assegnazione licenze per più organizzazioni e prodotti](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [Selezionare un&#39;organizzazione in Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Gestire gli amministratori](adobe-admin-console/manage-administrators.md)
