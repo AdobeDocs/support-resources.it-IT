@@ -80,13 +80,13 @@ In qualità di [amministratore globale](https://helpx.adobe.com/enterprise/globa
 >[!TIP]
 >
 >Utilizza un nome di organizzazione chiaro e riconoscibile, composto da un massimo di 255 caratteri, per aiutare gli utenti a selezionare il profilo corretto. Evita l’uso di caratteri speciali e considera l’inclusione di area geografica, reparto o diritto. Inoltre, evita acronimi non comuni e nomi vaghi o simili all’interno della gerarchia organizzativa.
-Utilizza un nome di organizzazione chiaro e riconoscibile, composto da un massimo di 255 caratteri, per aiutare gli utenti a selezionare il profilo corretto. Evita l’uso di caratteri speciali e considera l’inclusione di area geografica, reparto o diritto. Inoltre, evita acronimi non comuni e nomi vaghi o simili all’interno della gerarchia organizzativa.
+>Utilizza un nome di organizzazione chiaro e riconoscibile, composto da un massimo di 255 caratteri, per aiutare gli utenti a selezionare il profilo corretto. Evita l’uso di caratteri speciali e considera l’inclusione di area geografica, reparto o diritto. Inoltre, evita acronimi non comuni e nomi vaghi o simili all’interno della gerarchia organizzativa.
 
 Le modifiche vengono registrate nel registro di controllo, tutti gli utenti ricevono una notifica via e-mail e il nome non può essere aggiornato nuovamente per 24 ore. [Scopri come visualizzare e scaricare i registri di controllo](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 ## Modificare l’elemento padre di un’organizzazione
 
-In qualità di [!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), è possibile riportare un&#39;organizzazione nella gerarchia organizzazione utilizzando il pulsante **[!UICONTROL Cambia gerarchia]**.
+In qualità di [[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), è possibile riportare un&#39;organizzazione nella gerarchia organizzazione utilizzando il pulsante **[!UICONTROL Cambia gerarchia]**.
 
 La modifica dell’elemento padre di un’organizzazione ha il seguente impatto:
 
@@ -119,7 +119,7 @@ Ulteriori informazioni sulle [limitazioni all&#39;allocazione dei prodotti](http
 >[!WARNING]
 >
 > Puoi aggiungere solo organizzazioni secondarie alle organizzazioni principali basate sullo stesso modello di archiviazione. Pertanto, le organizzazioni secondarie basate sul modello di archiviazione utente possono essere aggiunte solo alle organizzazioni principali basate sul modello di archiviazione utente. Inoltre, le organizzazioni secondarie basate sul modello di archiviazione aziendale possono essere aggiunte solo alle organizzazioni principali basate sul modello di archiviazione aziendale.
-Puoi aggiungere solo organizzazioni secondarie alle organizzazioni principali basate sullo stesso modello di archiviazione. Pertanto, le organizzazioni secondarie basate sul modello di archiviazione utente possono essere aggiunte solo alle organizzazioni principali basate sul modello di archiviazione utente. Inoltre, le organizzazioni secondarie basate sul modello di archiviazione aziendale possono essere aggiunte solo alle organizzazioni principali basate sul modello di archiviazione aziendale.
+>Puoi aggiungere solo organizzazioni secondarie alle organizzazioni principali basate sullo stesso modello di archiviazione. Pertanto, le organizzazioni secondarie basate sul modello di archiviazione utente possono essere aggiunte solo alle organizzazioni principali basate sul modello di archiviazione utente. Inoltre, le organizzazioni secondarie basate sul modello di archiviazione aziendale possono essere aggiunte solo alle organizzazioni principali basate sul modello di archiviazione aziendale.
 
 La scheda **[!UICONTROL Mappatura organizzazioni]** mostra quanto segue:
 
