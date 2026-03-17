@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: b0bfb6e5e0948b43a9db91ecc6a0e61780995e72
+source-git-commit: d7fafb6c94bf8d0002c2e01601cd6a29d6addeb2
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 2%
 - [Ruoli di amministratore](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigazione in Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Accessibilità in Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
    - [Allocare prodotti alle organizzazioni figlio tramite Global Admin Console](adobe-admin-console/allocate-products.md)
    - [Adottare l&#39;amministrazione globale](adobe-admin-console/adopt-global-administration.md)
    - [Gestisci gerarchia organizzazione](adobe-admin-console/set-up-organizations.md)
