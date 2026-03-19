@@ -1,17 +1,18 @@
 ---
 title: Come richiedere l’upsize temporaneo dell’infrastruttura cloud per Adobe Commerce
-description: Se la tua organizzazione sta pianificando un evento online in cui si prevede un traffico elevato, o se improvvisamente scopri che il tuo sito sta attraversando un evento con traffico elevato, puoi inviare un [Ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=it#submit-ticket) per richiedere una capacità cloud temporanea aggiuntiva per il tuo Adobe Commerce sull’archivio dell’infrastruttura cloud.
+description: Se la tua organizzazione sta pianificando un evento online in cui si prevede un traffico elevato, o se improvvisamente scopri che il tuo sito sta attraversando un evento con traffico elevato, puoi inviare un [Ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) per richiedere una capacità cloud temporanea aggiuntiva per il tuo Adobe Commerce sull’archivio dell’infrastruttura cloud.
 solution: Commerce
-source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
+exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
+source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
 
 # Come richiedere l’upsize temporaneo dell’infrastruttura cloud per Adobe Commerce
 
-Se la tua organizzazione sta pianificando un evento online in cui si prevede un traffico elevato, o se improvvisamente scopri che il tuo sito sta subendo un evento con traffico elevato, puoi inviare un [ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=it#submit-ticket) per richiedere una capacità cloud temporanea aggiuntiva per il tuo Adobe Commerce sull&#39;archivio dell&#39;infrastruttura cloud.
+Se la tua organizzazione sta pianificando un evento online in cui si prevede un traffico elevato, o se improvvisamente scopri che il tuo sito sta subendo un evento con traffico elevato, puoi inviare un [ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) per richiedere una capacità cloud temporanea aggiuntiva per il tuo Adobe Commerce sull&#39;archivio dell&#39;infrastruttura cloud.
 
 >[!NOTE]
 >
@@ -34,7 +35,7 @@ Inoltre, gli avvisi della linea di base funzionano bene con le nuove applicazion
 
 Segui questo collegamento per ulteriori informazioni sul rilevamento delle anomalie in New Relic [con Intelliegence applicato](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
-Se ricevi una notifica di avviso che suggerisce un evento con traffico elevato, potrebbe essere necessario prendere in considerazione l&#39;invio di [un ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=it#submit-ticket) per richiedere una capacità aggiuntiva. Segui i passaggi seguenti.
+Se ricevi una notifica di avviso che suggerisce un evento con traffico elevato, potrebbe essere necessario prendere in considerazione l&#39;invio di [un ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) per richiedere una capacità aggiuntiva. Segui i passaggi seguenti.
 
 ## Come monitorare le prestazioni del sito
 
@@ -46,11 +47,11 @@ Adobe fornisce una serie di criteri di avviso New Relic per Adobe Commerce sull�
 
 In base alle best practice del settore, queste regole impostano le soglie per le avvertenze e le condizioni critiche che influiscono sulle prestazioni. Quando il sito presenta un problema di infrastruttura o applicazione che attiva una soglia di avviso, New Relic invia notifiche di avviso in modo da poter affrontare il problema in modo proattivo. Per utilizzare questi criteri, è necessario configurare i canali di notifica per la ricezione dei messaggi di avviso.
 
-Segui questo collegamento per scoprire come [configurare avvisi basati sulle prestazioni](/docs/commerce-cloud-service/user-guide/monitor/new-relic.html#monitor-performance-with-managed-alerts).
+Segui questo collegamento per scoprire come [configurare avvisi basati sulle prestazioni](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/new-relic-service#monitor-performance-with-managed-alerts).
 
 ## Passaggi per richiedere un upsize temporaneo
 
-Per richiedere una capacità cloud aggiuntiva temporanea, invia un [ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=it#submit-ticket) presso il Centro assistenza Adobe Commerce con le seguenti informazioni:
+Per richiedere una capacità cloud aggiuntiva temporanea, invia un [ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) presso il Centro assistenza Adobe Commerce con le seguenti informazioni:
 
 >[!NOTE]
 >
@@ -72,7 +73,7 @@ Per richiedere una capacità cloud aggiuntiva temporanea, invia un [ticket di su
 
 1. Scegli *Ridimensionamento progetto cloud (vCPU)* dal menu a discesa **[!UICONTROL Quale modifica ad infrarossi desideri eseguire oggi]**.
 
-1. **Selezionare l&#39;architettura &#x200B;**:
+1. **Selezionare l&#39;architettura **:
    * *Architettura predefinita:* Seleziona *Dimensione disponibile successiva* dal menu a discesa **Seleziona dimensione**.
    * *Architettura ridimensionata:* Se selezionata, la schermata cambia per mostrare due campi aggiuntivi:
       * *Dimensioni per nodo Web*
@@ -100,7 +101,7 @@ Per richiedere una capacità cloud aggiuntiva temporanea, invia un [ticket di su
 
 >[!NOTE]
 >
->Una volta pianificato l’upsize, un sistema automatizzato regolerà le dimensioni dell’istanza cloud. Al termine della procedura non si riceverà alcuna notifica di ticket. È possibile utilizzare lo strumento Osservazione per Adobe Commerce per visualizzare i tipi di istanza di AWS o Azure per [verificare la modifica](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
+>Una volta pianificato l’upsize, un sistema automatizzato regolerà le dimensioni dell’istanza cloud. Al termine della procedura non si riceverà alcuna notifica di ticket. È possibile utilizzare lo strumento Osservazione per Adobe Commerce per visualizzare i tipi di istanza AWS o Azure per [verificare la modifica](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
 
 ## Visualizzare la cronologia degli upsize
 
@@ -117,11 +118,11 @@ Per ogni richiesta di ridimensionamento sono disponibili le seguenti informazion
 ## Lettura correlata
 
 * Per informazioni approfondite, metodi ed esempi su come misurare e migliorare le prestazioni del sito, consulta i seguenti articoli approfonditi nella knowledge base di supporto:
-   * [Calcolo dell’allocazione di CPU per Adobe Commerce su cloud](/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html)
-   * [Controlla se l&#39;upsize per le istanze dell&#39;host è necessario per Adobe Commerce sul cloud](/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html)
-   * [Controlla la configurazione CPU dell&#39;host per Adobe Commerce sul cloud](/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html)
-* Per informazioni su come identificare le interruzioni, consulta [Identificare e misurare le interruzioni per Adobe Commerce sul cloud](/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html) nella knowledge base di supporto.
+   * [Calcolo allocazione CPU per Adobe Commerce sul cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
+   * [Verifica se è necessario eseguire l&#39;upsize per le istanze dell&#39;host per Adobe Commerce sul cloud](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
+   * [Verifica la configurazione CPU dell&#39;host per Adobe Commerce sul cloud](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
+* Per informazioni su come identificare le interruzioni, consulta [Identificare e misurare le interruzioni per Adobe Commerce sul cloud](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages) nella knowledge base di supporto.
 * Per informazioni sul miglioramento delle prestazioni del sito per evitare la necessità di utilizzare un aumento della capacità, consulta questi articoli nella documentazione per sviluppatori:
-   * [Ridimensionamento immagine](/docs/commerce-admin/catalog/products/digital-assets/product-image-config.html#product-image-resizing)
-   * [Memorizzazione in cache di pagine intere](/docs/commerce-admin/systems/tools/cache-management.html#full-page-caching)
-   * [Utensili ECE](/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
+   * [Ridimensionamento immagine](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
+   * [Memorizzazione in cache a pagina intera](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
+   * [Strumenti ECE](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
