@@ -106,7 +106,7 @@ Per scaricare un rapporto di esportazione:
 
 1. Accedi a [Global Admin Console](https://global-admin-console.adobe.com/insights) e passa a **[!UICONTROL Insights]** > **[!UICONTROL Esporta report]**.
 
-   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Una volta completati i 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Una volta completati i 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://helpx.adobe.com/it/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descrizione |
