@@ -4,13 +4,13 @@ description: Scopri come gli amministratori globali visualizzano, filtrano ed es
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d9dd4958b09ab10c4755671c0956698223c0a7b0
+exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
+source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
 workflow-type: tm+mt
 source-wordcount: '880'
 ht-degree: 2%
 
 ---
-
 
 # Scaricare i registri di audit ed esportare i rapporti
 
@@ -29,7 +29,7 @@ In qualità di amministratore globale, hai piena visibilità delle modifiche app
 
 >[!NOTE]
 >
-> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) apportate in Admin Console.
+> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/enterprise/using/audit-logs.html) apportate in Admin Console.
 
 Per visualizzare o scaricare i registri di audit per la tua organizzazione:
 
@@ -106,7 +106,7 @@ Per scaricare un rapporto di esportazione:
 
 1. Accedi a [Global Admin Console](https://global-admin-console.adobe.com/insights) e passa a **[!UICONTROL Insights]** > **[!UICONTROL Esporta report]**.
 
-   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Una volta completati i 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://helpx.adobe.com/it/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Una volta completati i 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descrizione |
@@ -121,6 +121,6 @@ Per scaricare un rapporto di esportazione:
 
    Se il report appena generato non è presente nell&#39;elenco, selezionare **[!UICONTROL Aggiorna]**.
 
-![export-reports](assets/export-reports.png)
+   ![export-reports](assets/export-reports.png)
 
 *Scarica qualsiasi rapporto generato negli ultimi 90 giorni.*
