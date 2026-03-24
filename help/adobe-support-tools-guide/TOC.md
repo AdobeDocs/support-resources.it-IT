@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 0bbba5e7afa83bb40b57e3d4d648d0713100ab6f
+source-git-commit: c9ea6b6110f6fbd75671ac9b21a5a3a95f73f7f5
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 1%
    - [Esporta o importa la struttura dell&#39;organizzazione e le allocazioni di prodotti](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Imponi scadenza password in Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [Scaricare i registri di audit ed esportare i rapporti](adobe-admin-console/download-audit-logs-and-export-reports.md)
+   - [Migrare gli utenti esistenti a Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
 - Supporto Adobe Workfront {#workfront}
    - [Domande frequenti](faq.md)
 - Supporto Adobe Commerce {#adobe-commerce-support}
