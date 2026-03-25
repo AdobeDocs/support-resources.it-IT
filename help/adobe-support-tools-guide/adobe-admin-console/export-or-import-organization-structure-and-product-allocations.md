@@ -18,11 +18,11 @@ ht-degree: 3%
 
 Scopri come gli amministratori globali possono semplificare l’organizzazione e la gestione dei prodotti con le funzioni di esportazione e importazione in Global Admin Console.
 
-Accedi alla scheda **[!UICONTROL Organizzazioni]** in [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) per esportare o importare la struttura dell&#39;organizzazione. Vai alla scheda **[!UICONTROL Allocazione prodotto]** per i dati di allocazione. Utilizza l&#39;icona **[!UICONTROL Altre opzioni]** **⋮** per selezionare esporta o importa. [Accedi a Global Admin Console](https://global-admin-console.adobe.com).
+Accedi alla scheda **[!UICONTROL Organizzazioni]** in [Global Admin Console](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html) per esportare o importare la struttura dell&#39;organizzazione. Vai alla scheda **[!UICONTROL Allocazione prodotto]** per i dati di allocazione. Utilizza l&#39;icona **[!UICONTROL Altre opzioni]** **⋮** per selezionare esporta o importa. [Accedi a Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Esportare la struttura dell’organizzazione
 
-In qualità di [amministratore globale](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puoi esportare la gerarchia dell&#39;organizzazione. È possibile scaricare una rappresentazione JSON, CSV o XLSX dell’intera gerarchia organizzativa o di un suo sottoinsieme. Puoi quindi utilizzare questi dati per l’analisi o la modifica.
+In qualità di [amministratore globale](https://helpx.adobe.com/it/enterprise/global-admin-console/manage-administrators.html), puoi esportare la gerarchia dell&#39;organizzazione. È possibile scaricare una rappresentazione JSON, CSV o XLSX dell’intera gerarchia organizzativa o di un suo sottoinsieme. Puoi quindi utilizzare questi dati per l’analisi o la modifica.
 
 Il formato di esportazione scelto influisce sulla struttura dei dati esportati:
 
@@ -51,7 +51,7 @@ Dopo aver scaricato il file, puoi manipolare i dati e quindi importarli nuovamen
 
 ## Importare la struttura dell’organizzazione
 
-In qualità di [amministratore globale](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puoi importare dati potenzialmente modificati. Una volta caricati, i nuovi dati vengono confrontati con i dati correnti e le eventuali modifiche vengono applicate alla gerarchia dell’organizzazione. Tutte le operazioni di importazione vengono eseguite sulla copia aggiornata della gerarchia organizzazione. Se sono presenti modifiche in sospeso, le modifiche di importazione verranno aggiunte alle modifiche in sospeso nella gerarchia.
+In qualità di [amministratore globale](https://helpx.adobe.com/it/enterprise/global-admin-console/manage-administrators.html), puoi importare dati potenzialmente modificati. Una volta caricati, i nuovi dati vengono confrontati con i dati correnti e le eventuali modifiche vengono applicate alla gerarchia dell’organizzazione. Tutte le operazioni di importazione vengono eseguite sulla copia aggiornata della gerarchia organizzazione. Se sono presenti modifiche in sospeso, le modifiche di importazione verranno aggiunte alle modifiche in sospeso nella gerarchia.
 
 ### Passaggi per importare
 
@@ -629,7 +629,7 @@ Il campo Operazione sulle risorse viene ignorato quando per il prodotto a cui ap
 
 ## Importare ed esportare dati di allocazione prodotti
 
-In qualità di [Amministratore globale](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puoi esportare i dati di allocazione prodotto come file JSON o CSV. Puoi quindi manipolare questi dati e caricarli nuovamente per importare le modifiche. Quando vengono caricati i dati potenzialmente modificati, i nuovi dati vengono confrontati con i dati correnti e le eventuali modifiche vengono applicate ai dati di allocazione del prodotto. È quindi possibile rivedere e sottomettere le modifiche in sospeso affinché diventino effettive.
+In qualità di [Amministratore globale](https://helpx.adobe.com/it/enterprise/global-admin-console/manage-administrators.html), puoi esportare i dati di allocazione prodotto come file JSON o CSV. Puoi quindi manipolare questi dati e caricarli nuovamente per importare le modifiche. Quando vengono caricati i dati potenzialmente modificati, i nuovi dati vengono confrontati con i dati correnti e le eventuali modifiche vengono applicate ai dati di allocazione del prodotto. È quindi possibile rivedere e sottomettere le modifiche in sospeso affinché diventino effettive.
 
 ## Esporta il modello di allocazione prodotto
 
