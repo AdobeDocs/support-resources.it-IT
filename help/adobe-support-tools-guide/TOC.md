@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: f6cba0e6b34a4ff33004fdf9606f9c8b188d4e95
+source-git-commit: 8a0f96df06da03ed2f125f183890ded7a6f707c6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '275'
 ht-degree: 1%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 1%
    - [Creazione di report di assegnazione licenze per più organizzazioni e prodotti](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [Selezionare un&#39;organizzazione in Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Gestire gli amministratori](adobe-admin-console/manage-administrators.md)
+   - [Gestire i profili di prodotto in Global Admin Console](adobe-admin-console/manage-product-profiles.md)
    - [Esporta o importa la struttura dell&#39;organizzazione e le allocazioni di prodotti](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Imponi scadenza password in Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [Scaricare i registri di audit ed esportare i rapporti](adobe-admin-console/download-audit-logs-and-export-reports.md)
