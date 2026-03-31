@@ -18,7 +18,7 @@ Applicabile a Enterprise e Teams.
 
 Adobe Admin Console è una posizione centrale per la gestione delle adesioni Adobe in tutta l’organizzazione. Puoi utilizzarlo per gestire licenze, utenti e pagamenti. Vai qui per [accedere ad Admin Console](https://adminconsole.adobe.com). Per ulteriori informazioni sulla navigazione nel Adobe Admin Console, guarda il video seguente.
 
-[!Vvideo](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
+[ !Vvideo](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
 
 Ogni scheda di Admin Console consente di eseguire varie attività. Seleziona i titoli riportati di seguito per saperne di più.
 
@@ -157,8 +157,8 @@ Chi può visualizzare questa scheda: amministratori di sistema e amministratori 
 
 Gli amministratori di archiviazione possono accedere solo alle [impostazioni risorse](https://helpx.adobe.com/enterprise/using/asset-settings.html) e ai [registri contenuto](https://helpx.adobe.com/enterprise/using/content-logs.html). Gli amministratori di sistema possono visualizzare o modificare le impostazioni in base al piano.
 
-[!Note]
->>
+[ !Note]
+&#x200B;>>
 Adobe non fornisce agli amministratori di primo livello una funzionalità nativa per confrontare le impostazioni Admin Console correnti con le impostazioni di sicurezza consigliate da Adobe. Gli amministratori possono fare riferimento alle linee guida di configurazione consigliate da Adobe e convalidare la conformità utilizzando il provider di identità, gli strumenti di gestione degli endpoint e i processi di audit interno della propria organizzazione.
 
 ## Contatti per la privacy e la sicurezza {#privacy-and-security-contacts}
