@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
+source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '876'
 ht-degree: 2%
 
 ---
@@ -29,25 +29,25 @@ In qualità di amministratore globale, hai piena visibilità delle modifiche app
 
 >[!NOTE]
 >
-> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) apportate in Admin Console.
+> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/enterprise/using/audit-logs.html) apportate in Admin Console.
 
 Per visualizzare o scaricare i registri di audit per la tua organizzazione:
 
 1. Come amministratore globale, accedi a [Global Admin Console](https://global-admin-console.adobe.com/insights).
 1. Seleziona **[!UICONTROL Informazioni]** > **[!UICONTROL Registri di controllo]**.
+
 I registri di audit mostrano le seguenti informazioni per gli eventi filtrati:
 
-   | Campo | Descrizione |
-   |------ |-------------|
-   | Data | Data e ora dell’evento, visualizzate nel fuso orario locale. |
-   | Nome evento | Descrizione dell’azione eseguita. |
-   | Dettagli evento | Dettagli aggiuntivi dell’evento, se disponibili. |
-   | Nome oggetto | Nome del prodotto, del profilo di prodotto o del gruppo di utenti coinvolto nell’evento, a seconda dei casi. |
-   | Utente interessato | Indirizzo e-mail dell’utente interessato, se applicabile. |
-   | Amministrazione | Indirizzo e-mail dell’amministratore che ha eseguito l’azione. *System* viene visualizzato se l&#39;azione è stata eseguita da un sistema back-end di Adobe. |
-   | Indirizzo IP | Indirizzo IP del computer in cui è stata eseguita l’azione. Di solito riflette la posizione fisica, ma potrebbe essere un server proxy o un indirizzo VPN. |
-   | Organizzazione | Nome dell’organizzazione interessata dall’evento. |
-
+| Campo | Descrizione |
+|------ |-------------|
+| Data | Data e ora dell’evento, visualizzate nel fuso orario locale. |
+| Nome evento | Descrizione dell’azione eseguita. |
+| Dettagli evento | Dettagli aggiuntivi dell’evento, se disponibili. |
+| Nome oggetto | Nome del prodotto, profilo di prodotto o gruppo di utenti coinvolti nell’evento, a seconda dei casi. |
+| Utente interessato | Indirizzo e-mail dell’utente interessato, se applicabile. |
+| Amministrazione | Indirizzo e-mail dell’amministratore che ha eseguito l’azione. *System* viene visualizzato se l&#39;azione è stata eseguita da un sistema back-end di Adobe. |
+| Indirizzo IP | Indirizzo IP del computer in cui è stata eseguita l’azione. Questo di solito riflette la posizione fisica, ma può essere un server proxy o un indirizzo VPN. |
+| Organizzazione | Nome dell’organizzazione interessata dall’evento. |
 
 1. Puoi filtrare i registri di audit utilizzando le seguenti opzioni:
 
@@ -55,7 +55,7 @@ I registri di audit mostrano le seguenti informazioni per gli eventi filtrati:
    - Seleziona una o più organizzazioni.
    - Definisci un intervallo di date.
    - Filtra per nome evento.
-   - Puoi combinare i filtri per limitare i risultati, ad esempio visualizzare gli eventi degli ultimi sette giorni per una specifica organizzazione.
+   - Combina i filtri per limitare i risultati, ad esempio la visualizzazione degli eventi degli ultimi sette giorni per un’organizzazione specifica.
 
    ![registri di controllo](assets/audit-logs.png)
 
@@ -106,7 +106,7 @@ Per scaricare un rapporto di esportazione:
 
 1. Accedi a [Global Admin Console](https://global-admin-console.adobe.com/insights) e passa a **[!UICONTROL Insights]** > **[!UICONTROL Esporta report]**.
 
-   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Una volta completati i 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://helpx.adobe.com/it/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Una volta completati i 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descrizione |

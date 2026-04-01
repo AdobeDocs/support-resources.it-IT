@@ -4,23 +4,19 @@ description: Scopri come gli amministratori di sistema dell’organizzazione pos
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: e78ef432a4adcf3626fd46ce8a1854f9ec8317b6
+exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
+source-git-commit: 7f9d141c8cfccc1830f0494526b742ae0c50fddf
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 1%
+source-wordcount: '122'
+ht-degree: 0%
 
 ---
 
-
 # Imponi scadenza password in Admin Console
 
-> **Si applica a:** Enterprise &amp; Teams
+**Si applica a:** Enterprise &amp; Teams
 
-Gli amministratori del sistema dell’organizzazione possono seguire il processo per impostare un limite di scadenza della password per i loro utenti.
-
-## Ambiente
-
-[Adobe Admin Console](https://adminconsole.adobe.com/)
+Gli amministratori del sistema dell&#39;organizzazione possono seguire il processo per impostare un limite di scadenza della password per i propri utenti. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 ## Passaggi
 
@@ -30,4 +26,4 @@ Gli amministratori del sistema dell’organizzazione possono seguire il processo
 
 1. Rivedi i **[!UICONTROL livelli di autenticazione]** e seleziona il livello di autenticazione più appropriato per i tuoi utenti: **[!UICONTROL Più facile per gli utenti]**, **[!UICONTROL Più sicuro]**, **[!UICONTROL Più sicuro]**.
 
-Visita la [Guida delle impostazioni di autenticazione](https://helpx.adobe.com/it/enterprise/using/authentication-settings.html) per ulteriori informazioni sui criteri di autenticazione e sicurezza disponibili.
+Visita la [Guida delle impostazioni di autenticazione](https://helpx.adobe.com/enterprise/using/authentication-settings.html) per ulteriori informazioni sui criteri di autenticazione e sicurezza disponibili.
