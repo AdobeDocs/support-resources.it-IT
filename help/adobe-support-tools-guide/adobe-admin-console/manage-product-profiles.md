@@ -4,9 +4,12 @@ description: Scopri come gli amministratori globali possono aggiungere, modifica
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
 source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
 workflow-type: tm+mt
@@ -47,8 +50,8 @@ Per gestire i profili di prodotto, seleziona un prodotto. Verranno visualizzati 
    |---|---|
    | **[!UICONTROL Nome]** | Un nome univoco per il profilo di prodotto all’interno dell’organizzazione, distinto da altri profili di prodotto e gruppi di utenti. |
    | **[!UICONTROL Quota]** | Il numero target di licenze assegnate per questo profilo. |
-   | **[!UICONTROL Gruppi di utenti]** | Seleziona dal menu a discesa o digita il nome di un gruppo di utenti. Se il gruppo di utenti non esiste ancora, crearlo tramite la scheda [**[!UICONTROL Gruppi di utenti ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
-   | **[!UICONTROL Amministratori]** | Seleziona dal menu a discesa o immetti l’indirizzo e-mail di un amministratore. Se l&#39;amministratore non esiste ancora, crealo prima tramite la scheda [**[!UICONTROL Amministratori ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html). |
+   | **[!UICONTROL Gruppi di utenti]** | Seleziona dal menu a discesa o digita il nome di un gruppo di utenti. Se il gruppo di utenti non esiste ancora, crearlo tramite la scheda [**[!UICONTROL Gruppi di utenti &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
+   | **[!UICONTROL Amministratori]** | Seleziona dal menu a discesa o immetti l’indirizzo e-mail di un amministratore. Se l&#39;amministratore non esiste ancora, crealo prima tramite la scheda [**[!UICONTROL Amministratori &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html). |
 
    Ai [!UICONTROL gruppi di utenti] specificati è assegnato il profilo di prodotto. Gli amministratori specificati diventano gli **[!UICONTROL amministratori del profilo di prodotto]**, che possono gestire il profilo tramite Adobe Admin Console per l&#39;organizzazione pertinente.
 

@@ -86,7 +86,7 @@ Le modifiche vengono registrate nel registro di controllo, tutti gli utenti rice
 
 ## Modificare l’elemento padre di un’organizzazione
 
-In qualità di [!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), è possibile riportare un&#39;organizzazione nella gerarchia organizzazione utilizzando il pulsante **[!UICONTROL Cambia gerarchia]**.
+In qualità di [[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), è possibile riportare un&#39;organizzazione nella gerarchia organizzazione utilizzando il pulsante **[!UICONTROL Cambia gerarchia]**.
 
 La modifica dell’elemento padre di un’organizzazione ha il seguente impatto:
 

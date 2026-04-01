@@ -169,7 +169,7 @@ Utilizzando le [[!UICONTROL impostazioni della console]](https://helpx.adobe.com
 
 Scegli una lingua e-mail predefinita per la tua organizzazione, per ricevere e-mail sugli stati dell’account, ad esempio le modifiche dell’abbonamento o la scadenza della carta di credito. Se hai acquistato un&#39;iscrizione a un team direttamente da Adobe, puoi cambiare il nome del team dalle **[!UICONTROL impostazioni della console]**.
 
-## [!UICONTROL  registri contenuto] {#content-logs}
+## [!UICONTROL &#x200B; registri contenuto] {#content-logs}
 
 In qualità di amministratore, puoi scaricare rapporti dettagliati sul modo in cui gli utenti finali lavorano con le risorse aziendali, come cartelle, file e librerie. Questi report sono denominati [[!UICONTROL log dei contenuti]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
