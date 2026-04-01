@@ -26,4 +26,4 @@ Gli amministratori del sistema dell&#39;organizzazione possono seguire il proces
 
 1. Rivedi i **[!UICONTROL livelli di autenticazione]** e seleziona il livello di autenticazione più appropriato per i tuoi utenti: **[!UICONTROL Più facile per gli utenti]**, **[!UICONTROL Più sicuro]**, **[!UICONTROL Più sicuro]**.
 
-Visita la [Guida delle impostazioni di autenticazione](https://helpx.adobe.com/enterprise/using/authentication-settings.html) per ulteriori informazioni sui criteri di autenticazione e sicurezza disponibili.
+Visita la [Guida delle impostazioni di autenticazione](https://helpx.adobe.com/it/enterprise/using/authentication-settings.html) per ulteriori informazioni sui criteri di autenticazione e sicurezza disponibili.

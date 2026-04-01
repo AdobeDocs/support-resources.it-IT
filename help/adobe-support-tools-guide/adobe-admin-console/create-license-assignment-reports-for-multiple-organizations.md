@@ -31,7 +31,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
    >[!NOTE]
    >
    >**Impossibile selezionare alcune organizzazioni**:
-   >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
    >[!NOTE]
    >
    >**Impossibile selezionare alcuni prodotti**:
-   >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come [!DNL Workfront], [!DNL Adobe Experience Manager] e [!DNL Adobe Experience Platform] e anche prodotti come [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] e [!DNL Adobe Stock]. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come [!DNL Workfront], [!DNL Adobe Experience Manager] e [!DNL Adobe Experience Platform] e anche prodotti come [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] e [!DNL Adobe Stock]. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
 
 1. Seleziona se aggregare il rapporto per mese o anno.
 1. Seleziona un intervallo di date personalizzato o scegli tra le opzioni predefinite. Puoi scegliere una data di inizio qualsiasi dal 18 giugno 2020 fino al giorno precedente, purché non preceda la data di inizio del contratto.
