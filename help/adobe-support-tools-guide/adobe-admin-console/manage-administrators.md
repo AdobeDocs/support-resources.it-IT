@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
 workflow-type: tm+mt
 source-wordcount: '1159'
 ht-degree: 2%
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Esplora le funzionalità dell’amministratore globale e scopri come delegare e distribuire agli amministratori, per ogni singola organizzazione, l’amministrazione di utenti, licenze di prodotto e gruppi.
 
-In Global Admin Console puoi selezionare un&#39;organizzazione e passare alla scheda **[!UICONTROL Amministratori]** per aggiungere, modificare o rimuovere i diritti di amministratore. Per ulteriori informazioni, fare riferimento a [Adopt global administration](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html). Vai qui per [accedere ad Admin Console](https://adminconsole.adobe.com).
+In Global Admin Console, puoi selezionare un&#39;organizzazione e passare alla scheda **[!UICONTROL Amministratori]** per aggiungere, modificare o rimuovere i diritti di amministratore. Per ulteriori informazioni, fare riferimento a [Adopt global administration](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Vai qui per [accedere ad Admin Console](https://adminconsole.adobe.com).
 
 
 Global Admin Console introduce un ruolo denominato amministratore globale. Questo ruolo è distinto da quello di amministratore di sistema e consente di effettuare le seguenti operazioni:
@@ -154,7 +154,7 @@ Un amministratore globale può creare organizzazioni, distribuire risorse quali 
 
    >[!NOTE]
    >
-   > Le organizzazioni possono disporre di restrizioni sui tipi di account che è possibile aggiungere. Questi possono essere basati su [criteri](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html) o su altri parametri di configurazione per un&#39;organizzazione. Le organizzazioni non consentono di aggiungere contemporaneamente sia utenti Adobe ID che utenti BusinessID. In generale, in un’organizzazione non dovrebbero essere presenti utenti di entrambi i tipi, ma a seconda dell’ordine in cui vengono impostate le regole, alcuni utenti di un particolare Tipo di account potrebbero essere precedenti all’applicazione di policy o regole.
+   > Le organizzazioni possono disporre di restrizioni sui tipi di account che è possibile aggiungere. Questi possono essere basati su [criteri](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) o su altri parametri di configurazione per un&#39;organizzazione. Le organizzazioni non consentono di aggiungere contemporaneamente sia utenti Adobe ID che utenti BusinessID. In generale, in un’organizzazione non dovrebbero essere presenti utenti di entrambi i tipi, ma a seconda dell’ordine in cui vengono impostate le regole, alcuni utenti di un particolare Tipo di account potrebbero essere precedenti all’applicazione di policy o regole.
 
 1. Seleziona uno o più ruoli di amministratore dalla sezione **[!UICONTROL Diritti di amministratore]**.
 
@@ -164,7 +164,7 @@ Un amministratore globale può creare organizzazioni, distribuire risorse quali 
 
 1. Seleziona **[!UICONTROL Salva]**.
 
-1. Dopo aver modificato le organizzazioni, seleziona **[!UICONTROL Rivedi modifiche in sospeso]**, quindi seleziona **[!UICONTROL Invia modifiche]** per [eseguire](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html) le modifiche.
+1. Dopo aver modificato le organizzazioni, seleziona **[!UICONTROL Rivedi modifiche in sospeso]**, quindi seleziona **[!UICONTROL Invia modifiche]** per [eseguire](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) le modifiche.
 
 Quando viene aggiunto un ruolo amministratore, l’utente riceve una notifica e-mail con la quale viene informato della modifica del proprio ruolo.
 
@@ -182,7 +182,7 @@ Dopo che l’amministratore è stato aggiunto, riceve un messaggio e-mail che lo
 
 1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni.
 
-Nell&#39;elenco delle modifiche in sospeso viene visualizzato un comando separato per ogni ruolo amministratore aggiunto o rimosso. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
+Nell&#39;elenco delle modifiche in sospeso viene visualizzato un comando separato per ogni ruolo amministratore aggiunto o rimosso. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Rimuovi diritti amministratore
 
@@ -194,6 +194,6 @@ Nell&#39;elenco delle modifiche in sospeso viene visualizzato un comando separat
 
 1. Selezionare **[!UICONTROL OK]** nella finestra di dialogo di conferma.
 
-1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
+1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 Dopo aver eliminato un amministratore, l’utente riceve una notifica e-mail che lo informa della perdita dell’accesso ad Admin Console per tale organizzazione.
