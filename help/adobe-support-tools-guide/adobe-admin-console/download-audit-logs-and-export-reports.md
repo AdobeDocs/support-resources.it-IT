@@ -24,12 +24,12 @@ Per iniziare, accedi a [Global Admin Console](https://global-admin-console.adobe
 
 In qualità di amministratore globale, hai piena visibilità delle modifiche apportate in Global Admin Console. Puoi cercare nei registri di controllo di tutte le organizzazioni le azioni intraprese negli ultimi 90 giorni, compreso quando si sono verificate e chi le ha eseguite.
 - I registri di audit garantiscono la conformità continua proteggendo il sistema da accessi inappropriati e controllando comportamenti sospetti all’interno dell’organizzazione.
-- I registri disponibili in Global Admin Console includono solo gli eventi a cui un amministratore globale può accedere. Non includono assegnazioni utente o eventi utente. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) sulle diverse funzionalità offerte da ciascuna console.
+- I registri disponibili in Global Admin Console includono solo gli eventi a cui un amministratore globale può accedere. Non includono assegnazioni utente o eventi utente. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) sulle diverse funzionalità offerte da ciascuna console.
 - I registri coprono gli eventi per tutte le organizzazioni nella gerarchia, consentendo di cercare i registri di audit in tutte le organizzazioni contemporaneamente.
 
 >[!NOTE]
 >
-> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/enterprise/using/audit-logs.html) apportate in Admin Console.
+> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) apportate in Admin Console.
 
 Per visualizzare o scaricare i registri di audit per la tua organizzazione:
 
@@ -106,7 +106,7 @@ Per scaricare un rapporto di esportazione:
 
 1. Accedi a [Global Admin Console](https://global-admin-console.adobe.com/insights) e passa a **[!UICONTROL Insights]** > **[!UICONTROL Esporta report]**.
 
-   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Dopo 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
+   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Dopo 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
 
 
    | Campo | Descrizione |

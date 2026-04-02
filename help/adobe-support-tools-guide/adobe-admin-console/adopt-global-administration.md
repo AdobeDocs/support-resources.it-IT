@@ -44,7 +44,7 @@ Di seguito sono riportati alcuni vantaggi chiave di [!DNL Global Admin Console]:
 - Crea, modifica ed elimina profili di prodotto e gruppi di utenti.
 - Esporta informazioni sull&#39;organizzazione da utilizzare in altri processi o per generare rapporti.
 - Importa aggiornamenti alle organizzazioni e modifiche alla gerarchia organizzativa.
-- Ricevi notifiche sullo stato dei contratti di ETLA nelle organizzazioni figlio, compresi i contratti con scadenza, scaduti o inattivi imminenti. Per ulteriori informazioni, consulta la documentazione sulla [scadenza del contratto](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
+- Ricevi notifiche sullo stato dei contratti di ETLA nelle organizzazioni figlio, compresi i contratti con scadenza, scaduti o inattivi imminenti. Per ulteriori informazioni, consulta la documentazione sulla [scadenza del contratto](https://helpx.adobe.com/it/enterprise/using/contract-expiry.html).
 
 ## Criteri di idoneità
 
