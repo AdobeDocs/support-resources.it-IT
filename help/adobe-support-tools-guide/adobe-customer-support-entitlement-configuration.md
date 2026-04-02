@@ -4,13 +4,13 @@ description: Come i clienti di Adobe possono impostare e gestire i diritti all�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
+exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
+source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Configurazione dei diritti per l’assistenza clienti Adobe
 
@@ -55,4 +55,4 @@ Come parte del processo di accesso, agli utenti può essere richiesto di imposta
 
 ![Conferma diritti amministratore](assets/admin-rights-confirmation.png)
 
-Per ulteriori dettagli fare riferimento alle istruzioni [Modifica ruolo amministratore organizzazione](admin-roles.md#edit-enterprise-admin-role) nella documentazione dei ruoli amministrativi. Solo un amministratore di sistema dell’organizzazione può assegnare questo ruolo. Per ulteriori informazioni sulla gerarchia amministrativa, consulta la documentazione [Ruoli amministrativi](admin-roles.md).
+Per ulteriori dettagli fare riferimento alle istruzioni [Modifica ruolo amministratore organizzazione](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) nella documentazione dei ruoli amministrativi. Solo un amministratore di sistema dell’organizzazione può assegnare questo ruolo. Per ulteriori informazioni sulla gerarchia amministrativa, consulta la documentazione [Ruoli amministrativi](adobe-admin-console/admin-roles.md).
