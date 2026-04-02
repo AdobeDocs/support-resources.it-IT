@@ -25,7 +25,7 @@ Scopri come gli amministratori globali possono applicare modelli di policy a qua
 
 >[!NOTE]
 >
->In [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), seleziona un&#39;organizzazione da modificare e passa alla scheda **Modelli di criteri** per semplificare la configurazione e facilitare la gestione coerente dei criteri tra le organizzazioni.
+>In [Global Admin Console](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html), seleziona un&#39;organizzazione da modificare e passa alla scheda **Modelli di criteri** per semplificare la configurazione e facilitare la gestione coerente dei criteri tra le organizzazioni.
 >
 > [Accedi a Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -43,7 +43,7 @@ Se l’utente che applica il modello dispone dell’autorizzazione per sbloccare
 
 >[!NOTE]
 >
->A differenza di altre modifiche apportate in Global Admin Console, le modifiche ai modelli dei criteri diventano effettive immediatamente senza dover passare attraverso il processo **[!UICONTROL Revisione delle modifiche in sospeso - Invia]**. Tuttavia, per implementare le modifiche in sospeso nelle organizzazioni in cui viene applicato il modello di criteri, è necessario [invio](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+>A differenza di altre modifiche apportate in Global Admin Console, le modifiche ai modelli dei criteri diventano effettive immediatamente senza dover passare attraverso il processo **[!UICONTROL Revisione delle modifiche in sospeso - Invia]**. Tuttavia, per implementare le modifiche in sospeso nelle organizzazioni in cui viene applicato il modello di criteri, è necessario [invio](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
 
 ## Creare un modello di criteri
 
@@ -60,7 +60,7 @@ Se l’utente che applica il modello dispone dell’autorizzazione per sbloccare
 
 Per ogni criterio incluso nel modello, configura due impostazioni:
 
-* **Consentito/Non consentito:** Impostare il dispositivo di scorrimento sul valore desiderato. Scopri i [dettagli dei criteri](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details).
+* **Consentito/Non consentito:** Impostare il dispositivo di scorrimento sul valore desiderato. Scopri i [dettagli dei criteri](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html#policy-details).
 * **Valore di blocco:** Modificare lo stato di blocco del criterio utilizzando una delle opzioni seguenti:
    * **Blocca** - Il criterio verrà bloccato dopo l&#39;applicazione del modello.
    * **Sblocca** — il criterio verrà sbloccato dopo l&#39;applicazione del modello.
@@ -78,7 +78,7 @@ Per ogni criterio incluso nel modello, configura due impostazioni:
    ![Pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. Selezionare **[!UICONTROL Applica modello]**.
-1. Per implementare le modifiche in sospeso nelle organizzazioni in cui viene applicato il modello di criteri, selezionare **[!UICONTROL Rivedi modifiche in sospeso]**. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Per implementare le modifiche in sospeso nelle organizzazioni in cui viene applicato il modello di criteri, selezionare **[!UICONTROL Rivedi modifiche in sospeso]**. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
 
 Se tutti i valori dei criteri nelle organizzazioni selezionate corrispondono già ai valori del modello, viene visualizzato un messaggio che informa che non sono state apportate modifiche. Inoltre, **[!UICONTROL Revisione modifiche in sospeso]** non è abilitato se non sono presenti altre modifiche in sospeso.
 
@@ -89,7 +89,7 @@ Se tutti i valori dei criteri nelle organizzazioni selezionate corrispondono gi�
    ![Pic5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. Aggiornare il modello di criteri e selezionare **[!UICONTROL Aggiorna]**.
-1. Per implementare le modifiche in sospeso nelle organizzazioni in cui viene applicato il modello di criteri, selezionare **[!UICONTROL Rivedi modifiche in sospeso]**. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Per implementare le modifiche in sospeso nelle organizzazioni in cui viene applicato il modello di criteri, selezionare **[!UICONTROL Rivedi modifiche in sospeso]**. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
 
 ## Eliminare un modello
 
