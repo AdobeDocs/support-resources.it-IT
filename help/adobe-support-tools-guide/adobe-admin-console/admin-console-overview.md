@@ -20,21 +20,21 @@ Adobe Admin Console è una posizione centrale per la gestione delle adesioni Ado
 
 Ogni scheda di Admin Console consente di eseguire varie attività. Seleziona il nome della scheda collegata (la prima parola di ciascun elemento) per passare a quella sezione.
 
-- [!UICONTROL Panoramica](#overview): visualizza un riepilogo delle licenze acquistate e le azioni rapide per configurare l&#39;organizzazione.
+- [[!UICONTROL Panoramica]](#overview): visualizza un riepilogo delle licenze acquistate e le azioni rapide per configurare l&#39;organizzazione.
 
-- [!UICONTROL Prodotti](#products): assegna licenze a utenti e gruppi. In qualità di cliente Enterprise, puoi gestire i profili di prodotto.
+- [[!UICONTROL Prodotti]](#products): assegna licenze a utenti e gruppi. In qualità di cliente Enterprise, puoi gestire i profili di prodotto.
 
-- [!UICONTROL Utenti](#users): crea, aggiorna e rimuovi account utente, che danno diritto agli utenti finali di prodotti e servizi Adobe.
+- [[!UICONTROL Utenti]](#users): crea, aggiorna e rimuovi account utente, che danno diritto agli utenti finali di prodotti e servizi Adobe.
 
-- [!UICONTROL Pacchetti](#packages): scarica pacchetti preconfigurati o creali per le app desktop che intendi distribuire.
+- [[!UICONTROL Pacchetti]](#packages): scarica pacchetti preconfigurati o creali per le app desktop che intendi distribuire.
 
-- [!UICONTROL Account](#account): gestisci i contratti e gli accordi della tua organizzazione con Adobe.
+- [[!UICONTROL Account]](#account): gestisci i contratti e gli accordi della tua organizzazione con Adobe.
 
-- [!UICONTROL Archiviazione](#storage): consente di gestire singole cartelle utente e cartelle condivise e di visualizzare la quota di archiviazione utilizzata dagli utenti.
+- [[!UICONTROL Archiviazione]](#storage): consente di gestire singole cartelle utente e cartelle condivise e di visualizzare la quota di archiviazione utilizzata dagli utenti.
 
-- [!UICONTROL Informazioni](#insights): visualizza, crea e scarica i report sull&#39;assegnazione delle licenze e tieni traccia delle modifiche apportate in Admin Console.
+- [[!UICONTROL Informazioni]](#insights): visualizza, crea e scarica i report sull&#39;assegnazione delle licenze e tieni traccia delle modifiche apportate in Admin Console.
 
-- [!UICONTROL Impostazioni](#settings): domini di attestazione, accesso limitato alle funzionalità di condivisione, aggiunta di note per gli utenti finali, impostazione dei livelli di protezione tramite password.
+- [[!UICONTROL Impostazioni]](#settings): domini di attestazione, accesso limitato alle funzionalità di condivisione, aggiunta di note per gli utenti finali, impostazione dei livelli di protezione tramite password.
 
 Se non riesci ad accedere ad Admin Console, consulta [Risolvere i problemi di accesso dell&#39;account Adobe](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
@@ -164,13 +164,13 @@ In caso di problemi di sicurezza relativi alle nostre soluzioni software, le not
 
 ## [!UICONTROL Impostazioni console]
 
-Utilizzando [!UICONTROL Impostazioni console](https://helpx.adobe.com/enterprise/using/console-settings.html) puoi aggiungere note personalizzate per gli utenti finali per comunicare con loro su come ottenere assistenza in caso di problemi o se richiedono supporto.
+Utilizzando [[!UICONTROL Impostazioni console]](https://helpx.adobe.com/enterprise/using/console-settings.html) puoi aggiungere note personalizzate per gli utenti finali per comunicare con loro su come ottenere assistenza in caso di problemi o se richiedono supporto.
 
 Scegli una lingua e-mail predefinita per la tua organizzazione, per ricevere e-mail sugli stati dell’account, ad esempio le modifiche dell’abbonamento o la scadenza della carta di credito. Se hai acquistato un&#39;iscrizione a un team direttamente da Adobe, puoi cambiare il nome del team dalle **[!UICONTROL impostazioni della console]**.
 
 ## [!UICONTROL Registri contenuto]
 
-In qualità di amministratore, puoi scaricare rapporti dettagliati sul modo in cui gli utenti finali lavorano con le risorse aziendali, come cartelle, file e librerie. Questi report sono denominati [!UICONTROL log dei contenuti](https://helpx.adobe.com/enterprise/using/content-logs.html).
+In qualità di amministratore, puoi scaricare rapporti dettagliati sul modo in cui gli utenti finali lavorano con le risorse aziendali, come cartelle, file e librerie. Questi report sono denominati [[!UICONTROL log dei contenuti]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
 ## Applicazione del dominio
 

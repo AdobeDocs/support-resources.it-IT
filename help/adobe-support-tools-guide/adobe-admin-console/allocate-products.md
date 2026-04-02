@@ -51,7 +51,7 @@ Per allocare i prodotti a un&#39;organizzazione, eseguire la procedura seguente:
 1. Seleziona un prodotto dall’elenco a discesa per verificarne l’allocazione a organizzazioni diverse.\
    Se un&#39;organizzazione non dispone attualmente del prodotto, viene visualizzata l&#39;icona **[!UICONTROL Aggiungi +]**.
 
-   >[!Note]
+   >[ !Note]
    >
    >Se l&#39;organizzazione figlio dispone già di un contratto di acquisto, l&#39;allocazione del prodotto dall&#39;organizzazione padre a quella organizzazione figlio può essere limitata. [Ulteriori informazioni](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -101,7 +101,7 @@ Non è possibile allocare prodotti a un&#39;organizzazione figlio da un contratt
 
 ![Allocazione prodotti](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!IImportante]
+>[ !IImportante]
 >
 >Quando un contratto ETLA che fa parte della gerarchia è inattivo, i prodotti vengono rimossi dalle pagine **[!UICONTROL Panoramica]** e **[!UICONTROL Allocazione prodotti]**.
 
