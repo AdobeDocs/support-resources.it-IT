@@ -19,7 +19,7 @@ Questa funzionalità si applica alle organizzazioni Enterprise che utilizzano [[
    1. **Fase di modifica**: apporta modifiche alle organizzazioni o alloca prodotti.
    2. **Fase di esecuzione**: rivedere ed eseguire le modifiche in sospeso affinché diventino effettive.
 
-- Per assicurarsi che tutte le modifiche apportate in [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) siano implementate e abbiano effetto, selezionare la scheda [[!UICONTROL Esecuzione processo]] e procedere con l&#39;esecuzione delle modifiche in sospeso.
+- Per assicurarsi che tutte le modifiche apportate in [[!DNL Global Admin Console]](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html) siano implementate e abbiano effetto, selezionare la scheda [[!UICONTROL Esecuzione processo]] e procedere con l&#39;esecuzione delle modifiche in sospeso.
 
   Accedi a [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)
 
