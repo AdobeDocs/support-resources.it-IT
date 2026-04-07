@@ -27,7 +27,7 @@ Il controllo degli accessi basato su IP utilizza un inserisco nell&#39;elenco Co
 Puoi aggiungere indirizzi IP pubblici attendibili all&#39;elenco **Indirizzi IP consentiti** per impedire agli utenti di:
 
 - Accesso a prodotti da IP pubblici che non rientrano negli intervalli IP consentiti
-- Accesso a [profili utente](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) di Adobe da IP pubblici che non rientrano negli intervalli IP consentiti
+- Accesso a [profili utente](https://helpx.adobe.com/it/enterprise/using/manage-adobe-profiles.html) di Adobe da IP pubblici che non rientrano negli intervalli IP consentiti
 - Cambio dei profili utente nelle app web al di fuori degli intervalli IP consentiti
 
   ![Esporta struttura organizzazione](./assets/ip-based-access.avif)
@@ -64,9 +64,9 @@ Puoi modificare o rimuovere qualsiasi indirizzo IP elencato selezionando le opzi
 >[!NOTE]
 >
 >- Quando l&#39;accesso basato su IP è abilitato, **non si verifica alcuna disconnessione forzata**. Gli utenti sono interessati solo quando tentano di selezionare il profilo con restrizioni all’accesso o al passaggio da un profilo Web all’altro.
->- Se utilizzi un gateway web protetto, assicurati che tutto il traffico venga indirizzato attraverso di esso. Visualizza l&#39;[elenco di domini da consentire](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) per il corretto funzionamento delle app e dei servizi Adobe.
->- Se sei bloccato fuori da Admin Console perché hai inserito un indirizzo IP non valido, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+>- Se utilizzi un gateway web protetto, assicurati che tutto il traffico venga indirizzato attraverso di esso. Visualizza l&#39;[elenco di domini da consentire](https://helpx.adobe.com/it/enterprise/kb/network-endpoints.html) per il corretto funzionamento delle app e dei servizi Adobe.
+>- Se sei bloccato fuori da Admin Console perché hai inserito un indirizzo IP non valido, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/it/enterprise/using/support-for-enterprise.html).
 
 ## Partecipa alla conversazione
 
-Per collaborare, porre domande e chattare con altri amministratori, visita la [community Enterprise e Teams](https://www.adobe.com/go/entcom).
+Per collaborare, porre domande e chattare con altri amministratori, visita la [community Enterprise e Teams](https://www.adobe.com/go/entcom_it).

@@ -24,9 +24,9 @@ Questo documento è destinato alle organizzazioni con licenze Creative Cloud, Do
 
 Per evitare una perdita di accesso ai prodotti da parte dell’utente finale, assegna le licenze nel Adobe Admin Console prima della scadenza del periodo di abbonamento a VIP esistente.
 
-* Per i clienti ETLA, consenti almeno 30 giorni di sovrapposizione dei prodotti. Completa la migrazione prima della data dell’anniversario in modo che gli utenti possano continuare ad accedere alle app e ai servizi di Adobe. Per i dettagli sulla scadenza del contratto ETLA, vedi [Fasi di scadenza automatizzate per i contratti ETLA](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
+* Per i clienti ETLA, consenti almeno 30 giorni di sovrapposizione dei prodotti. Completa la migrazione prima della data dell’anniversario in modo che gli utenti possano continuare ad accedere alle app e ai servizi di Adobe. Per i dettagli sulla scadenza del contratto ETLA, vedi [Fasi di scadenza automatizzate per i contratti ETLA](https://helpx.adobe.com/it/enterprise/using/contract-expiry.html).
 * Per i clienti VIP, acquista le licenze prima della data dell’anniversario e assegna le licenze prima che la finestra di rinnovo si chiuda nel periodo VIP corrente.
-* I clienti CLP o TLP possono migrare da Acrobat o Creative Suite con numero di serie alle licenze per utenti con nome seguendo le istruzioni di migrazione in [Licenze](https://helpx.adobe.com/enterprise/using/licensing.html).
+* I clienti CLP o TLP possono migrare da Acrobat o Creative Suite con numero di serie alle licenze per utenti con nome seguendo le istruzioni di migrazione in [Licenze](https://helpx.adobe.com/it/enterprise/using/licensing.html).
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ In Admin Console, viene richiesto di assegnare le licenze utilizzando Assegnazio
 
    ![Conferma assegnazione licenza](assets/migrate-license-assignment.png)
 
-Scarica il [report dei risultati](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) in Admin Console per verificare che tutte le licenze siano state assegnate. Se la data di fine dell’e-mail di conferma è anteriore a quella indicata, gli utenti finali non dovranno notare alcuna interruzione del servizio.
+Scarica il [report dei risultati](https://helpx.adobe.com/it/enterprise/using/users.html#main-pars_header_1346350355) in Admin Console per verificare che tutte le licenze siano state assegnate. Se la data di fine dell’e-mail di conferma è anteriore a quella indicata, gli utenti finali non dovranno notare alcuna interruzione del servizio.
 
 Pianifica una chiamata di onboarding 1:1 con uno specialista di onboarding di Adobe (se non lo hai già fatto) per ulteriori informazioni su Admin Console, inclusi [Ruoli amministrativi](https://helpx.adobe.com/it/enterprise/using/admin-roles.html) e [Identità](https://helpx.adobe.com/it/enterprise/using/identity.html).
 
@@ -95,12 +95,12 @@ Assegna le licenze con un’operazione in blocco utilizzando un modello CSV di A
 
    ![Modifica utenti per CSV](assets/migrate-edit-users-by-csv.png)
 
-   Per le descrizioni dei campi nel file scaricato, vedere [Formato file CSV](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header).
+   Per le descrizioni dei campi nel file scaricato, vedere [Formato file CSV](https://helpx.adobe.com/it/enterprise/using/users.html#main-pars_header).
 4. Aggiungi le assegnazioni di licenza al file CSV, quindi trascina il file aggiornato nella finestra di dialogo **[!UICONTROL Modifica utenti in base al file CSV]** e fai clic su **[!UICONTROL Carica]**. Ricevi un’e-mail al completamento dell’operazione.
 
    ![Modifica utente completata](assets/migrate-user-edit-complete.png)
 
-Scarica il [report dei risultati](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) per convalidare le assegnazioni. Quindi pianifica l&#39;onboarding con uno specialista di onboarding Adobe per scoprire [ruoli amministrativi](https://helpx.adobe.com/it/enterprise/using/admin-roles.html) e [identità](https://helpx.adobe.com/it/enterprise/using/identity.html).
+Scarica il [report dei risultati](https://helpx.adobe.com/it/enterprise/using/users.html#main-pars_header_1346350355) per convalidare le assegnazioni. Quindi pianifica l&#39;onboarding con uno specialista di onboarding Adobe per scoprire [ruoli amministrativi](https://helpx.adobe.com/it/enterprise/using/admin-roles.html) e [identità](https://helpx.adobe.com/it/enterprise/using/identity.html).
 
 ## Assegnazione di licenza in blocco (da VIP ad ETLA)
 
@@ -119,9 +119,9 @@ Ricevi un’e-mail quando gli utenti vengono aggiunti all’organizzazione ETLA.
 
 ![Utenti aggiunti dopo la migrazione da VIP ad ETLA](assets/migrate-users-added-vip-etla.png)
 
-Scarica il [report dei risultati](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) per convalidare le assegnazioni. Pianifica l&#39;onboarding con uno specialista di onboarding di Adobe per [ruoli amministrativi](https://helpx.adobe.com/it/enterprise/using/admin-roles.html) e [identità](https://helpx.adobe.com/it/enterprise/using/identity.html).
+Scarica il [report dei risultati](https://helpx.adobe.com/it/enterprise/using/users.html#main-pars_header_1346350355) per convalidare le assegnazioni. Pianifica l&#39;onboarding con uno specialista di onboarding di Adobe per [ruoli amministrativi](https://helpx.adobe.com/it/enterprise/using/admin-roles.html) e [identità](https://helpx.adobe.com/it/enterprise/using/identity.html).
 
-Per problemi relativi al caricamento in blocco, vedi [Risoluzione dei problemi relativi al caricamento in blocco degli utenti](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Per problemi relativi al caricamento in blocco, vedi [Risoluzione dei problemi relativi al caricamento in blocco degli utenti](https://helpx.adobe.com/it/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
 
 ## Assegnazione di licenza in blocco (da ETLA a VIP)
 
@@ -143,6 +143,6 @@ Ricevi un’e-mail quando gli utenti vengono aggiunti all’organizzazione VIP.
 
 ![Utenti aggiunti dopo la migrazione da ETLA a VIP](assets/migrate-users-added-etla-vip.png)
 
-Scarica il [report dei risultati](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) per convalidare le assegnazioni. Pianifica l&#39;onboarding con uno specialista di onboarding di Adobe per [ruoli amministrativi](https://helpx.adobe.com/it/enterprise/using/admin-roles.html) e [identità](https://helpx.adobe.com/it/enterprise/using/identity.html).
+Scarica il [report dei risultati](https://helpx.adobe.com/it/enterprise/using/users.html#main-pars_header_1346350355) per convalidare le assegnazioni. Pianifica l&#39;onboarding con uno specialista di onboarding di Adobe per [ruoli amministrativi](https://helpx.adobe.com/it/enterprise/using/admin-roles.html) e [identità](https://helpx.adobe.com/it/enterprise/using/identity.html).
 
-Per problemi relativi al caricamento in blocco, vedi [Risoluzione dei problemi relativi al caricamento in blocco degli utenti](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Per problemi relativi al caricamento in blocco, vedi [Risoluzione dei problemi relativi al caricamento in blocco degli utenti](https://helpx.adobe.com/it/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
