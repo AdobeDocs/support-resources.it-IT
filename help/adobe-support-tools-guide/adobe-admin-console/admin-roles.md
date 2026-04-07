@@ -3,9 +3,9 @@ title: Ruoli amministrativi
 description: Utilizzando Adobe Admin Console, le organizzazioni possono definire una gerarchia amministrativa flessibile che consente una gestione dettagliata dell’accesso e dell’utilizzo dei prodotti Adobe.
 solution: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1645'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ La gerarchia amministrativa può essere utilizzata per soddisfare i requisiti sp
 
 >[!NOTE]
 >
->La gerarchia amministrativa non si applica ai clienti dei team. I clienti Team hanno un solo ruolo di **Amministratore di sistema**. Il proprietario del contratto (_precedentemente denominato **Amministratore principale**&#x200B;_) è l&#39;amministratore di sistema con accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il proprietario del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente denominato **amministratore secondario**&#x200B;_) come proprietario del contratto.
+>La gerarchia amministrativa non si applica ai clienti dei team. I clienti Team hanno un solo ruolo di **Amministratore di sistema**. Il proprietario del contratto (_precedentemente denominato **Amministratore principale**_) è l&#39;amministratore di sistema con accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il proprietario del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente denominato **amministratore secondario**_) come proprietario del contratto.
 
 ![immagine amministratore](../assets/storage_admin.png)
 
@@ -54,7 +54,7 @@ In qualità di amministratore, puoi assegnare un ruolo di amministratore ad altr
 
 Per aggiungere o invitare un amministratore:
 
-1. In **[[!UICONTROL Adobe Admin Console]](https://adminconsole.adobe.com/)** scegliere **[!UICONTROL Utenti]** > **[!UICONTROL Amministratori]**.
+1. In **[Adobe Admin Console](https://adminconsole.adobe.com/)** scegliere **[!UICONTROL Utenti]** > **[!UICONTROL Amministratori]**.
 
    In alternativa, vai al prodotto, al profilo di prodotto o al gruppo di utenti pertinente e passa alla scheda **[!UICONTROL Amministratori]**.
 
@@ -76,7 +76,7 @@ Per aggiungere o invitare un amministratore:
 
    ![aggiungi amministratore](../assets/add-admin.png)
 
-1. Rivedi i ruoli di amministratore assegnati all&#39;utente e fai clic su **Salva**.
+1. Rivedi i ruoli di amministratore assegnati all&#39;utente e fai clic su **[!UICONTROL Salva]**.
 
 L&#39;utente riceve un invito e-mail relativo ai nuovi privilegi di amministratore da `message@adobe.com`.
 
@@ -102,7 +102,7 @@ Per aggiungere o invitare un amministratore di sistema:
 
    Viene visualizzata la schermata **[!UICONTROL Aggiungi un amministratore]**.
 
-1. Immetti un nome o un indirizzo e-mail. Puoi cercare utenti esistenti o aggiungere un nuovo utente specificando un indirizzo e-mail valido e compilando le informazioni sullo schermo.
+1. Immetti un nome o un indirizzo e-mail. Puoi cercare utenti esistenti o aggiungere un nuovo utente specificando un indirizzo e-mail valido e inserendo le informazioni sullo schermo.
 
    Per impostazione predefinita, l&#39;opzione Amministratore di sistema è selezionata.
 
@@ -111,7 +111,7 @@ Per aggiungere o invitare un amministratore di sistema:
 ![immagine amministratore team](../assets/teams-admin.png)
 
 Poiché tutti gli utenti di un&#39;organizzazione team sono utenti Business ID, ricevono un invito e-mail riguardante i nuovi privilegi di amministratore da `message@adobe.com`.
-Per aderire all’organizzazione, gli utenti devono fare clic su Inizia nell’e-mail.
+Gli utenti devono fare clic su **[!UICONTROL Inizia]** nell&#39;e-mail per partecipare all&#39;organizzazione.
 
 Come parte del processo di accesso, agli utenti può essere richiesto di impostare un profilo Adobe se non ne hanno già uno. Se all’indirizzo e-mail sono associati più profili, gli utenti devono scegliere &quot;Unisciti al team&quot; (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
 
@@ -121,7 +121,7 @@ Come parte del processo di accesso, agli utenti può essere richiesto di imposta
 
 Applicabile a: clienti aziendali Adobe.
 
-In qualità di amministratore, puoi modificare il ruolo di amministratore in altri amministratori che si trovano sotto di te nella gerarchia Amministrativa. Ad esempio, puoi rimuovere i privilegi di amministratore di altri amministratori.
+In qualità di amministratore, puoi modificare il ruolo di amministratore per un altro amministratore che si trova sotto di te nella gerarchia amministrativa. Ad esempio, puoi rimuovere i privilegi di amministratore di altri amministratori.
 
 Per modificare i ruoli di amministratore:
 

@@ -1,13 +1,13 @@
 ---
 title: Creazione di report di assegnazione licenze per più organizzazioni e prodotti
 description: Genera, visualizza e scarica rapporti sull’assegnazione delle licenze da più organizzazioni e prodotti da Global Admin Console.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '725'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
    >[!NOTE]
    >
    >**Impossibile selezionare alcune organizzazioni**:
-   >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
+   >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
    >[!NOTE]
    >
    >**Impossibile selezionare alcuni prodotti**:
-   >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come [!DNL Workfront], [!DNL Adobe Experience Manager] e [!DNL Adobe Experience Platform] e anche prodotti come [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] e [!DNL Adobe Stock]. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
+   >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come Workfront, Adobe Experience Manager e Adobe Experience Platform e anche prodotti come Adobe Firefly Services, Acrobat Sign e Adobe Stock. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Seleziona se aggregare il rapporto per mese o anno.
 1. Seleziona un intervallo di date personalizzato o scegli tra le opzioni predefinite. Puoi scegliere una data di inizio qualsiasi dal 18 giugno 2020 fino al giorno precedente, purché non preceda la data di inizio del contratto.
