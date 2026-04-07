@@ -1,38 +1,22 @@
 ---
 title: Panoramica del supporto e degli strumenti di Adobe
-description: 'Guida all’assistenza e agli strumenti di Adobe: la risorsa principale per la gestione dei casi, i servizi di assistenza e gli strumenti di supporto in Experience League.'
+description: 'Guida al supporto e agli strumenti di Adobe: la risorsa principale per la gestione dei casi, le adesioni al supporto, le attività di Adobe Admin Console e il supporto specifico per il prodotto in Experience League.'
 exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
-source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
+source-git-commit: 79e4ed1377583719d547d262255a15becce730ba
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 7%
+source-wordcount: '215'
+ht-degree: 0%
 
 ---
 
 # Panoramica del supporto e degli strumenti di Adobe
 
-La **Guida al supporto e agli strumenti di Adobe** è la risorsa principale per la navigazione nel supporto Digital Experience di Adobe. Questa soluzione riunisce le funzionalità di gestione dei casi, assistenza e strumenti che consentono di risolvere i problemi in modo efficiente.
+La **Guida al supporto e agli strumenti di Adobe** ti aiuta a utilizzare il supporto di Adobe Digital Experience in un&#39;unica posizione. Supporta il passaggio di Adobe verso **Experience League** come voce principale per i clienti autorizzati ad aprire e tenere traccia dei casi, utilizzare una cronologia coerente tra i prodotti e raggiungere Adobe tramite i canali inclusi nel contratto.
 
-## Cosa contiene la presente guida?
+Nella guida viene inoltre illustrato come **[!UICONTROL l&#39;amministratore del supporto]** e la relativa configurazione in **Adobe Admin Console** possano contattare il supporto, oltre ad articoli incentrati sul prodotto quando sono necessarie procedure o criteri più approfonditi. Utilizza il sommario di questa guida per aprire gli argomenti a livello di guida (ad esempio, l’esperienza di assistenza clienti in Experience League, la configurazione dell’adesione all’assistenza, i numeri di telefono dell’assistenza preferita e le note sulla versione del supporto Experience League).
 
-| **Documento** | **Descrizione** | **Ultimo aggiornamento** |
-|---------------------------|-----------------|------------------|
-| [Assistenza clienti Adobe](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience) | Ottieni una panoramica del modo in cui i clienti navigano nel supporto Adobe, gestiscono i casi e traggono vantaggio dai consigli basati sull’intelligenza artificiale. | mercoledì 27 gennaio 2026 |
-| [Assistenza clienti Adobe](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-entitlement-configuration) | Scopri come i clienti di Adobe possono configurare le adesioni al supporto per abilitare l’invio dei casi. | venerdì 22 gennaio 2026 |
-| [Specificare un numero di telefono del supporto preferito](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/phone-numbers) | Accedi alle informazioni di contatto del Supporto Adobe specifiche per l’area geografica per trovare rapidamente la guida giusta. | lunedì 21 dicembre 2025 |
-| [Ruoli amministrativi](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-roles) | Esamina le autorizzazioni e le responsabilità associate ai diversi ruoli amministrativi del supporto Adobe. | mercoledì 6 gennaio 2026 |
-| [Domande frequenti su Adobe Business Platform e Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/workfront/faq) | Risposte alle domande più frequenti sul supporto e la risoluzione dei problemi relativi a Workfront. | martedì 5 gennaio 2026 |
-| [Come richiedere Adobe Commerce temporaneo per l&#39;upsize dell&#39;infrastruttura cloud](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize) | Scopri come richiedere un aumento temporaneo della capacità dell’infrastruttura Adobe Commerce on Cloud. | giovedì 7 gennaio 2026 |
-| [Hotline per le notifiche Adobe Commerce P1](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-p1-notification-hotline) | Scopri come gli incidenti P1 urgenti vengono intensificati e comunicati in Adobe Commerce. | giovedì 7 gennaio 2026 |
-| [Accesso ai dati dei clienti e privacy del supporto Adobe](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-support-customer-data-access-and-privacy) | Scopri come Adobe gestisce l’accesso ai dati dei clienti, i controlli sulla privacy e la governance della sicurezza. | martedì 12 gennaio 2026 |
-| [Aggiornamento dei criteri del ciclo di vita del ticket di supporto Adobe Commerce](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/magento-support-ticket-lifecycle-policy-update) | Scopri diversi scenari del ciclo di vita dei ticket di supporto Adobe Commerce. | martedì 19 gennaio 2026 |
-| [Scheda informativa sul monitoraggio per Adobe Commerce su cloud pro infrastructure](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/monitoring-whitepaper) | Scopri il monitoraggio e le notifiche dell’infrastruttura Adobe Commerce. | mercoledì 27 gennaio 2026 |
-| [Domande frequenti sulla fine del supporto del software Adobe Commerce](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-eos-policy-faq) | Comprendere le implicazioni della data di fine del supporto (EOS) pubblicata da Adobe Commerce per le versioni interessate di Adobe Commerce. | lunedì 25 gennaio 2026 |
-| [Descrizioni **[!UICONTROL Motivo del problema]** ticket di supporto Adobe Commerce](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions) | Comprendi le opzioni disponibili per il campo **[!UICONTROL Causa del problema]** durante la creazione di un ticket di supporto Adobe Commerce. | mercoledì 27 gennaio 2026 |
-| [Strumenti di supporto Adobe Commerce in breve](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/support-tools-overview) | Esplora i vari strumenti di supporto di Adobe Commerce che consentono di ottimizzare l’esperienza di e-commerce store. | martedì 26 gennaio 2026 |
-| [Guida utente del supporto Experience League per Adobe Commerce](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide) | Guida al supporto di Adobe Experience League per Commerce: accedi, apri e gestisci i casi, seleziona l’organizzazione o il prodotto, tieni traccia e inoltra i ticket, aggiungi osservatori e gestisci l’accesso condiviso. Include note sulla migrazione dell&#39;Help Center e sull&#39;ambito di fatturazione/supporto. | martedì 9 febbraio 2026 |
-| [Come includere un membro del team nelle notifiche di supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications) | Fornisci una spiegazione su come includere un membro del team per ricevere automaticamente gli aggiornamenti del Supporto tramite notifiche e-mail. | 25 febbraio 2026 |
-| [Partner Adobe Commerce su richieste sandbox di infrastruttura cloud](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests) | Contiene collegamenti a risorse utili per le richieste sandbox di Adobe Commerce on Cloud Infrastructure. | venerdì 5 febbraio 2026 |
-| [Impossibile aggiungere l’utente al progetto cloud di Adobe Commerce](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project) | Contiene passaggi e collegamenti per risolvere l&#39;errore *L&#39;utente non esiste* quando si aggiungono utenti a un progetto Adobe Commerce on Cloud. | martedì 2 marzo 2026 |
-| [Avviso di fine del supporto di MySQL e istruzioni sulla compatibilità del database per Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md) | Scopri la fine del supporto di MySQL (EOS) e la compatibilità del database per le versioni di Adobe Commerce supportate. | mercoledì 10 marzo 2026 |
-| [Applicare una patch del compositore fornita da Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md) | Questo articolo spiega come applicare una patch del compositore per Adobe Commerce on-premise, Adobe Commerce on cloud infrastructure e Magento Open Source. | sabato 20 marzo 2026 |
+Sezioni principali di questa guida:
+
+- **[Adobe Admin Console](adobe-admin-console/admin-console-overview.md)** - Amministrazione per le organizzazioni e Global Admin Console: ruoli, utenti, prodotti, criteri, reporting e attività correlate.
+- **[Supporto di Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)**: supporto di Commerce in Experience League, oltre ad articoli su strumenti, operazioni cloud, sicurezza e applicazione di patch, ticket practice, privacy e ciclo di vita della piattaforma.
+- **[Supporto Adobe Workfront](faq.md)** — Domande frequenti per Adobe Business Platform e Admin Console in un contesto Workfront.
