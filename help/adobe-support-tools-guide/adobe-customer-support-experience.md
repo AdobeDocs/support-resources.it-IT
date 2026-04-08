@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Esperienza nell’Assistenza clienti di Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 384eb0727671b25258d74ada42c6a775dcfc0cb8
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '1431'
+source-wordcount: '1432'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Ticket di supporto Experience League
 
-I ticket di supporto sono ora inviati tramite [Experience League](https://experienceleague.adobe.com/home?lang=it#support). Per istruzioni su come inviare un ticket di supporto, consulta la sezione per [inviare un ticket di supporto](#create-a-support-ticket-with-experience-league).
+I ticket di supporto sono ora inviati tramite [Experience League](https://experienceleague.adobe.com/home#support). Per istruzioni su come inviare un ticket di supporto, consulta la sezione per [inviare un ticket di supporto](#create-a-support-ticket-with-experience-league).
 
 Stiamo lavorando per migliorarti il modo in cui interagisci con l’Assistenza clienti di Adobe. Il nostro obiettivo è semplificare l’esperienza di supporto passando a un singolo punto di ingresso, utilizzando Experience League. Una volta attivo, l’organizzazione sarà in grado di accedere facilmente all’Assistenza clienti di Adobe, avere maggiore visibilità sulla cronologia dei servizi tramite un sistema comune tra i prodotti e richiedere assistenza tramite telefono, web e chat tramite un singolo portale.
 
-Se sei un utente di Adobe Commerce, consulta [Invia un caso di supporto](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) nella Guida utente del supporto Experience League per Adobe Commerce.
+Se sei un utente di Adobe Commerce, consulta [Invia un caso di supporto](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) nella Guida utente del supporto Experience League per Adobe Commerce.
 
 ## Ruoli autorizzati di supporto necessari per l’invio dei casi {#submit-ticket}
 
-Per inviare un ticket di supporto in [Experience League](https://experienceleague.adobe.com/home?lang=it#support), è necessario che il ruolo di amministratore del supporto sia assegnato da un amministratore di sistema. Solo un amministratore di sistema della tua organizzazione può assegnare questo ruolo. Prodotto, Profilo prodotto e altri ruoli amministrativi non possono assegnare il ruolo di amministratore del supporto e non sono in grado di visualizzare l&#39;opzione **[!UICONTROL Crea caso]** utilizzata per inviare un ticket di supporto. Per ulteriori informazioni sui diversi tipi di ruoli di amministratore e sui relativi diritti, fare riferimento a [Ruoli di amministratore](adobe-admin-console/admin-roles.md).
+Per inviare un ticket di supporto in [Experience League](https://experienceleague.adobe.com/home#support), è necessario che il ruolo di amministratore del supporto sia assegnato da un amministratore di sistema. Solo un amministratore di sistema della tua organizzazione può assegnare questo ruolo. Prodotto, Profilo prodotto e altri ruoli amministrativi non possono assegnare il ruolo di amministratore del supporto e non sono in grado di visualizzare l&#39;opzione **[!UICONTROL Crea caso]** utilizzata per inviare un ticket di supporto. Per ulteriori informazioni sui diversi tipi di ruoli di amministratore e sui relativi diritti, fare riferimento a [Ruoli di amministratore](adobe-admin-console/admin-roles.md).
 
-Se utilizzi Commerce, la procedura per condividere l’accesso e lavorare con i casi di supporto è diversa. Per ulteriori informazioni, consulta [Accesso condiviso: concedere privilegi ad altri utenti per accedere al tuo account](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) nella Guida utente del supporto Experience League per Adobe Commerce.
+Se utilizzi Commerce, la procedura per condividere l’accesso e lavorare con i casi di supporto è diversa. Per ulteriori informazioni, consulta [Accesso condiviso: concedere privilegi ad altri utenti per accedere al tuo account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) nella Guida utente del supporto Experience League per Adobe Commerce.
 
 ### Aggiunta di ruoli di supporto a un’organizzazione
 
@@ -76,13 +76,13 @@ Per ulteriori dettagli seguire le istruzioni [modifica ruolo amministratore orga
 
 Experience League è un portale di supporto self-service progettato per fornire assistenza personalizzata e un’esperienza di facile utilizzo ai clienti autorizzati.
 
-1. Per creare un ticket in [Experience League](https://experienceleague.adobe.com/home?lang=it#support), seleziona la scheda **[!UICONTROL Supporto]** nell&#39;area di navigazione superiore.
+1. Per creare un ticket in [Experience League](https://experienceleague.adobe.com/home#support), seleziona la scheda **[!UICONTROL Supporto]** nell&#39;area di navigazione superiore.
 
    ![Scheda Supporto Experience League](./assets/experience-league-support-tab.png)
 
 1. Dal menu **[!UICONTROL Home]**, puoi **[!UICONTROL Aprire un ticket di supporto]**, **[!UICONTROL Visualizzare e gestire i tuoi casi]**, **[!UICONTROL Richiedere una richiamata]** o accedere a risorse di apprendimento aggiuntive.
 
-   L&#39;opzione **[!UICONTROL Richiedi callback]** consente di pianificare riunioni Web con condivisione dello schermo, consentendo una risoluzione dei problemi più rapida ed efficiente. È disponibile per Adobe Experience Manager, Campaign e Workfront. Gli incontri possono essere programmati in base alle esigenze del cliente, con la possibilità di ricevere inviti immediati. Per i casi Adobe Experience Manager P1, sono garantiti callback immediati per consentire un coinvolgimento rapido durante i problemi critici, contribuendo a ridurre al minimo i tempi di inattività e l&#39;impatto aziendale.
+   L&#39;opzione **[!UICONTROL Richiedi callback]** consente di pianificare riunioni Web con condivisione dello schermo, consentendo una risoluzione dei problemi più rapida ed efficiente. È disponibile per Adobe Experience Manager, Campaign, Marketo e Workfront. Le riunioni possono essere programmate in base alle esigenze del cliente e vengono forniti inviti immediati. Per i casi Adobe Experience Manager P1, sono garantiti callback immediati per consentire un coinvolgimento rapido durante i problemi critici, contribuendo a ridurre al minimo i tempi di inattività e l&#39;impatto aziendale.
 
    ![Menu home di Experience League](./assets/home-menu.png)
 
@@ -116,7 +116,7 @@ Per creare un ticket di supporto, segui la procedura riportata di seguito:
 
    Includi dettagli quali:
 
-   * Cosa stai cercando di fare
+   * Cosa stai cercando di fare?
    * Cosa non funziona come previsto
    * Passaggi già eseguiti
    * Se il problema è riproducibile
@@ -157,7 +157,7 @@ Per creare un ticket di supporto, segui la procedura riportata di seguito:
 
    ![Priorità Experience League e impatto sul business](./assets/priority-business-impact.png)
 
-   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, vedere [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/it/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
+   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, vedere [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
 
 1. Nella sezione **[!UICONTROL Informazioni di contatto e elenco dei controlli]**, seleziona il fuso orario, immetti il numero di telefono, aggiungi i controlli, allega eventuali file, se necessario, e quindi fai clic su **[!UICONTROL Avanti]**.
 

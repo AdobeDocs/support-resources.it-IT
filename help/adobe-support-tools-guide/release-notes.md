@@ -2,13 +2,13 @@
 title: Note sulla versione del supporto Experience League
 description: Informazioni aggiornate sulla versione del supporto Experience League.
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
-
 
 # Note sulla versione del supporto Experience League
 
@@ -17,6 +17,10 @@ Queste note sulla versione contengono aggiornamenti al supporto di Experience Le
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 9 aprile 2026 - Espansione della funzione Richiedi richiamata
+
+La funzione Richiedi richiamata è ora disponibile per gli utenti di prodotti Marketo.
 
 ## 30 marzo 2026 - Modulo per casi avanzati
 
@@ -78,6 +82,7 @@ Queste note sulla versione contengono aggiornamenti al supporto di Experience Le
 ## 18 marzo 2026 - Espansione della funzione Richiedi richiamata
 
 Experience League ora offre l’opzione Richiedi richiamata, che consente la pianificazione self-service delle riunioni web con funzionalità di condivisione dello schermo per una risoluzione più rapida dei problemi.
+
 - Questa funzione è disponibile per Adobe Experience Manager, Campaign e Workfront.
 - I clienti possono programmare le riunioni secondo le proprie esigenze e ricevere inviti immediati.
 - Per i casi Adobe Experience Manager P1, i callback immediati garantiscono un coinvolgimento più rapido durante i problemi critici, contribuendo a ridurre al minimo i tempi di inattività e l&#39;impatto aziendale.
