@@ -1,9 +1,11 @@
 ---
 title: Ruoli amministrativi
 description: Utilizzando Adobe Admin Console, le organizzazioni possono definire una gerarchia amministrativa flessibile che consente una gestione dettagliata dell’accesso e dell’utilizzo dei prodotti Adobe.
+feature-set: Experience Cloud Services
 solution: Admin Console
+feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '1645'
 ht-degree: 0%
@@ -28,7 +30,7 @@ La gerarchia amministrativa può essere utilizzata per soddisfare i requisiti sp
 
 >[!NOTE]
 >
->La gerarchia amministrativa non si applica ai clienti dei team. I clienti Team hanno un solo ruolo di **Amministratore di sistema**. Il proprietario del contratto (_precedentemente denominato **Amministratore principale**&#x200B;_) è l&#39;amministratore di sistema con accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il proprietario del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente denominato **amministratore secondario**&#x200B;_) come proprietario del contratto.
+>La gerarchia amministrativa non si applica ai clienti dei team. I clienti Team hanno un solo ruolo di **Amministratore di sistema**. Il proprietario del contratto (_precedentemente denominato **Amministratore principale**_) è l&#39;amministratore di sistema con accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il proprietario del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente denominato **amministratore secondario**_) come proprietario del contratto.
 
 ![immagine amministratore](../assets/storage_admin.png)
 

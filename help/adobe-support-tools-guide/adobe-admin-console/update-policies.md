@@ -4,18 +4,14 @@ description: Scopri come un amministratore globale può impostare e modificare i
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2:
-  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-source-git-commit: 90807a4e803de702c9e0975df551efefc254030a
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: 1007
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +23,7 @@ Scopri come un amministratore globale può impostare e modificare i criteri per 
 
 >[!NOTE]
 >
->In [Global Admin Console](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html), selezionare un&#39;organizzazione dalla gerarchia e passare alla scheda **Criteri** per consentire o disabilitare i criteri oppure bloccarli.
+>In [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), selezionare un&#39;organizzazione dalla gerarchia e passare alla scheda **Criteri** per consentire o disabilitare i criteri oppure bloccarli.
 >
 > [Accedi a Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -38,14 +34,14 @@ Ad esempio, se il criterio **Domini attestazione** è impostato su *non consenti
 
 Per modificare i criteri di un&#39;organizzazione, eseguire le operazioni seguenti:
 
-1. In Global Admin Console, [seleziona un&#39;organizzazione](https://helpx.adobe.com/it/enterprise/global-admin-console/overview.html) da modificare, quindi passa alla scheda **[!UICONTROL Criteri]**.
-1. Seleziona l’opzione per il criterio pertinente per consentirlo o disattivarlo. È inoltre possibile bloccare un criterio in modo che solo un amministratore globale dell&#39;[organizzazione selezionata](https://helpx.adobe.com/it/enterprise/global-admin-console/overview.html) o la relativa organizzazione padre possa modificarlo o sbloccarlo.
+1. In Global Admin Console, [seleziona un&#39;organizzazione](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) da modificare, quindi passa alla scheda **[!UICONTROL Criteri]**.
+1. Seleziona l’opzione per il criterio pertinente per consentirlo o disattivarlo. È inoltre possibile bloccare un criterio in modo che solo un amministratore globale dell&#39;[organizzazione selezionata](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) o la relativa organizzazione padre possa modificarlo o sbloccarlo.
 1. Per bloccare un criterio, selezionare l&#39;icona **[!UICONTROL Blocca]** ![Blocca](./assets/lock.png). Passando il mouse sul blocco viene visualizzato il nome dell&#39;organizzazione selezionata. Ulteriori informazioni sui [blocchi dei criteri](#policy-locks).
-1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
+1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Blocchi dei criteri {#policy-locks}
 
-Quando un criterio è bloccato, il suo valore non può essere modificato finché il criterio non viene sbloccato. Global Admin Console ricorda la [organizzazione selezionata](https://helpx.adobe.com/it/enterprise/global-admin-console/overview.html) nel selettore organizzazione come l&#39;organizzazione da cui è stato bloccato il criterio. Qualsiasi amministratore globale dell’organizzazione selezionata o di qualsiasi organizzazione più in alto nella struttura dispone dell’autorizzazione per sbloccare il criterio. Gli amministratori globali il cui ambito è inferiore a quello dell&#39;organizzazione non dispongono dell&#39;autorizzazione per sbloccare e modificare i valori dei criteri.
+Quando un criterio è bloccato, il suo valore non può essere modificato finché il criterio non viene sbloccato. Global Admin Console ricorda la [organizzazione selezionata](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) nel selettore organizzazione come l&#39;organizzazione da cui è stato bloccato il criterio. Qualsiasi amministratore globale dell’organizzazione selezionata o di qualsiasi organizzazione più in alto nella struttura dispone dell’autorizzazione per sbloccare il criterio. Gli amministratori globali il cui ambito è inferiore a quello dell&#39;organizzazione non dispongono dell&#39;autorizzazione per sbloccare e modificare i valori dei criteri.
 
 Per creare un ambiente bloccato, imposta i valori dei criteri desiderati nelle organizzazioni figlie e quindi bloccalo. Gli amministratori globali di tali organizzazioni figlio non saranno in grado di modificare i valori dei criteri.
 
@@ -53,9 +49,9 @@ Per creare un ambiente bloccato, imposta i valori dei criteri desiderati nelle o
 
 Se Elissa, l&#39;amministratore globale della *Divisione Acme*, crea organizzazioni figlio *Marketing* e *Engineering*, aggiunge Robert come amministratore globale di *Marketing* e Sarah come amministratore globale di *Engineering*. Quindi imposta diversi criteri su *Non consentito* e *blocca*. Elissa può sbloccare e modificare i valori dei criteri quando sceglie *Divisione Acme* come organizzazione selezionata, ma Robert e Sarah non possono sbloccare i criteri per le organizzazioni di cui sono amministratori globali perché i criteri sono bloccati dall&#39;organizzazione *Divisione Acme*.
 
-## Dettagli criterio
+## Dettagli del criterio
 
-### Gestione organizzazione
+### Gestione dell’organizzazione
 
 | Nome criterio | Descrizione |
 | --- | --- |
@@ -71,7 +67,7 @@ Se Elissa, l&#39;amministratore globale della *Divisione Acme*, crea organizzazi
 | **Eredita gli amministratori di sistema dal padre quando viene creata l&#39;organizzazione figlio** | Quando gli amministratori globali creano nuove organizzazioni figlie, gli amministratori di sistema del padre diventano automaticamente amministratori di sistema della nuova organizzazione. Il criterio è *off* per impostazione predefinita. |
 | **Gestisci amministratori** | Consente agli amministratori globali di modificare o rimuovere/modificare le autorizzazioni di amministratore. |
 
-### Gestione utente
+### Gestione degli utenti
 
 | Nome criterio | Descrizione |
 | --- | --- |
@@ -79,7 +75,7 @@ Se Elissa, l&#39;amministratore globale della *Divisione Acme*, crea organizzazi
 | **Aggiungi utenti Adobe ID** | Se questa opzione è impostata, l’organizzazione non può aggiungere utenti di tipo Adobe ID tramite Admin Console, User Management API (UMAPI) né il meccanismo di sincronizzazione. |
 | **Gestione gruppi utenti** | Se consentito, gli amministratori globali, di sistema e dei gruppi di utenti possono creare, modificare ed eliminare gruppi di utenti. |
 
-### Applicazione di directory e domini
+### Imposizione di directory e domini
 
 | Nome criterio | Descrizione |
 | --- | --- |
