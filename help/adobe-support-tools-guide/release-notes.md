@@ -3,7 +3,7 @@ title: Note sulla versione del supporto Experience League
 description: Informazioni aggiornate sulla versione del supporto Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -18,7 +18,7 @@ Queste note sulla versione contengono aggiornamenti al supporto di Experience Le
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
 
-## 9 aprile 2026 - Espansione della funzione Richiedi richiamata
+## 8 aprile 2026 - Espansione della funzione Richiedi richiamata
 
 La funzione Richiedi richiamata è ora disponibile per gli utenti di prodotti Marketo.
 
