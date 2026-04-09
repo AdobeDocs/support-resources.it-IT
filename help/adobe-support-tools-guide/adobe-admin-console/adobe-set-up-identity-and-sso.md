@@ -144,7 +144,7 @@ Soluzioni per le domande e gli errori più comuni durante la configurazione e la
 #### Risoluzione dei problemi
 
 - [Risoluzione dei problemi generali SSO](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [ Errore &quot;Accesso negato&quot;](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [&#x200B; Errore &quot;Accesso negato&quot;](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
 - [&quot;Errore di un altro utente attualmente connesso&quot;](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
 - [Esegui una traccia SAML](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
 
