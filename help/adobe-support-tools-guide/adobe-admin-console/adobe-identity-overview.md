@@ -25,7 +25,7 @@ I tipi di identità consentono all’organizzazione di diversi livelli di contro
 La tabella seguente ti guida nella scelta del modello di identità più adatto alla tua organizzazione.
 
 >[!NOTE]
->Se la tua organizzazione non è stata aggiornata al modello di storage aziendale di Adobe e stai ancora utilizzando gli Adobe ID per singoli utenti, consulta la descrizione nella [tabella dei tipi di identità](https://helpx.adobe.com/enterprise/using/identity.html#using-personal-adobe-id) di seguito.
+>Se la tua organizzazione non è stata aggiornata al modello di storage aziendale di Adobe e stai ancora utilizzando gli Adobe ID per singoli utenti, consulta la descrizione nella [tabella dei tipi di identità](https://helpx.adobe.com/it/enterprise/using/identity.html#using-personal-adobe-id) di seguito.
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ La tabella seguente ti guida nella scelta del modello di identità più adatto a
 <th scope="row"><strong>Offerte principali</strong></th>
 <td>Creato, di proprietà e gestito dall’organizzazione. L’organizzazione gestisce le credenziali utente e utilizza il Single Sign-On (SSO) tramite un provider di identità SAML2 (IdP).</td>
 <td>Creato, di proprietà e gestito dall’organizzazione. L’organizzazione mantiene diritti esclusivi per la creazione di account utente su domini verificati.</td>
-<td>Creato, di proprietà e gestito dall’utente finale. Adobe esegue l’autenticazione e l’utente finale gestisce l’identità. A seconda del <a href="https://helpx.adobe.com/enterprise/using/storage-for-business.html">modello di archiviazione</a>, gli utenti o le aziende mantengono il controllo su file e dati. Gli account Adobe ID vengono creati in domini non verificati, pubblici o attendibili. Fare riferimento al punto 2 della sezione delle note di seguito.</td>
+<td>Creato, di proprietà e gestito dall’utente finale. Adobe esegue l’autenticazione e l’utente finale gestisce l’identità. A seconda del <a href="https://helpx.adobe.com/it/enterprise/using/storage-for-business.html">modello di archiviazione</a>, gli utenti o le aziende mantengono il controllo su file e dati. Gli account Adobe ID vengono creati in domini non verificati, pubblici o attendibili. Fare riferimento al punto 2 della sezione delle note di seguito.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Account e proprietà dei dati</strong></th>
@@ -124,7 +124,7 @@ La tabella seguente ti guida nella scelta del modello di identità più adatto a
 <tr>
 <th scope="row"><strong>Introduzione</strong></th>
 <td><a href="https://helpx.adobe.com/it/enterprise/using/set-up-identity.html">Configurare l’identità</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">Domini richiesta di risarcimento</a></td>
+<td><a href="https://helpx.adobe.com/it/enterprise/using/add-domains-directories.html#claim-domains">Domini richiesta di risarcimento</a></td>
 <td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">Aggiungi utente</a></td>
 </tr>
 </tbody>
@@ -133,7 +133,7 @@ La tabella seguente ti guida nella scelta del modello di identità più adatto a
 >[!NOTE]
 >
 >1. I criteri per le password di Creative Cloud for teams sono gli stessi di quelli di Creative Cloud for individual.
->1. Gli utenti di Adobe ID si autenticano con le proprie credenziali Adobe ID o tramite il modello di autenticazione della loro organizzazione proprietaria (SSO, 2FA, ecc.). In tali scenari, gli utenti vengono reindirizzati alla pagina SSO dell’organizzazione proprietaria. Dopo l&#39;autenticazione, gli utenti potrebbero dover [scegliere un profilo di business](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile).
+>1. Gli utenti di Adobe ID si autenticano con le proprie credenziali Adobe ID o tramite il modello di autenticazione della loro organizzazione proprietaria (SSO, 2FA, ecc.). In tali scenari, gli utenti vengono reindirizzati alla pagina SSO dell’organizzazione proprietaria. Dopo l&#39;autenticazione, gli utenti potrebbero dover [scegliere un profilo di business](https://helpx.adobe.com/it/enterprise/kb/enterprise-id-faq.html#choose-profile).
 
 ## Utilizzo degli ID personali di Adobe
 
@@ -199,13 +199,13 @@ Adobe sta aggiornando tutti i team e i clienti aziendali per utilizzare il model
 >[!NOTE]
 >
 >1. I criteri per le password di Creative Cloud for teams sono gli stessi di quelli di Creative Cloud for individual.
->1. Per i clienti Creative Cloud for enterprise che utilizzano [lo storage aziendale](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html), gli amministratori possono aggiungere utenti Adobe ID a Admin Console ma non possono aggiungerli ai profili di prodotto. Gli amministratori devono eseguire la migrazione degli utenti di Adobe ID a un altro tipo di identità.
+>1. Per i clienti Creative Cloud for enterprise che utilizzano [lo storage aziendale](https://helpx.adobe.com/it/enterprise/using/manage-adobe-storage.html), gli amministratori possono aggiungere utenti Adobe ID a Admin Console ma non possono aggiungerli ai profili di prodotto. Gli amministratori devono eseguire la migrazione degli utenti di Adobe ID a un altro tipo di identità.
 >1. Alcuni prodotti e servizi, ad esempio il **sito Web Adobe Licensing, supportano solo** Adobe ID.
 
 ## Altri argomenti correlati
 
 - [Imposta identità](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html)
-- [Cambia identità utente](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)
+- [Cambia identità utente](https://helpx.adobe.com/it/enterprise/using/switch-user-identity.html)
 - [Panoramica di Admin Console](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
 - [Domande frequenti sull&#39;istruzione](https://helpx.adobe.com/enterprise/using/education-faq.html)
 - [Aggiungi e gestisci utenti](https://helpx.adobe.com/it/enterprise/using/users.html)
