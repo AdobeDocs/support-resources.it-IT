@@ -125,7 +125,7 @@ La tabella seguente ti guida nella scelta del modello di identità più adatto a
 <th scope="row"><strong>Introduzione</strong></th>
 <td><a href="https://helpx.adobe.com/it/enterprise/using/set-up-identity.html">Configurare l’identità</a></td>
 <td><a href="https://helpx.adobe.com/it/enterprise/using/add-domains-directories.html#claim-domains">Domini richiesta di risarcimento</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">Aggiungi utente</a></td>
+<td><a href="https://helpx.adobe.com/it/enterprise/using/users.html#add-users">Aggiungi utente</a></td>
 </tr>
 </tbody>
 </table>
@@ -191,7 +191,7 @@ Adobe sta aggiornando tutti i team e i clienti aziendali per utilizzare il model
 </tr>
 <tr>
 <th scope="row"><strong>Introduzione</strong></th>
-<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">Aggiungi utente</a></td>
+<td><a href="https://helpx.adobe.com/it/enterprise/using/users.html#add-users">Aggiungi utente</a></td>
 </tr>
 </tbody>
 </table>
