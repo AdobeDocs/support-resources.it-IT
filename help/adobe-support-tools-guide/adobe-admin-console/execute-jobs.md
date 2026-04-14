@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+source-git-commit: e563559180f239e828650859035bace80e7473a2
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -34,9 +34,9 @@ Questa funzionalità si applica alle organizzazioni Enterprise che utilizzano [[
    - Vengono eliminati dopo 30 giorni.
    - Vengono cancellati al termine della sessione, ad esempio quando la scheda del browser o la finestra viene chiusa.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Esegui tempestivamente le modifiche importanti per assicurarti che vengano applicate correttamente.
+>Esegui tempestivamente le modifiche importanti per assicurarti che vengano applicate correttamente.
 
 ### Più amministratori e conflitti
 
@@ -70,9 +70,9 @@ Dopo aver inviato il processo:
 - Lo stato è **[!UICONTROL In sospeso]** durante l&#39;esecuzione del processo.
 - Adobe consiglia di eseguire un solo processo alla volta per migliorarne la prevedibilità e semplificare la risoluzione dei problemi.
 
-&#x200B;> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Se si verifica un errore durante l&#39;esecuzione, le modifiche non applicate correttamente devono essere reinserite e inviate.
+>Se si verifica un errore durante l&#39;esecuzione, le modifiche non applicate correttamente devono essere reinserite e inviate.
 
 ### Allocazioni con tempi di esecuzione lunghi
 
@@ -99,9 +99,9 @@ Se l’allocazione di un prodotto richiede più di 12 ore:
 3. Alcuni passaggi possono richiedere minuti o ore.
 4. Durante questo periodo, il processo potrebbe rimanere nello stato **[!UICONTROL Annullamento]**.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Pianificare gli annullamenti con la consapevolezza che il completamento del passaggio corrente può ritardare significativamente quando l&#39;OdL si interrompe.
+>Pianificare gli annullamenti con la consapevolezza che il completamento del passaggio corrente può ritardare significativamente quando l&#39;OdL si interrompe.
 
 ## Visualizza cronologia processo
 
@@ -116,6 +116,7 @@ Se l’allocazione di un prodotto richiede più di 12 ore:
    - **comandi processo** inviati.
    - **Errori** e **avvisi** associati all&#39;esecuzione.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Le successive ridenominazioni o eliminazioni degli oggetti correlati **non influiscono** sulla visualizzazione dei comandi nella cronologia dei processi. La cronologia riflette lo stato al momento della sottomissione.
+>Le successive ridenominazioni o eliminazioni degli oggetti correlati **non influiscono** sulla visualizzazione dei comandi nella cronologia dei processi. La cronologia riflette lo stato al momento della sottomissione.
+
