@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Le funzioni di accessibilità di molti sistemi operativi ampiamente utilizzati p
 
 ## Supporto tastiera
 
-La maggior parte dei contenuti interattivi su Admin Console può essere spostata e gestita utilizzando la sola tastiera. Ad esempio, puoi utilizzare **[!UICONTROL Tab]** o **[!UICONTROL Shift]** + **[!UICONTROL Tab]** per la navigazione e il controllo. Dopo aver individuato il collegamento o il pulsante corretto, premere **[!UICONTROL Invio]** o **[!UICONTROL Ritorno]** per selezionarlo. Potrebbero essere ancora presenti alcune eccezioni come descritto nel [Rapporto di conformità per l&#39;accessibilità](https://www.adobe.com/accessibility/compliance.html) (_Solo in inglese_).
+La maggior parte dei contenuti interattivi su Admin Console può essere spostata e gestita utilizzando la sola tastiera. Ad esempio, puoi utilizzare **[!UICONTROL Tab]** o **[!UICONTROL Shift]** + **[!UICONTROL Tab]** per la navigazione e il controllo. Dopo aver individuato il collegamento o il pulsante corretto, premere **[!UICONTROL Invio]** o **[!UICONTROL Ritorno]** per selezionarlo. Potrebbero essere ancora presenti alcune eccezioni come descritto nel [Rapporto di conformità per l&#39;accessibilità](https://www.adobe.com/accessibility/compliance.html) (*Solo in inglese*).
 
 ## Supporto di tecnologie assistive
 
