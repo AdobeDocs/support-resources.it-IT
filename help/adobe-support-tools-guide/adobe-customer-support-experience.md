@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Esperienza nell’Assistenza clienti di Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Experience League è un portale di supporto self-service progettato per fornire 
 
 1. Dal menu **[!UICONTROL Home]**, puoi **[!UICONTROL Aprire un ticket di supporto]**, **[!UICONTROL Visualizzare e gestire i tuoi casi]**, **[!UICONTROL Richiedere una richiamata]** o accedere a risorse di apprendimento aggiuntive.
 
-   L&#39;opzione **[!UICONTROL Richiedi callback]** consente di pianificare riunioni Web con condivisione dello schermo, consentendo una risoluzione dei problemi più rapida ed efficiente. È disponibile per Adobe Experience Manager, Campaign, Marketo e Workfront. Le riunioni possono essere programmate in base alle esigenze del cliente e vengono forniti inviti immediati. Per i casi Adobe Experience Manager P1, sono garantiti callback immediati per consentire un coinvolgimento rapido durante i problemi critici, contribuendo a ridurre al minimo i tempi di inattività e l&#39;impatto aziendale.
+   L&#39;opzione **[!UICONTROL Richiedi callback]** consente di pianificare riunioni Web con condivisione dello schermo, consentendo una risoluzione dei problemi più rapida ed efficiente. È disponibile per Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target e Workfront. Le riunioni possono essere programmate in base alle esigenze del cliente e vengono forniti inviti immediati. Per i casi Adobe Experience Manager P1, sono garantiti callback immediati per consentire un coinvolgimento rapido durante i problemi critici, contribuendo a ridurre al minimo i tempi di inattività e l&#39;impatto aziendale.
 
    ![Menu home di Experience League](./assets/home-menu.png)
 

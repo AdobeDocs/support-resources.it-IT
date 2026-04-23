@@ -3,10 +3,10 @@ title: Note sulla versione del supporto Experience League
 description: Informazioni aggiornate sulla versione del supporto Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -17,6 +17,10 @@ Queste note sulla versione contengono aggiornamenti al supporto di Experience Le
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 23 aprile 2026 - Espansione della funzione Richiedi richiamata
+
+La funzione di richiesta di callback è ora disponibile per gli utenti dei prodotti Analytics, Admin Console, Audience Manager e Target.
 
 ## 8 aprile 2026 - Espansione della funzione Richiedi richiamata
 
