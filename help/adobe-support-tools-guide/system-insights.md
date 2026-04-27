@@ -1,9 +1,9 @@
 ---
 title: Approfondimenti sistema
 description: System Insights identifica in modo proattivo potenziali problemi negli ambienti Adobe Commerce. L’analisi delle informazioni durante la creazione dei casi riduce i tempi di risoluzione, aiuta a prevenire interruzioni e supporta una distribuzione stabile e sicura.
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ La revisione regolare di System Insights aiuta a identificare i problemi in anti
 
 System Insights è attualmente disponibile solo per Adobe Commerce. Queste informazioni vengono visualizzate durante il processo di creazione del caso sul supporto Experience League e sono disponibili anche tramite [Site-Wide Analysis Tool (SWAT)](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [ !Nota]
+>[ !Nota]
 >
 >System Insights visualizza i dati solo per gli ambienti di produzione.
 

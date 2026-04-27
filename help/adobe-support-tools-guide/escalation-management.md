@@ -1,9 +1,9 @@
 ---
 title: Gestione delle escalation
 description: La gestione delle escalation fornisce opzioni self-service nel supporto Experience League per visualizzare i riepiloghi dei casi, richiedere callback, pianificare le sessioni di risoluzione dei problemi, aggiornare l’urgenza dei casi e gestire le escalation del supporto.
-source-git-commit: aac3642cab7b1dc0bba8ba8fef28d6dff25398fb
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '1152'
+source-wordcount: '1148'
 ht-degree: 1%
 
 ---
@@ -144,13 +144,13 @@ Per modificare l’urgenza di un problema, effettua le seguenti operazioni:
 1. Viene visualizzato un campo di testo in linea. Sul campo, descrivi chiaramente cosa è cambiato o perché il problema richiede un&#39;attenzione immediata.
 1. Fai clic su **[!UICONTROL Aggiorna urgenza problema]** per inviare la richiesta oppure fai clic su **[!UICONTROL Annulla]** per uscire senza apportare modifiche.
 
-Dopo aver inviato la richiesta, viene visualizzata la schermata di conferma:
+   Dopo aver inviato la richiesta, viene visualizzata la schermata di conferma:
 
-- Prodotto selezionato
-- Priorità
-- ID caso
+   - Prodotto selezionato
+   - Priorità
+   - ID caso
 
-Fai clic su **[!UICONTROL Torna al modulo]** per tornare al caso.
+1. Fai clic su **[!UICONTROL Torna al modulo]** per tornare al caso.
 
 ### Si è verificato un problema non elencato
 
@@ -163,17 +163,17 @@ Segui i passaggi seguenti per effettuare l’escalation nel caso in cui i tuoi p
    - **[!UICONTROL Perché inoltrare il caso?]**
    - **[!UICONTROL Informazioni dettagliate sono utili.]**
 1. Nel menu a discesa, seleziona un motivo di escalation:
-   - [!UICONTROL - Tempo alla risoluzione]
+   - [!UICONTROL Tempo alla risoluzione]
    - [!UICONTROL La risoluzione non ha soddisfatto le aspettative]
-   - [!UICONTROL Agent Communication Skills]
+   - [!UICONTROL Abilità di comunicazione agente]
    - [!UICONTROL Informazioni tecniche sull&#39;agente]
 1. Nel campo di testo libero, fornisci contesto aggiuntivo sull’escalation.
 1. Fai clic su **[!UICONTROL Inoltra caso]** per inviare l&#39;inoltro oppure fai clic su **[!UICONTROL Annulla]** per uscire senza inviare.
 
-Dopo aver inviato l’escalation, viene visualizzata la schermata di conferma:
+   Dopo aver inviato l’escalation, viene visualizzata la schermata di conferma:
 
-- Prodotto selezionato
-- Priorità
-- ID caso
+   - Prodotto selezionato
+   - Priorità
+   - ID caso
 
-Fai clic su **[!UICONTROL Torna al modulo]** per tornare al caso.
+1. Fai clic su **[!UICONTROL Torna al modulo]** per tornare al caso.
