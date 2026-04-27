@@ -34,7 +34,7 @@ La revisione regolare di System Insights aiuta a identificare i problemi in anti
 
 System Insights è attualmente disponibile solo per Adobe Commerce. Queste informazioni vengono visualizzate durante il processo di creazione del caso sul supporto Experience League e sono disponibili anche tramite [Site-Wide Analysis Tool (SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [!Nota]
+> [ !Nota]
 >
 >System Insights visualizza i dati solo per gli ambienti di produzione.
 
@@ -56,9 +56,9 @@ Per visualizzare i dettagli completi di insight, seleziona una scheda insight da
 - Nome Insight
 - Prodotto Adobe in cui è segnalato insight
 - Tipo di Insight, suddiviso in categorie:
-   - [Funzionalità UICONTROL]
-   - [Prestazioni UICONTROL]
-   - [UICONTROL Sicurezza]
+   - [!UICONTROL Funzionalità]
+   - [!UICONTROL Prestazioni]
+   - [!UICONTROL Sicurezza]
 - [!UICONTROL Livello di rischio] che indica la gravità
 - [!UICONTROL Ultima esecuzione controllo] indica quando è stato rilevato il risultato.
 - [!UICONTROL Insight Source], fornito dallo strumento di analisi a livello di sito (SWAT)

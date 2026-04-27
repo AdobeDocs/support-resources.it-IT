@@ -163,10 +163,10 @@ Segui i passaggi seguenti per effettuare l’escalation nel caso in cui i tuoi p
    - **[!UICONTROL Perché inoltrare il caso?]**
    - **[!UICONTROL Informazioni dettagliate sono utili.]**
 1. Nel menu a discesa, seleziona un motivo di escalation:
-   - [UICONTROL - Tempo alla risoluzione]
-   - [La risoluzione UICONTROL non ha soddisfatto le aspettative]
-   - [UICONTROL Agent Communication Skills]
-   - [Informazioni tecniche sull&#39;agente UICONTROL]
+   - [!UICONTROL - Tempo alla risoluzione]
+   - [!UICONTROL La risoluzione non ha soddisfatto le aspettative]
+   - [!UICONTROL Agent Communication Skills]
+   - [!UICONTROL Informazioni tecniche sull&#39;agente]
 1. Nel campo di testo libero, fornisci contesto aggiuntivo sull’escalation.
 1. Fai clic su **[!UICONTROL Inoltra caso]** per inviare l&#39;inoltro oppure fai clic su **[!UICONTROL Annulla]** per uscire senza inviare.
 
