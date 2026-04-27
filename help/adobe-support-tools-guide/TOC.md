@@ -6,20 +6,22 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1bb51424aef3dcf0a918f8eee7d0b74bf59c85e8
+source-git-commit: cc7aab1c9738446cfc7701c290bcc128e305a3f5
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 1%
+source-wordcount: '349'
+ht-degree: 2%
 
 ---
 
 # Guida al supporto e agli strumenti di Adobe {#adobe-support-tools-guide}
 
 - [Panoramica del supporto e degli strumenti di Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Note sulla versione del supporto Experience League](/help/adobe-support-tools-guide/release-notes.md)
+- [Note sulla versione del supporto Experience League](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Esperienza dell’assistenza clienti Adobe](adobe-customer-support-experience.md)
 - [Configurazione dei diritti per l’assistenza clienti Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Aggiornamento del numero di telefono di supporto](phone-numbers.md)
+- [Gestione delle escalation](/help/adobe-support-tools-guide/escalation-management.md)
+- [Approfondimenti sistema](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigazione in Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Esegui processi in sospeso](adobe-admin-console/execute-jobs.md)
