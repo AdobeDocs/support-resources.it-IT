@@ -4,13 +4,13 @@ description: Comprendi e scegli i tipi di identità (Federated ID, Enterprise ID
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: c066e95c05f8e8a0953daecda9a220268d325f98
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
+source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '840'
 ht-degree: 4%
 
 ---
-
 
 # Panoramica sull’identità
 
@@ -167,7 +167,7 @@ Adobe sta aggiornando tutti i team e i clienti aziendali per utilizzare il model
 </tr>
 <tr>
 <th scope="row"><strong>Reimposta password</strong></th>
-<td><a href="https://helpx.adobe.com/it/manage-account/using/change-or-reset-password.html">Reimpostare la password dell'account.</a> Fare riferimento al punto 2 nella sezione nota seguente.</td>
+<td><a href="https://helpx.adobe.com/it/manage-account/using/change-or-reset-password.html">Reimposta la password dell'account.</a>  Fare riferimento al punto 2 nella sezione seguente delle note.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud for enterprise e Document Cloud for enterprise</strong></th>
@@ -204,8 +204,8 @@ Adobe sta aggiornando tutti i team e i clienti aziendali per utilizzare il model
 
 ## Altri argomenti correlati
 
-- [Imposta identità](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html)
+- [Configurare l’identità](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html)
 - [Cambia identità utente](https://helpx.adobe.com/it/enterprise/using/switch-user-identity.html)
-- [Panoramica di Admin Console](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
-- [Domande frequenti sull&#39;istruzione](https://helpx.adobe.com/enterprise/using/education-faq.html)
-- [Aggiungi e gestisci utenti](https://helpx.adobe.com/it/enterprise/using/users.html)
+- [Panoramica di Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [Domande frequenti sul settore dell’istruzione](https://helpx.adobe.com/it/x-productkb/policy-pricing/education-faq.html)
+- [Aggiungere e gestire gli utenti](https://helpx.adobe.com/it/enterprise/using/users.html)
