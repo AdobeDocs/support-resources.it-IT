@@ -1,12 +1,12 @@
 ---
 keywords: supporto Experience Platform;supporto piattaforma;supporto servizi intelligenti; assistenza ai clienti; assistenza ai attribuzione; supporto rtcdp; invia ticket di supporto;assistenza clienti
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One per Enterprise
 description: Esperienza nell’Assistenza clienti di Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,9 @@ Experience League è un portale di supporto self-service progettato per fornire 
 
 1. Dal menu **[!UICONTROL Home]**, puoi **[!UICONTROL Aprire un ticket di supporto]**, **[!UICONTROL Visualizzare e gestire i tuoi casi]**, **[!UICONTROL Richiedere una richiamata]** o accedere a risorse di apprendimento aggiuntive.
 
-   L&#39;opzione **[!UICONTROL Richiedi callback]** consente di pianificare riunioni Web con condivisione dello schermo, consentendo una risoluzione dei problemi più rapida ed efficiente. È disponibile per Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target e Workfront. Le riunioni possono essere programmate in base alle esigenze del cliente e vengono forniti inviti immediati. Per i casi Adobe Experience Manager P1, sono garantiti callback immediati per consentire un coinvolgimento rapido durante i problemi critici, contribuendo a ridurre al minimo i tempi di inattività e l&#39;impatto aziendale.
+L&#39;opzione **[!UICONTROL Richiedi callback]** consente di pianificare riunioni Web con condivisione dello schermo per i casi P2 e P3, consentendo una risoluzione dei problemi più rapida ed efficiente. È disponibile per Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target e Workfront. Le riunioni possono essere programmate in base alle esigenze del cliente. Fornisce inoltre callback telefonici immediati per i casi P1 su tutti i prodotti menzionati in precedenza, ad eccezione di Adobe Commerce.
 
-   ![Menu home di Experience League](./assets/home-menu.png)
+![Menu home di Experience League](./assets/home-menu.png)
 
 1. Per inviare un caso, selezionare **[!UICONTROL Apri un ticket di supporto]**. Puoi anche selezionare **[!UICONTROL Apri ticket]** nel menu della barra laterale.
 
