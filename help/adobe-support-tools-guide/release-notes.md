@@ -3,9 +3,9 @@ title: Note sulla versione del supporto Experience League
 description: Informazioni aggiornate sulla versione del supporto Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
 
+## 7 maggio 2026 - Espansione della funzione Richiedi richiamata
+
+La funzione Richiedi callback è ora disponibile sia per Adobe Commerce che per Adobe GenStudio. I clienti di Adobe Commerce possono pianificare un callback in un momento che funziona meglio per loro, mentre i clienti di Adobe GenStudio possono richiedere un callback immediato o pianificato.
 
 ## 27 aprile 2026 - Miglioramenti alla gestione dell’escalation e a System Insights per Adobe Commerce
 
