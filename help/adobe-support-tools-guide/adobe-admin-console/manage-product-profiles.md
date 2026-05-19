@@ -11,10 +11,11 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
-source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
+TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 579
-ht-degree: 1%
+source-wordcount: 758
+ht-degree: 0%
 
 ---
 
@@ -81,9 +82,9 @@ Per gestire i profili di prodotto, seleziona un prodotto. Verranno visualizzati 
 ## Lettura correlata
 
 - [Adottare l&#39;amministrazione globale](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
-- [Gestisci amministratori](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
-- [Gestione gruppi utenti](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
-- [Alloca prodotti alle organizzazioni figlie](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
+- [Gestire gli amministratori](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
+- [Gestire i gruppi di utenti](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
+- [Allocare prodotti alle organizzazioni figlio](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
 - [Esegui processi in sospeso](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html)
 - [Attiva/disattiva servizi](https://helpx.adobe.com/it/enterprise/using/enable-disable-services.html)
 - [Panoramica di Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)

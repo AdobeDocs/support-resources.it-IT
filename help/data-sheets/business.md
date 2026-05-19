@@ -2,9 +2,14 @@
 title: Supporto Business
 description: I servizi di supporto Business per Adobe Experience Cloud consentono di accedere ai team di supporto tecnico di Adobe e a un Account Support Lead per la gestione degli account.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
+TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: 905
 ht-degree: 100%
 
 ---
@@ -242,7 +247,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/it?lang=it) | Con Experience League, Adobe aiuta le aziende a conseguire il valore che si aspettano dalle soluzioni Adobe in cui hanno investito. In questo portale unificato, puoi imparare, relazionarti con altri professionisti e crescere seguendo un percorso personalizzato con tutorial, documentazione dei prodotti, formazione con istruttori, supporto tecnico e il sostegno dell’intera community. |
 | [Formazione](https://training.adobe.com/training/) | I corsi Adobe Digital Learning Services sono accessibili da Experience League. I corsi di apprendimento comprendono lezioni sia on-demand che guidate da istruttori. Potrai acquisire nuove competenze particolarmente ricercate nel settore e metterle in pratica nella tua organizzazione, per favorirne il successo. |
-| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it-it/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
+| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Sito del supporto Business](https://helpx.adobe.com/it/support/programs/enterprise-support-programs/premier-support-business.html) | Sito del supporto Business di Adobe. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 

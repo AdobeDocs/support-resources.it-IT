@@ -3,10 +3,25 @@ title: Come richiedere l’upsize temporaneo dell’infrastruttura cloud per Ado
 description: Se la tua organizzazione sta pianificando un evento online in cui si prevede un traffico elevato, o se improvvisamente scopri che il tuo sito sta attraversando un evento con traffico elevato, puoi inviare un [Ticket di supporto](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=it#submit-ticket) per richiedere una capacità cloud temporanea aggiuntiva per il tuo Adobe Commerce sull’archivio dell’infrastruttura cloud.
 solution: Commerce
 exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+TQID: https://experienceleague.adobe.com/9--JwGLuX01kXR569r1OjVrkiTd2BQa-j-gOTs9oKGY
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 0%
+source-wordcount: 1136
+ht-degree: 1%
 
 ---
 
@@ -118,11 +133,11 @@ Per ogni richiesta di ridimensionamento sono disponibili le seguenti informazion
 ## Lettura correlata
 
 * Per informazioni approfondite, metodi ed esempi su come misurare e migliorare le prestazioni del sito, consulta i seguenti articoli approfonditi nella knowledge base di supporto:
-   * [Calcolo allocazione CPU per Adobe Commerce sul cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
-   * [Verifica se è necessario eseguire l&#39;upsize per le istanze dell&#39;host per Adobe Commerce sul cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
-   * [Verifica la configurazione CPU dell&#39;host per Adobe Commerce sul cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
+   * [Calcolo dell’allocazione di CPU per Adobe Commerce su cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
+   * [Controlla se l&#39;upsize per le istanze dell&#39;host è necessario per Adobe Commerce sul cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
+   * [Controlla la configurazione CPU dell&#39;host per Adobe Commerce sul cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
 * Per informazioni su come identificare le interruzioni, consulta [Identificare e misurare le interruzioni per Adobe Commerce sul cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages) nella knowledge base di supporto.
 * Per informazioni sul miglioramento delle prestazioni del sito per evitare la necessità di utilizzare un aumento della capacità, consulta questi articoli nella documentazione per sviluppatori:
    * [Ridimensionamento immagine](https://experienceleague.adobe.com/it/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
-   * [Memorizzazione in cache a pagina intera](https://experienceleague.adobe.com/it/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
-   * [Strumenti ECE](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
+   * [Memorizzazione in cache di pagine intere](https://experienceleague.adobe.com/it/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
+   * [Utensili ECE](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)

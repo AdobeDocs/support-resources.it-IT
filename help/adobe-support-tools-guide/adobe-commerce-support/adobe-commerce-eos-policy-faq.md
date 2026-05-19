@@ -4,9 +4,24 @@ description: La seguente domanda frequente ha lo scopo di aiutare commercianti, 
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 267c52f4c769bed8910ace25c604c2d6c84b6302
+exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
+TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+subfeature_v2:
+  - id: f2261633-201d-46c5-8a66-999e70527a83
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1733'
+source-wordcount: 1808
 ht-degree: 0%
 
 ---
@@ -95,7 +110,7 @@ Una volta scaduta la licenza di Adobe Commerce, è necessario interrompere l’u
 
 ### I ticket di supporto aperti PRIMA della data di fine del supporto di una versione del software continueranno a essere utilizzati per la risoluzione anche dopo la data di fine del supporto?
 
-Sì, i ticket di supporto aperti prima della data di fine del supporto di una versione software continueranno a essere utilizzati e risolti anche dopo la data di fine del supporto per tale versione software. Tuttavia, la risoluzione dei ticket di supporto può dipendere dal fatto che la risoluzione si basi su componenti al di fuori del controllo di Adobe Commerce (ad esempio PHP, jQuery, ecc.) che sono scaduti o hanno raggiunto la fine del supporto. In questi casi, il ticket di supporto può essere risolto richiedendo di eseguire l’aggiornamento alla versione più recente.
+Sì, i ticket di supporto aperti prima della data di fine del supporto di una versione software continueranno a essere utilizzati e risolti anche dopo la data di fine del supporto per tale versione software. Tuttavia, i ticket di supporto per la risoluzione possono dipendere dal fatto che la risoluzione si basi su componenti che non rientrano nel controllo di Adobe Commerce (ad esempio PHP, jQuery, ecc.) scaduti o raggiunti alla fine del supporto. In questi casi, il ticket di supporto può essere risolto richiedendo di eseguire l’aggiornamento alla versione più recente.
 
 ### Se apro un ticket per una versione del software per la quale il supporto software scade a breve, Adobe assegnerà la priorità a tali ticket in modo che vengano risolti prima della data di fine del supporto?
 

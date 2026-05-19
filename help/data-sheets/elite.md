@@ -2,9 +2,22 @@
 title: Supporto Elite
 description: I servizi di supporto Elite per Adobe Experience Cloud offrono obiettivi di livello di servizio d’eccellenza, supporto proattivo e l’affiancamento di un Technical Account Manager e un Named Support Engineer.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
+TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1386'
+source-wordcount: 1406
 ht-degree: 100%
 
 ---
@@ -305,7 +318,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <div>
     <p><b>Servizi a valore aggiunto per AEM as a Cloud Service</b></p>
-    <p>Individuare, valutare e fornire raccomandazioni su aree specifiche, relative all’adozione delle soluzioni, che offrono opportunità di ottimizzazione.</p>
+    <p>Individuare, valutare e fornire consigli su aree specifiche, relative all’adozione delle soluzioni, che offrono opportunità di ottimizzazione.</p>
     </div>
   </td>
   <td>
@@ -319,7 +332,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ## Launch Advisory
 
-Per i clienti che implementano una **nuova soluzione Adobe Experience Cloud**, Launch Advisory offre un *set principale di servizi di consulenza* e raccomandazioni consolidate, utili per il successo dell’implementazione e per velocizzare il time-to-value.
+Per i clienti che implementano una **nuova soluzione Adobe Experience Cloud**, Launch Advisory offre un *set principale di servizi di consulenza* e consigli consolidati, utili per il successo dell’implementazione e per velocizzare il time-to-value.
 
 <!--
 ![Support implementation and operation](assets/support-implementation.png)
@@ -327,10 +340,10 @@ Per i clienti che implementano una **nuova soluzione Adobe Experience Cloud**, L
 
 Gli esperti delle soluzioni Adobe aiutano a convalidare i requisiti, l’architettura, il processo di sviluppo e lo stato di preparazione, con indicazioni basate su best practice rivolte ai clienti e ai partner di implementazione.
 
-Launch Advisory si allinea alla pianificazione del progetto del cliente, con obiettivi intermedi comuni (avvio, definizione, progettazione, lancio e post-lancio) per guidare, convalidare, valutare e formulare raccomandazioni. Il servizio include i seguenti materiali:
+Launch Advisory si allinea alla pianificazione del progetto del cliente, con obiettivi intermedi comuni (avvio, definizione, progettazione, lancio e post-lancio) per guidare, convalidare, valutare e formulare consigli. Il servizio include i seguenti materiali:
 
 * Piano di lancio (incluso il piano di collaborazione al progetto)
-* Documentazione relativa a valutazione e raccomandazioni
+* Documentazione relativa a valutazione e consigli
 * Riepilogo dell’ambito delle attività di consulenza
 
 <!--
@@ -343,7 +356,7 @@ I servizi sul campo sono utilizzati per la **risoluzione rapida** e si incentran
 
 I clienti Elite hanno diritto a **4 attività all’anno** di tipo **tecnico** e/o **strategico**.
 
-Le **attività tecniche** supportano le competenze tecniche del clienti e sono volte a massimizzare l’adozione degli strumenti. In particolare, includono supporto e raccomandazioni in merito a configurazioni della piattaforma, integrazioni e risoluzione di problemi.
+Le **attività tecniche** supportano le competenze tecniche del clienti e sono volte a massimizzare l’adozione degli strumenti. In particolare, includono supporto e consigli in merito a configurazioni della piattaforma, integrazioni e risoluzione di problemi.
 
 Attività tecniche disponibili:
 
@@ -354,7 +367,7 @@ Attività tecniche disponibili:
 * Risoluzione di problemi inerenti la soluzione del cliente
 * Supporto dei servizi cloud
 
-Le **attività strategiche** rilevano le opportunità che consentono di trarre maggior valore dalle soluzioni Adobe del cliente. Includono raccomandazioni di supporto relative a strategia, misurazione e livello di preparazione per favorire la realizzazione di valore tramite una o più soluzioni Adobe.
+Le **attività strategiche** rilevano le opportunità che consentono di trarre maggior valore dalle soluzioni Adobe del cliente. Includono consigli di supporto relativi a strategia, misurazione e livello di preparazione per favorire la realizzazione di valore tramite una o più soluzioni Adobe.
 
 Attività strategiche disponibili:
 
@@ -369,7 +382,7 @@ Attività strategiche disponibili:
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/it?lang=it) | Con Experience League, Adobe aiuta le aziende a conseguire il valore che si aspettano dalle soluzioni Adobe in cui hanno investito. In questo portale unificato, puoi imparare, relazionarti con altri professionisti e crescere seguendo un percorso personalizzato con tutorial, documentazione dei prodotti, formazione con istruttori, supporto tecnico e il sostegno dell’intera community. |
 | [Formazione](https://training.adobe.com/training/) | I corsi Adobe Digital Learning Services sono accessibili da Experience League. I corsi di apprendimento comprendono lezioni sia on-demand che guidate da istruttori. Potrai acquisire nuove competenze particolarmente ricercate nel settore e metterle in pratica nella tua organizzazione, per favorirne il successo. |
-| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it-it/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
+| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
 ## Supporto Adobe: aree geografiche, orari operativi e lingue

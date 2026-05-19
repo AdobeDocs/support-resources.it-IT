@@ -12,9 +12,10 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 1007
+source-wordcount: 1045
 ht-degree: 1%
 
 ---
@@ -53,7 +54,7 @@ Per creare un ambiente bloccato, imposta i valori dei criteri desiderati nelle o
 
 Se Elissa, l&#39;amministratore globale della *Divisione Acme*, crea organizzazioni figlio *Marketing* e *Engineering*, aggiunge Robert come amministratore globale di *Marketing* e Sarah come amministratore globale di *Engineering*. Quindi imposta diversi criteri su *Non consentito* e *blocca*. Elissa può sbloccare e modificare i valori dei criteri quando sceglie *Divisione Acme* come organizzazione selezionata, ma Robert e Sarah non possono sbloccare i criteri per le organizzazioni di cui sono amministratori globali perché i criteri sono bloccati dall&#39;organizzazione *Divisione Acme*.
 
-## Dettagli del criterio
+## Dettagli criteri
 
 ### Gestione dell’organizzazione
 
