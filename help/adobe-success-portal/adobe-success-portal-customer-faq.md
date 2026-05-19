@@ -3,9 +3,14 @@ title: 'Portale [!DNL Adobe Success]: domande frequenti della clientela'
 description: In questo articolo sono presenti le risposte alle domande frequenti relative al portale  [!DNL Adobe Success] .
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
 TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 661
@@ -16,6 +21,7 @@ ht-degree: 93%
 # Portale [!DNL Adobe Success]: domande frequenti della clientela
 
  
+
 ## Qual è l’ambito del portale [!DNL Adobe Success]?
 
 Il portale [!DNL Adobe Success] è la nuova piattaforma centralizzata di Adobe, rivolta alla clientela e progettata per unificare l’esperienza post-vendita tra supporto, successo e coinvolgimento. La versione Alpha si concentra sull’offrire un’esperienza coerente che consolida strumenti e flussi di lavoro precedentemente distribuiti su più piattaforme (ad esempio, portale di supporto, artefatti manuali di Ultimate Success). L’obiettivo è semplificare il modo in cui la clientela interagisce con Adobe durante tutto il loro ciclo di vita, dall’onboarding al rinnovo, migliorando al contempo la trasparenza, l’autonomia e la realizzazione del valore.
