@@ -2,9 +2,12 @@
 title: Supporto Online
 description: I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato al supporto telefonico.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+TQID: https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: 791
 ht-degree: 100%
 
 ---
@@ -171,7 +174,7 @@ I servizi di supporto Online per Adobe Experience Cloud offrono accesso limitato
 
 ## Supporto Online {#online-support-1}
 
-Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online per la documentazione, acquisire le best practice con l’aiuto di altri esperti e clienti e seguire la serie di webinar Office Hours con suggerimenti utili per la risoluzione di eventuali problemi. Sono disponibili diversi canali per l’inoltro di domande e richieste di assistenza.
+L’Assistenza clienti di Adobe offre risorse online per la documentazione, nonché la possibilità di acquisire le best practice attraverso il coinvolgimento e l’interazione con altri esperti e clienti, e serie di webinar Office Hours con suggerimenti utili per la risoluzione di eventuali problemi. Sono disponibili diversi canali per l’inoltro di domande e richieste di assistenza.
 
 <table style="table-layout:fixed">
 <tr>
@@ -235,9 +238,9 @@ Grazie all’Assistenza clienti di Adobe, è possibile accedere a risorse online
 
 | Risorsa | Descrizione |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/it?lang=it) | Con Experience League, Adobe aiuta le aziende a conseguire il valore che si aspettano dalle soluzioni Adobe in cui hanno investito. In questo portale unificato, puoi imparare, relazionarti con altri professionisti e crescere seguendo un percorso personalizzato con tutorial, documentazione dei prodotti, formazione con istruttori, supporto tecnico e il sostegno dell’intera community. |
+| [Experience League](https://experienceleague.adobe.com/?lang=it) | Con Experience League, Adobe aiuta le aziende a conseguire il valore che si aspettano dalle soluzioni Adobe in cui hanno investito. In questo portale unificato, puoi imparare, relazionarti con altri professionisti e crescere seguendo un percorso personalizzato con tutorial, documentazione dei prodotti, formazione con istruttori, supporto tecnico e il sostegno dell’intera community. |
 | [Formazione](https://training.adobe.com/training/) | I corsi Adobe Digital Learning Services sono accessibili da Experience League. I corsi di apprendimento comprendono lezioni sia on-demand che guidate da istruttori. Potrai acquisire nuove competenze particolarmente ricercate nel settore e metterle in pratica nella tua organizzazione, per favorirne il successo. |
-| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it-it/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
+| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
 ## Supporto Adobe: aree geografiche, orari operativi e lingue

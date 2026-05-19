@@ -2,9 +2,11 @@
 title: Panoramica dei servizi di supporto per Creative Enterprise e Document Cloud
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Creative Cloud e Document Cloud. Le opzioni disponibili sono Standard, Business, Enterprise ed Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
-source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
+TQID: https://experienceleague.adobe.com/Ly4fta5e3fXbRKDGWPxAIQA45BzxrsHCOw-Xn0aY4ho
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: 287
 ht-degree: 98%
 
 ---

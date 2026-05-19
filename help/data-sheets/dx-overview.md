@@ -2,9 +2,11 @@
 title: Panoramica dei servizi di supporto di Experience Cloud
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud. Le opzioni disponibili sono Online, Business, Enterprise ed Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
+TQID: https://experienceleague.adobe.com/m4dCNB7UaMrCL75Drv02GMnAGQbMjlA2FRQhA90x0Mo
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 203
 ht-degree: 100%
 
 ---
@@ -13,7 +15,7 @@ ht-degree: 100%
 
 L’Assistenza clienti per Adobe Experience Cloud ha un unico obiettivo: il successo dei nostri clienti. Tutti gli abbonamenti includono la possibilità di ricevere assistenza tecnica entrando facilmente in contatto con personale tecnico altamente qualificato.
 
-Per esigenze più complete, offriamo i servizi di supporto di Adobe, con accesso a professionisti dedicati, obiettivi di risposta rapidi secondo il livello di servizio, e sessioni di mentoring proattivo e valutazione dei servizi. A prescindere dalla complessità delle tue esigenze di supporto, Adobe ti offre le competenze tecniche e operative necessarie per massimizzare le prestazioni e il valore della tua soluzione Adobe.
+Per esigenze più complete, offriamo i servizi di supporto di Adobe, con accesso a professionisti dedicati, target di risposta rapidi secondo il livello di servizio, e sessioni di mentoring proattivo e valutazione dei servizi. A prescindere dalla complessità delle tue esigenze di supporto, Adobe ti offre le competenze tecniche e operative necessarie per massimizzare le prestazioni e il valore della tua soluzione Adobe.
 
 <table style="table-layout:fixed">
 <tr>

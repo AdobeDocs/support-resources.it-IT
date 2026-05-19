@@ -2,9 +2,13 @@
 title: Supporto Elite per Creative Cloud e Adobe Document Cloud
 description: Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Ottimizzato con il piano di supporto ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: 1122
 ht-degree: 100%
 
 ---
@@ -118,7 +122,7 @@ Grazie alla profonda esperienza nelle tue soluzioni di Creative Cloud e Document
     <td>✔</td>
   </tr>
   <tr>
-    <td>Pianificazione aggiornamento/migrazione</td>
+    <td>Pianificazione dell’aggiornamento o della migrazione</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -241,9 +245,9 @@ Grazie alla profonda esperienza nelle tue soluzioni di Creative Cloud e Document
 </tr>
 <tr>
   <td>
-    <img alt="Pianificazione aggiornamento/migrazione" src="assets/dmeupgrademigrationplanning.png"/>
+    <img alt="Pianificazione dell’aggiornamento o della migrazione" src="assets/dmeupgrademigrationplanning.png"/>
     <div>
-    <p><b>Pianificazione aggiornamento/migrazione</b></p>
+    <p><b>Pianificazione dell’aggiornamento o della migrazione</b></p>
     <p>Ricevi indicazioni personalizzate e una valutazione proattiva per la pianificazione di aggiornamenti e migrazioni. Approfitta del piano di valutazione versione e aggiornamento effettuato dagli esperti Adobe.</p>
     </div>
   </td>
@@ -316,7 +320,7 @@ Grazie alla profonda esperienza nelle tue soluzioni di Creative Cloud e Document
 |--- |--- |
 | [Formazione e supporto Enterprise](https://helpx.adobe.com/it/enterprise.html) | Formazione e supporto Enterprise è l’area in cui i clienti di Adobe possono trovare tutorial di supporto autonomo, documentazione dei prodotti, corsi di formazione con istruttore, community e supporto per determinati prodotti Adobe Creative Cloud e Document. |
 | [Community di supporto Adobe](https://community.adobe.com/) | Nella community di supporto Adobe è possibile porre domande, trovare risposte, imparare dagli esperti e condividere le proprie conoscenze. |
-| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it-it/) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
+| [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
 
 {style="table-layout:auto"}
