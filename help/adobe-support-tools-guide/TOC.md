@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 5c66760ce359e3a5d4c399dd9cab303ad04c6508
+source-git-commit: 665fb88bb2240bcf414697ee415569dc083a9539
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '345'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 2%
 - [Configurazione dei diritti per l’assistenza clienti Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Aggiornamento del numero di telefono di supporto](phone-numbers.md)
 - [Gestione delle escalation](/help/adobe-support-tools-guide/escalation-management.md)
+- [portale di assistenza Experience League: nuova interfaccia utente](/help/adobe-support-tools-guide/exl-new-ui.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigazione in Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Esegui processi in sospeso](adobe-admin-console/execute-jobs.md)
