@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: bff5962913571b7bc192e634346c124985dc3609
 workflow-type: tm+mt
-source-wordcount: 973
+source-wordcount: 1177
 ht-degree: 1%
 
 ---
@@ -25,6 +25,24 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 26 maggio 2026 - Aggiornamento dell’interfaccia utente del portale di supporto Experience League
+
+1. Una nuova home page centralizzata fornisce una panoramica dell’attività di supporto, con un conteggio dei casi in base alla priorità, casi in attesa di risposta, stato del prodotto in tempo reale e avvisi di sistema in un’unica dashboard.
+
+1. Il **[!UICONTROL Cambio organizzazione]** nell&#39;angolo superiore sinistro consente di passare da un&#39;organizzazione all&#39;altra e il portale aggiorna automaticamente i dati relativi al caso, allo stato del prodotto e alle informazioni di supporto per l&#39;organizzazione selezionata.
+
+1. Un portale consente di passare dal portale riprogettato al portale di supporto Experience League corrente in qualsiasi momento, con entrambe le esperienze completamente sincronizzate in modo che i dati del caso rimangano aggiornati.
+
+1. Puoi monitorare lo stato operativo live di tutti i prodotti Adobe autorizzati alla tua organizzazione e filtrare gli avvisi di sistema per tipo di evento, tra cui Principale, Secondario, Potenziale, Manutenzione e Annunci.
+
+1. I clienti Ultimate Success plan ora hanno accesso a una pagina dedicata **[!UICONTROL Il mio successo]** con dettagli sul loro team di successo e sulle risorse per supportare il loro coinvolgimento con Adobe.
+
+1. Il portale di supporto riprogettato è disponibile per tutti i prodotti eccetto Adobe Commerce.
+
+>[!NOTE]
+>
+>Gli aggiornamenti alle pagine Creazione caso, Dettagli caso e I miei casi sono pianificati per una versione futura. Fino ad allora, queste pagine rimarranno disponibili nell’attuale portale di supporto Experience League.
 
 ## 7 maggio 2026 - Espansione della funzione Richiedi richiamata
 
