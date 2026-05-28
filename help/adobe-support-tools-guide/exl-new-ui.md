@@ -1,7 +1,7 @@
 ---
 title: 'portale di assistenza Experience League: nuova interfaccia utente'
 description: Il portale di supporto Experience League è stato riprogettato per semplificare i flussi di lavoro di supporto, le informazioni approfondite sui casi e il monitoraggio dei prodotti, migliorando la navigazione, l’analisi e le azioni rapide e passando senza problemi al portale corrente per la gestione dei casi.
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ Il passaggio da un’organizzazione all’altra consente di aggiornare i dati re
 
 Utilizza l’interruttore nel portale per passare dal portale di supporto Experience League riprogettato al portale corrente.
 
-![Nuova interfaccia](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![Nuova interfaccia](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Entrambi i portali rimangono sincronizzati, garantendo che i dati dei casi e le informazioni di supporto rimangano coerenti tra le diverse esperienze.
 
