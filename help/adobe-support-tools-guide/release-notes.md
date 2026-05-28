@@ -4,16 +4,12 @@ description: Informazioni aggiornate sulla versione del supporto Experience Leag
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +21,10 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 28 maggio 2026 - Espansione di [!UICONTROL Richiedi una funzionalità di richiamata]
+
+La funzionalità **[!UICONTROL Richiedi richiamata]** è ora disponibile per gli utenti di prodotti Adobe Journey Optimizer, Customer Journey Analytics e Real-Time Customer Data Platform.
 
 ## 26 maggio 2026 - Aggiornamento dell’interfaccia utente del portale di supporto Experience League
 
@@ -44,7 +44,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 >
 >Gli aggiornamenti alle pagine Creazione caso, Dettagli caso e I miei casi sono pianificati per una versione futura. Fino ad allora, queste pagine rimarranno disponibili nell’attuale portale di supporto Experience League.
 
-## 7 maggio 2026 - Espansione della funzione Richiedi richiamata
+## 7 maggio 2026 - Espansione di [!UICONTROL Richiedi una funzionalità di richiamata]
 
 La funzione Richiedi callback è ora disponibile sia per Adobe Commerce che per Adobe GenStudio. I clienti di Adobe Commerce possono pianificare un callback in un momento che funziona meglio per loro, mentre i clienti di Adobe GenStudio possono richiedere un callback immediato o pianificato.
 
@@ -78,13 +78,13 @@ La funzione Richiedi callback è ora disponibile sia per Adobe Commerce che per 
 
 1. Gli utenti possono inviare feedback su singole informazioni per aiutare Adobe a migliorare continuamente l’accuratezza e la rilevanza di System Insights.
 
-## 23 aprile 2026 - Espansione della funzione Richiedi richiamata
+## 23 aprile 2026 - Espansione di [!UICONTROL Richiedi una funzionalità di richiamata]
 
-La funzione di richiesta di callback è ora disponibile per gli utenti dei prodotti Analytics, Admin Console, Audience Manager e Target.
+La funzionalità **[!UICONTROL Richiedi richiamata]** è ora disponibile per gli utenti di prodotti Analytics, Admin Console, Audience Manager e Target.
 
-## 8 aprile 2026 - Espansione della funzione Richiedi richiamata
+## 8 aprile 2026 - Espansione di [!UICONTROL Richiedi una funzionalità di richiamata]
 
-La funzione Richiedi richiamata è ora disponibile per gli utenti di prodotti Marketo.
+La funzionalità **[!UICONTROL Richiedi richiamata]** è ora disponibile per gli utenti dei prodotti Marketo.
 
 ## 30 marzo 2026 - Modulo per casi avanzati
 
@@ -143,9 +143,9 @@ La funzione Richiedi richiamata è ora disponibile per gli utenti di prodotti Ma
 
 ![Correzione](../adobe-support-tools-guide/assets/fix.svg) asterischi aggiunti (*) come indicatori di campo obbligatori per garantire la completezza e ridurre gli errori di invio.
 
-## 18 marzo 2026 - Espansione della funzione Richiedi richiamata
+## 18 marzo 2026 - Espansione di [!UICONTROL Richiedi una funzionalità di richiamata]
 
-Experience League ora offre l’opzione Richiedi richiamata, che consente la pianificazione self-service delle riunioni web con funzionalità di condivisione dello schermo per una risoluzione più rapida dei problemi.
+Experience League ora offre l&#39;opzione **[!UICONTROL Richiedi richiamata]**, che consente la pianificazione self-service delle riunioni Web con funzionalità di condivisione dello schermo per una risoluzione più rapida dei problemi.
 
 - Questa funzione è disponibile per Adobe Experience Manager, Campaign e Workfront.
 - I clienti possono programmare le riunioni secondo le proprie esigenze e ricevere inviti immediati.
