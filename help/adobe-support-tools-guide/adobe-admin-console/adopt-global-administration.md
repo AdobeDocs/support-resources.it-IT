@@ -1,13 +1,13 @@
 ---
 title: Adottare l'amministrazione globale
-description: Scopri cos’è Global Admin Console e come richiedere l’accesso.
+description: Scopri come Global Admin Console raggruppa Adobe Admin Console, cosa sono le console di amministrazione figlio e come richiedere l’accesso.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ Crea un caso di supporto in Adobe Admin Console per richiedere l’accesso a un 
 
 ## Introduzione
 
-[Global Admin Console](https://global-admin-console.adobe.com) è destinato ai clienti con strutture organizzative complesse che dispongono di molte istanze di Admin Console o che desiderano suddividere il proprio Admin Console principale in più console. Ad esempio, multinazionali, consorzi di istruzione, grandi distretti scolastici e grandi agenzie governative. Nidifica le console di amministrazione esistenti in una struttura gerarchica, come un organigramma, per fornire trasparenza in un’azienda distribuita.
+[Global Admin Console](https://global-admin-console.adobe.com) raggruppa più [Console di amministrazione di Adobe](https://adminconsole.adobe.com) in un&#39;unica gerarchia. Ogni organizzazione in tale gerarchia è una Adobe Admin Console. Gli amministratori utilizzano le stesse funzionalità di base in ogni console, gestendo utenti, licenze e impostazioni per l’organizzazione. In Global Admin Console è stata aggiunta l’amministrazione tra diverse console, ovvero l’organizzazione di istanze secondarie di Admin Console, l’allocazione di prodotti e licenze nella gerarchia e l’applicazione di criteri a livello di organizzazione in tutto il gruppo.
 
-Global Admin Console non sostituisce né modifica le funzionalità delle istanze esistenti di Admin Console. Funziona come una gerarchia con un’organizzazione principale nella parte superiore e tutte le console nidificate sotto tale organizzazione principale. Esiste un criterio di selezione incentrato sull’acquisto e la creazione di una struttura gerarchica in cui un Admin Console funge da console principale.
+Global Admin Console è destinato ai clienti con strutture organizzative complesse che dispongono di molte istanze di Admin Console o che desiderano suddividere il proprio Admin Console principale in più console. Ad esempio, multinazionali, consorzi di istruzione, grandi distretti scolastici e grandi agenzie governative. Nidifica le console di amministrazione esistenti in una struttura gerarchica, come un organigramma, per fornire trasparenza in un’azienda distribuita.
+
+Un Admin Console figlio (denominato *organizzazione figlio* in Global Admin Console) è un qualsiasi Adobe Admin Console nidificato al di sotto di un&#39;altra console nella gerarchia. Solo le console di amministrazione collegate al Global Admin Console sono console secondarie in questo senso, non tutte le Adobe Admin Console in tutto il mondo.
+
+Global Admin Console non sostituisce né modifica la funzionalità quotidiana nelle istanze esistenti di Admin Console. Funziona come una struttura gerarchica, con un’organizzazione principale nella parte superiore e tutte le console collegate nidificate sotto di essa. La console principale è determinata in base all’impostazione di acquisto e organizzazione.
 
 Per ulteriori informazioni sulle funzionalità e i vantaggi di Global Admin Console, vedere il [white paper sul Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) e guardare il seguente [video](https://youtu.be/FLBWR78wpok).
 
@@ -44,7 +48,7 @@ Di seguito sono riportati alcuni vantaggi chiave di Global Admin Console:
 - Crea, modifica ed elimina profili di prodotto e gruppi di utenti.
 - Esporta informazioni sull&#39;organizzazione da utilizzare in altri processi o per generare rapporti.
 - Importa aggiornamenti alle organizzazioni e modifiche alla gerarchia organizzativa.
-- Ricevi notifiche sullo stato dei contratti di ETLA nelle organizzazioni figlio, compresi i contratti con scadenza, scaduti o inattivi imminenti. Per ulteriori informazioni, consulta la documentazione sulla [scadenza del contratto](https://helpx.adobe.com/it/enterprise/using/contract-expiry.html).
+- Ricevi notifiche sullo stato dei contratti di ETLA nelle organizzazioni figlio, compresi i contratti con scadenza, scaduti o inattivi imminenti. Per ulteriori informazioni, consulta la documentazione sulla [scadenza del contratto](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 
 ## Criteri di idoneità
 
