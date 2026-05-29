@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 665fb88bb2240bcf414697ee415569dc083a9539
+source-git-commit: 7581e9c50ea6e63d7bbf3ca235c3df433b02420c
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '338'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 2%
    - [Richieste di capacità di crescita in vacanza per Adobe Commerce sulla nostra infrastruttura cloud](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
    - [Hotline per le notifiche Adobe Commerce P1](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe Commerce Intelligence Essentials: aggiorna metodo di pagamento o annulla abbonamento](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
-   - [Supporto Adobe accesso ai dati dei clienti e privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Aggiornamento dei criteri del ciclo di vita dei ticket di supporto Adobe Commerce](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [Scheda informativa sul monitoraggio per Adobe Commerce sull’infrastruttura cloud pro](adobe-commerce-support/monitoring-whitepaper.md)
    - [Domande frequenti sulla fine del supporto del software Adobe Commerce](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
