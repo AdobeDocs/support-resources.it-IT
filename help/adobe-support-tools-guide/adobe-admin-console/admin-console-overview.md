@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
 workflow-type: tm+mt
-source-wordcount: '1742'
-ht-degree: 1%
+source-wordcount: '2011'
+ht-degree: 3%
 
 ---
 
@@ -43,11 +43,11 @@ Se sei un amministratore per più organizzazioni, puoi cambiare organizzazione u
 
 ![Admin Console Seleziona la tua organizzazione](assets/admin-console-select-your-org.png "Selettore organizzazione")
 
-Se l’organizzazione fa parte di un Global Admin Console, accanto al nome dell’organizzazione viene visualizzata un’icona di gerarchia. Puoi anche visualizzare il percorso dell’organizzazione e determinare la posizione dell’organizzazione all’interno della gerarchia. Ad esempio, nella schermata, l’amministratore è un membro dell’organizzazione B e il percorso Global Admin Console di questa organizzazione è A > B, dove B è un figlio dell’organizzazione A.
+Se l’organizzazione fa parte di un Global Admin Console, accanto al nome dell’organizzazione viene visualizzata un’icona di gerarchia. Puoi anche visualizzare il percorso dell’organizzazione e determinare la posizione dell’organizzazione all’interno della gerarchia. Ad esempio, nella schermata, l’amministratore è membro di un’organizzazione di livello superiore e le organizzazioni figlie hanno un percorso Global Admin Console come Organizzazione padre > Organizzazione figlio, in cui l’organizzazione figlie è nidificata sotto l’organizzazione padre. In questo contesto, ogni organizzazione nel percorso è un Adobe Admin Console; un&#39;organizzazione figlio è un Admin Console figlio nella gerarchia.
 
 ![Admin Console seleziona la tua organizzazione figlio](assets/admin-console-select-your-org-hierarchy.png "Posizionamento organizzazione nella gerarchia di un Global Admin Console")
 
-Se hai una struttura organizzativa complessa con molte istanze di Admin Console o se desideri suddividere il tuo Admin Console principale in più console, puoi [adottare Global Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Ad esempio, multinazionali, consorzi di istruzione, grandi distretti scolastici e grandi agenzie governative. Global Admin Console nidifica le istanze esistenti di Admin Console in una struttura gerarchica, come un organigramma, per fornire trasparenza in un&#39;azienda distribuita.
+Se hai una struttura organizzativa complessa con molte istanze di Admin Console o se desideri suddividere il tuo Admin Console principale in più console, puoi [adottare Global Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Global Admin Console raggruppa tali console di amministrazione di Adobe in una struttura gerarchica, ad esempio un organigramma, in modo che gli amministratori globali possano amministrare le console figlie e allocare i prodotti mentre gli amministratori di sistema continuino a gestire quotidianamente le console. Ad esempio, multinazionali, consorzi di istruzione, grandi distretti scolastici e grandi agenzie governative.
 
 ## [!UICONTROL Prodotti] {#products}
 
@@ -60,7 +60,7 @@ La pagina **[!UICONTROL Prodotti]** in [Admin Console](https://adminconsole.adob
 Per ulteriori informazioni, consulta:
 
 - [Gestione prodotti](https://helpx.adobe.com/it/enterprise/using/manage-products.html)
-- [Gestione dei profili di prodotto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
+- [Gestire i profili di prodotto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
 
 **Team**
 
@@ -70,7 +70,7 @@ Inserisci il nome o l’indirizzo e-mail dell’utente. Puoi cercare utenti esis
 
 Per ulteriori informazioni, consulta:
 
-- [Assegna o rimuovi assegnazione licenze](https://helpx.adobe.com/it/enterprise/using/assign-licenses-to-teams-users.html)
+- [Assegnare o annullare l’assegnazione delle licenze](https://helpx.adobe.com/it/enterprise/using/assign-licenses-to-teams-users.html)
 - [Aggiungere o rimuovere prodotti o licenze](https://helpx.adobe.com/it/enterprise/using/add-products-and-licenses.html)
 
 ## [!UICONTROL Utenti] {#users}
@@ -79,8 +79,8 @@ La pagina **[!UICONTROL Utenti]** in [Admin Console](https://adminconsole.adobe.
 
 Per ulteriori informazioni, consulta:
 
-- [Gestione utenti](https://helpx.adobe.com/it/enterprise/using/users.html)
-- [Gestione gruppi utenti](https://helpx.adobe.com/it/enterprise/using/user-groups.html)
+- [Gestisci utenti](https://helpx.adobe.com/it/enterprise/using/users.html)
+- [Gestire i gruppi di utenti](https://helpx.adobe.com/it/enterprise/using/user-groups.html)
 
 ## [!UICONTROL Account] {#account}
 

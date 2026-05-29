@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Applicabile all&#39;azienda.
 
-Scopri come gli amministratori globali possono distribuire le risorse alle organizzazioni figlie, consentendo una gestione efficace delle risorse e l’assegnazione degli utenti all’interno di ogni organizzazione.
+Scopri come gli amministratori globali possono distribuire risorse alle organizzazioni figlie (Admin Console secondarie nella gerarchia), consentendo agli amministratori di sistema di assegnare licenze agli utenti in ogni console.
 
-In [Global Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), vai alla scheda **[!UICONTROL Allocazione prodotto]**, quindi seleziona un prodotto da allocare alle organizzazioni figlio.
+In [Global Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), vai alla scheda **[!UICONTROL Allocazione prodotto]**, quindi seleziona un prodotto da allocare alle organizzazioni figlio. Gli amministratori globali allocano i prodotti nella gerarchia, ma non assegnano licenze agli utenti finali, che lavorano in ogni Adobe Admin Console figlio.
 
 Accedi a [Global Admin Console](https://global-admin-console.adobe.com).
 
@@ -51,7 +51,7 @@ Per allocare i prodotti a un&#39;organizzazione, eseguire la procedura seguente:
 1. Seleziona un prodotto dall’elenco a discesa per verificarne l’allocazione a organizzazioni diverse.\
    Se un&#39;organizzazione non dispone attualmente del prodotto, viene visualizzata l&#39;icona **[!UICONTROL Aggiungi +]**.
 
-   >[ !Note]
+   >[ !Nota]
    >
    >Se l&#39;organizzazione figlio dispone già di un contratto di acquisto, l&#39;allocazione del prodotto dall&#39;organizzazione padre a quella organizzazione figlio può essere limitata. [Ulteriori informazioni](https://helpx.adobe.com/it/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -101,7 +101,7 @@ Non è possibile allocare prodotti a un&#39;organizzazione figlio da un contratt
 
 ![Allocazione prodotti](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[ !IImportante]
+>[ !Iimportante]
 >
 >Quando un contratto ETLA che fa parte della gerarchia è inattivo, i prodotti vengono rimossi dalle pagine **[!UICONTROL Panoramica]** e **[!UICONTROL Allocazione prodotti]**.
 
