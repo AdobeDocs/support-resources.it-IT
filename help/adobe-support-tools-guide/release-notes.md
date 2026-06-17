@@ -3,20 +3,25 @@ title: Note sulla versione del supporto Experience League
 description: Informazioni aggiornate sulla versione del supporto Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
+autotag-review: '2026-06-12T20:44:20.941Z'
+TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
 workflow-type: tm+mt
-source-wordcount: 1209
+source-wordcount: 1386
 ht-degree: 1%
 
 ---
+
 
 # Note sulla versione del supporto Experience League
 
@@ -25,6 +30,18 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 17 giugno 2026 - Aggiornamenti nel portale di supporto Experience League riprogettato
+
+1. Il portale di supporto Experience League riprogettato è ora disponibile per gli utenti di Adobe Commerce.
+
+1. Quando l&#39;opzione **[!UICONTROL Casi personali organizzazione]** è selezionata nella sezione **[!UICONTROL Analisi servizio]**, nella sezione **[!UICONTROL Casi personali inviati]** vengono visualizzati i tre casi più recenti inviati in tutta l&#39;organizzazione. Selezionando **[!UICONTROL Visualizza tutti i casi]** si apre la pagina **[!UICONTROL Casi organizzazione personali]** nel portale di supporto Experience League con il filtro **[!UICONTROL Casi organizzazione personali (tutti)]** preselezionato.
+
+1. Il grafico **[!UICONTROL Conteggio dei casi per priorità]** fornisce ora un raggruppamento più dettagliato al passaggio del mouse. Passando il puntatore del mouse su un segmento prioritario viene visualizzata una descrizione comando che mostra il numero totale di casi, insieme al numero di casi aperti e chiusi.
+
+1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com/it-it).
+
+1. Il widget **[!UICONTROL Stato prodotto]** elenca ora i prodotti in un ordine più intuitivo. I prodotti con problemi attivi vengono visualizzati per primi, seguiti dai prodotti rimanenti in ordine alfabetico.
 
 ## 28 maggio 2026 - Espansione di [!UICONTROL Richiedi una funzionalità di richiamata]
 
