@@ -2,20 +2,14 @@
 title: 'portale di assistenza Experience League: nuova interfaccia utente'
 description: Il portale di supporto Experience League è stato riprogettato per semplificare i flussi di lavoro di supporto, le informazioni approfondite sui casi e il monitoraggio dei prodotti, migliorando la navigazione, l’analisi e le azioni rapide e passando senza problemi al portale corrente per la gestione dei casi.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1083
+ht-degree: 1%
 
 ---
 
@@ -69,26 +63,37 @@ Nella parte superiore della pagina **[!UICONTROL Home]** sono disponibili le seg
 
 ## Analisi dei servizi
 
-La sezione **[!UICONTROL Analisi del servizio]** fornisce un riepilogo dell&#39;attività del caso di supporto. Passa dalla visualizzazione **[!UICONTROL Casi personali]** alla visualizzazione **[!UICONTROL Casi personali]**. La visualizzazione **[!UICONTROL Casi personali]** visualizza le statistiche dei casi specifiche dell&#39;individuo, mentre la visualizzazione **[!UICONTROL Casi personali]** visualizza le statistiche dei casi nell&#39;organizzazione.
+Nella sezione **[!UICONTROL Service Analytics]** viene visualizzato un riepilogo dell&#39;attività del caso di supporto. Utilizza il selettore di visualizzazione per passare da **[!UICONTROL Casi personali]** a **[!UICONTROL Casi personali]**:
 
-![Sezione analisi servizi](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL Casi personali]** - Visualizza le statistiche dei casi specifiche dell&#39;utente.
+- **[!UICONTROL Casi organizzazione personali]** - Visualizza le statistiche relative ai casi per l&#39;organizzazione selezionata.
 
-Sono disponibili le seguenti metriche:
+La visualizzazione selezionata si applica a tutte le metriche e a tutti i grafici di questa sezione, incluse le sezioni [[!UICONTROL Conteggio dei casi per priorità]](#cases-count-by-priority) e [[!UICONTROL Casi personali inviati]](#my-submitted-cases).
 
-**[!UICONTROL Casi di risposta in sospeso]** - Numero di casi attualmente in attesa di risposta
-**[!UICONTROL Casi inviati]** - Numero totale di casi inviati
+![Analisi dei servizi](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+La sezione **[!UICONTROL Service Analytics]** fornisce le metriche seguenti:
+
+- **[!UICONTROL Casi di risposta in sospeso]** - Visualizza il numero di casi in attesa di risposta.
+- **[!UICONTROL Casi inviati]** - Visualizza il numero totale di casi inviati.
 
 ## Conteggio casi per priorità
 
 In questa sezione viene visualizzata una suddivisione visiva dei casi di supporto per livello di priorità.
 
-![Numero di casi per sezione prioritaria](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+![Conteggio casi per priorità](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-La selezione **[!UICONTROL Casi personali]** e **[!UICONTROL Casi organizzazione personali]** si applica a questo grafico, consentendo la visualizzazione a livello individuale o organizzativo.
+La selezione **[!UICONTROL Casi personali]** e **[!UICONTROL Casi organizzazione personali]** nella sezione **[!UICONTROL Service Analytics]** si applica a questo grafico e consente la visualizzazione a livello individuale o organizzativo.
+
+Passa il puntatore del mouse su un segmento prioritario per visualizzare una descrizione comando che mostra:
+
+- Numero totale di casi per quel livello di priorità
+- Numero di casi aperti
+- Numero di casi chiusi
 
 ## I miei casi inviati
 
-In questa sezione vengono visualizzati i tre casi di supporto più recenti, tra cui:
+In questa sezione vengono visualizzati gli ultimi tre casi di assistenza inviati, tra cui:
 
 - ID caso
 - Titolo caso
@@ -96,15 +101,38 @@ In questa sezione vengono visualizzati i tre casi di supporto più recenti, tra 
 - Data di invio
 - Stato
 
-![Sezione casi personali inviati](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![Casi personali inviati](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Seleziona un **[!UICONTROL ID caso]** per visualizzare i dettagli del caso nel portale di supporto Experience League corrente. Seleziona **[!UICONTROL Visualizza tutti i casi]** per visualizzare l&#39;elenco completo dei casi.
+Quando si seleziona **[!UICONTROL Casi personali]**, in questa sezione vengono visualizzati gli ultimi tre casi inviati. Quando **[!UICONTROL Casi organizzazione personali]** è selezionato nella sezione **[!UICONTROL Analisi servizio]**, vengono visualizzati gli ultimi tre casi inviati nell&#39;organizzazione.
+
+![Casi personali](/help/adobe-support-tools-guide/assets/my-case.png)
+
+Seleziona un **[!UICONTROL ID caso]** per visualizzare i dettagli del caso nel portale di supporto Experience League corrente.
+
+![Seleziona un ID caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+Seleziona **[!UICONTROL Visualizza tutti i casi]** per aprire la pagina **[!UICONTROL Casi personali]** nel portale di supporto Experience League corrente.
+
+![Visualizza tutti i casi](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+Quando **[!UICONTROL Casi personali]** è selezionato in **[!UICONTROL Analisi servizio]**, **[!UICONTROL Casi personali (tutti)]** è preselezionato e si apre nel portale di supporto Experience League. Quando **[!UICONTROL Casi personali organizzazione]** è selezionato, **[!UICONTROL Casi personali organizzazione (tutti)]** è preselezionato nel portale di supporto Experience League.
 
 ## Avvisi sullo stato del prodotto
 
-La sezione mostra lo stato operativo corrente dei prodotti Adobe assegnati all’organizzazione. Lo stato **[!UICONTROL Disponibile]** indica che il prodotto è completamente operativo senza interruzioni attive. Se sono presenti uno o più problemi, il numero totale di problemi attivi viene visualizzato sulla scheda del prodotto. Seleziona una scheda prodotto per visualizzare ulteriori dettagli sul [sito di stato](https://status.adobe.com/it) di Adobe.
+In questa sezione viene visualizzato lo stato operativo corrente dei prodotti Adobe assegnati all’organizzazione.
 
-![Sezione avvisi di stato prodotti](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![Avviso stato prodotto](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+Lo stato **[!UICONTROL Disponibile]** indica che il prodotto è completamente operativo senza interruzioni attive. Se sono presenti uno o più problemi, il numero totale di problemi attivi viene visualizzato sulla scheda del prodotto.
+
+I prodotti vengono visualizzati nell&#39;ordine seguente:
+
+1. Prodotti con problemi attivi
+1. Prodotti rimanenti, in ordine alfabetico
+
+Questa definizione delle priorità consente di identificare e assegnare rapidamente le priorità ai prodotti che richiedono attenzione. Puoi selezionare una o più schede prodotto per filtrare gli avvisi in **[!UICONTROL Avvisi di stato del sistema]** nella **[!UICONTROL Home]** pagina.
+
+![Filtro avvisi](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## Avvisi di stato del sistema
 
@@ -151,7 +179,7 @@ La pagina include:
 - Componenti chiave del piano, tra cui:
    - **[!UICONTROL Team di successo]**
    - **[!UICONTROL Acceleratori per il successo]**
-   - **[!UICONTROL Piano d&#39;azione reciproco]**
+   - **[!UICONTROL Mutual Action Plan]**
 
 Consente inoltre di accedere alle risorse di apprendimento come Experience League, la community Experience League e gli abbonamenti di apprendimento Premium.
 
