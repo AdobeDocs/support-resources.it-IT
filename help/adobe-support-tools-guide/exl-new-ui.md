@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
+source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
 workflow-type: tm+mt
-source-wordcount: 1083
+source-wordcount: 1084
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ Nella sezione **[!UICONTROL Service Analytics]** viene visualizzato un riepilogo
 - **[!UICONTROL Casi personali]** - Visualizza le statistiche dei casi specifiche dell&#39;utente.
 - **[!UICONTROL Casi organizzazione personali]** - Visualizza le statistiche relative ai casi per l&#39;organizzazione selezionata.
 
-La visualizzazione selezionata si applica a tutte le metriche e a tutti i grafici di questa sezione, incluse le sezioni [[!UICONTROL Conteggio dei casi per priorità]](#cases-count-by-priority) e [[!UICONTROL Casi personali inviati]](#my-submitted-cases).
+La visualizzazione selezionata si applica a tutte le metriche e a tutti i grafici di questa sezione, inclusi [[!UICONTROL Casi conteggiati per priorità]](#cases-count-by-priority) e [[!UICONTROL Casi personali inviati]](#my-submitted-cases).
 
 ![Analisi dei servizi](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
