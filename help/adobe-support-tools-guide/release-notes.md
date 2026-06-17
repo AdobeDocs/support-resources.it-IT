@@ -39,7 +39,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 
 1. Il grafico **[!UICONTROL Conteggio dei casi per priorità]** fornisce ora un raggruppamento più dettagliato al passaggio del mouse. Passando il puntatore del mouse su un segmento prioritario viene visualizzata una descrizione comando che mostra il numero totale di casi, insieme al numero di casi aperti e chiusi.
 
-1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com).
+1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com/it-it).
 
 1. Il widget **[!UICONTROL Stato prodotto]** elenca ora i prodotti in un ordine più intuitivo. I prodotti con problemi attivi vengono visualizzati per primi, seguiti dai prodotti rimanenti in ordine alfabetico.
 
