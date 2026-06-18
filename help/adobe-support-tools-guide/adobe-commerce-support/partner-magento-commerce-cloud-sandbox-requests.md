@@ -5,16 +5,16 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: ad8c171204cedc16c2cadd794998f53b01d01894
+source-git-commit: 35ed6ef84423367f4e0ba3be7b17e68ab9db70ae
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '423'
+ht-degree: 2%
 
 ---
 
 # Partner Adobe Commerce su richieste sandbox di infrastruttura cloud
 
-Questo articolo contiene collegamenti a risorse utili per Adobe Commerce sulle richieste sandbox dell’infrastruttura cloud. Inoltre chiarisce che i partner non devono presentare biglietti nell’ambito dell’organizzazione di un cliente quando non agiscono per conto di quest’ultimo.
+Questo articolo contiene collegamenti a risorse utili per Adobe Commerce sulle richieste sandbox dell’infrastruttura cloud. Inoltre chiarisce che i partner non devono inviare biglietti nell&#39;ambito dell&#39;organizzazione di un cliente quando non agiscono per conto di tale cliente.
 
 ## Come posso aggiornare i servizi nella sandbox di Adobe Commerce sull’infrastruttura cloud? {#how-do-i-upgrade-services-cloud-sandbox}
 
@@ -36,8 +36,7 @@ Consulta [Risoluzione dei problemi di distribuzione](https://experienceleague.ad
 
 I partner con un progetto Sandbox Cloud partner non possono inviare ticket per problemi relativi alla sandbox tramite la [sezione Supporto di Experience League](https://experienceleague.adobe.com/it/support?support-tab=home#home). Non utilizzare l&#39;account di un commerciante per inviare questi biglietti, poiché potrebbero sembrare inviati per loro conto e causare confusione.
 
-> **Esempio:**
-> Anche se questa sezione si riferisce agli account sandbox di Adobe Commerce Cloud, lo stesso requisito si applica quando i partner lavorano in ambienti interni e non per un cliente specifico. I partner non devono inviare richieste di assistenza nell&#39;ambito di un&#39;organizzazione cliente a meno che non siano attivamente coinvolti per conto del cliente.
+Questo requisito si applica anche quando i partner lavorano in ambienti interni e non per un cliente specifico. I partner non devono inviare richieste di assistenza nell&#39;ambito di un&#39;organizzazione del cliente a meno che non siano attivamente coinvolti per conto del cliente.
 
 Se stai inviando un ticket per conto di un commerciante a cui non è stato concesso l’accesso condiviso, richiedi l’accesso al proprietario dell’account. Per i passaggi su come richiedere l&#39;accesso, consulta [Accesso condiviso: concedere privilegi ad altri utenti per accedere al tuo account](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
 
