@@ -2,7 +2,8 @@
 title: Approfondimenti sistema
 description: System Insights identifica in modo proattivo potenziali problemi negli ambienti Adobe Commerce. L’analisi delle informazioni durante la creazione dei casi riduce i tempi di risoluzione, aiuta a prevenire interruzioni e supporta una distribuzione stabile e sicura.
 hide: true
-source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
+hold: true
+source-git-commit: d72c704d44f675d40c9c5b0ce2132957d5129df9
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
