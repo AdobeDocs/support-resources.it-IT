@@ -4,14 +4,10 @@ description: Informazioni sulla versione più recente del [!DNL Adobe Success po
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
 TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
 workflow-type: tm+mt
 source-wordcount: 597
 ht-degree: 81%
@@ -43,6 +39,7 @@ _11 novembre 2025_
 _9 ottobre 2025_
 
 ![Novità](../adobe-success-portal/assets/new.svg) È stata aggiunta una vista calendario al modulo **[!UICONTROL Piano d’azione]** per la visualizzazione delle timeline di **[!UICONTROL Acceleratori]** e **[!UICONTROL Attività]** collegate a **[!UICONTROL Obiettivi aziendali chiave]** (KBO).
+
 * Accedi al calendario dalla pagina KBO del piano d’azione oppure dalle pagine dei dettagli **[!UICONTROL KBO]**/**[!UICONTROL Acceleratore]**/**[!UICONTROL Attività]** (solo se sono collegate a un KBO).
 * Passa dalla vista elenco (predefinita) alla vista calendario e viceversa.
 * Il calendario mostra sezioni comprimibili per ciascun KBO:
