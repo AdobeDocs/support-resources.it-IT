@@ -11,7 +11,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
 workflow-type: tm+mt
 source-wordcount: 597
 ht-degree: 81%
@@ -43,6 +43,7 @@ _11 novembre 2025_
 _9 ottobre 2025_
 
 ![Novità](../adobe-success-portal/assets/new.svg) È stata aggiunta una vista calendario al modulo **[!UICONTROL Piano d’azione]** per la visualizzazione delle timeline di **[!UICONTROL Acceleratori]** e **[!UICONTROL Attività]** collegate a **[!UICONTROL Obiettivi aziendali chiave]** (KBO).
+
 * Accedi al calendario dalla pagina KBO del piano d’azione oppure dalle pagine dei dettagli **[!UICONTROL KBO]**/**[!UICONTROL Acceleratore]**/**[!UICONTROL Attività]** (solo se sono collegate a un KBO).
 * Passa dalla vista elenco (predefinita) alla vista calendario e viceversa.
 * Il calendario mostra sezioni comprimibili per ciascun KBO:
