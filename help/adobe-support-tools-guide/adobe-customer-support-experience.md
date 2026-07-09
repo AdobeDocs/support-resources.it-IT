@@ -1,6 +1,6 @@
 ---
 keywords: supporto Experience Platform;supporto piattaforma;supporto servizi intelligenti; assistenza ai clienti; assistenza ai attribuzione; supporto rtcdp; invia ticket di supporto;assistenza clienti
-title: Adobe Experience Cloud Customer One per Enterprise
+title: Cliente Adobe Experience Cloud One per Enterprise
 description: Esperienza nell’Assistenza clienti di Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -196,3 +196,78 @@ Dopo l’invio:
 >[!NOTE]
 >
 > Se il problema causa interruzioni o interruzioni gravi del sistema di produzione, viene fornito un numero di telefono per l&#39;assistenza immediata.
+
+### Chat basata su IA nell’esperienza di creazione del caso
+
+Il supporto Experience League fornisce un’interfaccia di chat basata sull’intelligenza artificiale come metodo alternativo per creare e gestire i casi di supporto. L’esperienza di chat basata su IA è opt-in e non sostituisce il flusso di lavoro classico per la creazione di casi.
+
+>[!NOTE]
+>
+> La chat basata su IA è attualmente disponibile come funzione beta. Il modulo classico per la creazione di casi rimane sempre disponibile e accessibile in qualsiasi momento.
+
+Per accedere alla chat di IA, segui i passaggi seguenti:
+
+1. Passa alla **[!UICONTROL Home]** e seleziona **[!UICONTROL Apri un ticket di supporto]**. Puoi anche selezionare **[!UICONTROL Apri ticket]** nel menu della barra laterale.
+
+   ![Experience League ha selezionato un prodotto](./assets/product-selection.png)
+
+1. Fare clic sul nome del prodotto per selezionare il prodotto interessato, quindi fare clic su **[!UICONTROL Avanti]**.
+1. Nell&#39;angolo superiore destro selezionare **[!UICONTROL Chat AI]**.
+
+   ![Chat IA](./assets/ai-chat.png)
+
+Per passare da **[!UICONTROL Classic Form]** a **[!UICONTROL AI Chat]**, utilizza l&#39;interruttore in alto a destra. Al momento del passaggio, l’avanzamento corrente non viene riportato, ma i casi o le azioni completati rimangono invariati.
+
+### Introduzione alla chat basata su IA
+
+Quando apri una chat di IA, vengono visualizzate le seguenti opzioni:
+
+* **[!UICONTROL Fai una domanda]**
+* **[!UICONTROL Lavorare su un caso esistente]**
+* **[!UICONTROL Apri una nuova controversia]**
+
+  ![Chat con noi](./assets/chat-with-us.png)
+
+È possibile descrivere il problema digitando nel campo di testo o utilizzando la sintesi vocale.
+
+#### Fai una domanda
+
+Seleziona **[!UICONTROL Fai una domanda]** per ottenere risposte immediate alle domande relative a prodotti, servizi Adobe e supporto direttamente nella chat, senza dover aprire un caso di supporto.
+
+L’intelligenza artificiale si basa sulla knowledge base di Adobe per fornire risposte pertinenti, collegamenti alla documentazione e soluzioni note in base alla query.
+
+Se l’intelligenza artificiale non è in grado di risolvere la query direttamente nella chat, ti guiderà all’apertura di un nuovo caso di supporto per connetterti con il team di supporto di Adobe.
+
+#### Lavorare su un caso esistente
+
+Seleziona **[!UICONTROL Lavora su un caso esistente]** per gestire e ricevere aggiornamenti sui tuoi casi di supporto esistenti direttamente nella chat.
+
+L’intelligenza artificiale visualizza un elenco dei casi aperti. È possibile fare riferimento a un caso in base alla sua posizione nell&#39;elenco o in base al suo numero per selezionare il caso su cui si desidera lavorare.
+
+Dopo aver selezionato un caso, puoi:
+
+* Richiedi un riepilogo
+* Verifica la disponibilità di aggiornamenti
+* Intraprendere azioni di follow-up, ad esempio inoltrare il caso o richiedere un callback all’interno della stessa esperienza di chat.
+
+#### Apri una nuova controversia
+
+Seleziona **[!UICONTROL Apri un nuovo caso]** per descrivere il problema con le tue parole, anziché compilare i campi strutturati dei moduli.
+
+L’intelligenza artificiale ti guida attraverso il processo di creazione dei casi ponendo domande di follow-up mirate per raccogliere i dettagli richiesti, adattando dinamicamente il flusso in base alle risposte.
+
+L’IA raccoglie le informazioni richieste, ad esempio:
+
+* Dettagli prodotto
+* Tipo di problema
+* Passaggi di riproduzione
+
+I campi facoltativi possono essere ignorati se le informazioni non sono immediatamente disponibili al momento dell’invio.
+
+Una volta raccolte informazioni sufficienti, l’IA genera automaticamente un riepilogo strutturato del caso in base alla conversazione, tra cui:
+
+* Titolo caso
+* Descrizione
+* Passaggi di riproduzione
+
+È possibile rivedere la bozza prima dell’invio per verificare che tutti i dettagli siano accurati; è inoltre possibile aggiungere allegati, registri, schermate e altri dettagli supplementari in qualsiasi momento durante o dopo la conversazione per la creazione del caso, in modo da fornire al team di supporto il contesto completo di cui ha bisogno.
