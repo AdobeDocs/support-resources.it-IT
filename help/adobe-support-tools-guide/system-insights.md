@@ -3,16 +3,10 @@ title: Approfondimenti sistema
 description: System Insights identifica in modo proattivo potenziali problemi negli ambienti Adobe Commerce. L’analisi delle informazioni durante la creazione dei casi riduce i tempi di risoluzione, aiuta a prevenire interruzioni e supporta una distribuzione stabile e sicura.
 autotag-review: '2026-07-06T16:24:45.881Z'
 TQID: 'https://experienceleague.adobe.com/jSV4V0a4G9gPqbFSURQSP2ctdKob7eu71JB7am0ZwSo'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 738
 ht-degree: 0%
@@ -43,15 +37,15 @@ La revisione regolare di System Insights aiuta a identificare i problemi in anti
 
 ## Disponibilità e ambito
 
-System Insights è attualmente disponibile solo per Adobe Commerce. Queste informazioni vengono visualizzate durante il processo di creazione del caso sul supporto Experience League e sono disponibili anche tramite [Site-Wide Analysis Tool (SWAT)](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
+System Insights è attualmente disponibile solo per Adobe Commerce. Queste informazioni vengono visualizzate durante il processo di creazione del caso sul supporto Experience League e sono disponibili anche tramite [Site-Wide Analysis Tool (SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
->[ !Nota]
+>[!Nota]
 >
 >System Insights visualizza i dati solo per gli ambienti di produzione.
 
 ## Accesso a System Insights
 
-Le informazioni di sistema vengono visualizzate in tutto il flusso di lavoro di creazione del caso. Man mano che vengono immessi i dettagli del problema, il pannello **[!UICONTROL System Insights]** viene visualizzato sul lato destro della schermata, sotto la sezione dei consigli basati sull&#39;intelligenza artificiale. Per ulteriori informazioni sui consigli basati sull&#39;intelligenza artificiale, consulta [Compila il ticket di supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) nell&#39;articolo sull&#39;esperienza di supporto clienti di Adobe.
+Le informazioni di sistema vengono visualizzate in tutto il flusso di lavoro di creazione del caso. Man mano che vengono immessi i dettagli del problema, il pannello **[!UICONTROL System Insights]** viene visualizzato sul lato destro della schermata, sotto la sezione dei consigli basati sull&#39;intelligenza artificiale. Per ulteriori informazioni sui consigli basati sull&#39;intelligenza artificiale, consulta [Compila il ticket di supporto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) nell&#39;articolo sull&#39;esperienza di supporto clienti di Adobe.
 
 Il pannello visualizza un elenco scorrevole di approfondimenti con ambito per l’istanza di progetto specifica. L&#39;ambito si basa sulle informazioni immesse nel campo **[!UICONTROL URL progetto]**. Immetti l&#39;**[!UICONTROL URL progetto]** con precisione per garantire che le informazioni riflettano l&#39;ambiente corretto.
 
@@ -118,3 +112,4 @@ Per fornire un feedback:
    - Icona **Miniatura** se insight non è stato utile
 5. (Facoltativo) Inserire commenti aggiuntivi.
 6. Seleziona **[!UICONTROL Invia]** per inviare un feedback oppure **[!UICONTROL Ignora]** per chiudere la sezione del feedback senza inviarlo.
+
