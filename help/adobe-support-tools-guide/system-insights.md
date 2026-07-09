@@ -12,7 +12,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
+source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 738
 ht-degree: 0%
@@ -118,3 +118,4 @@ Per fornire un feedback:
    - Icona **Miniatura** se insight non è stato utile
 5. (Facoltativo) Inserire commenti aggiuntivi.
 6. Seleziona **[!UICONTROL Invia]** per inviare un feedback oppure **[!UICONTROL Ignora]** per chiudere la sezione del feedback senza inviarlo.
+
