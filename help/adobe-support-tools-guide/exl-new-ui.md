@@ -12,9 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
+hold: true
+source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
-source-wordcount: 1084
+source-wordcount: 1061
 ht-degree: 1%
 
 ---
@@ -27,7 +28,7 @@ Il portale riprogettato di supporto Experience League offre un’esperienza unif
 
 >[!NOTE]
 >
->**[!UICONTROL Creazione di casi]**, **[!UICONTROL Casi personali]** e **[!UICONTROL Dettagli casi]** non sono disponibili nel portale riprogettato. Passa al portale di supporto Experience League corrente per creare e gestire i casi. Entrambi i portali rimangono sincronizzati per garantire che i dati dei casi rimangano aggiornati nelle diverse esperienze.
+>Per creare e gestire casi di supporto nel portale riprogettato, vedere [Creare e gestire casi di supporto](exl-new-ui-support-cases.md).
 
 ## Pagina Home
 
@@ -38,7 +39,8 @@ La pagina **[!UICONTROL Home]** funge da hub centrale per le attività di suppor
 Il pannello di navigazione a sinistra consente di accedere alle sezioni seguenti:
 
 - **[!UICONTROL Home]** si apre come pagina di destinazione predefinita e visualizza una vista centralizzata dell&#39;attività di supporto.
-- **[!UICONTROL Apri caso]** e **[!UICONTROL I miei casi]** vengono reindirizzati al portale di supporto Experience League corrente per la creazione e la gestione dei casi.
+- **[!UICONTROL Apri caso]** apre il flusso di lavoro per la creazione dei casi nel portale riprogettato. Consulta [Creare e gestire casi di supporto](exl-new-ui-support-cases.md).
+- **[!UICONTROL I miei casi]** apre l&#39;elenco dei casi nel portale riprogettato. Consulta [Creare e gestire casi di supporto](exl-new-ui-support-cases.md).
 - **[!UICONTROL Il mio successo]** è disponibile solo per i clienti Ultimate Success plan.
 
 ## Cambio di organizzazioni
@@ -61,11 +63,11 @@ La pagina Home include un banner di benvenuto personalizzato con una barra di ri
 
 Nella parte superiore della pagina **[!UICONTROL Home]** sono disponibili le seguenti azioni rapide:
 
-1. **[!UICONTROL Apri un caso di supporto]** - Reindirizza al modulo **[!UICONTROL Apri ticket]** nel portale di supporto Experience League corrente per creare un nuovo caso. Fai clic su **[!UICONTROL Inizia]**.
+1. **[!UICONTROL Aprire un caso di supporto]** - Apre il flusso di lavoro per la creazione del caso nel portale riprogettato. Seleziona **[!UICONTROL Inizia]**.
 
-2. **[!UICONTROL Visualizza e gestisci i tuoi casi]** - Reindirizza al modulo **[!UICONTROL Casi personali]** nel portale di supporto Experience League corrente. Seleziona **[!UICONTROL Vai ora]** per accedere.
+1. **[!UICONTROL Visualizza e gestisci i tuoi casi]** - Apre la pagina **[!UICONTROL Casi personali]** nel portale riprogettato. Seleziona **[!UICONTROL Vai ora]**.
 
-3. **[!UICONTROL Richiedi richiamata]** - Pianifica una chiamata sul caso con un esperto Adobe. Per i casi P1 (Critici), richiedi un callback immediato. Per i casi P2 e P3, pianifica una riunione web con un tecnico del supporto in una data e un’ora convenienti. Seleziona **[!UICONTROL Richiedi ora]** per iniziare.
+1. **[!UICONTROL Richiedi richiamata]** - Pianifica una chiamata sul caso con un esperto Adobe. Per i casi P1 (Critici), richiedi un callback immediato. Per i casi P2 e P3, pianifica una riunione web con un tecnico del supporto in una data e un’ora convenienti. Seleziona **[!UICONTROL Richiedi ora]** per iniziare.
 
 ## Analisi dei servizi
 
@@ -109,15 +111,15 @@ In questa sezione vengono visualizzati gli ultimi tre casi di assistenza inviati
 
 ![Casi personali inviati](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Quando si seleziona **[!UICONTROL Casi personali]**, in questa sezione vengono visualizzati gli ultimi tre casi inviati. Quando **[!UICONTROL Casi organizzazione personali]** è selezionato nella sezione **[!UICONTROL Analisi servizio]**, vengono visualizzati gli ultimi tre casi inviati nell&#39;organizzazione.
+Quando **[!UICONTROL Casi personali]** è selezionato in **[!UICONTROL Analisi servizio]**, in questa sezione vengono visualizzati gli ultimi tre casi inviati. Quando **[!UICONTROL Casi organizzazione personali]** è selezionato nella sezione **[!UICONTROL Analisi servizio]**, vengono visualizzati gli ultimi tre casi inviati nell&#39;organizzazione.
 
 ![Casi personali](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Seleziona un **[!UICONTROL ID caso]** per visualizzare i dettagli del caso nel portale di supporto Experience League corrente.
+Seleziona un **[!UICONTROL ID caso]** per visualizzare i dettagli del caso nel portale di supporto Experience League riprogettato.
 
 ![Seleziona un ID caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Seleziona **[!UICONTROL Visualizza tutti i casi]** per aprire la pagina **[!UICONTROL Casi personali]** nel portale di supporto Experience League corrente.
+Seleziona **[!UICONTROL Visualizza tutti i casi]** per aprire la pagina **[!UICONTROL Casi personali]** nel portale di supporto Experience League riprogettato.
 
 ![Visualizza tutti i casi](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -183,9 +185,9 @@ La pagina include:
 - Un messaggio di benvenuto che illustra come Ultimate Success fornisce leadership strategica e supporto tecnico proattivo per la salute al fine di fornire esperienze digitali ad alte prestazioni
 - Opzione **[!UICONTROL Guarda il video]** per ulteriori informazioni sul piano
 - Componenti chiave del piano, tra cui:
-   - **[!UICONTROL Team di successo]**
-   - **[!UICONTROL Acceleratori per il successo]**
-   - **[!UICONTROL Mutual Action Plan]**
+  - **[!UICONTROL Team di successo]**
+  - **[!UICONTROL Acceleratori per il successo]**
+  - **[!UICONTROL Mutual Action Plan]**
 
 Consente inoltre di accedere alle risorse di apprendimento come Experience League, la community Experience League e gli abbonamenti di apprendimento Premium.
 
