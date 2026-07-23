@@ -2,20 +2,14 @@
 title: 'portale di assistenza Experience League: nuova interfaccia utente'
 description: Il portale di supporto Experience League è stato riprogettato per semplificare i flussi di lavoro di supporto, le informazioni approfondite sui casi e il monitoraggio dei prodotti, migliorando la navigazione, l’analisi e le azioni rapide e passando senza problemi al portale corrente per la gestione dei casi.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fed8e553a6410a44b96b631d18ae1a71962a8ba1
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 0e6073c6c2305dcc92c6fba789401a5c4916d63f
 workflow-type: tm+mt
-source-wordcount: 1370
-ht-degree: 0%
+source-wordcount: 1069
+ht-degree: 1%
 
 ---
 
@@ -24,10 +18,6 @@ ht-degree: 0%
 ## Panoramica
 
 Il portale riprogettato di supporto Experience League offre un’esperienza unificata e intuitiva per la gestione delle attività di supporto di Adobe. Consente un accesso più rapido alle funzioni essenziali, tra cui il tracciamento dei casi di supporto, il monitoraggio dello stato del prodotto, l’accesso alle informazioni sul caso e la connessione con il team di successo.
-
->[!NOTE]
->
->Per creare e gestire casi di supporto nel portale riprogettato, vedere [Creare e gestire casi di supporto](exl-new-ui-support-cases.md).
 
 ## Pagina Home
 
@@ -38,8 +28,8 @@ La pagina **[!UICONTROL Home]** funge da hub centrale per le attività di suppor
 Il pannello di navigazione a sinistra consente di accedere alle sezioni seguenti:
 
 - **[!UICONTROL Home]** si apre come pagina di destinazione predefinita e visualizza una vista centralizzata dell&#39;attività di supporto.
-- **[!UICONTROL Apri caso]** apre il flusso di lavoro per la creazione dei casi nel portale riprogettato. Consulta [Creare e gestire casi di supporto](exl-new-ui-support-cases.md).
-- **[!UICONTROL I miei casi]** apre l&#39;elenco dei casi nel portale riprogettato. Consulta [Creare e gestire casi di supporto](exl-new-ui-support-cases.md).
+- **[!UICONTROL Apri caso]** apre il flusso di lavoro per la creazione dei casi nel portale di supporto Experience League corrente.
+- **[!UICONTROL I miei casi]** apre l&#39;elenco dei casi nel portale di assistenza Experience League corrente.
 - **[!UICONTROL Il mio successo]** è disponibile solo per i clienti Ultimate Success plan.
 
 ## Cambio di organizzazioni
@@ -66,9 +56,9 @@ La pagina Home include un banner di benvenuto personalizzato con una barra di ri
 
 Nella parte superiore della pagina **[!UICONTROL Home]** sono disponibili le seguenti azioni rapide:
 
-1. **[!UICONTROL Aprire un caso di supporto]** - Apre il flusso di lavoro per la creazione del caso nel portale riprogettato. Seleziona **[!UICONTROL Inizia]**.
+1. **[!UICONTROL Aprire un caso di supporto]** — Apre il flusso di lavoro per la creazione del caso nel portale di supporto legacy. Seleziona **[!UICONTROL Inizia]**.
 
-1. **[!UICONTROL Visualizza e gestisci i tuoi casi]** - Apre la pagina **[!UICONTROL Casi personali]** nel portale riprogettato. Seleziona **[!UICONTROL Vai ora]**.
+1. **[!UICONTROL Visualizza e gestisci i casi]** - Apre la pagina **[!UICONTROL Casi personali]** nel portale di supporto legacy. Seleziona **[!UICONTROL Vai ora]**.
 
 1. **[!UICONTROL Richiedi richiamata]** - Pianifica una chiamata sul caso con un esperto Adobe. Per i casi P1 (Critici), richiedi un callback immediato. Per i casi P2 e P3, pianifica una riunione web con un tecnico del supporto in una data e un’ora convenienti. Seleziona **[!UICONTROL Richiedi ora]** per iniziare.
 
@@ -118,11 +108,11 @@ Quando **[!UICONTROL Casi personali]** è selezionato in **[!UICONTROL Analisi s
 
 ![Casi personali](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Seleziona un **[!UICONTROL ID caso]** per visualizzare i dettagli del caso nel portale di supporto Experience League riprogettato.
+Seleziona un **[!UICONTROL ID caso]** per visualizzare i dettagli del caso nel portale di supporto Experience League corrente.
 
 ![Seleziona un ID caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Seleziona **[!UICONTROL Visualizza tutti i casi]** per aprire la pagina **[!UICONTROL Casi personali]** nel portale di supporto Experience League riprogettato.
+Seleziona **[!UICONTROL Visualizza tutti i casi]** per aprire la pagina **[!UICONTROL Casi personali]** nel portale di supporto Experience League corrente.
 
 ![Visualizza tutti i casi](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -166,55 +156,6 @@ Inoltre, ogni avviso include:
 Seleziona un avviso per espandere e visualizzare ulteriori dettagli.
 
 ![Sezione Avvisi di stato del sistema](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-### Gestisci abbonamenti
-
-Utilizza **[!UICONTROL Gestisci abbonamenti]** per configurare le notifiche e-mail per gli eventi relativi allo stato di prodotti e servizi di Adobe. Gli abbonamenti ti aiutano a rimanere informato quando Adobe crea, aggiorna o risolve eventi per prodotti e aree geografiche selezionati.
-
-1. Nella sezione **[!UICONTROL Avvisi sullo stato del sistema]**, seleziona **[!UICONTROL Gestisci sottoscrizioni]**.
-
-   ![Gestisci sottoscrizione](assets/manage-subscriptions.png)
-
-1. Nella pagina **[!UICONTROL Gestisci sottoscrizioni]** selezionare **[!UICONTROL Crea sottoscrizione]**.
-
-   ![Crea sottoscrizione](assets/create-subscriptions.png)
-
-1. In **[!UICONTROL Seleziona cloud]**, seleziona il cloud Adobe che contiene il prodotto da monitorare.
-1. In **[!UICONTROL Seleziona prodotto e offerte]**, seleziona il prodotto per il quale desideri ricevere le notifiche.
-1. In **[!UICONTROL Selezionare le aree]**, selezionare una o più aree da monitorare.
-1. In **[!UICONTROL Selezionare Tipi di evento]**, selezionare uno o più dei seguenti tipi di evento:
-
-   &#x200B;* Problema del servizio grave
-   &#x200B;* Problema del servizio non grave
-   &#x200B;* Manutenzione del servizio
-   &#x200B;* Annunci
-
-   ![Crea pagina sottoscrizione](assets/create-subscription-page.png)
-
-1. Rivedi le impostazioni di notifica predefinite, tra cui la lingua e il fuso orario.
-1. Seleziona **[!UICONTROL Continua]**.
-1. Rivedi i dettagli dell’abbonamento, inclusi i tipi di cloud, prodotto, servizi, aree geografiche e evento selezionati.
-1. Selezionare **[!UICONTROL Conferma]** per creare la sottoscrizione.
-
-   ![Conferma dettagli sottoscrizione](assets/confirm-subscription.png)
-
-1. Viene visualizzato un messaggio di conferma e l’abbonamento viene creato.
-
-Dopo la creazione dell’abbonamento, Adobe invia notifiche e-mail quando vengono creati, aggiornati o risolti eventi che corrispondono ai criteri selezionati per il prodotto, l’area geografica e il tipo di evento.
-
->[!NOTE]
->
->L’e-mail è il canale di comunicazione predefinito per le notifiche di stato. Le preferenze di abbonamento si applicano solo al prodotto, alle aree geografiche e ai tipi di evento selezionati.
-
-Alla successiva apertura di **[!UICONTROL Gestisci abbonamenti]**, nella pagina vengono visualizzati i dettagli dell&#39;abbonamento corrente, inclusi il cloud, il prodotto, i servizi, le aree geografiche e i tipi di evento selezionati.
-
-![Gestisci sottoscrizioni esistenti](assets/edit-subscriptions.png)
-
-Da questa pagina è possibile eseguire le azioni riportate di seguito.
-
-&#x200B;* Selezionare **[!UICONTROL Modifica sottoscrizione]** per modificare una sottoscrizione esistente.
-&#x200B;* Seleziona **[!UICONTROL Annulla tutti gli abbonamenti]** per rimuovere tutti gli abbonamenti.
-&#x200B;* Per rimuovere un singolo abbonamento, seleziona l’icona Elimina accanto a un abbonamento.
 
 ## Informazioni sul piano
 
