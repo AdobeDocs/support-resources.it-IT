@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ In questa guida, scopri come inviare un ticket di supporto a [Supporto Experienc
 * [Accedere al supporto Experience League](#sign-in-experience-support)
 * [Inviare un caso di supporto](#support-case)
 
-   * [Pagina iniziale di Adobe Experience League](#experience-league-start-page)
-   * [Pagina dell’account Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Verifica il tuo indirizzo e-mail* nella pagina dell&#39;account Adobe Commerce](#verify-email-address-error)
+  * [Pagina iniziale di Adobe Experience League](#experience-league-start-page)
+  * [Pagina dell’account Adobe Commerce](#submit-case-adobe-commerce-account-page)
+  * [*Verifica il tuo indirizzo e-mail* nella pagina dell&#39;account Adobe Commerce](#verify-email-address-error)
 
 * [Tracciare i casi di supporto](#track-support-cases)
 * [Commenti nel tuo caso](#comments-in-your-case)
@@ -55,7 +55,7 @@ In questa guida, scopri come inviare un ticket di supporto a [Supporto Experienc
 * [Fornire accesso condiviso](#provide-shared-access)
 * [Revoca (eliminazione) accesso condiviso](#revoke-shared-access)
 
-   * [Come si eliminano gli utenti a cui è stato concesso l’accesso condiviso tramite un progetto Cloud?](#remove-cloud-shared-access-users)
+  * [Come si eliminano gli utenti a cui è stato concesso l’accesso condiviso tramite un progetto Cloud?](#remove-cloud-shared-access-users)
 
 * [Accedere all’account condiviso (cambiare account)](#switch-accounts)
 * [Risoluzione dei problemi di accesso condiviso](#troubleshooting-shared-access)
@@ -148,6 +148,8 @@ Per inviare un nuovo caso di supporto utilizzando la pagina iniziale di Adobe Ex
 >
 >Se la tua organizzazione dispone di diritti per Adobe Commerce Intelligence / Commerce Reporting (MBI) ma hai bisogno di assistenza con Advanced Reporting, non selezionare **Commerce Reporting** come prodotto. Il team di reporting di Commerce non fornisce supporto per i problemi di reporting avanzato.
 >
+>Se il problema riguarda i pagamenti, non selezionare Payment Services (Servizi di pagamento) per impostazione predefinita. Payment Services si riferisce specificamente al modulo Adobe Payment Services. La scelta di questo prodotto per le questioni di pagamento in generale può creare confusione sul prodotto in questione e sul percorso di investigazione appropriato.
+>
 >Se non riesci a selezionare un prodotto diverso (ad esempio, il menu a discesa **[!UICONTROL Seleziona un prodotto]** è vuoto o non visualizzato), in genere ciò è dovuto a uno dei seguenti motivi:
 >
 >* I diritti Commerce sono scaduti o inattivi (ad esempio, a causa di un problema di fatturazione o di licenza in sospeso).
@@ -201,7 +203,7 @@ I casi di assistenza sono quelli che:
 >[!NOTE]
 >
 >Se hai casi di supporto inviati con altri prodotti Adobe oltre a Commerce, questi ticket non possono essere tracciati dalla stessa schermata: devi prima passare all’organizzazione associata all’adesione al prodotto.
->Ad esempio, hai selezionato l’organizzazione che termina con &quot;(Commerce)&quot; per tenere traccia del caso Commerce, mentre disponi anche di casi di supporto AEP; questi casi non verranno visualizzati qui.
+>Ad esempio, hai selezionato l&#39;organizzazione che termina con &quot;(Commerce)&quot; per tenere traccia del tuo caso Commerce, ma hai anche casi di supporto AEP; tali casi non saranno visualizzati qui.
 
 #### Visualizza i tuoi casi
 
