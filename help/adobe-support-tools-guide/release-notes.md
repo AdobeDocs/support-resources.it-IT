@@ -15,10 +15,10 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
-ht-degree: 1%
+source-wordcount: 1757
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,14 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 23 luglio 2026 - Preferenza portale persistente nel portale di supporto Experience League riprogettato
+
+1. La preferenza del portale ora viene salvata automaticamente in base all&#39;ultima **[!UICONTROL Prova a selezionare/disattivare la nuova homepage]**.
+
+2. Se l’interruttore è stato attivato durante l’ultima sessione, al prossimo accesso verrai indirizzato direttamente al portale riprogettato e il portale legacy non verrà caricato.
+
+3. Se l’interruttore è stato disattivato, continui ad atterrare sul portale legacy come di consueto.
 
 ## 09 luglio 2026 - Chat di IA per il supporto di Experience League
 
@@ -51,7 +59,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 
 >[!NOTE]
 >
->Questa è una versione beta anticipata di AI Chat. È disponibile per tutti, ma le risposte AI e i flussi di conversazione possono variare leggermente tra le sessioni, mantenendo al contempo obiettivi di raccolta dati coerenti. Controlla nuovamente tutte le risposte generate dall’intelligenza artificiale prima di agire su di esse.
+>Questa chat di AI è una versione beta anticipata. È disponibile per tutti, ma le risposte AI e i flussi di conversazione possono variare leggermente tra le sessioni, mantenendo al contempo obiettivi di raccolta dati coerenti. Ricontrolla tutte le risposte generate dall’intelligenza artificiale prima di agire su di esse.
 
 ## 17 giugno 2026 - Aggiornamenti nel portale di supporto Experience League riprogettato
 
@@ -149,30 +157,30 @@ La funzionalità **[!UICONTROL Richiedi richiamata]** è ora disponibile per gli
 ![Nuovo](../adobe-support-tools-guide/assets/new.svg) Aggiunto **Ulteriori [!UICONTROL Campi Contesto dell&#39;ambiente]** per i prodotti autorizzati per acquisire i dettagli critici:
 
 - **Marketo**
-   - ID Munchkin
+  - ID Munchkin
 - **Adobe Target**
-   - Nome attività
-   - URL sito (nome proprietà tag)
+  - Nome attività
+  - URL sito (nome proprietà tag)
 - **Adobe Analytics**
-   - RSID
-   - URL del sito (nome proprietà tag) / cURL
-   - Collegamento Workspace
+  - RSID
+  - URL del sito (nome proprietà tag) / cURL
+  - Collegamento Workspace
 - **Adobe Journey Optimizer (AJO)**
-   - ID percorso o URL/ID campagna o URL/ID canale o URL/ID Offer Decisioning o URL
-   - Esempio di profilo
-   - Nome sandbox
+  - ID percorso o URL/ID campagna o URL/ID canale o URL/ID Offer Decisioning o URL
+  - Esempio di profilo
+  - Nome sandbox
 - **Real-Time Customer Data Platform (RTCDP)**
-   - ID componente interessato (ID destinazione/ID pubblico/ID set di dati/ID flusso di dati/ID criterio di unione/ID schema/ID Source/ID batch)
-   - Esempio di profilo
-   - Nome sandbox
+  - ID componente interessato (ID destinazione/ID pubblico/ID set di dati/ID flusso di dati/ID criterio di unione/ID schema/ID Source/ID batch)
+  - Esempio di profilo
+  - Nome sandbox
 - **Adobe Experience Platform (AEP)**
-   - ID componente interessato (ID destinazione/ID pubblico/ID set di dati/ID flusso di dati/ID criterio di unione/ID schema/ID Source/ID batch)
-   - Esempio di profilo
-   - Nome sandbox
+  - ID componente interessato (ID destinazione/ID pubblico/ID set di dati/ID flusso di dati/ID criterio di unione/ID schema/ID Source/ID batch)
+  - Esempio di profilo
+  - Nome sandbox
 - **Customer Journey Analytics (CJA)**
-   - URL progetto Workspace
-   - ID connessione / Messaggio di errore / Codice
-   - ID visualizzazione dati
+  - URL progetto Workspace
+  - ID connessione / Messaggio di errore / Codice
+  - ID visualizzazione dati
 
 ![New](../adobe-support-tools-guide/assets/new.svg) ha aggiunto un **pannello [!UICONTROL Recommendations]** basato sull&#39;intelligenza artificiale per visualizzare indicazioni utili senza interrompere il flusso di creazione dei casi.
 
