@@ -2,20 +2,14 @@
 title: 'portale di assistenza Experience League: nuova interfaccia utente'
 description: Il portale di supporto Experience League è stato riprogettato per semplificare i flussi di lavoro di supporto, le informazioni approfondite sui casi e il monitoraggio dei prodotti, migliorando la navigazione, l’analisi e le azioni rapide e passando senza problemi al portale corrente per la gestione dei casi.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
+source-git-commit: 167da98ed4e537d0e354fa5344d23c6e15f15bb6
 workflow-type: tm+mt
-source-wordcount: 1326
+source-wordcount: 1371
 ht-degree: 0%
 
 ---
@@ -58,6 +52,10 @@ Utilizza l’interruttore nel portale per passare dal portale di supporto Experi
 Entrambi i portali rimangono sincronizzati, garantendo che i dati dei casi e le informazioni di supporto rimangano coerenti tra le diverse esperienze.
 
 ![Interfaccia utente precedente](/help/adobe-support-tools-guide/assets/old-ui.png)
+
+>[!NOTE]
+>
+>Le preferenze del portale vengono salvate automaticamente. Il portale utilizzato per ultimo diventa il portale predefinito per gli accessi futuri. Se per l’ultima volta hai utilizzato il portale riprogettato, questo si apre direttamente senza caricare il portale legacy. Se per ultimo hai utilizzato il portale legacy, il sistema apre il portale legacy.
 
 La pagina Home include un banner di benvenuto personalizzato con una barra di ricerca globale che consente di effettuare ricerche nel portale di supporto Experience League.
 
@@ -166,7 +164,7 @@ Seleziona un avviso per espandere e visualizzare ulteriori dettagli.
 
 ### Gestisci abbonamenti
 
-Utilizza **[!UICONTROL Gestisci abbonamenti]** per configurare le notifiche e-mail per gli eventi relativi allo stato di prodotti e servizi di Adobe. Gli abbonamenti ti aiutano a rimanere informato quando Adobe crea, aggiorna o risolve eventi per prodotti e aree geografiche selezionati.
+Utilizza **[UICONTROL Gestisci abbonamenti]** per configurare le notifiche e-mail per gli eventi relativi allo stato di prodotti e servizi di Adobe. Gli abbonamenti ti aiutano a rimanere informato quando Adobe crea, aggiorna o risolve eventi per prodotti e aree geografiche selezionati.
 
 1. Nella sezione **[!UICONTROL Avvisi sullo stato del sistema]**, seleziona **[!UICONTROL Gestisci sottoscrizioni]**.
 
@@ -181,10 +179,10 @@ Utilizza **[!UICONTROL Gestisci abbonamenti]** per configurare le notifiche e-ma
 1. In **[!UICONTROL Selezionare le aree]**, selezionare una o più aree da monitorare.
 1. In **[!UICONTROL Selezionare Tipi di evento]**, selezionare uno o più dei seguenti tipi di evento:
 
-   &#x200B;* Problema del servizio grave
-   &#x200B;* Problema del servizio non grave
-   &#x200B;* Manutenzione del servizio
-   &#x200B;* Annunci
+   * Problema del servizio grave
+   * Problema del servizio non grave
+   * Manutenzione del servizio
+   * Annunci
 
    ![Crea pagina sottoscrizione](assets/create-subscription-page.png)
 
@@ -209,9 +207,9 @@ Alla successiva apertura di **[!UICONTROL Gestisci abbonamenti]**, nella pagina 
 
 Da questa pagina è possibile eseguire le azioni riportate di seguito.
 
-&#x200B;* Selezionare **[!UICONTROL Modifica sottoscrizione]** per modificare una sottoscrizione esistente.
-&#x200B;* Seleziona **[!UICONTROL Annulla tutti gli abbonamenti]** per rimuovere tutti gli abbonamenti.
-&#x200B;* Per rimuovere un singolo abbonamento, seleziona l’icona Elimina accanto a un abbonamento.
+* Selezionare **[!UICONTROL Modifica sottoscrizione]** per modificare una sottoscrizione esistente.
+* Seleziona **[!UICONTROL Annulla tutti gli abbonamenti]** per rimuovere tutti gli abbonamenti.
+* Per rimuovere un singolo abbonamento, seleziona l’icona Elimina accanto a un abbonamento.
 
 ## Informazioni sul piano
 
