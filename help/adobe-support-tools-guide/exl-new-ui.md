@@ -2,21 +2,15 @@
 title: 'portale di assistenza Experience League: nuova interfaccia utente'
 description: Il portale di supporto Experience League è stato riprogettato per semplificare i flussi di lavoro di supporto, le informazioni approfondite sui casi e il monitoraggio dei prodotti, migliorando la navigazione, l’analisi e le azioni rapide e passando senza problemi al portale corrente per la gestione dei casi.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
-source-wordcount: 1061
-ht-degree: 1%
+source-wordcount: 1326
+ht-degree: 0%
 
 ---
 
@@ -164,7 +158,54 @@ Seleziona un avviso per espandere e visualizzare ulteriori dettagli.
 
 ![Sezione Avvisi di stato del sistema](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Seleziona **[!UICONTROL Gestisci abbonamenti]** per configurare le preferenze di notifica per i prodotti Adobe nel [sito di stato](https://status.adobe.com/it) di Adobe.
+### Gestisci abbonamenti
+
+Utilizza **[UICONTROL Gestisci abbonamenti]** per configurare le notifiche e-mail per gli eventi relativi allo stato di prodotti e servizi di Adobe. Gli abbonamenti ti aiutano a rimanere informato quando Adobe crea, aggiorna o risolve eventi per prodotti e aree geografiche selezionati.
+
+1. Nella sezione **[!UICONTROL Avvisi sullo stato del sistema]**, seleziona **[!UICONTROL Gestisci sottoscrizioni]**.
+
+   ![Gestisci sottoscrizione](assets/manage-subscriptions.png)
+
+1. Nella pagina **[!UICONTROL Gestisci sottoscrizioni]** selezionare **[!UICONTROL Crea sottoscrizione]**.
+
+   ![Crea sottoscrizione](assets/create-subscriptions.png)
+
+1. In **[!UICONTROL Seleziona cloud]**, seleziona il cloud Adobe che contiene il prodotto da monitorare.
+1. In **[!UICONTROL Seleziona prodotto e offerte]**, seleziona il prodotto per il quale desideri ricevere le notifiche.
+1. In **[!UICONTROL Selezionare le aree]**, selezionare una o più aree da monitorare.
+1. In **[!UICONTROL Selezionare Tipi di evento]**, selezionare uno o più dei seguenti tipi di evento:
+
+   * Problema del servizio grave
+   * Problema del servizio non grave
+   * Manutenzione del servizio
+   * Annunci
+
+   ![Crea pagina sottoscrizione](assets/create-subscription-page.png)
+
+1. Rivedi le impostazioni di notifica predefinite, tra cui la lingua e il fuso orario.
+1. Seleziona **[!UICONTROL Continua]**.
+1. Rivedi i dettagli dell’abbonamento, inclusi i tipi di cloud, prodotto, servizi, aree geografiche e evento selezionati.
+1. Selezionare **[!UICONTROL Conferma]** per creare la sottoscrizione.
+
+   ![Conferma dettagli sottoscrizione](assets/confirm-subscription.png)
+
+1. Viene visualizzato un messaggio di conferma e l’abbonamento viene creato.
+
+Dopo la creazione dell’abbonamento, Adobe invia notifiche e-mail quando vengono creati, aggiornati o risolti eventi che corrispondono ai criteri selezionati per il prodotto, l’area geografica e il tipo di evento.
+
+>[!NOTE]
+>
+>L’e-mail è il canale di comunicazione predefinito per le notifiche di stato. Le preferenze di abbonamento si applicano solo al prodotto, alle aree geografiche e ai tipi di evento selezionati.
+
+Alla successiva apertura di **[!UICONTROL Gestisci abbonamenti]**, nella pagina vengono visualizzati i dettagli dell&#39;abbonamento corrente, inclusi il cloud, il prodotto, i servizi, le aree geografiche e i tipi di evento selezionati.
+
+![Gestisci sottoscrizioni esistenti](assets/edit-subscriptions.png)
+
+Da questa pagina è possibile eseguire le azioni riportate di seguito.
+
+* Selezionare **[!UICONTROL Modifica sottoscrizione]** per modificare una sottoscrizione esistente.
+* Seleziona **[!UICONTROL Annulla tutti gli abbonamenti]** per rimuovere tutti gli abbonamenti.
+* Per rimuovere un singolo abbonamento, seleziona l’icona Elimina accanto a un abbonamento.
 
 ## Informazioni sul piano
 
