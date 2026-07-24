@@ -2,6 +2,7 @@
 title: Note sulla versione del supporto Experience League
 description: Informazioni aggiornate sulla versione del supporto Experience League.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -15,9 +16,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
+source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
 workflow-type: tm+mt
-source-wordcount: 1757
+source-wordcount: 2140
 ht-degree: 0%
 
 ---
@@ -31,6 +32,36 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
 
+## 19 agosto 2026 - Creazione di casi, Casi personali e Dettagli dei casi sono ora disponibili nel portale di supporto Experience League riprogettato
+
+1. **[!UICONTROL Apri caso]** è ora disponibile direttamente nel portale di supporto Experience League riprogettato. I clienti possono creare e inviare i casi senza uscire dal portale riprogettato.
+
+2. L&#39;esperienza di creazione dei casi nel portale riprogettato ora include **[!UICONTROL Chat AI]**, che consente ai clienti di descrivere il problema tramite conversazione e ricevere assistenza guidata durante la creazione di un caso. Questa esperienza di chat basata su IA è la stessa disponibile in precedenza nel portale di supporto Experience League corrente (vedi la voce del 9 luglio 2026 di seguito).
+
+3. La pagina **[!UICONTROL I miei casi]** è stata aggiornata con una nuova interfaccia, distinta dal portale di supporto Experience League corrente. Due opzioni: **[!UICONTROL Casi personali]** e **[!UICONTROL Casi personali organizzazione]** consentono di passare dalla visualizzazione dei casi inviati a quella di tutti i casi inviati nell&#39;organizzazione.
+
+4. Nella pagina **[!UICONTROL Casi personali]** sono disponibili più nuovi filtri, con un aggiornamento delle opzioni di filtro disponibili nel portale corrente.
+
+5. Per impostazione predefinita, nella pagina **[!UICONTROL Casi personali]** vengono visualizzati tutti i casi. Utilizza i filtri disponibili per limitare e selezionare i casi in base alle esigenze.
+
+6. La pagina **[!UICONTROL I miei casi]** offre ora prestazioni migliori, con tempi di caricamento più rapidi.
+
+7. È stato aggiunto un filtro dell&#39;**[!UICONTROL Intervallo di tempo]**. Il valore predefinito è gli ultimi 3 mesi per migliorare le prestazioni di caricamento delle pagine. Regola il filtro per visualizzare i casi al di fuori dell’intervallo predefinito.
+
+8. La colonna **[!UICONTROL Data di apertura/chiusura]** combinata del portale corrente è stata divisa in due colonne separate - **[!UICONTROL Data di apertura]** e **[!UICONTROL Data di chiusura]** - nella pagina **[!UICONTROL Casi personali]** riprogettata.
+
+9. Alla pagina **[!UICONTROL Casi personali]** è stata aggiunta la nuova colonna **[!UICONTROL Ultimo aggiornamento]**, con la data dell&#39;attività più recente per ogni caso.
+
+10. Per rendere facilmente accessibili gli aggiornamenti chiave nella parte superiore del feed attività del caso, è ora possibile aggiungere commenti alla pagina **[!UICONTROL Dettagli caso]**.
+
+>[!NOTE]
+>
+>Si tratta di una versione beta anticipata di [!UICONTROL AI Chat] all&#39;interno del portale di supporto Experience League riprogettato. È disponibile per tutti, ma le risposte AI e i flussi di conversazione possono variare leggermente tra le sessioni, mantenendo al contempo obiettivi di raccolta dati coerenti. Ricontrolla tutte le risposte generate dall’intelligenza artificiale prima di agire su di esse.
+
+>[!NOTE]
+>
+>Questo aggiornamento soddisfa il piano di portare [!UICONTROL Creazione casi], [!UICONTROL Casi personali] e [!UICONTROL Dettagli casi] nel portale di supporto Experience League riprogettato (vedi la voce precedente del 26 maggio 2026). Queste pagine erano disponibili solo nell’attuale portale di supporto Experience League.
+
 ## 23 luglio 2026 - Preferenza portale persistente nel portale di supporto Experience League riprogettato
 
 1. La preferenza del portale ora viene salvata automaticamente in base all&#39;ultima **[!UICONTROL Prova a selezionare/disattivare la nuova homepage]**.
@@ -41,7 +72,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 
 ## 09 luglio 2026 - Chat di IA per il supporto di Experience League
 
-1. È ora disponibile una nuova interfaccia di Chat basata su AI sul supporto Experience League come alternativa opt-in al classico modulo per la creazione di casi, che consente ai clienti di descrivere il problema a livello di conversazione anziché compilare campi strutturati. Il modulo classico rimane completamente disponibile e non viene sostituito da questa esperienza.
+1. È ora disponibile una nuova interfaccia di Chat basata su AI sul supporto Experience League come alternativa opt-in al classico modulo per la creazione di casi, che consente ai clienti di descrivere il problema a livello di conversazione anziché compilare campi strutturati. Il modulo classico rimane completamente disponibile e questa esperienza non lo sostituisce.
 
 1. La chat basata su IA supporta sia l’input digitato sia la sintesi vocale, consentendo un’interazione libera da mani per un’esperienza di creazione di casi più accessibile e flessibile.
 
