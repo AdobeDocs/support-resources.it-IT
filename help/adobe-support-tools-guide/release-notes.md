@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
+source-git-commit: 2198c97998da303856e5472b5d9ad27cd854ffb2
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,4 +232,3 @@ Experience League ora offre l&#39;opzione **[!UICONTROL Richiedi richiamata]**, 
 - Questa funzione è disponibile per Adobe Experience Manager, Campaign e Workfront.
 - I clienti possono programmare le riunioni secondo le proprie esigenze e ricevere inviti immediati.
 - Per i casi Adobe Experience Manager P1, i callback immediati garantiscono un coinvolgimento più rapido durante i problemi critici, contribuendo a ridurre al minimo i tempi di inattività e l&#39;impatto aziendale.
-
