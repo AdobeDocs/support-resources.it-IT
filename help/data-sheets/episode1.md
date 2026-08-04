@@ -14,5 +14,5 @@ ht-degree: 100%
 
 # Il podcast di Ultimate Success - Episodio 1
 
->[!VIDEO](https://video.tv.adobe.com/v/3428393?quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453243?captions=ita&quality=12learn=on)
 
