@@ -3,20 +3,17 @@ title: Creare e gestire i casi di supporto
 description: Scopri come creare, visualizzare e gestire i casi di supporto nel portale di supporto Experience League riprogettato.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
 
 # Creare e gestire i casi di supporto
 
-Per inviare un caso di supporto in [Experience League](https://experienceleague.adobe.com/it/support?support-tab=home#home), è necessario che il ruolo di amministratore del supporto sia assegnato da un amministratore di sistema. Per i diritti e i requisiti dei ruoli di supporto, consulta [Ruoli di supporto necessari per l&#39;invio del caso](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Per inviare un caso di supporto in [Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home), è necessario che il ruolo di amministratore del supporto sia assegnato da un amministratore di sistema. Per i diritti e i requisiti dei ruoli di supporto, consulta [Ruoli di supporto necessari per l&#39;invio del caso](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Creare un caso di supporto con la nuova interfaccia utente
 
@@ -78,9 +75,11 @@ Per creare un caso di supporto nel modulo classico, segui la procedura riportata
    >
    >I consigli basati sull’intelligenza artificiale non vengono visualizzati per il prodotto Adobe Admin Console.
 
+   Quando immetti i dettagli del problema, il pannello System Insights viene visualizzato sul lato destro della schermata, sotto la sezione dei consigli basati sull’intelligenza artificiale. System Insights è attualmente disponibile solo per Adobe Commerce. Per ulteriori informazioni, vedere [System Insights](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights).
+
    ![Passaggio descrizione problema](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Seleziona **[!UICONTROL Modulo classico]** o **[!UICONTROL Chat IA]** nell&#39;angolo superiore destro per cambiare l&#39;esperienza di creazione del caso. Per informazioni dettagliate sulla chat basata su IA, vedere [Chat basata su IA nell&#39;esperienza di creazione del caso](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Seleziona **[!UICONTROL Modulo classico]** o **[!UICONTROL Chat IA]** nell&#39;angolo superiore destro per cambiare l&#39;esperienza di creazione del caso. Per informazioni dettagliate sulla chat basata su IA, vedere [Chat basata su IA nell&#39;esperienza di creazione del caso](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![Chat IA](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -94,7 +93,7 @@ Per creare un caso di supporto nel modulo classico, segui la procedura riportata
 
 4. Nella sezione **[!UICONTROL Priorità e impatto aziendale]**, selezionare la priorità del caso (P4 - Minore, P3 - Importante, P2 - Urgente, P1 - Critico). Fornisci i dettagli sull&#39;impatto aziendale quando la priorità selezionata è P1 - Critico, quindi seleziona **[!UICONTROL Successivo]**.
 
-   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, vedere [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/it/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
+   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, vedere [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Passaggio Priorità e impatto aziendale](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
