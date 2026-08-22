@@ -90,7 +90,7 @@ Per ulteriori dettagli seguire le istruzioni [modifica ruolo amministratore orga
 
 >[!NOTE]
 >
->Se utilizzi il portale di supporto Experience League riprogettato per aprire un caso di supporto, consulta [Creare e gestire casi di supporto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). I passaggi seguenti descrivono l’interfaccia corrente del portale (legacy).
+>Se utilizzi il portale di supporto Experience League riprogettato per aprire un caso di supporto, consulta [Creare e gestire casi di supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). I passaggi seguenti descrivono l’interfaccia corrente del portale (legacy).
 
 Experience League è un portale di supporto self-service progettato per fornire assistenza personalizzata e un’esperienza di facile utilizzo ai clienti autorizzati.
 
