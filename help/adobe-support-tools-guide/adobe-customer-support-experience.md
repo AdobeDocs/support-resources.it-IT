@@ -2,6 +2,7 @@
 keywords: supporto Experience Platform;supporto piattaforma;supporto servizi intelligenti; assistenza ai clienti; assistenza ai attribuzione; supporto rtcdp; invia ticket di supporto;assistenza clienti
 title: Cliente Adobe Experience Cloud One per Enterprise
 description: Esperienza nell’Assistenza clienti di Adobe
+hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -14,9 +15,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
+source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
-source-wordcount: 2113
+source-wordcount: 2122
 ht-degree: 0%
 
 ---
@@ -147,10 +148,6 @@ Per creare un ticket di supporto, segui la procedura riportata di seguito:
 
    Il pannello dei consigli si adatta al livello di dettaglio della descrizione del problema e viene visualizzato senza interrompere la creazione del caso. Puoi rivedere i consigli in qualsiasi momento e continuare a inviare il caso. Quando la descrizione del problema **supera i 50 caratteri**, il sistema genera consigli basati sull&#39;intelligenza artificiale personalizzati per il problema.
 
-   >[!NOTE]
-   >
-   >I consigli basati sull’intelligenza artificiale non vengono visualizzati per il prodotto Adobe Admin Console.
-
    ![Dettagli problema Experience League](./assets/ai-recommendations.png)
 
    Se la descrizione contiene **meno di 50 caratteri**, vengono visualizzati articoli consigliati. Un contatore di caratteri incorporato tiene traccia del requisito minimo in tempo reale.
@@ -208,6 +205,10 @@ Dopo l’invio:
 ### Chat basata su IA nell’esperienza di creazione del caso
 
 Il supporto Experience League fornisce un’interfaccia di chat basata sull’intelligenza artificiale come metodo alternativo per creare e gestire i casi di supporto. L’esperienza di chat basata su IA è opt-in e non sostituisce il flusso di lavoro classico per la creazione di casi.
+
+>[!NOTE]
+&#x200B;>>
+Il portale ora salva la selezione di **[!UICONTROL Chat AI]** come esperienza preferita per la creazione di casi e la ricorda per la visita successiva.
 
 >[!NOTE]
 >

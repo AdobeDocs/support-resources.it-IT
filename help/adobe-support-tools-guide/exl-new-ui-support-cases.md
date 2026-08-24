@@ -1,13 +1,14 @@
 ---
 title: Creare e gestire i casi di supporto
 description: Scopri come creare, visualizzare e gestire i casi di supporto nel portale di supporto Experience League riprogettato.
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
@@ -71,10 +72,6 @@ Per creare un caso di supporto nel modulo classico, segui la procedura riportata
    ![Passaggio descrizione problema](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-recommendation.png)
 
    Se la descrizione contiene meno di 50 caratteri, il sistema visualizza degli articoli consigliati. Un contatore di caratteri incorporato tiene traccia del requisito minimo in tempo reale.
-
-   >[!NOTE]
-   >
-   >I consigli basati sull’intelligenza artificiale non vengono visualizzati per il prodotto Adobe Admin Console.
 
    Quando immetti i dettagli del problema, il pannello System Insights viene visualizzato sul lato destro della schermata, sotto la sezione dei consigli basati sull’intelligenza artificiale. System Insights è attualmente disponibile solo per Adobe Commerce. Per ulteriori informazioni, vedere [System Insights](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/system-insights).
 
@@ -148,6 +145,6 @@ Nella tabella Casi sono visualizzati i campi Apertura caso, Numero caso, Titolo 
 
 ![Riepilogo casi](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-Nella pagina dei dettagli del caso vengono visualizzati il titolo, l&#39;ID, lo stato, la data dell&#39;ultimo aggiornamento, la descrizione e la riproducibilità del caso. Il pannello dei dettagli include l’agente di supporto Adobe, il richiedente, il prodotto, la priorità, il fuso orario, i sorveglianti e gli allegati ai casi. Per aggiungere un commento, immetti il messaggio nell&#39;editor commenti e seleziona **[!UICONTROL Invia messaggio]**. È possibile allegare i file utilizzando l&#39;icona dell&#39;allegato. Seleziona l’icona a forma di pin su un commento per fissarlo alla maiuscola. È possibile fissare e rimuovere più commenti.
+Nella pagina dei dettagli del caso vengono visualizzati il titolo, l&#39;ID, lo stato, la data dell&#39;ultimo aggiornamento, la descrizione e la riproducibilità del caso. Il pannello dei dettagli include l’agente di supporto Adobe, il richiedente, il prodotto, la priorità, il fuso orario, i sorveglianti e gli allegati ai casi. Per aggiungere un commento, immetti il messaggio nell&#39;editor commenti e seleziona **[!UICONTROL Invia messaggio]**. È possibile allegare i file utilizzando l&#39;icona dell&#39;allegato ed eliminare gli allegati nel portale. Seleziona l’icona a forma di pin su un commento per fissarlo alla maiuscola. È possibile fissare e rimuovere più commenti.
 
 ![Dettagli del caso](/help/adobe-support-tools-guide/assets/case-details.png)

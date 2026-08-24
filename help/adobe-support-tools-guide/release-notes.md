@@ -2,6 +2,7 @@
 title: Note sulla versione del supporto Experience League
 description: Informazioni aggiornate sulla versione del supporto Experience League.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -15,9 +16,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f49f431102be472e8e1c69870c8d2ea783623c69
+source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
 workflow-type: tm+mt
-source-wordcount: 2140
+source-wordcount: 2254
 ht-degree: 0%
 
 ---
@@ -30,6 +31,16 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 26 agosto 2026 - Aggiornamenti nel portale di supporto Experience League riprogettato
+
+1. L&#39;interfaccia per la creazione di casi ricorda ora l&#39;ultima esperienza selezionata: **[!UICONTROL Classic Form]** o **[!UICONTROL AI Chat]**. Se **[!UICONTROL Chat AI]** è stato utilizzato più di recente, viene selezionato automaticamente alla successiva creazione di un caso, pertanto non è necessario passare manualmente a ogni visita.
+
+1. È ora possibile eliminare gli allegati direttamente dalla pagina **[!UICONTROL Dettagli caso]** utilizzando l&#39;icona di eliminazione visualizzata in ogni allegato. Questa funzionalità non è disponibile per i casi chiusi o per le organizzazioni Workfront.
+
+1. L&#39;ordinamento è ora supportato in tutte le colonne della pagina **[!UICONTROL Casi personali]**.
+
+1. I **[!UICONTROL Consigli AI]** sono ora disponibili quando **[!UICONTROL Admin Console]** è selezionato come prodotto durante la creazione del caso.
 
 ## 19 agosto 2026 - Creazione di casi, Casi personali e Dettagli dei casi sono ora disponibili nel portale di supporto Experience League riprogettato
 
