@@ -4,17 +4,13 @@ description: L’Assistente vocale per il supporto di Adobe aiuta i clienti in G
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 80954ede888781a9ee571c9779d9ca2bb78387e7
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: a5b84d3019f415ad179dd0ce9cd132263a3ba103
 workflow-type: tm+mt
-source-wordcount: 1032
+source-wordcount: 1033
 ht-degree: 0%
 
 ---
@@ -79,23 +75,23 @@ Se l’assistente ti pone domande tecniche per comprendere meglio il problema, a
 
 Per farti un’idea di come potrebbe andare una chiamata, ecco alcuni esempi di scambi:
 
-**Verifica dello stato del caso**
+### Verifica dello stato del caso
 
-| Altoparlante | Giapponese | Inglese (come riferimento) |
+| Altoparlante | Giapponese | Traduzione (per riferimento) |
 |--- |--- |--- |
 | Cliente | ケース番号12345の状況を教えてください。 | Mi può dire lo stato del caso numero 12345? |
 | Assistente vocale | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 | Capito. Fammi controllare il caso 12345... Al momento è sotto indagine da parte di un ingegnere. L&#39;ultimo aggiornamento è stato registrato oggi alle 15. |
 
-**Inoltro a P1**
+### Escalation a P1
 
-| Altoparlante | Giapponese | Inglese (come riferimento) |
+| Altoparlante | Giapponese | Traduzione (per riferimento) |
 |--- |--- |--- |
 | Cliente | 本番環境がダウンしていて、業務に大きな影響が出ています。 | Il nostro ambiente di produzione è inattivo e questo sta seriamente compromettendo la nostra attività. |
 | Assistente vocale | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をに引き上げます。担当チームにすぐ通知いたします P1 | Capisco la situazione. Poiché questo sembra essere un problema critico, intensificherò il caso alla priorità P1 e avviserò immediatamente il team. |
 
-**Richiesta di un callback**
+### Richiesta di un callback
 
-| Altoparlante | Giapponese | Inglese (come riferimento) |
+| Altoparlante | Giapponese | Traduzione (per riferimento) |
 |--- |--- |--- |
 | Cliente | 担当者から電話で詳しく話したいです。 | Vorrei parlare con qualcuno direttamente al telefono. |
 | Assistente vocale | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 | Capito. Ho inviato una richiesta di callback. Un tecnico del supporto ti contatterà al più presto. |
