@@ -44,7 +44,7 @@ Questo articolo spiega come applicare una patch isolata per Adobe Commerce on-pr
    git push origin
    ```
 
-Per ulteriori informazioni sull&#39;applicazione di patch ai progetti Cloud, vedere [Applicare patch](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
+Per ulteriori informazioni sull&#39;applicazione di patch ai progetti Cloud, vedere [Applicare patch](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
 
 ## Come applicare una patch isolata per Adobe Commerce on-premise e Magento Open Source {#commerce}
 
