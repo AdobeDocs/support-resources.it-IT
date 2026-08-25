@@ -4,17 +4,13 @@ description: L’Assistente vocale per il supporto di Adobe aiuta i clienti in G
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: a5b84d3019f415ad179dd0ce9cd132263a3ba103
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: a8c37fa04996974f00b3bf3ab84e6aeb4a9ef2da
 workflow-type: tm+mt
-source-wordcount: 1033
+source-wordcount: 902
 ht-degree: 0%
 
 ---
@@ -28,7 +24,7 @@ ht-degree: 0%
 
 ## Panoramica
 
-Quando hai bisogno di aiuto al di fuori del normale orario di lavoro del supporto Adobe (serate, notti o weekend in Giappone), l’Assistente vocale AI è disponibile per aiutarti telefonicamente. Puoi parlare naturalmente in giapponese, proprio come faresti con un agente di supporto live, e l&#39;assistente comprenderà la tua richiesta e ti aiuterà immediatamente.
+Quando hai bisogno di aiuto al di fuori del normale orario di lavoro del supporto Adobe (serate, notti o weekend in Giappone), l’Assistente vocale AI è disponibile per aiutarti telefonicamente. Parla naturalmente in giapponese, come faresti con un agente di supporto dal vivo, e l&#39;assistente capisce la tua richiesta e ti aiuta immediatamente.
 
 Ciò significa che non è necessario attendere fino al giorno lavorativo successivo per elementi quali il controllo dello stato del caso o la segnalazione di un problema urgente, in quanto è possibile ottenere assistenza in qualsiasi momento.
 
@@ -49,11 +45,11 @@ L’Assistente vocale AI supporta le seguenti funzionalità:
 
 ### Comprendere e rispondere in giapponese
 
-Si può parlare all&#39;assistente naturalmente in giapponese, nello stesso modo in cui si parla con un agente di supporto live. Non è necessario premere i tasti del telefono o usare parole chiave specifiche — basta spiegare ciò di cui hai bisogno nelle tue parole, e l&#39;assistente capirà e risponderà in modo conversazionale.
+Parla naturalmente con l&#39;assistente in giapponese, nello stesso modo in cui parli con un agente di supporto live. Non è necessario premere i tasti del telefono o usare parole chiave specifiche — basta spiegare ciò di cui hai bisogno nelle tue parole, e l&#39;assistente capisce e risponde conversando.
 
 ### Verifica istantaneamente lo stato del caso
 
-Se hai già un caso di supporto aperto, chiedi all&#39;assistente un aggiornamento, che lo controllerà immediatamente e ti dirà dove stanno le cose — ad esempio, se è ancora sotto indagine, in attesa di ulteriori informazioni, o risolto.
+Se hai un caso di supporto aperto, chiedi all’assistente un aggiornamento. La guarda immediatamente e vi dice dove stanno le cose.
 
 ### Ricevi gli ultimi aggiornamenti sui casi aperti
 
@@ -61,48 +57,48 @@ L’assistente può condividere gli appunti o i progressi più recenti registrat
 
 ### Aumenta la priorità del caso a P1
 
-Se il problema è grave, ad esempio un’interruzione importante del sistema o qualcosa che influisce in modo significativo sulla tua attività, l’assistente può riconoscerlo e aumentare la priorità del caso alla priorità P1 (Critica), in modo che riceva attenzione immediata anche al di fuori dell’orario di lavoro.
+Se il problema è grave, ad esempio un’interruzione importante del sistema o qualcosa che influisce in modo significativo sulla tua attività, l’assistente lo riconosce e aumenta la priorità del caso alla priorità P1 (Critica), in modo che riceva attenzione immediata anche al di fuori dell’orario di lavoro.
 
 >[!NOTE]
 >
->Aumentando la priorità a P1 si avvisa immediatamente il team di supporto. Puoi comunque ricevere un callback per problemi critici, in linea con il processo di risposta P1 standard di Adobe.
+>Aumentando la priorità a P1 si avvisa immediatamente il team di supporto. Ricevi un callback per i problemi critici, coerente con il processo di risposta P1 standard di Adobe.
 
 ### Richiedi un callback dal supporto Adobe
 
-Se preferisci parlare con un ingegnere del supporto tecnico, o se il tuo problema richiede un aiuto più dettagliato, chiedi semplicemente all’assistente, che si occuperà del supporto Adobe per richiamarti.
+Se preferisci parlare con un ingegnere del supporto tecnico, o se il tuo problema richiede un aiuto più dettagliato, chiedi all’assistente che si occuperà del supporto Adobe per richiamarti.
 
 ### Acquisire le risposte alle domande tecniche e aggiungerle automaticamente alle note dei casi
 
-Se l’assistente ti pone domande tecniche per comprendere meglio il problema, ad esempio messaggi di errore, passaggi di riproduzione o ciò che stavi facendo quando si è verificato il problema, le risposte vengono salvate automaticamente nelle note sulla controversia. Ciò significa che non sarà necessario ripetere l&#39;operazione in un secondo momento; il successivo tecnico di supporto che raccoglierà il caso disporrà già di queste informazioni.
+Se l’assistente ti pone domande tecniche per comprendere meglio il problema, ad esempio messaggi di errore, passaggi di riproduzione o ciò che stavi facendo quando si è verificato il problema, le risposte vengono salvate automaticamente nelle note sulla controversia. Ciò significa che non è necessario ripetere l&#39;operazione in un secondo momento; il successivo tecnico di supporto che raccoglie il caso dispone già di queste informazioni.
 
 ## Conversazioni di esempio
 
-Per farti un’idea di come potrebbe andare una chiamata, ecco alcuni esempi di scambi:
+Per farti un’idea di come va una chiamata, ecco alcuni esempi di scambi:
 
 ### Verifica dello stato del caso
 
-| Altoparlante | Giapponese | Traduzione (per riferimento) |
-|--- |--- |--- |
-| Cliente | ケース番号12345の状況を教えてください。 | Mi può dire lo stato del caso numero 12345? |
-| Assistente vocale | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 | Capito. Fammi controllare il caso 12345... Al momento è sotto indagine da parte di un ingegnere. L&#39;ultimo aggiornamento è stato registrato oggi alle 15. |
+| Altoparlante | Giapponese |
+|--- |--- |
+| Cliente | ケース番号12345の状況を教えてください。 |
+| Assistente vocale | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 |
 
 ### Escalation a P1
 
-| Altoparlante | Giapponese | Traduzione (per riferimento) |
-|--- |--- |--- |
-| Cliente | 本番環境がダウンしていて、業務に大きな影響が出ています。 | Il nostro ambiente di produzione è inattivo e questo sta seriamente compromettendo la nostra attività. |
-| Assistente vocale | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をに引き上げます。担当チームにすぐ通知いたします P1 | Capisco la situazione. Poiché questo sembra essere un problema critico, intensificherò il caso alla priorità P1 e avviserò immediatamente il team. |
+| Altoparlante | Giapponese |
+|--- |--- |
+| Cliente | 本番環境がダウンしていて、業務に大きな影響が出ています。 |
+| Assistente vocale | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をに引き上げます。担当チームにすぐ通知いたします P1 |
 
 ### Richiesta di un callback
 
-| Altoparlante | Giapponese | Traduzione (per riferimento) |
-|--- |--- |--- |
-| Cliente | 担当者から電話で詳しく話したいです。 | Vorrei parlare con qualcuno direttamente al telefono. |
-| Assistente vocale | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 | Capito. Ho inviato una richiesta di callback. Un tecnico del supporto ti contatterà al più presto. |
+| Altoparlante | Giapponese |
+|--- |--- |
+| Cliente | 担当者から電話で詳しく話したいです。 |
+| Assistente vocale | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 |
 
 >[!NOTE]
 >
->Se il problema causa interruzioni o interruzioni gravi in un sistema di produzione, l’assistente darà priorità alla connessione verso le opzioni di escalation o callback per assistenza immediata.
+>Se il problema causa interruzioni o interruzioni gravi in un sistema di produzione, l’assistente dà priorità alla connessione verso le opzioni di escalation o callback per assistenza immediata.
 
 ## Limitazioni
 
