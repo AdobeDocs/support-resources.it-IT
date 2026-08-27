@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: bc539a832d4c153ed18ca2c6b87fdb13caf96def
+source-git-commit: a7eb36ed1c3484a870a207f0fcad2a3a0d7b9083
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '355'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 2%
 - portale di assistenza Experience League: nuova interfaccia utente {#exl-new-ui}
   - [Panoramica](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [Creare e gestire i casi di supporto](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
-- {hide-from-toc}[Assistenza Adobe Voice Assistant — Assistenza fuori orario e durante il fine settimana (Giappone)](/help/adobe-support-tools-guide/adobe-support-voice-assistant.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigazione in Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Esegui processi in sospeso](adobe-admin-console/execute-jobs.md)
