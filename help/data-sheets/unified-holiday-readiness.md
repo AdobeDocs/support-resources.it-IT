@@ -7,15 +7,18 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+source-git-commit: e2fdb2c6d832c090b2222b771c67e2c9659b0fa0
 workflow-type: tm+mt
-source-wordcount: '4803'
+source-wordcount: '4830'
 ht-degree: 3%
 
 ---
 
 # Guida di preparazione alle festività unificate per le soluzioni Adobe DX
 
+>[!NOTE]
+>
+>Tali orientamenti sono in vigore da ottobre 2025. La versione aggiornata per la stagione festiva 2026 è prevista per la fine di settembre 2026.
 
 La guida Unified Holiday Readiness Guide di Adobe DX Solutions consente di prepararsi per le feste concentrandosi sulla pianificazione proattiva anziché sulla risoluzione reattiva dei problemi. Fornisce passaggi pratici per garantire che le istanze siano pronte, riducendo al minimo potenziali problemi prima che sorgano. Il team Adobe offre competenze tecniche, un&#39;ampia gamma di funzionalità e metodi collaudati per fornire il giusto livello di supporto e guida, sia tecnica che strategica, in modo da garantire la buona preparazione dell&#39;azienda.
 
