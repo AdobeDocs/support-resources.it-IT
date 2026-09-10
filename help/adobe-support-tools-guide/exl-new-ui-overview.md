@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1367
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Panoramica
 
-Il portale riprogettato di supporto Experience League offre un’esperienza unificata e intuitiva per la gestione delle attività di supporto di Adobe. Consente un accesso più rapido alle funzioni essenziali, tra cui il tracciamento dei casi di supporto, il monitoraggio dello stato del prodotto, l’accesso alle informazioni sul caso e la connessione con il team di successo.
+Il portale di supporto Experience League riprogettato è ora l’esperienza predefinita per tutti gli utenti. Quando si accede all&#39;applicazione di supporto, si viene automaticamente indirizzati al portale riprogettato. Il portale offre un’esperienza unificata e intuitiva per la gestione delle attività di supporto di Adobe, con accesso più rapido a funzioni essenziali quali il tracciamento dei casi di supporto, il monitoraggio dello stato del prodotto, l’accesso alle informazioni approfondite sui casi e la connessione con il team di successo.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Utilizza l’interruttore nel portale per passare dal portale di supporto Experi
 
 ![Nuova interfaccia](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-Entrambi i portali rimangono sincronizzati, garantendo che i dati dei casi e le informazioni di supporto rimangano coerenti tra le diverse esperienze.
+Entrambe le esperienze portale rimangono sincronizzate, garantendo la coerenza tra i dati e le informazioni dei casi di supporto relativi alle diverse esperienze. La preferenza per il portale viene salvata in base alla selezione di **[!UICONTROL Torna all&#39;esperienza precedente]** e ogni volta che si visita il portale si viene indirizzati all&#39;ultima esperienza selezionata.
 
 ![Interfaccia utente precedente](/help/adobe-support-tools-guide/assets/old-ui.png)
 

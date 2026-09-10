@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ Puoi visualizzare e gestire i casi di supporto dal portale di supporto Experienc
 
 ![Visualizza e gestisci i punti di ingresso ai tuoi casi](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-Viene visualizzata la pagina **[!UICONTROL Tutti i casi]**. Passa da **[!UICONTROL Casi personali]** a **[!UICONTROL Casi personali organizzazione]** per visualizzare i tuoi casi o i tuoi casi in tutta l&#39;organizzazione. Utilizza **[!UICONTROL Casi di ricerca]** per eseguire ricerche nell&#39;intervallo di tempo selezionato. Nell’angolo in alto a destra, seleziona un intervallo di tempo per visualizzare i dati per gli ultimi 3, 6, 12, 18 o 24 mesi. Per impostazione predefinita, i casi, i risultati della ricerca e i filtri visualizzano i dati relativi agli ultimi 3 mesi.
+Viene visualizzata la pagina **[!UICONTROL Tutti i casi]**. Seleziona **[!UICONTROL I miei casi]** per visualizzare i tuoi casi, oppure seleziona **[!UICONTROL I miei casi organizzazione]** per visualizzare i casi in tutta l&#39;organizzazione. Utilizza **[!UICONTROL Casi di ricerca]** per eseguire ricerche nell&#39;intervallo di tempo selezionato.
+
+Nell’angolo in alto a destra, seleziona un intervallo di tempo per visualizzare i casi degli ultimi 3, 6, 12, 18, 24 mesi o Tutti i tempi. Per impostazione predefinita, l’elenco dei casi, i risultati della ricerca e i filtri visualizzano i dati degli ultimi 3 mesi.
+
+Per visualizzare la cronologia completa dei casi, inclusi quelli più vecchi di 24 mesi, selezionare l&#39;opzione **[!UICONTROL All Time]** dal menu a discesa.
 
 ![Pagina casi personali](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

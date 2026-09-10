@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2402
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 10 settembre 2026 - Il portale di supporto Experience League riprogettato è ora l’esperienza predefinita
+
+1. Il portale di supporto Experience League riprogettato è ora impostato come esperienza predefinita per tutti gli utenti. Quando si accede all&#39;applicazione di supporto, gli utenti vengono automaticamente indirizzati al portale riprogettato.
+
+1. L&#39;etichetta del commutatore dell&#39;interfaccia utente è stata aggiornata da **[!UICONTROL Prova la nuova home page]** a **[!UICONTROL Torna all&#39;esperienza precedente]** per maggiore chiarezza.
+
+1. Le preferenze del portale continuano a essere salvate e applicate in base al **[!UICONTROL Torna alla selezione del commutatore Esperienza precedente]**, in modo che gli utenti vengano indirizzati alla loro ultima esperienza portale selezionata a ogni visita.
+
+1. Una nuova opzione **[!UICONTROL All Time]** è stata introdotta nel menu a discesa del filtro **[!UICONTROL Time Range]** nella pagina **[!UICONTROL My Cases]**, consentendo la visualizzazione della cronologia completa dei casi oltre gli ultimi 24 mesi.
+
+1. Il widget Adobe Commerce **[!UICONTROL System Insights]** nel modulo di creazione del caso è stato riposizionato per essere visualizzato sopra la sezione **[!UICONTROL AI Recommendations]** nella barra laterale a destra.
 
 ## 27 agosto 2026 - Aggiornamenti nel portale di supporto Experience League riprogettato
 
