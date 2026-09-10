@@ -5,19 +5,13 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 40dae33f96e82662fa91719d22690ee3b9002893
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2410
 ht-degree: 0%
 
 ---
@@ -30,6 +24,18 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 10 settembre 2026 - Il portale di supporto Experience League riprogettato è ora l’esperienza predefinita
+
+1. Il portale di supporto Experience League riprogettato è ora impostato come esperienza predefinita per tutti gli utenti. Quando si accede all&#39;applicazione di supporto, gli utenti vengono automaticamente indirizzati al portale riprogettato.
+
+1. L&#39;etichetta del commutatore dell&#39;interfaccia utente è stata aggiornata da **[UICONTROL Prova la nuova home page]** a **[UICONTROL Torna all&#39;esperienza precedente]** per maggiore chiarezza.
+
+1. Le preferenze del portale continuano a essere salvate e applicate in base alla selezione del commutatore **[UICONTROL Torna alla precedente esperienza]**, in modo che gli utenti vengano indirizzati alla loro ultima esperienza portale selezionata a ogni visita.
+
+1. Una nuova opzione **[UICONTROL All Time]** è stata introdotta nel menu a discesa del filtro **[UICONTROL Time Range]** nella pagina **[UICONTROL My Cases]**, consentendo la visualizzazione della cronologia completa dei casi oltre gli ultimi 24 mesi.
+
+1. Il widget Adobe Commerce **[UICONTROL System Insights]** nel modulo di creazione del caso è stato riposizionato per essere visualizzato sopra la sezione **[UICONTROL AI Recommendations]** nella barra laterale a destra.
 
 ## 27 agosto 2026 - Aggiornamenti nel portale di supporto Experience League riprogettato
 
@@ -106,7 +112,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 
 1. Il grafico **[!UICONTROL Conteggio dei casi per priorità]** fornisce ora un raggruppamento più dettagliato al passaggio del mouse. Passando il puntatore del mouse su un segmento prioritario viene visualizzata una descrizione comando che mostra il numero totale di casi, insieme al numero di casi aperti e chiusi.
 
-1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com/it-it).
+1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com).
 
 1. Il widget **[!UICONTROL Stato prodotto]** elenca ora i prodotti in un ordine più intuitivo. I prodotti con problemi attivi vengono visualizzati per primi, seguiti dai prodotti rimanenti in ordine alfabetico.
 
