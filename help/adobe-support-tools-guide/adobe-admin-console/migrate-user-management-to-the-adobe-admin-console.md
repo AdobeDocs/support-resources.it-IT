@@ -1,40 +1,52 @@
 ---
-title: Migrazione della gestione degli utenti Frame.io ad Admin Console
+title: Migrazione della gestione degli utenti a Adobe Admin Console
 description: Scopri come gli account aziendali idonei possono migrare la gestione degli utenti a Adobe Admin Console.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: a6a7aab607abb90d94736d957d57cf4659237cd4
+TQID: 'https://experienceleague.adobe.com/l0jyxNyd32NYh6ggu2iNYz-7DgSsKSmgl1wgQAVskIc'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: d1c959e9-891f-4624-8eb1-4d6658c0f72f
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 70691859da7915a2a4680ba19aca444ac9a94293
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: 286
 ht-degree: 0%
 
 ---
 
-# Migrazione della gestione degli utenti Frame.io ad Admin Console
+# Migrazione della gestione degli utenti a Adobe Admin Console
 
-Contatta il team dell’account Frame.io per trasferire gli account V4 idonei all’utente centralizzato
-gestione.
+Contatta il team del tuo account Adobe per discutere della transizione delle soluzioni idonee alla gestione centralizzata degli utenti tramite Adobe Admin Console.
 
->[!NOTE]
->
->Le app web e mobile di Frame.io sono disponibili in inglese, giapponese, tedesco, russo,
->Spagnolo, italiano, francese e portoghese brasiliano.
+Prima di contattare il team del tuo account Adobe, verifica che l’organizzazione soddisfi i requisiti di idoneità e identifica le parti interessate che parteciperanno alla pianificazione della migrazione.
 
-Prima di contattare il team del tuo account, verifica che l’organizzazione soddisfi i requisiti di idoneità e identifica le parti interessate che dovranno partecipare alla pianificazione della migrazione.
+L’idoneità alla migrazione varia in base alla soluzione. Prima di iniziare il processo di migrazione, assicurati che la tua organizzazione disponga di:
 
-- Account aziendale Frame.io V4 (account creati a ottobre 2024 o versione successiva o account già migrati alla versione 4)
-- I piani Enterprise e Teams gestiscono Frame.io tramite Adobe Admin Console e Global Admin Console.
-- Accesso amministratore di sistema per verificare la versione corrente dell&#39;account Frame.io
-- Informazioni di contatto per il team dell&#39;account Frame.io
+- Soluzione o implementazione aziendale idonea che supporta la migrazione alla gestione degli utenti basata su Adobe Admin Console.
+- Accesso a Adobe Admin Console, se del caso.
+- Per rivedere la configurazione di gestione utente corrente è necessario disporre dell&#39;accesso amministrativo.
+- Informazioni di contatto per il team del tuo account Adobe o per il rappresentante dell’implementazione.
+- Eventuali prerequisiti specifici per la soluzione completati, se applicabili.
 
 ## Verificare l’idoneità e richiedere la migrazione
 
-1. Accedi al tuo account aziendale [Frame.io](https://accounts.frame.io/welcome) e verifica che il tuo account sia su V4.
-1. Contatta il team del tuo account Frame.io e richiedi la migrazione alla gestione utenti di Adobe Admin Console.
-1. Collabora con il tuo account team di Adobe per pianificare e implementare la migrazione.
-1. Comunicare eventuali modifiche di accesso o accesso agli amministratori e agli utenti interessati.
+1. Esamina la configurazione della soluzione corrente e verifica che supporti la migrazione alla gestione degli utenti basata su Adobe Admin Console.
+2. Esamina eventuali requisiti di idoneità e prerequisiti specifici per la soluzione.
+3. Contatta il team del tuo account Adobe e richiedi la migrazione alla gestione utenti di Adobe Admin Console.
+4. Collabora con il tuo account team Adobe per rivedere i tempi di migrazione, i requisiti di implementazione e la preparazione organizzativa.
+5. Comunicare eventuali modifiche di accesso o accesso agli amministratori e agli utenti interessati.
 
-Una volta completata la migrazione, il team gestisce gli utenti Frame.io e assegna i ruoli in Adobe Admin Console invece che nell’interfaccia Frame.io. Gli utenti esistenti manterranno il loro accesso e le loro autorizzazioni durante la transizione.
+## Dopo la migrazione
 
-Se il tuo account non soddisfa i criteri di idoneità, contatta il team dell’account Frame.io per esplorare le opzioni per diventare idoneo alla gestione degli utenti di Adobe Admin Console.
+Una volta completata la migrazione:
+
+- L’amministrazione degli utenti viene gestita tramite Adobe Admin Console.
+- Le esperienze di accesso e di accesso degli utenti possono essere aggiornate in base alla configurazione dell’identità dell’organizzazione.
+- Le attività di gestione del ciclo di vita degli utenti devono essere eseguite tramite Adobe Admin Console, a meno che non sia documentato diversamente per la soluzione.
+
+Se l’organizzazione non soddisfa i criteri di idoneità, contatta il team del tuo account Adobe per esplorare le opzioni per diventare idoneo per la gestione degli utenti di Adobe Admin Console.
