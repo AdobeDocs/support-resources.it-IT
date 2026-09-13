@@ -328,7 +328,7 @@ Rimani informato sulle versioni di Workfront e testa le nuove funzioni negli amb
 * [Prepararsi per una versione di Adobe Workfront](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Archivio note sulla versione di Workfront](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [Panoramica sulla versione del primo trimestre 2025](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Registrazione del webinar sulla versione di Workfront](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Registrazione del webinar sulla versione di Workfront](https://experienceleague.adobe.com/it/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Best practice
 
@@ -350,7 +350,7 @@ Per preparare Adobe Campaign per le festività, i team devono convalidare in mod
 
 ### Suggerimenti degli esperti per dare risalto alle campagne per le vacanze
 
-Proprio come non è mai troppo presto per iniziare a fare acquisti per le vacanze, non è mai troppo presto per iniziare a pianificare una campagna di marketing di successo le per vacanze. Con Adobe Campaign puoi progettare, pianificare ed eseguire campagne che concretizzeranno tutti i desideri per le feste della tua organizzazione. Ma conosci già tutti i suggerimenti per l’esecuzione di campagne per concludere l’anno col botto? Guarda questo video, [Suggerimenti degli esperti per dare risalto alle tue campagne per le feste](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), che illustra le best practice per il recapito dei messaggi e l&#39;esecuzione e illustra come eseguire tutte queste operazioni in Adobe Campaign.
+Proprio come non è mai troppo presto per iniziare a fare acquisti per le vacanze, non è mai troppo presto per iniziare a pianificare una campagna di marketing di successo le per vacanze. Con Adobe Campaign puoi progettare, pianificare ed eseguire campagne che concretizzeranno tutti i desideri per le feste della tua organizzazione. Ma conosci già tutti i suggerimenti per l’esecuzione di campagne per concludere l’anno col botto? Guarda questo video, [Suggerimenti degli esperti per dare risalto alle tue campagne per le feste](https://experienceleague.adobe.com/it/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), che illustra le best practice per il recapito dei messaggi e l&#39;esecuzione e illustra come eseguire tutte queste operazioni in Adobe Campaign.
 
 ### Considerazioni e preparativi per il periodo festivo
 
