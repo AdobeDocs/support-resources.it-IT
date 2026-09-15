@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Note sulla versione del supporto Experience League
 
@@ -30,6 +34,24 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 ![Nuove](../adobe-support-tools-guide/assets/new.svg) nuove funzionalità
 ![Correzioni](../adobe-support-tools-guide/assets/fix.svg) correzioni e miglioramenti
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) problemi noti
+
+## 15 settembre 2026 - Aggiornamenti al supporto After-Hours in Giappone
+
+1. I clienti in Giappone possono ora ottenere supporto telefonico da un nuovo **Assistente vocale AI** durante la sera, la notte e i fine settimana, quando gli agenti live non sono disponibili. Il linguaggio naturale in giapponese è supportato, non sono necessarie parole chiave o navigazione nel menu.
+
+1. **AI Voice Assistant** può controllare immediatamente lo stato del caso, informandoti se il caso è ancora sotto indagine, in attesa di ulteriori informazioni o risolto.
+
+1. L&#39;**Assistente vocale AI** può condividere gli appunti o lo stato di avanzamento più recenti registrati nel caso, fornendo visibilità all&#39;attività senza attendere un callback o un&#39;e-mail.
+
+1. In caso di interruzioni gravi o di grave impatto aziendale, l&#39;assistente può portare il caso alla priorità **[!UICONTROL P1 (critico)]**.
+
+1. Puoi richiedere un callback a un tecnico del supporto Adobe in qualsiasi momento tramite l’assistente.
+
+1. Se l&#39;assistente pone domande tecniche per comprendere il problema (messaggi di errore, passaggi di riproduzione, ecc.), le risposte vengono salvate automaticamente nelle note del caso, eliminando la necessità di ripeterle al successivo tecnico.
+
+>[!NOTE]
+>
+>Questo servizio è disponibile solo per le conversazioni in lingua giapponese, durante le finestre fuori orario e nel fine settimana. È necessario verificare l&#39;identità o i dettagli del caso prima che l&#39;assistente possa condividere le informazioni sul caso. La risoluzione dei problemi tecnici complessi o le modifiche alla configurazione del prodotto vengono indirizzate a un tecnico live tramite callback.
 
 ## 10 settembre 2026 - Il portale di supporto Experience League riprogettato è ora l’esperienza predefinita
 
@@ -42,6 +64,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 1. Una nuova opzione **[!UICONTROL All Time]** è stata introdotta nel menu a discesa del filtro **[!UICONTROL Time Range]** nella pagina **[!UICONTROL My Cases]**, consentendo la visualizzazione della cronologia completa dei casi oltre gli ultimi 24 mesi.
 
 1. Il widget Adobe Commerce **[!UICONTROL System Insights]** nel modulo di creazione del caso è stato riposizionato per essere visualizzato sopra la sezione **[!UICONTROL AI Recommendations]** nella barra laterale a destra.
+
 
 ## 27 agosto 2026 - Aggiornamenti nel portale di supporto Experience League riprogettato
 
@@ -118,7 +141,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 
 1. Il grafico **[!UICONTROL Conteggio dei casi per priorità]** fornisce ora un raggruppamento più dettagliato al passaggio del mouse. Passando il puntatore del mouse su un segmento prioritario viene visualizzata una descrizione comando che mostra il numero totale di casi, insieme al numero di casi aperti e chiusi.
 
-1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com/it-it).
+1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com).
 
 1. Il widget **[!UICONTROL Stato prodotto]** elenca ora i prodotti in un ordine più intuitivo. I prodotti con problemi attivi vengono visualizzati per primi, seguiti dai prodotti rimanenti in ordine alfabetico.
 
