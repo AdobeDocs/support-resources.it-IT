@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89260e460f54865acf54ce921d8cb77009dd8fec
+source-git-commit: 25fc32de197848e34e84db29113d17689442678f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '365'
 ht-degree: 2%
 ---
 # Guida al supporto e agli strumenti di Adobe {#adobe-support-tools-guide}
@@ -54,7 +54,6 @@ ht-degree: 2%
 - Supporto Adobe Commerce {#adobe-commerce-support}
   - [Panoramica del supporto Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)
   - [Avviso di fine del supporto di MySQL e istruzioni sulla compatibilità del database per Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
-  - [Come ottenere e applicare patch di sicurezza](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
   - [Come richiedere l’upsize temporaneo dell’infrastruttura cloud per Adobe Commerce](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [Richieste di capacità di crescita in vacanza per Adobe Commerce sulla nostra infrastruttura cloud](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
   - [Hotline per le notifiche Adobe Commerce P1](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
