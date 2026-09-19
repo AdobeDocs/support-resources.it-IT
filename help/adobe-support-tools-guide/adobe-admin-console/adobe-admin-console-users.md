@@ -48,7 +48,7 @@ A seconda delle tue esigenze, puoi aggiungere, rimuovere o aggiornare gli utenti
 
 >[!NOTE]
 >
->Se sei un nuovo cliente Adobe Enterprise o Team, ti consigliamo di esaminare attentamente questa tabella prima di iniziare a gestire gli utenti su Admin Console. I clienti esistenti possono utilizzarlo, soprattutto se stanno pianificando la migrazione da un tipo di identità a un altro (vedi [Modifica tipo di identità](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)).
+>Se sei un nuovo cliente Adobe Enterprise o Team, ti consigliamo di esaminare attentamente questa tabella prima di iniziare a gestire gli utenti su Admin Console. I clienti esistenti possono utilizzarlo, soprattutto se stanno pianificando la migrazione da un tipo di identità a un altro (vedi [Modifica tipo di identità](https://helpx.adobe.com/it/enterprise/using/switch-user-identity.html)).
 
 <table>
 <thead>
@@ -188,7 +188,7 @@ Una volta aggiunti, gli utenti saranno pronti per ricevere le app e i servizi de
 
 Assegnare le licenze agli utenti finali in base al metodo utilizzato per la gestione delle licenze:
 
-- **Licenze utente nominative:** Aggiungi questi utenti a **prodotti** ([per i team](https://helpx.adobe.com/it/enterprise/using/assign-licenses-to-teams-users.html)) o **profili di prodotto** ([per le aziende](https://helpx.adobe.com/it/enterprise/using/manage-product-profiles.html)) per assegnare loro i diritti per prodotti e servizi Adobe. Per ulteriori dettagli, vedere come [creare pacchetti di licenze utente denominate](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) e [profili di prodotto](https://helpx.adobe.com/it/enterprise/using/manage-product-profiles.html#create-product-profile).
+- **Licenze utente nominative:** Aggiungi questi utenti a **prodotti** ([per i team](https://helpx.adobe.com/it/enterprise/using/assign-licenses-to-teams-users.html)) o **profili di prodotto** ([per le aziende](https://helpx.adobe.com/it/enterprise/using/manage-product-profiles.html)) per assegnare loro i diritti per prodotti e servizi Adobe. Per ulteriori dettagli, vedere come [creare pacchetti di licenze utente denominate](https://helpx.adobe.com/it/enterprise/using/create-nul-packages.html) e [profili di prodotto](https://helpx.adobe.com/it/enterprise/using/manage-product-profiles.html#create-product-profile).
 - **Gestione licenze per dispositivi condivisi:** [Gli utenti aggiunti](https://helpx.adobe.com/it/enterprise/using/sdl-deployment-guide.html#add-users-admin-console) possono utilizzare i dispositivi condivisi configurati, accessibili solo da **Utenti organizzazione**. Per ulteriori dettagli, vedere [Creare pacchetti SDL](https://helpx.adobe.com/it/enterprise/using/create-sdl-packages.html).
 
 ### Distribuire i pacchetti
