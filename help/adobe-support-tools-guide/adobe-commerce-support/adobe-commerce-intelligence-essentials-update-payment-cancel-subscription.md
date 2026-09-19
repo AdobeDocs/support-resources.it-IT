@@ -2,13 +2,12 @@
 title: 'Adobe Commerce Intelligence Essentials: aggiorna metodo di pagamento o annulla abbonamento'
 description: In che modo i clienti idonei di Commerce Intelligence Essentials (standalone, mese per mese, fatturazione tramite account.magento.com) possono aggiornare il metodo di pagamento o annullare. Non si applica agli abbonamenti Pro, Cloud o basati su contratto o fatturati.
 solution: Commerce Intelligence
-source-git-commit: 638857079e7b4ceed607e8fafcf3db11da38b4ae
+exl-id: a176f4d6-819f-4328-b6bf-ea7373fcc7e9
+source-git-commit: b8de5546ce92930404f65555d656605581e0c8d0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 0%
-
+source-wordcount: '272'
+ht-degree: 3%
 ---
-
 # Adobe Commerce Intelligence Essentials: aggiorna metodo di pagamento o annulla abbonamento
 
 Questo articolo spiega come i clienti Adobe Commerce Intelligence Essentials idonei possono aggiornare il metodo di pagamento o annullare l’abbonamento.
@@ -16,11 +15,11 @@ Questo articolo spiega come i clienti Adobe Commerce Intelligence Essentials ido
 ## Si applica a / Non si applica a
 
 * **Si applica a:**
-   * Clienti che hanno acquistato Adobe Commerce Intelligence Essentials come abbonamento standalone con validità mensile.
-   * Clienti che gestiscono la fatturazione direttamente tramite [account.magento.com](https://account.magento.com)
+  * Clienti che hanno acquistato Adobe Commerce Intelligence Essentials come abbonamento standalone con validità mensile.
+  * Clienti che gestiscono la fatturazione direttamente tramite [account.magento.com](https://account.magento.com)
 * **Non si applica a:**
-   * Clienti che accedono a Commerce Intelligence come parte di un contratto Adobe Commerce (ad esempio, Adobe Commerce Pro o Adobe Commerce su un’infrastruttura cloud).
-   * Clienti con fatturazione basata su contratto o abbonamenti fatturati
+  * Clienti che accedono a Commerce Intelligence come parte di un contratto Adobe Commerce (ad esempio, Adobe Commerce Pro o Adobe Commerce su un’infrastruttura cloud).
+  * Clienti con fatturazione basata su contratto o abbonamenti fatturati
 
 >[!IMPORTANT]
 >

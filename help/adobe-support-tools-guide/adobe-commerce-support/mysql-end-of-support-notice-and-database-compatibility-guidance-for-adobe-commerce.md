@@ -2,13 +2,12 @@
 title: Avviso di fine del supporto di MySQL e istruzioni sulla compatibilità del database per Adobe Commerce
 description: Questo articolo fornisce informazioni sulle timeline di fine del supporto di MySQL e indicazioni sulla compatibilità del database per le versioni di Adobe Commerce supportate.
 solution: Commerce
-source-git-commit: 2198e1882260ca17b8b99f7ed6d415791ec0d177
+exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
+source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
-
+source-wordcount: '380'
+ht-degree: 1%
 ---
-
 # Avviso di fine del supporto di MySQL e istruzioni sulla compatibilità del database per Adobe Commerce
 
 Questo articolo fornisce informazioni importanti sulla fine del supporto di MySQL (EOS) e sulla compatibilità del database per le versioni di Adobe Commerce supportate.
@@ -30,15 +29,15 @@ Adobe non convalida o fornisce supporto per le versioni principali di MySQL più
 
 Si consiglia vivamente alle installazioni Adobe Commerce on-premise in esecuzione nelle seguenti versioni di migrare i server di database a una versione MariaDB compatibile:
 
-* 2.4.5.
-* 2.4.6.
-* 2.4.7.
+* 2.4.5
+* 2.4.6
+* 2.4.7
 
 MariaDB è completamente supportato per queste versioni ed è la piattaforma di database consigliata per il futuro.
 
-* 2.4.5.
-* 2.4.6.
-* 2.4.7.
+* 2.4.5
+* 2.4.6
+* 2.4.7
 
 Si consiglia vivamente di migrare i server di database a una versione compatibile di MariaDB.
 MariaDB è completamente supportato per queste versioni di Adobe Commerce ed è la piattaforma di database consigliata.

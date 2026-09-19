@@ -4,13 +4,12 @@ description: Scopri come gli amministratori di sistema dell’organizzazione pos
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # Configurare identità e Single Sign-On
 
 **Si applica a:** Enterprise
@@ -108,7 +107,7 @@ Dopo aver impostato l’SSO tra l’organizzazione e Adobe, utilizza quanto segu
 
 Scopri come gestire i domini e le directory:
 
-- [Gestione utenti](https://helpx.adobe.com/it/enterprise/using/users.html) e [gruppi](https://helpx.adobe.com/it/enterprise/using/user-groups..html)
+- [Gestione utenti](https://helpx.adobe.com/it/enterprise/using/users.html) e [gruppi](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [Collega i domini alle directory](https://helpx.adobe.com/it/enterprise/using/add-domains-directories.html#link-domains-to-directoies) per controllare l&#39;accesso degli utenti ad app, servizi e impostazioni
 - [Gestisci attendibilità directory](https://helpx.adobe.com/it/enterprise/using/directory-trust.html) per utilizzare i domini richiesti da un&#39;altra organizzazione
 
@@ -160,4 +159,4 @@ Per collaborare, porre domande e chattare con altri amministratori, utilizzare l
 ## Legale e privacy
 
 - [Note legali](https://helpx.adobe.com/it/legal/legal-notices.html)
-- [Informativa sulla privacy online](https://www.adobe.com/it/privacy.html)
+- [Informativa sulla privacy online](https://www.adobe.com/privacy.html)
