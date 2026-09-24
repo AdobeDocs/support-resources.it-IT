@@ -54,8 +54,8 @@ Per gestire i profili di prodotto, seleziona un prodotto. Verranno visualizzati 
    |---|---|
    | **[!UICONTROL Nome]** | Un nome univoco per il profilo di prodotto all’interno dell’organizzazione, distinto da altri profili di prodotto e gruppi di utenti. |
    | **[!UICONTROL Quota]** | Il numero target di licenze assegnate per questo profilo. |
-   | **[!UICONTROL Gruppi di utenti]** | Seleziona dal menu a discesa o digita il nome di un gruppo di utenti. Se il gruppo di utenti non esiste ancora, crearlo tramite la scheda [**[!UICONTROL Gruppi di utenti ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
-   | **[!UICONTROL Amministratori]** | Seleziona dal menu a discesa o immetti l’indirizzo e-mail di un amministratore. Se l&#39;amministratore non esiste ancora, crealo prima tramite la scheda [**[!UICONTROL Amministratori ]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators). |
+   | **[!UICONTROL Gruppi di utenti]** | Seleziona dal menu a discesa o digita il nome di un gruppo di utenti. Se il gruppo di utenti non esiste ancora, crearlo tramite la scheda [**[!UICONTROL Gruppi di utenti &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
+   | **[!UICONTROL Amministratori]** | Seleziona dal menu a discesa o immetti l’indirizzo e-mail di un amministratore. Se l&#39;amministratore non esiste ancora, crealo prima tramite la scheda [**[!UICONTROL Amministratori &#x200B;]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators). |
 
    Ai [!UICONTROL gruppi di utenti] specificati è assegnato il profilo di prodotto. Gli amministratori specificati diventano gli **[!UICONTROL amministratori del profilo di prodotto]**, che possono gestire il profilo tramite Adobe Admin Console per l&#39;organizzazione pertinente.
 
