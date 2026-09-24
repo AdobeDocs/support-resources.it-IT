@@ -5,29 +5,35 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e4595040-3930-48af-9888-cf1349596c77
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # Limitare l’accesso ai prodotti tramite indirizzi IP
 
 Applicabile all&#39;azienda.
 
 Utilizza l’accesso basato su IP per controllare l’accesso degli utenti ai prodotti Adobe e impedire l’uso non autorizzato di indirizzi IP pubblici non elencati.
 
-Vai a [Admin Console](https://adminconsole.adobe.com/settings/identity) per aggiungere indirizzi IP pubblici attendibili al **accesso basato su IP** per utilizzare in modo sicuro le app e i servizi Adobe. Il inserisco nell&#39;elenco Consentiti di accesso basato su IP consente di utilizzare in modo sicuro le app e i servizi.
+Vai a [Admin Console](https://adminconsole.adobe.com/settings/identity) per aggiungere indirizzi IP pubblici attendibili al **accesso basato su IP** elenco Consentiti di accesso basato su IP per l&#39;utilizzo sicuro delle app e dei servizi Adobe.
 
 ## Vantaggi dell&#39;accesso basato su IP
 
-Il controllo degli accessi basato su IP utilizza un inserisco nell&#39;elenco Consentiti di degli indirizzi IP per limitare l’uso dei prodotti Adobe da indirizzi IP pubblici casuali. L’accesso basato su IP si applica a tutte le directory e ai prodotti associati nel Adobe Admin Console.
+Il controllo degli accessi basato su IP utilizza un indirizzo IP un inserisco nell&#39;elenco Consentiti per limitare l’uso dei prodotti Adobe da indirizzi IP pubblici casuali. L’accesso basato su IP si applica a tutte le directory e ai prodotti associati nel Adobe Admin Console.
 
 Puoi aggiungere indirizzi IP pubblici attendibili all&#39;elenco **Indirizzi IP consentiti** per impedire agli utenti di:
 
 - Accesso a prodotti da IP pubblici che non rientrano negli intervalli IP consentiti
-- Accesso a [profili utente](https://helpx.adobe.com/it/enterprise/using/manage-adobe-profiles.html) di Adobe da IP pubblici che non rientrano negli intervalli IP consentiti
+- Accesso a [profili utente](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) di Adobe da IP pubblici che non rientrano negli intervalli IP consentiti
 - Cambio dei profili utente nelle app web al di fuori degli intervalli IP consentiti
 
   ![Esporta struttura organizzazione](./assets/ip-based-access.avif)
@@ -64,9 +70,9 @@ Puoi modificare o rimuovere qualsiasi indirizzo IP elencato selezionando le opzi
 >[!NOTE]
 >
 >- Quando l&#39;accesso basato su IP è abilitato, **non si verifica alcuna disconnessione forzata**. Gli utenti sono interessati solo quando tentano di selezionare il profilo con restrizioni all’accesso o al passaggio da un profilo Web all’altro.
->- Se utilizzi un gateway web protetto, assicurati che tutto il traffico venga indirizzato attraverso di esso. Visualizza l&#39;[elenco di domini da consentire](https://helpx.adobe.com/it/enterprise/kb/network-endpoints.html) per il corretto funzionamento delle app e dei servizi Adobe.
->- Se sei bloccato fuori da Admin Console perché hai inserito un indirizzo IP non valido, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/it/enterprise/using/support-for-enterprise.html).
+>- Se utilizzi un gateway web protetto, assicurati che tutto il traffico venga indirizzato attraverso di esso. Visualizza l&#39;[elenco di domini da consentire](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) per il corretto funzionamento delle app e dei servizi Adobe.
+>- Se sei bloccato fuori da Admin Console perché hai inserito un indirizzo IP non valido, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 ## Partecipa alla conversazione
 
-Per collaborare, porre domande e chattare con altri amministratori, visita la [community Enterprise e Teams](https://www.adobe.com/go/entcom_it).
+Per collaborare, porre domande e chattare con altri amministratori, visita la [community Enterprise e Teams](https://www.adobe.com/go/entcom).

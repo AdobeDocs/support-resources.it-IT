@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '941'
 ht-degree: 2%
-
 ---
-
 # Scaricare i registri di audit ed esportare i rapporti
 
 Applicabile all&#39;azienda.
@@ -24,12 +30,12 @@ Per iniziare, accedi a [Global Admin Console](https://global-admin-console.adobe
 
 In qualità di amministratore globale, hai piena visibilità delle modifiche apportate in Global Admin Console. Puoi cercare nei registri di controllo di tutte le organizzazioni le azioni intraprese negli ultimi 90 giorni, compreso quando si sono verificate e chi le ha eseguite.
 - I registri di audit garantiscono la conformità continua proteggendo il sistema da accessi inappropriati e controllando comportamenti sospetti all’interno dell’organizzazione.
-- I registri disponibili in Global Admin Console includono solo gli eventi a cui un amministratore globale può accedere. Non includono assegnazioni utente o eventi utente. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) sulle diverse funzionalità offerte da ciascuna console.
+- I registri disponibili in Global Admin Console includono solo gli eventi a cui un amministratore globale può accedere. Non includono assegnazioni utente o eventi utente. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) sulle diverse funzionalità offerte da ciascuna console.
 - I registri coprono gli eventi per tutte le organizzazioni nella gerarchia, consentendo di cercare i registri di audit in tutte le organizzazioni contemporaneamente.
 
 >[!NOTE]
 >
-> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/it/enterprise/using/audit-logs.html) apportate in Admin Console.
+> In qualità di amministratore di sistema in un&#39;organizzazione [Adobe Admin Console](https://adminconsole.adobe.com), puoi utilizzare il [Registro di controllo](https://helpx.adobe.com/enterprise/using/audit-logs.html) per rivedere le assegnazioni utente e gli eventi utente. Nei registri di audit vengono incluse anche le azioni eseguite dagli amministratori di sistema nelle organizzazioni figlie dell’organizzazione selezionata. Scopri come gli amministratori di sistema possono [tenere traccia delle modifiche](https://helpx.adobe.com/enterprise/using/audit-logs.html) apportate in Admin Console.
 
 Per visualizzare o scaricare i registri di audit per la tua organizzazione:
 
@@ -106,12 +112,12 @@ Per scaricare un rapporto di esportazione:
 
 1. Accedi a [Global Admin Console](https://global-admin-console.adobe.com/insights) e passa a **[!UICONTROL Insights]** > **[!UICONTROL Esporta report]**.
 
-   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Dopo 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
+   Vengono visualizzati i rapporti generati negli ultimi 90 giorni. Dopo 90 giorni, puoi generare nuovamente il rapporto. Scopri come generare rapporti per [la struttura dell&#39;organizzazione](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
 
 
    | Campo | Descrizione |
    |------|------------|
-   | Rapporto | Data e ora di generazione del rapporto (fuso orario locale) |
+   | Rapporti | Data e ora di generazione del rapporto (fuso orario locale) |
    | Formato | Formato file (CSV, JSON, XLSX) |
    | Dimensione | Dimensione file |
    | Creato da | Indirizzo e-mail dell’amministratore che ha generato il rapporto |

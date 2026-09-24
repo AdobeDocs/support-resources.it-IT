@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2011'
 ht-degree: 3%
-
 ---
-
 # Panoramica di Adobe Admin Console
 
 Applicabile a Enterprise e Teams.
@@ -29,7 +35,7 @@ Ogni scheda di Admin Console consente di eseguire varie attività. Seleziona il 
 - [Informazioni](#insights): visualizza, crea e scarica i report sull&#39;assegnazione delle licenze e tieni traccia delle modifiche apportate in Admin Console.
 - [Impostazioni](#settings): domini di attestazione, accesso limitato alle funzionalità di condivisione, aggiunta di note per gli utenti finali, impostazione dei livelli di protezione tramite password.
 
-Se non riesci ad accedere ad Admin Console, consulta [Risolvere i problemi di accesso dell&#39;account Adobe](https://helpx.adobe.com/it/manage-account/kb/account-password-sign-help.html).
+Se non riesci ad accedere ad Admin Console, consulta [Risolvere i problemi di accesso dell&#39;account Adobe](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
 ## [!UICONTROL Panoramica] {#overview}
 
@@ -47,7 +53,7 @@ Se l’organizzazione fa parte di un Global Admin Console, accanto al nome dell�
 
 ![Admin Console seleziona la tua organizzazione figlio](assets/admin-console-select-your-org-hierarchy.png "Posizionamento organizzazione nella gerarchia di un Global Admin Console")
 
-Se hai una struttura organizzativa complessa con molte istanze di Admin Console o se desideri suddividere il tuo Admin Console principale in più console, puoi [adottare Global Admin Console](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Global Admin Console raggruppa tali console di amministrazione di Adobe in una struttura gerarchica, ad esempio un organigramma, in modo che gli amministratori globali possano amministrare le console figlie e allocare i prodotti mentre gli amministratori di sistema continuino a gestire quotidianamente le console. Ad esempio, multinazionali, consorzi di istruzione, grandi distretti scolastici e grandi agenzie governative.
+Se hai una struttura organizzativa complessa con molte istanze di Admin Console o se desideri suddividere il tuo Admin Console principale in più console, puoi [adottare Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Global Admin Console raggruppa tali console di amministrazione di Adobe in una struttura gerarchica, ad esempio un organigramma, in modo che gli amministratori globali possano amministrare le console figlie e allocare i prodotti mentre gli amministratori di sistema continuino a gestire quotidianamente le console. Ad esempio, multinazionali, consorzi di istruzione, grandi distretti scolastici e grandi agenzie governative.
 
 ## [!UICONTROL Prodotti] {#products}
 
@@ -60,7 +66,7 @@ La pagina **[!UICONTROL Prodotti]** in [Admin Console](https://adminconsole.adob
 Per ulteriori informazioni, consulta:
 
 - [Gestione prodotti](https://helpx.adobe.com/it/enterprise/using/manage-products.html)
-- [Gestire i profili di prodotto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
+- [Gestire i profili di prodotto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
 
 **Team**
 
@@ -70,8 +76,8 @@ Inserisci il nome o l’indirizzo e-mail dell’utente. Puoi cercare utenti esis
 
 Per ulteriori informazioni, consulta:
 
-- [Assegnare o annullare l’assegnazione delle licenze](https://helpx.adobe.com/it/enterprise/using/assign-licenses-to-teams-users.html)
-- [Aggiungere o rimuovere prodotti o licenze](https://helpx.adobe.com/it/enterprise/using/add-products-and-licenses.html)
+- [Assegnare o annullare l’assegnazione delle licenze](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
+- [Aggiungere o rimuovere prodotti o licenze](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
 
 ## [!UICONTROL Utenti] {#users}
 
@@ -96,7 +102,7 @@ A seconda del piano aziendale, VIP, VIP Marketplace o Team, è possibile:
 - Gestisce i dettagli di pagamento, le fatture e i rinnovi.
 - Visualizza i dettagli di contatto del tuo account manager Adobe.
 
-Ulteriori informazioni: [Gestione dell&#39;account](https://helpx.adobe.com/it/enterprise/using/accounts.html).
+Ulteriori informazioni: [Gestione dell&#39;account](https://helpx.adobe.com/enterprise/using/accounts.html).
 
 ## [!UICONTROL Insights] {#insights}
 
@@ -108,23 +114,23 @@ Chi può visualizzare questa scheda: Amministratori di sistema.
 
 In qualità di amministratore di sistema, avrai piena visibilità delle modifiche apportate in [Admin Console](https://adminconsole.adobe.com/). Puoi cercare nel registro di audit in base al tipo di azioni, a quando si sono verificate e a chi le ha eseguite.
 
-Quindi, visualizza e scarica questi rapporti per ulteriori analisi. Ulteriori informazioni: [Utilizzare il registro di controllo per tenere traccia di assegnazioni ed eventi utente](https://helpx.adobe.com/it/enterprise/using/audit-logs.html).
+Quindi, visualizza e scarica questi rapporti per ulteriori analisi. Ulteriori informazioni: [Utilizzare il registro di controllo per tenere traccia di assegnazioni ed eventi utente](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
 ### [!UICONTROL Report assegnazioni]
 
 Utilizzando i rapporti Assegnazione licenze, puoi tenere traccia dei dati di assegnazione delle licenze della tua organizzazione e pianificare le distribuzioni delle licenze degli utenti. I dati di assegnazione delle licenze supportano solo le licenze utente con nome per i prodotti Creative Cloud e Document Cloud acquistati in base al Contratto di licenza Enterprise Term.
 
-Ulteriori informazioni: [Report assegnazione licenze per prodotti Enterprise](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
+Ulteriori informazioni: [Report assegnazione licenze per prodotti Enterprise](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 ## [!UICONTROL Archiviazione] {#storage}
 
-Chi può visualizzare questa scheda: Amministratori di sistema e amministratori di storage (solo per i clienti che hanno eseguito la migrazione al [modello di archiviazione in pool](https://helpx.adobe.com/it/enterprise/using/manage-adobe-storage.html)).
+Chi può visualizzare questa scheda: Amministratori di sistema e amministratori di storage (solo per i clienti che hanno eseguito la migrazione al [modello di archiviazione in pool](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
 
 La **[!UICONTROL pagina Archiviazione]** in [Admin Console](https://adminconsole.adobe.com) offre visibilità dello storage nelle applicazioni Creative Cloud. Le quote di storage sono flessibili per gli utenti finali fino alla quantità di storage acquistata dall&#39;organizzazione.
 
 È inoltre possibile visualizzare la quota utilizzata dai singoli utenti e la quota complessiva utilizzata da tutti gli utenti.
 
-Ulteriori informazioni: [Gestione archiviazione Adobe](https://helpx.adobe.com/it/enterprise/using/manage-adobe-storage.html).
+Ulteriori informazioni: [Gestione archiviazione Adobe](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
 
 ## [!UICONTROL Pacchetti] {#packages}
 
@@ -132,20 +138,20 @@ Chi può visualizzare questa scheda: Amministratori di sistema e Amministratori 
 
 La pagina **[!UICONTROL Pacchetti]** in [Admin Console](https://adminconsole.adobe.com) fornisce le funzionalità seguenti. Utilizzarli quando si prevede di distribuire applicazioni desktop agli utenti finali dell&#39;organizzazione.
 
-- Scarica pacchetti preconfigurati utilizzando [Modelli Adobe](https://helpx.adobe.com/it/enterprise/using/package-templates.html).
-- Crea [licenze utente nominative](https://helpx.adobe.com/it/enterprise/using/create-nul-packages.html) o [licenze per dispositivi condivisi](https://helpx.adobe.com/it/enterprise/using/create-sdl-packages.html) personalizzate (per istituti di istruzione) con la configurazione e le applicazioni che desideri che gli utenti finali abbiano.
+- Scarica pacchetti preconfigurati utilizzando [Modelli Adobe](https://helpx.adobe.com/enterprise/using/package-templates.html).
+- Crea [licenze utente nominative](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) o [licenze per dispositivi condivisi](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html) personalizzate (per istituti di istruzione) con la configurazione e le applicazioni che desideri che gli utenti finali abbiano.
 - Abilita le notifiche e-mail, in modo da ricevere notifiche quando diventano disponibili nuove versioni del prodotto.
 - Visualizzare i pacchetti precedenti creati da te o da altri amministratori dell’organizzazione. Inoltre, visualizza i dettagli di un pacchetto specifico e tieni traccia degli aggiornamenti disponibili per le app nel pacchetto.
-- Scarica strumenti IT come [Remote Update Manager](https://helpx.adobe.com/it/enterprise/using/using-remote-update-manager.html) e [Adobe Update Server Setup Tool](https://helpx.adobe.com/it/enterprise/using/update-server-setup-tool.html).
-- Scarica lo strumento da riga di comando di Adobe Extension Manager per [installare estensioni e plug-in](https://helpx.adobe.com/it/enterprise/using/manage-extensions.html) dal formato contenitore file ZXP.
+- Scarica strumenti IT come [Remote Update Manager](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html) e [Adobe Update Server Setup Tool](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html).
+- Scarica lo strumento da riga di comando di Adobe Extension Manager per [installare estensioni e plug-in](https://helpx.adobe.com/enterprise/using/manage-extensions.html) dal formato contenitore file ZXP.
 
-Per ulteriori informazioni, vedere [Creazione di pacchetti di app tramite Admin Console](https://helpx.adobe.com/it/enterprise/using/package-apps-admin-console.html).
+Per ulteriori informazioni, vedere [Creazione di pacchetti di app tramite Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
 
 ## [!UICONTROL Impostazioni] {#settings}
 
 Chi può visualizzare questa scheda: amministratori di sistema e amministratori di storage.
 
-Gli amministratori di archiviazione possono accedere solo alle [impostazioni risorse](https://helpx.adobe.com/it/enterprise/using/asset-settings.html) e ai [registri contenuto](https://helpx.adobe.com/it/enterprise/using/content-logs.html). Gli amministratori di sistema possono visualizzare o modificare le impostazioni in base al piano.
+Gli amministratori di archiviazione possono accedere solo alle [impostazioni risorse](https://helpx.adobe.com/enterprise/using/asset-settings.html) e ai [registri contenuto](https://helpx.adobe.com/enterprise/using/content-logs.html). Gli amministratori di sistema possono visualizzare o modificare le impostazioni in base al piano.
 
 >[!NOTE]
 >
@@ -153,23 +159,23 @@ Gli amministratori di archiviazione possono accedere solo alle [impostazioni ris
 
 ## Contatti per la privacy e la sicurezza
 
-In caso di problemi di sicurezza relativi alle nostre soluzioni software, le notifiche vengono inviate ai responsabili della conformità appropriati. Per garantire una notifica immediata, in qualità di amministratore di sistema, devi specificare chi sono i responsabili della sicurezza, della protezione dei dati e della conformità. Per ulteriori dettagli, vedere [Contatti per la privacy e la sicurezza](https://helpx.adobe.com/it/enterprise/using/security-contacts.html).
+In caso di problemi di sicurezza relativi alle nostre soluzioni software, le notifiche vengono inviate ai responsabili della conformità appropriati. Per garantire una notifica immediata, in qualità di amministratore di sistema, devi specificare chi sono i responsabili della sicurezza, della protezione dei dati e della conformità. Per ulteriori dettagli, vedere [Contatti per la privacy e la sicurezza](https://helpx.adobe.com/enterprise/using/security-contacts.html).
 
 ## [!UICONTROL Impostazioni console]
 
-Utilizzando [Impostazioni console](https://helpx.adobe.com/it/enterprise/using/console-settings.html) puoi aggiungere note personalizzate per gli utenti finali per comunicare con loro su come ottenere assistenza in caso di problemi o se richiedono supporto.
+Utilizzando [Impostazioni console](https://helpx.adobe.com/enterprise/using/console-settings.html) puoi aggiungere note personalizzate per gli utenti finali per comunicare con loro su come ottenere assistenza in caso di problemi o se richiedono supporto.
 
 Scegli una lingua e-mail predefinita per la tua organizzazione, per ricevere e-mail sugli stati dell’account, ad esempio le modifiche dell’abbonamento o la scadenza della carta di credito. Se hai acquistato un&#39;iscrizione a un team direttamente da Adobe, puoi cambiare il nome del team dalle **[!UICONTROL impostazioni della console]**.
 
 ## [!UICONTROL Registri contenuto]
 
-In qualità di amministratore, puoi scaricare rapporti dettagliati sul modo in cui gli utenti finali lavorano con le risorse aziendali, come cartelle, file e librerie. Questi report sono denominati [log dei contenuti](https://helpx.adobe.com/it/enterprise/using/content-logs.html).
+In qualità di amministratore, puoi scaricare rapporti dettagliati sul modo in cui gli utenti finali lavorano con le risorse aziendali, come cartelle, file e librerie. Questi report sono denominati [log dei contenuti](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
 ## Applicazione del dominio
 
 Gli amministratori di sistema possono limitare i domini di proprietà dell’organizzazione per impedire agli utenti di creare e utilizzare account personali di Adobe ID. Questo limita l’utilizzo dei dati personali, migliora la sicurezza e consente la condivisione delle risorse solo tra gli utenti dell’organizzazione.
 
-Ulteriori informazioni: [Imposizione dominio per autenticazione con restrizioni](https://helpx.adobe.com/it/enterprise/using/restricting-domains.html).
+Ulteriori informazioni: [Imposizione dominio per autenticazione con restrizioni](https://helpx.adobe.com/enterprise/using/restricting-domains.html).
 
 ## Identità
 
@@ -177,21 +183,21 @@ Ulteriori informazioni: [Imposizione dominio per autenticazione con restrizioni]
 
 ## [!UICONTROL Impostazioni risorsa]
 
-[Le impostazioni delle risorse](https://helpx.adobe.com/it/enterprise/using/asset-settings.html) consentono a un&#39;organizzazione di controllare il modo in cui i dipendenti condividono le risorse al di fuori dell&#39;organizzazione. Le impostazioni delle risorse vengono utilizzate insieme ad altri sistemi di applicazione dei criteri organizzativi (non forniti da Adobe) per garantire che le risorse siano condivise solo con persone e organizzazioni esterne appropriate.
+[Le impostazioni delle risorse](https://helpx.adobe.com/enterprise/using/asset-settings.html) consentono a un&#39;organizzazione di controllare il modo in cui i dipendenti condividono le risorse al di fuori dell&#39;organizzazione. Le impostazioni delle risorse vengono utilizzate insieme ad altri sistemi di applicazione dei criteri organizzativi (non forniti da Adobe) per garantire che le risorse siano condivise solo con persone e organizzazioni esterne appropriate.
 
 ## Impostazioni di autenticazione
 
-[Le impostazioni di autenticazione](https://helpx.adobe.com/it/enterprise/using/authentication-settings.html) supportano diversi livelli e criteri di protezione tramite password per garantire la sicurezza. È possibile specificare un livello di protezione tramite password da applicare a tutti gli utenti dell&#39;organizzazione.
+[Le impostazioni di autenticazione](https://helpx.adobe.com/enterprise/using/authentication-settings.html) supportano diversi livelli e criteri di protezione tramite password per garantire la sicurezza. È possibile specificare un livello di protezione tramite password da applicare a tutti gli utenti dell&#39;organizzazione.
 
 ## Impostazioni crittografia
 
-[Le impostazioni di crittografia](https://helpx.adobe.com/it/enterprise/using/encryption.html) generano chiavi di crittografia dedicate per livelli di controllo e sicurezza aggiuntivi.
+[Le impostazioni di crittografia](https://helpx.adobe.com/enterprise/using/encryption.html) generano chiavi di crittografia dedicate per livelli di controllo e sicurezza aggiuntivi.
 
 ## Criteri progetto
 
 In qualità di amministratore di sistema, puoi controllare chi dispone dell’autorizzazione per creare e gestire progetti all’interno dell’organizzazione. Per impostazione predefinita, tutti gli utenti aggiunti all’Admin Console possono creare e gestire progetti.
 
-Ulteriori informazioni: [Criteri progetto](https://helpx.adobe.com/it/enterprise/using/projects-in-business-storage.html#project-policies).
+Ulteriori informazioni: [Criteri progetto](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies).
 
 ## Supporto
 
@@ -203,4 +209,4 @@ Per contattare l&#39;Assistenza clienti di Adobe, vai alla pagina Supporto in [A
 - Pianificare sessioni con esperti
 - Sfoglia i forum e gli argomenti della Guida più comuni
 
-Per ulteriori informazioni sulle opzioni di supporto, vedere [Supporto e sessioni con esperti](https://helpx.adobe.com/it/enterprise/using/support-and-expert-services.html).
+Per ulteriori informazioni sulle opzioni di supporto, vedere [Supporto e sessioni con esperti](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html).

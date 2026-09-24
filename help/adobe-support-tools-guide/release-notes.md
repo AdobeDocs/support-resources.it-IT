@@ -8,6 +8,12 @@ TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -21,7 +27,7 @@ topic_v2:
     internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2614'
 ht-degree: 0%
@@ -141,7 +147,7 @@ Queste note sulla versione contengono aggiornamenti al supporto Experience Leagu
 
 1. Il grafico **[!UICONTROL Conteggio dei casi per priorità]** fornisce ora un raggruppamento più dettagliato al passaggio del mouse. Passando il puntatore del mouse su un segmento prioritario viene visualizzata una descrizione comando che mostra il numero totale di casi, insieme al numero di casi aperti e chiusi.
 
-1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com/it-it).
+1. Il widget **[!UICONTROL Stato prodotto]** ora supporta il filtro dei prodotti interattivo. Gli avvisi di stato del sistema possono essere filtrati selezionando uno o più prodotti direttamente dalla home page. Se si seleziona un prodotto in questo widget, non verrà più eseguito il reindirizzamento a [status.adobe.com](http://status.adobe.com).
 
 1. Il widget **[!UICONTROL Stato prodotto]** elenca ora i prodotti in un ordine più intuitivo. I prodotti con problemi attivi vengono visualizzati per primi, seguiti dai prodotti rimanenti in ordine alfabetico.
 

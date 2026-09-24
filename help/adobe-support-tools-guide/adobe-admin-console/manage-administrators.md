@@ -5,20 +5,26 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '1244'
 ht-degree: 2%
-
 ---
-
 # Gestire gli amministratori
 
 *Si applica all&#39;organizzazione.*
 
 Esplora le funzionalità dell’amministratore globale e scopri come delegare e distribuire agli amministratori, per ogni singola organizzazione, l’amministrazione di utenti, licenze di prodotto e gruppi.
 
-In Global Admin Console, puoi selezionare un&#39;organizzazione e passare alla scheda **[!UICONTROL Amministratori]** per aggiungere, modificare o rimuovere i diritti di amministratore. Ogni organizzazione nella gerarchia è un Adobe Admin Console; vedere [Adopt global administration](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) per informazioni sul raggruppamento di tali console in Global Admin Console. Accedi a [Global Admin Console](https://global-admin-console.adobe.com) per le attività a livello di gerarchia o a [Adobe Admin Console](https://adminconsole.adobe.com) per le attività all&#39;interno di una singola organizzazione.
+In Global Admin Console, puoi selezionare un&#39;organizzazione e passare alla scheda **[!UICONTROL Amministratori]** per aggiungere, modificare o rimuovere i diritti di amministratore. Ogni organizzazione nella gerarchia è un Adobe Admin Console; vedere [Adopt global administration](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) per informazioni sul raggruppamento di tali console in Global Admin Console. Accedi a [Global Admin Console](https://global-admin-console.adobe.com) per le attività a livello di gerarchia o a [Adobe Admin Console](https://adminconsole.adobe.com) per le attività all&#39;interno di una singola organizzazione.
 
 Global Admin Console introduce un ruolo denominato amministratore globale. Questo ruolo è distinto da quello di amministratore di sistema e consente di effettuare le seguenti operazioni:
 
@@ -153,7 +159,7 @@ Un amministratore globale può creare organizzazioni, distribuire risorse quali 
 
    >[!NOTE]
    >
-   > Le organizzazioni possono disporre di restrizioni sui tipi di account che è possibile aggiungere. Questi possono essere basati su [criteri](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html) o su altri parametri di configurazione per un&#39;organizzazione. Le organizzazioni non consentono di aggiungere contemporaneamente sia utenti Adobe ID che utenti BusinessID. In generale, in un’organizzazione non dovrebbero essere presenti utenti di entrambi i tipi, ma a seconda dell’ordine in cui vengono impostate le regole, alcuni utenti di un particolare Tipo di account potrebbero essere precedenti all’applicazione di policy o regole.
+   > Le organizzazioni possono disporre di restrizioni sui tipi di account che è possibile aggiungere. Questi possono essere basati su [criteri](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) o su altri parametri di configurazione per un&#39;organizzazione. Le organizzazioni non consentono di aggiungere contemporaneamente sia utenti Adobe ID che utenti BusinessID. In generale, in un’organizzazione non dovrebbero essere presenti utenti di entrambi i tipi, ma a seconda dell’ordine in cui vengono impostate le regole, alcuni utenti di un particolare Tipo di account potrebbero essere precedenti all’applicazione di policy o regole.
 
 1. Seleziona uno o più ruoli di amministratore dalla sezione **[!UICONTROL Diritti di amministratore]**.
 
@@ -163,7 +169,7 @@ Un amministratore globale può creare organizzazioni, distribuire risorse quali 
 
 1. Seleziona **[!UICONTROL Salva]**.
 
-1. Dopo aver modificato le organizzazioni, seleziona **[!UICONTROL Rivedi modifiche in sospeso]**, quindi seleziona **[!UICONTROL Invia modifiche]** per [eseguire](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html) le modifiche.
+1. Dopo aver modificato le organizzazioni, seleziona **[!UICONTROL Rivedi modifiche in sospeso]**, quindi seleziona **[!UICONTROL Invia modifiche]** per [eseguire](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) le modifiche.
 
 Quando viene aggiunto un ruolo amministratore, l’utente riceve una notifica e-mail con la quale viene informato della modifica del proprio ruolo.
 
@@ -181,7 +187,7 @@ Dopo che l’amministratore è stato aggiunto, riceve un messaggio e-mail che lo
 
 1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni.
 
-Nell&#39;elenco delle modifiche in sospeso viene visualizzato un comando separato per ogni ruolo amministratore aggiunto o rimosso. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
+Nell&#39;elenco delle modifiche in sospeso viene visualizzato un comando separato per ogni ruolo amministratore aggiunto o rimosso. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Rimuovi diritti amministratore
 
@@ -193,6 +199,6 @@ Nell&#39;elenco delle modifiche in sospeso viene visualizzato un comando separat
 
 1. Selezionare **[!UICONTROL OK]** nella finestra di dialogo di conferma.
 
-1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
+1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 Dopo aver eliminato un amministratore, l’utente riceve una notifica e-mail che lo informa della perdita dell’accesso ad Admin Console per tale organizzazione.

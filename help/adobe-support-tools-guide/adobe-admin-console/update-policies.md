@@ -4,22 +4,29 @@ description: Scopri come un amministratore globale può impostare e modificare i
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
+TQID: 'https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1045
+source-wordcount: '1045'
 ht-degree: 1%
-
 ---
-
 # Aggiornare i criteri dell’organizzazione in Global Admin Console
 
 **Si applica a:** Enterprise
@@ -28,7 +35,7 @@ Scopri come un amministratore globale può impostare e modificare i criteri per 
 
 >[!NOTE]
 >
->In [Global Admin Console](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html), selezionare un&#39;organizzazione dalla gerarchia e passare alla scheda **Criteri** per consentire o disabilitare i criteri oppure bloccarli.
+>In [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), selezionare un&#39;organizzazione dalla gerarchia e passare alla scheda **Criteri** per consentire o disabilitare i criteri oppure bloccarli.
 >
 > [Accedi a Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -39,14 +46,14 @@ Ad esempio, se il criterio **Domini attestazione** è impostato su *non consenti
 
 Per modificare i criteri di un&#39;organizzazione, eseguire le operazioni seguenti:
 
-1. In Global Admin Console, [seleziona un&#39;organizzazione](https://helpx.adobe.com/it/enterprise/global-admin-console/overview.html) da modificare, quindi passa alla scheda **[!UICONTROL Criteri]**.
-1. Seleziona l’opzione per il criterio pertinente per consentirlo o disattivarlo. È inoltre possibile bloccare un criterio in modo che solo un amministratore globale dell&#39;[organizzazione selezionata](https://helpx.adobe.com/it/enterprise/global-admin-console/overview.html) o la relativa organizzazione padre possa modificarlo o sbloccarlo.
+1. In Global Admin Console, [seleziona un&#39;organizzazione](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) da modificare, quindi passa alla scheda **[!UICONTROL Criteri]**.
+1. Seleziona l’opzione per il criterio pertinente per consentirlo o disattivarlo. È inoltre possibile bloccare un criterio in modo che solo un amministratore globale dell&#39;[organizzazione selezionata](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) o la relativa organizzazione padre possa modificarlo o sbloccarlo.
 1. Per bloccare un criterio, selezionare l&#39;icona **[!UICONTROL Blocca]** ![Blocca](./assets/lock.png). Passando il mouse sul blocco viene visualizzato il nome dell&#39;organizzazione selezionata. Ulteriori informazioni sui [blocchi dei criteri](#policy-locks).
-1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/it/enterprise/global-admin-console/execute-jobs.html).
+1. Seleziona **[!UICONTROL Rivedi modifiche in sospeso]** dopo aver completato la modifica delle organizzazioni. Dopo la revisione, seleziona **[!UICONTROL Invia modifiche]** per [eseguirle](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Blocchi dei criteri {#policy-locks}
 
-Quando un criterio è bloccato, il suo valore non può essere modificato finché il criterio non viene sbloccato. Global Admin Console ricorda la [organizzazione selezionata](https://helpx.adobe.com/it/enterprise/global-admin-console/overview.html) nel selettore organizzazione come l&#39;organizzazione da cui è stato bloccato il criterio. Qualsiasi amministratore globale dell’organizzazione selezionata o di qualsiasi organizzazione più in alto nella struttura dispone dell’autorizzazione per sbloccare il criterio. Gli amministratori globali il cui ambito è inferiore a quello dell&#39;organizzazione non dispongono dell&#39;autorizzazione per sbloccare e modificare i valori dei criteri.
+Quando un criterio è bloccato, il suo valore non può essere modificato finché il criterio non viene sbloccato. Global Admin Console ricorda la [organizzazione selezionata](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) nel selettore organizzazione come l&#39;organizzazione da cui è stato bloccato il criterio. Qualsiasi amministratore globale dell’organizzazione selezionata o di qualsiasi organizzazione più in alto nella struttura dispone dell’autorizzazione per sbloccare il criterio. Gli amministratori globali il cui ambito è inferiore a quello dell&#39;organizzazione non dispongono dell&#39;autorizzazione per sbloccare e modificare i valori dei criteri.
 
 Per creare un ambiente bloccato, imposta i valori dei criteri desiderati nelle organizzazioni figlie e quindi bloccalo. Gli amministratori globali di tali organizzazioni figlio non saranno in grado di modificare i valori dei criteri.
 

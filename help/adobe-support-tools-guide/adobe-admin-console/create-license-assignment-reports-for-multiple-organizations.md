@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # Creazione di report di assegnazione licenze per più organizzazioni e prodotti
 
 Scopri come gli amministratori globali possono generare e scaricare rapporti dettagliati sulle licenze per più organizzazioni e prodotti per intervalli di date specifici per facilitare il tracciamento preciso del provisioning delle licenze.
@@ -31,7 +37,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
    >[!NOTE]
    >
    >**Impossibile selezionare alcune organizzazioni**:
-   >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
+   >Se un&#39;organizzazione figlio non dispone di un contratto o dispone di un contratto aziendale separato con lo stesso prodotto dell&#39;organizzazione padre, non è in grado di creare un rapporto di assegnazione delle licenze. Ad esempio, se il contratto dell’organizzazione principale ha Adobe Acrobat e l’organizzazione secondaria ha lo stesso valore come parte di un altro contratto, l’allocazione del prodotto è limitata. Di conseguenza, è anche limitato per la creazione di rapporti in Global Admin Console. [Scopri come tenere traccia del provisioning per tali organizzazioni utilizzando i rispettivi Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +48,7 @@ I rapporti sull’assegnazione delle licenze consentono di monitorare in modo pr
    >[!NOTE]
    >
    >**Impossibile selezionare alcuni prodotti**:
-   >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come Workfront, Adobe Experience Manager e Adobe Experience Platform e anche prodotti come Adobe Firefly Services, Acrobat Sign e Adobe Stock. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/it/enterprise/using/assignment-reports.html).
+   >I prodotti che non sono allocabili in Global Admin Console non sono inclusi per la creazione di rapporti. Attualmente sono inclusi alcuni prodotti Digital Experience come Workfront, Adobe Experience Manager e Adobe Experience Platform e anche prodotti come Adobe Firefly Services, Acrobat Sign e Adobe Stock. [Utilizzare Adobe Admin Console per trovare i dati di provisioning licenze per questi prodotti](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Seleziona se aggregare il rapporto per mese o anno.
 1. Seleziona un intervallo di date personalizzato o scegli tra le opzioni predefinite. Puoi scegliere una data di inizio qualsiasi dal 18 giugno 2020 fino al giorno precedente, purché non preceda la data di inizio del contratto.
@@ -69,7 +75,7 @@ Gli amministratori globali possono visualizzare e scaricare i rapporti sull’as
    | Nome | Generato automaticamente e non può essere modificato. |
    | Creatore | L’amministratore globale che ha generato il rapporto. |
    | Ora di creazione | L’ora di sistema in cui è stato creato il rapporto. |
-   | Intervallo date | L’intervallo di date selezionato per il rapporto. |
+   | Intervallo di date | L’intervallo di date selezionato per il rapporto. |
    | Stato | **Operazione completata** se il report è pronto per il download o **Elaborazione** se è ancora in fase di generazione. |
 
 1. Per esportare il report come file CSV, seleziona l&#39;icona **[!UICONTROL Scarica]** accanto al report.
