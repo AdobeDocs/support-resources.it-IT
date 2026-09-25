@@ -3,7 +3,15 @@ title: Avviso di fine del supporto di MySQL e istruzioni sulla compatibilità de
 description: Questo articolo fornisce informazioni sulle timeline di fine del supporto di MySQL e indicazioni sulla compatibilità del database per le versioni di Adobe Commerce supportate.
 solution: Commerce
 exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
-source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%

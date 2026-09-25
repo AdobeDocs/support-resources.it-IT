@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # Creazione di report di assegnazione licenze per più organizzazioni e prodotti
 
 Scopri come gli amministratori globali possono generare e scaricare rapporti dettagliati sulle licenze per più organizzazioni e prodotti per intervalli di date specifici per facilitare il tracciamento preciso del provisioning delle licenze.
@@ -69,7 +75,7 @@ Gli amministratori globali possono visualizzare e scaricare i rapporti sull’as
    | Nome | Generato automaticamente e non può essere modificato. |
    | Creatore | L’amministratore globale che ha generato il rapporto. |
    | Ora di creazione | L’ora di sistema in cui è stato creato il rapporto. |
-   | Intervallo date | L’intervallo di date selezionato per il rapporto. |
+   | Intervallo di date | L’intervallo di date selezionato per il rapporto. |
    | Stato | **Operazione completata** se il report è pronto per il download o **Elaborazione** se è ancora in fase di generazione. |
 
 1. Per esportare il report come file CSV, seleziona l&#39;icona **[!UICONTROL Scarica]** accanto al report.

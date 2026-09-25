@@ -5,21 +5,27 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # Esegui processi in sospeso
 
 Questa funzionalità si applica alle organizzazioni Enterprise che utilizzano [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
 - Le modifiche in [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) sono completate in due fasi:
 
-   1. **Fase di modifica**: apporta modifiche alle organizzazioni o alloca prodotti.
-   2. **Fase di esecuzione**: rivedere ed eseguire le modifiche in sospeso affinché diventino effettive.
+  1. **Fase di modifica**: apporta modifiche alle organizzazioni o alloca prodotti.
+  2. **Fase di esecuzione**: rivedere ed eseguire le modifiche in sospeso affinché diventino effettive.
 
 - Per assicurarsi che tutte le modifiche apportate in [[!DNL Global Admin Console]](https://helpx.adobe.com/it/enterprise/global-admin-console/adopt-global-administration.html) siano implementate e abbiano effetto, selezionare la scheda **[!UICONTROL Esecuzione processo]** e procedere con l&#39;esecuzione delle modifiche in sospeso.
 
@@ -31,8 +37,8 @@ Questa funzionalità si applica alle organizzazioni Enterprise che utilizzano [[
 
 - Puoi disconnetterti e tornare in un secondo momento senza perdere le modifiche in sospeso.
 - Modifiche non eseguite:
-   - Vengono eliminati dopo 30 giorni.
-   - Vengono cancellati al termine della sessione, ad esempio quando la scheda del browser o la finestra viene chiusa.
+  - Vengono eliminati dopo 30 giorni.
+  - Vengono cancellati al termine della sessione, ad esempio quando la scheda del browser o la finestra viene chiusa.
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ Questa funzionalità si applica alle organizzazioni Enterprise che utilizzano [[
 ### Più amministratori e conflitti
 
 - Due amministratori che lavorano nella stessa organizzazione:
-   - Non visualizzare le rispettive modifiche non eseguite.
-   - Vedi le modifiche solo dopo:
-      - Esecuzione e
-      - Aggiornamento della visualizzazione o accesso di nuovo.
+  - Non visualizzare le rispettive modifiche non eseguite.
+  - Vedi le modifiche solo dopo:
+    - Esecuzione e
+    - Aggiornamento della visualizzazione o accesso di nuovo.
 - Le modifiche non eseguite possono entrare in conflitto con le modifiche già eseguite.
 
 ### Gestione dei conflitti
@@ -107,14 +113,14 @@ Se l’allocazione di un prodotto richiede più di 12 ore:
 
 - Per visualizzare i processi eseguiti negli ultimi 30 giorni:
 
-   1. Accedi a [!DNL Global Admin Console].
-   2. Selezionare **[!UICONTROL Esecuzione processo]**.
-   3. Scorri fino alla parte inferiore della pagina.
-   4. Seleziona **[!UICONTROL Processi recenti]**.
+  1. Accedi a [!DNL Global Admin Console].
+  2. Selezionare **[!UICONTROL Esecuzione processo]**.
+  3. Scorri fino alla parte inferiore della pagina.
+  4. Seleziona **[!UICONTROL Processi recenti]**.
 
 - Visualizzazione processi recenti:
-   - **comandi processo** inviati.
-   - **Errori** e **avvisi** associati all&#39;esecuzione.
+  - **comandi processo** inviati.
+  - **Errori** e **avvisi** associati all&#39;esecuzione.
 
 >[!NOTE]
 >

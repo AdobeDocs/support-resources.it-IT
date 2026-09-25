@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # Gestisci gerarchia organizzazione
 
 Applicabile all&#39;azienda.
@@ -35,8 +41,8 @@ Quando viene creata una nuova organizzazione figlio, vengono automaticamente ere
 - Impostazioni [criterio](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html) dell&#39;organizzazione (inclusi i blocchi, se presenti).
 - Elenco di amministratori di sistema (controllati da **[!UICONTROL Eredita amministratori di sistema al momento della creazione]** [criterio](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html)).
 Di seguito sono riportati gli elementi che possono impedire l&#39;ereditarietà degli amministratori di sistema:
-   - Mancanza di [trust di dominio](https://helpx.adobe.com/it/enterprise/using/directory-trust.html).
-   - Limitazioni per tipo di utente (aggiungere i criteri per utenti di Adobe ID/Enterprise ID/Federated ID). Scopri i [dettagli dei criteri](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html).
+  - Mancanza di [trust di dominio](https://helpx.adobe.com/it/enterprise/using/directory-trust.html).
+  - Limitazioni per tipo di utente (aggiungere i criteri per utenti di Adobe ID/Enterprise ID/Federated ID). Scopri i [dettagli dei criteri](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html).
 - Accesso agli utenti di Federated ID o Enterprise ID dai domini a cui l’organizzazione principale ha accesso. In questo modo gli utenti del dominio nell’elemento padre sono disponibili nell’organizzazione figlio. L&#39;ereditarietà dell&#39;accesso utente è controllata da **Eredita utenti dalle directory gestite dall&#39;organizzazione padre** [policy](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html).
 - Criteri di condivisione, criteri password e contatti di sicurezza (controllati da **Eredita impostazioni di condivisione risorse al momento della creazione dell&#39;organizzazione figlio** [criteri](https://helpx.adobe.com/it/enterprise/global-admin-console/update-policies.html)).
 

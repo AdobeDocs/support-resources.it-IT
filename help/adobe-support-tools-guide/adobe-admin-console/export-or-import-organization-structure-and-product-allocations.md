@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # Esporta o importa la struttura dell&#39;organizzazione e le allocazioni di prodotti
 
 **Si applica a:** Enterprise
@@ -391,9 +397,9 @@ Se il profilo di prodotto contiene più di una risorsa, saranno presenti più ri
 - I profili da aggiornare ed eliminare devono essere presenti nell’organizzazione.
 - Le risorse da aggiornare ed eliminare (disattivate) devono essere presenti nel profilo.
 - Per creare i profili, verifica quanto segue:
-   - L’orgId deve essere una nuova organizzazione o un’organizzazione esistente.
-   - LicenseId deve essere un nuovo prodotto o un prodotto esistente.
-   - Convalida le risorse per il profilo.
+  - L’orgId deve essere una nuova organizzazione o un’organizzazione esistente.
+  - LicenseId deve essere un nuovo prodotto o un prodotto esistente.
+  - Convalida le risorse per il profilo.
 
 ### Risorse nei profili di prodotto
 
@@ -547,9 +553,9 @@ Se il profilo di prodotto contiene più di una risorsa, saranno presenti più ri
 - userGroups da aggiornare ed eliminare deve essere presente nell&#39;organizzazione.
 - Il profilo da rimuovere dal gruppo di utenti deve essere presente nel gruppo di utenti. Impossibile eseguire operazioni di aggiornamento sul profilo di un gruppo di utenti.
 - Per creare i gruppi di utenti, verifica quanto segue:
-   - L’orgId deve essere una nuova organizzazione o un’organizzazione esistente.
-   - Il licenseId, se applicabile, deve essere un nuovo prodotto o un prodotto esistente.
-   - ProductProfileId deve essere un nuovo profilo di prodotto o un profilo di prodotto esistente.
+  - L’orgId deve essere una nuova organizzazione o un’organizzazione esistente.
+  - Il licenseId, se applicabile, deve essere un nuovo prodotto o un prodotto esistente.
+  - ProductProfileId deve essere un nuovo profilo di prodotto o un profilo di prodotto esistente.
 
 ### Domini
 
@@ -699,8 +705,8 @@ Se un prodotto dispone di più risorse, le operazioni di aggiornamento possono e
 - Le proprietà dei dati di importazione del prodotto devono essere del tipo corretto.
 - Il campo criterio prodotto (overAllocation) non deve essere fornito per risorse diverse.
 - Il campo grantQuantity:
-   - Non può essere cambiato in *unlimited* se non è già *unlimited*.
-   - Deve essere un numero intero non negativo o il valore stringa *unlimited.*
+  - Non può essere cambiato in *unlimited* se non è già *unlimited*.
+  - Deve essere un numero intero non negativo o il valore stringa *unlimited.*
 
 **Autorizzazione/convalida accessibile**
 

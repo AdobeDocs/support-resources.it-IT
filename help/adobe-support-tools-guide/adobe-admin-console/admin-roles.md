@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
-
+source-wordcount: '1654'
+ht-degree: 1%
 ---
-
 # Ruoli amministrativi
 
 Utilizzando Adobe Admin Console, le organizzazioni possono definire una gerarchia amministrativa flessibile che consente una gestione dettagliata dell’accesso e dell’utilizzo dei prodotti Adobe. Uno o più amministratori di sistema, il cui provisioning è stato eseguito durante il processo di onboarding aziendale, si trovano nella parte superiore della gerarchia. Questi amministratori di sistema possono delegare responsabilità ad altri amministratori, pur mantenendo il controllo generale.
@@ -38,7 +44,7 @@ _Gerarchia ruoli amministratore_
 
 | Ruolo | Descrizione |
 |--- |--- |
-| **Amministratore di sistema** | Utente privilegiato per l’organizzazione; autorizzato a eseguire tutte le attività amministrative nell’Admin Console.<br>Inoltre, dispone delle autorizzazioni per delegare le seguenti funzionalità amministrative ad altri utenti: amministratore di prodotto, amministratore del profilo di prodotto, amministratore del gruppo di utenti, amministratore della distribuzione e amministratore del supporto. |
+| **Amministratore di sistema** | Utente con privilegi avanzati per l&#39;organizzazione; autorizzato a eseguire tutte le attività amministrative in Admin Console.<br>Inoltre, dispone delle autorizzazioni per delegare le seguenti funzionalità amministrative ad altri utenti: amministratore di prodotto, amministratore del profilo di prodotto, amministratore del gruppo di utenti, amministratore della distribuzione e amministratore del supporto. |
 | **Amministratore prodotto** | Amministra i prodotti assegnati a tale amministratore e tutte le funzioni amministrative associate, tra cui:<ul><li>Creare profili di prodotto</li><li>Aggiungi utenti e gruppi di utenti all’organizzazione, ma non rimuovi questi</li><li>Aggiungere o rimuovere utenti e gruppi di utenti dai profili di prodotto</li><li>Aggiungere o rimuovere gli amministratori dei profili di prodotto dai profili di prodotto</li><li>Aggiungi o rimuovi altri amministratori di prodotto dal prodotto</li><li>Aggiungere o rimuovere gli amministratori di gruppi dai gruppi</li></ul> |
 | **Amministratore profilo prodotto** | Amministra le descrizioni del profilo di prodotto assegnate a tale amministratore e tutte le funzioni amministrative associate, tra cui:<ul><li>Aggiungi utenti e gruppi di utenti all’organizzazione, ma non rimuovi questi</li><li>Aggiungere o rimuovere utenti e gruppi di utenti dai profili di prodotto</li><li>Assegnare o revocare le autorizzazioni di prodotto a utenti e gruppi di utenti dai profili di prodotto</li><li>Gestire i ruoli prodotto di utenti e gruppi di utenti per i profili di prodotto |
 | **Amministratore gruppo utenti** | Amministra le descrizioni dei gruppi di utenti assegnate a tale amministratore e tutte le funzioni amministrative associate, tra cui:<ul><li>Aggiungere o rimuovere utenti dai gruppi</li><li>Aggiungere o rimuovere gli amministratori dei gruppi di utenti dai gruppi |
