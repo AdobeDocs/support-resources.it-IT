@@ -46,9 +46,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: ec060fad85a22f6d55c4de3dc2d7fbf8a1ecb8c7
+source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
 workflow-type: tm+mt
-source-wordcount: '4677'
+source-wordcount: '4679'
 ht-degree: 3%
 ---
 # Guida di preparazione alle festività unificate per le soluzioni Adobe CX
@@ -89,7 +89,7 @@ Adobe Experience Platform (AEP) svolge un ruolo fondamentale nel fornire ai clie
 
 ### Previsione della domanda stagionale
 
-In preparazione ai picchi di traffico stagionali, Adobe consiglia di pianificare la capacità e monitorare l’acquisizione del profilo di streaming. Ciò include la previsione dei volumi di dati e la garanzia che il sistema sia in grado di gestire un throughput maggiore. Consulta [Piano per la capacità e il traffico stagionale](https://experienceleague.adobe.com/it/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"} per riferimento.
+Prevedi i volumi di dati stagionali e l’acquisizione dei profili di streaming di picco utilizzando modelli storici e attività pianificata. Esamina il monitoraggio dell’acquisizione per identificare quando la domanda può raggiungere il picco e se la capacità può costituire un vincolo. Consulta [Piano per la capacità e il traffico stagionale](https://experienceleague.adobe.com/it/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"} per riferimento.
 
 ### Preparazione per la scalabilità
 
@@ -108,7 +108,7 @@ Per rimanere entro i limiti operativi ed evitare interruzioni del servizio, Adob
 * [Best practice per la velocità effettiva di streaming](https://experienceleague.adobe.com/it/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [Guardrail per l’acquisizione dei dati](https://experienceleague.adobe.com/it/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [Guardrail predefiniti per dati e segmentazione del profilo cliente in tempo reale](https://experienceleague.adobe.com/it/docs/experience-platform/profile/guardrails){target="_blank"}
-* [Blueprint di AEP: guardrail](https://experienceleague.adobe.com/it/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [Blueprint di AEP: guardrail](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
 
 ### Sicurezza e governance
 
@@ -200,7 +200,7 @@ Prevedendo in modo proattivo la domanda stagionale, configurando canali e regole
 
 +++**Fare clic per visualizzare i consigli di preparazione per le festività di Customer Journey Analytics (CJA).**
 
-Customer Journey Analytics utilizza i 5 punti per ottenere la disponibilità per le festività e la stagione di picco.
+Per preparare l’istanza di Customer Journey Analytics per le feste, Adobe consiglia di effettuare le seguenti operazioni.
 
 ### Preparazione per la scalabilità
 
@@ -215,8 +215,7 @@ Customer Journey Analytics utilizza i 5 punti per ottenere la disponibilità per
 
 ### Best practice
 
-* Pianifica esportazioni/rapporti durante periodi di traffico ridotto per ridurre il carico e la latenza. Consulta l&#39;articolo [Report pianificati](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}.
-* Distribuisci richieste: pianifica i rapporti a intervalli diversi nel corso della giornata.
+* Il report e l&#39;esportazione vengono distribuiti nell&#39;arco della giornata, dando priorità, ove possibile, ai periodi di minore utilizzo, per distribuire il carico e ridurre al minimo la latenza. Consulta l&#39;articolo [Report pianificati](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}.
 * Riduci i pannelli, semplifica i segmenti, accorcia gli intervalli di date ed evita processi concorrenti in eccesso. Per informazioni dettagliate, consulta l&#39;articolo [Ottimizzazione delle prestazioni di CJA Workspace](https://experienceleague.adobe.com/it/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"}.
 
 ### Risoluzione dei problemi
@@ -241,7 +240,7 @@ Per garantire una stagione di picco di successo per la tua organizzazione, è es
 
 ### Prevedere la domanda
 
-* Durante il periodo di picco delle vendite durante le festività (da metà novembre a metà gennaio), Adobe consiglia a tutti i commercianti Adobe Commerce ospitati nella nostra infrastruttura cloud di pianificare in modo proattivo un aumento dei visitatori inviando richieste di capacità di picco durante le festività. Per informazioni dettagliate, consulta [Richieste di capacità di crescita per le festività per Adobe Commerce nella nostra infrastruttura cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}.
+Durante il periodo di picco delle vendite durante le festività (da metà novembre a metà gennaio), Adobe consiglia a tutti i commercianti Adobe Commerce ospitati nella nostra infrastruttura cloud di pianificare in modo proattivo un aumento dei visitatori inviando richieste di capacità di picco durante le festività. Per informazioni dettagliate, consulta [Richieste di capacità di crescita per le festività per Adobe Commerce nella nostra infrastruttura cloud](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}.
 
 ### Preparazione per la scalabilità
 
@@ -285,9 +284,9 @@ Per informazioni sulla protezione/protezione del traffico del sito Web AEM, cons
 
 Adobe ha pianificato periodi di esclusione dalla manutenzione per garantire un servizio ininterrotto durante le feste critiche:
 
-* **Nessuna manutenzione automatica di AEMaaCS** si verifica nei seguenti intervalli di tempo, a partire dalla mezzanotte (00:00) CET:
-  * Da lunedì 23 novembre 2026 a martedì 1 dicembre 2026.
-  * Da lunedì 14 dicembre 2026 a domenica 3 gennaio 2027.
+**Nessuna manutenzione automatica di AEMaaCS** si verifica nei seguenti intervalli di tempo, a partire dalla mezzanotte (00:00) CET:
+* Da lunedì 23 novembre 2026 a martedì 1 dicembre 2026.
+* Da lunedì 14 dicembre 2026 a domenica 3 gennaio 2027.
 
 Questo garantisce stabilità durante i periodi di traffico elevato. Per le pianificazioni complete delle versioni e le finestre di manutenzione, consulta la [roadmap delle versioni di AEM](https://experienceleague.adobe.com/it/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}.
 
@@ -466,3 +465,4 @@ Mantieni l&#39;implementazione entro i [limiti Adobe Target](https://experiencel
 Prima di personalizzare le esperienze, conferma la conformità del consenso in base a RGPD e CCPA. Evita di memorizzare dati personali (PII, personally identifiable information) nei parametri del profilo e convalida la sicurezza API per proteggere i dati dei clienti.
 
 +++
+
