@@ -42,13 +42,13 @@ Questa sezione fornisce consigli tecnici per preparare gli ambienti Adobe Commer
 
 Assicurati che il tuo sito non utilizzi una versione non supportata di Adobe Commerce, il che potrebbe influire sulle prestazioni del sito e aumentarne la vulnerabilità ai problemi di sicurezza. Effettua l’aggiornamento all’ultima versione di Adobe Commerce per sicurezza e preparazione per le feste.
 
-La [versione più recente](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview) di Adobe Commerce include molte [correzioni di sicurezza importanti](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview), inclusi miglioramenti e problemi attenuati, che apporteranno vantaggi al progetto quando si esegue l&#39;aggiornamento da una versione precedente.
+La [versione più recente](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/overview) di Adobe Commerce include molte [correzioni di sicurezza importanti](https://experienceleague.adobe.com/it/docs/commerce-operations/release/notes/security-patches/overview), inclusi miglioramenti e problemi attenuati, che apporteranno vantaggi al progetto quando si esegue l&#39;aggiornamento da una versione precedente.
 
 Per ulteriori informazioni sulle versioni non supportate di Adobe Commerce, consultare [Adobe Commerce Life Cycle Policy](https://experienceleague.adobe.com/it/docs/commerce-operations/release/planning/lifecycle-policy).
 
 ## Installare gli strumenti ECE più recenti e QPT (Quality Patch Tool) {#install-latest-ece-tools-and-quality-patch-tool-qpt}
 
-Verificare che il modulo `ece-tools` più recente e i relativi moduli dipendenti siano installati utilizzando lo switch `--with-dependencies`, in modo che tutte le patch cloud richieste siano installate correttamente per la versione di Adobe Commerce in uso. Per i passaggi, vedere [Aggiornare il pacchetto ECE-Tools](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package).
+Verificare che il modulo `ece-tools` più recente e i relativi moduli dipendenti siano installati utilizzando lo switch `--with-dependencies`, in modo che tutte le patch cloud richieste siano installate correttamente per la versione di Adobe Commerce in uso. Per i passaggi, vedere [Aggiornare il pacchetto ECE-Tools](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package).
 
 Esaminate l&#39;elenco di patch disponibile nello strumento Patch di qualità e verificate che siano state applicate le patch delle prestazioni compatibili con la versione di Adobe Commerce in uso. Vedere [Strumento Patch di qualità: Ricerca di patch](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview).
 
@@ -58,12 +58,12 @@ Esaminate l&#39;elenco di patch disponibile nello strumento Patch di qualità e 
 
 ## Revisione e pulizia dei file di registro {#review-and-clean-log-files}
 
-Esaminare i file di log nell&#39;ambiente cloud (ad esempio, i file di log dell&#39;applicazione in `~/var/log`) e identificare eventuali record registrati di frequente scritti nei file di log predefiniti o personalizzati. Per ulteriori dettagli, vedere [Visualizzare e gestire i registri](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/log-locations).
+Esaminare i file di log nell&#39;ambiente cloud (ad esempio, i file di log dell&#39;applicazione in `~/var/log`) e identificare eventuali record registrati di frequente scritti nei file di log predefiniti o personalizzati. Per ulteriori dettagli, vedere [Visualizzare e gestire i registri](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/develop/test/log-locations).
 
 * Esaminare i seguenti file di log predefiniti e correggere gli errori ricorrenti: `~/var/log`, `~/var/log/exception.log`, `~/var/log/support_report.log`, `~/var/log/system.log`, `~/var/report`.
 * Rimuovi i registri di debug precedentemente aggiunti per la risoluzione dei problemi passati.
 
-Questi registri sono disponibili anche in [!DNL New Relic]. Vedere [Gestione dei registri di New Relic](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
+Questi registri sono disponibili anche in [!DNL New Relic]. Vedere [Gestione dei registri di New Relic](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
 
 ## Monitorare l&#39;aumento delle dimensioni del disco {#monitor-disk-size-growth}
 
@@ -72,7 +72,7 @@ La tua infrastruttura Adobe Commerce su cloud dispone di due volumi di dischi pr
 * `/mnt/shared` (file condivisi, inclusi log e file multimediali)
 * `/data/mysql` (volume database)
 
-Per ulteriori dettagli, vedere [Gestire lo spazio su disco](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space).
+Per ulteriori dettagli, vedere [Gestire lo spazio su disco](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space).
 
 ## Rivedere le richieste di database più lente {#review-slowest-database-requests}
 
@@ -82,7 +82,7 @@ Per ulteriori dettagli, vedere [Gestire lo spazio su disco](https://experiencele
 
 * **Controllare il log delle query lente di MySQL:** Esaminare `mysql-slow.log` per individuare le query lente registrate dal sistema. Questi registri sono disponibili anche in [!DNL New Relic]: vai a **[!UICONTROL New Relic]** > **[!UICONTROL Registri]** e filtra per `filePath:"/var/log/mysql/mysql-slow.log"`.
 
-Esaminare regolarmente i registri di query lente [!DNL MySQL] per verificare che le query lente non vengano eseguite di frequente. Per i passaggi per la risoluzione delle query identificate come problematiche, vedere [Risoluzione dei problemi di prestazioni del database](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues).
+Esaminare regolarmente i registri di query lente [!DNL MySQL] per verificare che le query lente non vengano eseguite di frequente. Per i passaggi per la risoluzione delle query identificate come problematiche, vedere [Risoluzione dei problemi di prestazioni del database](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues).
 
 ## Configurare i processi cron {#configure-cron-jobs}
 
@@ -90,7 +90,7 @@ Tutte le operazioni asincrone in Commerce vengono eseguite utilizzando il comand
 
 Commerce dipende dalla corretta configurazione dei processi cron per importanti funzioni di sistema, tra cui l’indicizzazione e le operazioni consumer di coda. Se non viene configurato correttamente, Commerce non funzionerà come previsto.
 
-È fondamentale che Commerce Cron sia configurato e configurato correttamente, utilizzando l’utente Unix appropriato nel file Unix Crontab. Ogni utente Unix ha il proprio file crontab, che è la configurazione utilizzata per eseguire i processi cron per quell&#39;utente. Per i passaggi, vedere [Configurare ed eseguire i processi cron](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
+È fondamentale che Commerce Cron sia configurato e configurato correttamente, utilizzando l’utente Unix appropriato nel file Unix Crontab. Ogni utente Unix ha il proprio file crontab, che è la configurazione utilizzata per eseguire i processi cron per quell&#39;utente. Per i passaggi, vedere [Configurare ed eseguire i processi cron](https://experienceleague.adobe.com/it/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
 
 Impossibile eseguire lo script `dev/tools/cron.sh` perché è stato rimosso.
 
@@ -104,4 +104,4 @@ Per migliorare la reattività storefront dell&#39;istanza di Commerce, configura
 * **[!UICONTROL Impostazioni JavaScript]** — **[!UICONTROL Abilita bundle JavaScript]**: *[!UICONTROL Sì]* (non abilitato per impostazione predefinita)
 * **[!UICONTROL Impostazioni modello]** — **[!UICONTROL Minimizza HTML]**: *[!UICONTROL Sì]*
 
-Poiché Adobe Commerce on Cloud viene sempre eseguito in modalità di produzione, impostare ogni opzione dalla riga di comando, ad esempio `bin/magento config:set --lock-config dev/css/minify_files 1`, quindi eseguire il commit della modifica `app/etc/config.php` risultante e ridistribuirla. Per l&#39;elenco completo dei percorsi CLI, vedere [Ottimizzare i file di risorse](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files).
+Poiché Adobe Commerce on Cloud viene sempre eseguito in modalità di produzione, impostare ogni opzione dalla riga di comando, ad esempio `bin/magento config:set --lock-config dev/css/minify_files 1`, quindi eseguire il commit della modifica `app/etc/config.php` risultante e ridistribuirla. Per l&#39;elenco completo dei percorsi CLI, vedere [Ottimizzare i file di risorse](https://experienceleague.adobe.com/it/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files).

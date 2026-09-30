@@ -63,11 +63,11 @@ FACET geo_country_code
 SINCE 7 days ago until today
 ```
 
-Modifica questa query in base alle tue esigenze, segmentala ulteriormente o trasformala in una dashboard per il tracciamento centralizzato. Per ulteriori dettagli, vedere [Gestione registro di New Relic](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
+Modifica questa query in base alle tue esigenze, segmentala ulteriormente o trasformala in una dashboard per il tracciamento centralizzato. Per ulteriori dettagli, vedere [Gestione registro di New Relic](https://experienceleague.adobe.com/it/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
 
 ## Personalizzare gli avvisi di New Relic (solo Cloud) {#customize-new-relic-alerts}
 
-Oltre agli avvisi gestiti impostati da Adobe Commerce sull’infrastruttura cloud, puoi impostare un’ampia gamma di avvisi e notifiche per la tua piattaforma durante la stagione di vendita di picco, ad esempio, per notificare il traffico da bot o un aumento dei tempi di risposta su una query GraphQL. Per l&#39;elenco completo degli avvisi incorporati, vedere [Avvisi gestiti per Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce).
+Oltre agli avvisi gestiti impostati da Adobe Commerce sull’infrastruttura cloud, puoi impostare un’ampia gamma di avvisi e notifiche per la tua piattaforma durante la stagione di vendita di picco, ad esempio, per notificare il traffico da bot o un aumento dei tempi di risposta su una query GraphQL. Per l&#39;elenco completo degli avvisi incorporati, vedere [Avvisi gestiti per Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce).
 
 [!DNL New Relic] avvisi e IA supportano strutture di query basate su NRQL. Impostare avvisi personalizzati dal dashboard [!DNL New Relic] in **[!UICONTROL Avvisi e IA]**.
 
@@ -79,7 +79,7 @@ Un punteggio Apdex va da 0 a 1. Un punteggio pari a 0 rappresenta il punteggio p
 
 Un punteggio Apdex di 0,5 o inferiore garantisce un&#39;indagine. Un punteggio inferiore a 0,4 è considerato un’interruzione.
 
-Insieme ad Apdex, [!DNL New Relic] fornisce una serie di statistiche per analizzare i problemi di prestazioni in Adobe Commerce sull&#39;infrastruttura cloud. Per i passaggi, consulta [Risoluzione dei problemi relativi alle prestazioni con New Relic su Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce).
+Insieme ad Apdex, [!DNL New Relic] fornisce una serie di statistiche per analizzare i problemi di prestazioni in Adobe Commerce sull&#39;infrastruttura cloud. Per i passaggi, consulta [Risoluzione dei problemi relativi alle prestazioni con New Relic su Adobe Commerce](https://experienceleague.adobe.com/it/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce).
 
 ## Rivedere le informazioni sul supporto (rapporto SWAT) {#review-support-insights-swat-report}
 
