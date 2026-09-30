@@ -83,6 +83,6 @@ In qualità di creatore di esperienza, sei considerato l’esperto. Il programma
 
 Per ulteriori informazioni e requisiti di idoneità, contatta oggi stesso il rappresentante del tuo account Adobe.
 
-[!BADGE Partecipa oggi]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" tooltip="Vai a https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Partecipa oggi]{type=Informative url="https://experienceleague.adobe.com/it/feedback-program" tooltip="Vai a https://experienceleague.adobe.com/it/feedback-program"}
 
 >[!ENDSHADEBOX]
