@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 429c577f4b129f09a6298e7afb527e58ccea0530
+source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 2%
@@ -53,7 +53,7 @@ ht-degree: 2%
   - [Domande frequenti](faq.md)
 - Supporto Adobe Commerce {#adobe-commerce-support}
   - [Panoramica del supporto Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)
-  - [Preparazione per le festività di Adobe Commerce]{#adobe-commerce-holiday-readiness}
+  - Preparazione alle festività per Adobe Commerce {#adobe-commerce-holiday-readiness}
     - [Panoramica](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
     - [Ottimizzazione delle prestazioni](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
     - [Best practice e stabilità](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
