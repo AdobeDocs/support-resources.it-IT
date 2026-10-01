@@ -83,6 +83,6 @@ Per ulteriori informazioni e requisiti di idoneità, contatta oggi stesso il rap
 
 >[!BEGINSHADEBOX]
 
-[!BADGE Partecipa oggi]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Vai a https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Partecipa oggi]{type=Informative url="https://experienceleague.adobe.com/it/feedback-program" newtab=true tooltip="Vai a https://experienceleague.adobe.com/it/feedback-program"}
 
 >[!ENDSHADEBOX]
