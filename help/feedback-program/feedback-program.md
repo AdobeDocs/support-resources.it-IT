@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
+source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -39,6 +39,14 @@ La partecipazione al programma di feedback di Adobe è completamente volontaria 
 
 Le opportunità variano in base a fattori quali l’area di prodotto, l’area geografica, il profilo del cliente e la disponibilità del programma e non tutti i partecipanti saranno invitati a ogni opportunità. Il tuo feedback aiuta Adobe a migliorare i prodotti, dare priorità agli investimenti futuri e fornire esperienze cliente migliori.
 
+## Termini del programma
+
+>[!BEGINSHADEBOX]
+
+Per partecipare può essere necessario accettare il Contratto del programma di feedback di Adobe. Possono essere applicate condizioni aggiuntive a seconda del programma o dell’attività specifica.
+
+>[!ENDSHADEBOX]
+
 ## Domande frequenti
 
 +++ Chi può partecipare?
@@ -65,12 +73,6 @@ Sì. I partecipanti al Programma riceveranno informazioni riservate di Adobe e n
 
 +++
 
-## Termini del programma
-
-Per partecipare può essere necessario accettare il Contratto del programma di feedback di Adobe. Possono essere applicate condizioni aggiuntive a seconda del programma o dell’attività specifica.
-
->[!BEGINSHADEBOX]
-
 ## Partecipa al programma di feedback di Adobe
 
 Dai forma al futuro dei prodotti Adobe con opportunità di accesso anticipato, studi di ricerca e feedback diretto con i nostri team di prodotto.
@@ -79,6 +81,8 @@ In qualità di creatore di esperienza, sei considerato l’esperto. Il programma
 
 Per ulteriori informazioni e requisiti di idoneità, contatta oggi stesso il rappresentante del tuo account Adobe.
 
-[!BADGE Partecipa oggi]{type=Informative url="https://experienceleague.adobe.com/it/feedback-program" newtab=true tooltip="Vai a https://experienceleague.adobe.com/it/feedback-program"}
+>[!BEGINSHADEBOX]
+
+[!BADGE Partecipa oggi]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Vai a https://experienceleague.adobe.com/en/feedback-program"}
 
 >[!ENDSHADEBOX]
