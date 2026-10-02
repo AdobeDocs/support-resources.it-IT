@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
+source-git-commit: 09841d315184fd3d0df0d885812c790c2b1ebae8
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '530'
 ht-degree: 0%
 ---
 # Programma di feedback di Adobe
@@ -41,11 +41,7 @@ Le opportunità variano in base a fattori quali l’area di prodotto, l’area g
 
 ## Termini del programma
 
->[!BEGINSHADEBOX]
-
 Per partecipare può essere necessario accettare il Contratto del programma di feedback di Adobe. Possono essere applicate condizioni aggiuntive a seconda del programma o dell’attività specifica.
-
->[!ENDSHADEBOX]
 
 ## Domande frequenti
 
@@ -81,8 +77,8 @@ In qualità di creatore di esperienza, sei considerato l’esperto. Il programma
 
 Per ulteriori informazioni e requisiti di idoneità, contatta oggi stesso il rappresentante del tuo account Adobe.
 
->[!BEGINSHADEBOX]
+[![pulsante di accesso](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
-[!BADGE Partecipa oggi]{type=Informative url="https://experienceleague.adobe.com/it/feedback-program" newtab=true tooltip="Vai a https://experienceleague.adobe.com/it/feedback-program"}
-
->[!ENDSHADEBOX]
+<!--
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+-->
