@@ -24,6 +24,7 @@ ht-degree: 91%
 # Portale [!DNL Adobe Success]: domande frequenti della clientela
 
  
+
 ## Qual è l’ambito del portale [!DNL Adobe Success]?
 
 Il portale [!DNL Adobe Success] è la nuova piattaforma centralizzata di Adobe, rivolta alla clientela e progettata per unificare l’esperienza post-vendita tra supporto, successo e coinvolgimento. La versione Alpha si concentra sull’offrire un’esperienza coerente che consolida strumenti e flussi di lavoro precedentemente distribuiti su più piattaforme (ad esempio, portale di supporto, artefatti manuali di Ultimate Success). L’obiettivo è semplificare il modo in cui la clientela interagisce con Adobe durante tutto il loro ciclo di vita, dall’onboarding al rinnovo, migliorando al contempo la trasparenza, l’autonomia e la realizzazione del valore.
