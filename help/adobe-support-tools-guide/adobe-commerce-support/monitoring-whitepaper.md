@@ -1,22 +1,24 @@
 ---
-title: Scheda informativa di monitoraggio per  [!DNL Adobe Commerce on cloud pro infrastructure]
+title: Scheda informativa di monitoraggio per [!DNL Adobe Commerce on cloud pro infrastructure]
 description: Questo documento fornisce informazioni sul monitoraggio e le notifiche dell’infrastruttura Adobe Commerce.
 exl-id: 0dd3239f-de10-48df-b3f4-ac2b8cbc6c72
-TQID: https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4
+TQID: 'https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Troubleshooting
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 511
+source-wordcount: '511'
 ht-degree: 0%
-
 ---
-
 # Scheda informativa di monitoraggio per [!DNL Adobe Commerce on cloud pro infrastructure]
 
 Questo documento fornisce informazioni sul monitoraggio e le notifiche dell’infrastruttura Adobe Commerce.
@@ -42,7 +44,7 @@ Gli eventi riportati di seguito vengono monitorati e il team di Adobe Commerce a
 | **Descrizione** | La disponibilità del sito viene determinata in base alle soglie configurate intorno alla metrica. La notifica dell’interruzione del sito viene attivata se il controllo non riesce per 10 minuti e non è in corso alcuna distribuzione attiva. |
 | **Destinatario notifica** | Commerciante/Partner e Adobe. |
 | **Azione di Adobe** | Responsabile della valutazione e della risoluzione se il problema riguarda l’infrastruttura Adobe Commerce. |
-| **Azione dell&#39;esercente** | Responsabile della risoluzione del problema se causato da modifiche o codice personalizzato introdotto da commerciante/partner. Per la risoluzione dei problemi, consultare: [Risoluzione dei problemi di inattività del sito](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html?lang=it). |
+| **Azione dell&#39;esercente** | Responsabile della risoluzione del problema se causato da modifiche o codice personalizzato introdotto da commerciante/partner. Per la risoluzione dei problemi, consultare: [Risoluzione dei problemi di inattività del sito](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html). |
 
 ## Monitoraggio dello spazio su disco
 
@@ -54,4 +56,4 @@ Gli eventi riportati di seguito vengono monitorati e il team di Adobe Commerce a
 | **Descrizione** | La notifica viene inviata in base alle soglie configurate per lo spazio libero su disco dell’host. Lo spazio su disco aggiuntivo viene aggiunto automaticamente una sola volta al supporto appropriato ([!DNL MySQL] o supporto) per evitare interruzioni del sito e concedere al commerciante il tempo necessario per liberare spazio su disco e/o per identificare e risolvere eventuali codici o registri che causano un rapido aumento dell&#39;utilizzo del disco. |
 | **Destinatario notifica** | Commerciante/Partner e Adobe. |
 | **Azione di Adobe** | Aumentare automaticamente il ticket di supporto e aggiungere automaticamente ulteriore spazio su disco al supporto appropriato ([!DNL MySQL] o supporto) per evitare interruzioni del sito. |
-| **Azione dell&#39;esercente** | Per ricevere avvisi continui sullo spazio su disco a livello di avviso, fare riferimento a: <ul><li>[[!DNL Managed alerts for Adobe Commerce]: avviso disco](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]: avviso disco critico](https://experienceleague.adobe.com/it/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |
+| **Azione dell&#39;esercente** | Per ricevere avvisi continui sullo spazio su disco a livello di avviso, fare riferimento a: <ul><li>[[!DNL Managed alerts for Adobe Commerce]: avviso disco](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]: avviso disco critico](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |

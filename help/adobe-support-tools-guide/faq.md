@@ -3,19 +3,20 @@ keywords: FAQ;domande frequenti
 title: Domande frequenti su Adobe Business Platform e Admin Console
 description: Domande frequenti per Adobe Workfront
 exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
-TQID: https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw
+TQID: 'https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Admin
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 484
+source-wordcount: '484'
 ht-degree: 11%
-
 ---
-
 # Domande frequenti su [!DNL Adobe Business Platform] e Admin Console
 
 +++**Che cos&#39;è Adobe Identity e Admin Console?**
@@ -64,7 +65,7 @@ I clienti riceveranno istruzioni e coordinazione da un team Workfront interno in
 
 +++**Quali risorse di formazione sono disponibili per AAC?**
 
-&lt;https://helpx.adobe.com/it/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 

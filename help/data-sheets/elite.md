@@ -2,26 +2,33 @@
 title: Supporto Elite
 description: I servizi di supporto Elite per Adobe Experience Cloud offrono obiettivi di livello di servizio d’eccellenza, supporto proattivo e l’affiancamento di un Technical Account Manager e un Named Support Engineer.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+TQID: 'https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Optimization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1406
+source-wordcount: '1406'
 ht-degree: 100%
-
 ---
-
 # Supporto Elite
 
 ![icona](assets/Elitebanner.png)
@@ -380,7 +387,7 @@ Attività strategiche disponibili:
 
 | Risorsa | Descrizione |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/it?lang=it) | Con Experience League, Adobe aiuta le aziende a conseguire il valore che si aspettano dalle soluzioni Adobe in cui hanno investito. In questo portale unificato, puoi imparare, relazionarti con altri professionisti e crescere seguendo un percorso personalizzato con tutorial, documentazione dei prodotti, formazione con istruttori, supporto tecnico e il sostegno dell’intera community. |
+| [Experience League](https://experienceleague.adobe.com/?lang=it) | Con Experience League, Adobe aiuta le aziende a conseguire il valore che si aspettano dalle soluzioni Adobe in cui hanno investito. In questo portale unificato, puoi imparare, relazionarti con altri professionisti e crescere seguendo un percorso personalizzato con tutorial, documentazione dei prodotti, formazione con istruttori, supporto tecnico e il sostegno dell’intera community. |
 | [Formazione](https://training.adobe.com/training/) | I corsi Adobe Digital Learning Services sono accessibili da Experience League. I corsi di apprendimento comprendono lezioni sia on-demand che guidate da istruttori. Potrai acquisire nuove competenze particolarmente ricercate nel settore e metterle in pratica nella tua organizzazione, per favorirne il successo. |
 | [Problemi di produzione e interruzioni del sistema](https://status.adobe.com/it) | Status.adobe.com trasmette informazioni sullo stato di tutti i prodotti e i servizi Adobe implementati in ambienti multi-tenant. Puoi scegliere se ricevere notifiche e-mail ogni volta che Adobe segnala, aggiorna o risolve un problema relativo a un prodotto. Vengono segnalate ad esempio le interruzioni per manutenzione programmata o problemi relativi ai servizi con diversi livelli di gravità. |
 | [Termini e condizioni](https://helpx.adobe.com/it/support/programs/support-policies-terms-conditions.html) | Termini e condizioni che descrivono i servizi di supporto disponibili. |
