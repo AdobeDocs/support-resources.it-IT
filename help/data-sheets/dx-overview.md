@@ -2,16 +2,15 @@
 title: Panoramica dei servizi di supporto di Experience Cloud
 description: Questo articolo fornisce un riepilogo delle opzioni di Assistenza clienti per Adobe Experience Cloud. Le opzioni disponibili sono Online, Business, Enterprise ed Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-TQID: https://experienceleague.adobe.com/m4dCNB7UaMrCL75Drv02GMnAGQbMjlA2FRQhA90x0Mo
+TQID: 'https://experienceleague.adobe.com/m4dCNB7UaMrCL75Drv02GMnAGQbMjlA2FRQhA90x0Mo'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: CX Enterprise
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 203
+source-wordcount: '203'
 ht-degree: 100%
-
 ---
-
 # Panoramica dei servizi di supporto di Experience Cloud
 
 L’Assistenza clienti per Adobe Experience Cloud ha un unico obiettivo: il successo dei nostri clienti. Tutti gli abbonamenti includono la possibilità di ricevere assistenza tecnica entrando facilmente in contatto con personale tecnico altamente qualificato.

@@ -2,22 +2,25 @@
 title: Funzionalità chiave per utente tipo tecnico
 description: Le funzioni del portale [!DNL Adobe Success/] per un utente tipo tecnico consentono di creare e gestire casi di assistenza, monitorare le prestazioni del sistema e tenere traccia degli avvisi relativi a sicurezza e funzionalità.
 exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
-TQID: https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk
+TQID: 'https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 100%
-
 ---
-
 # Funzionalità chiave per utente tipo tecnico
 
 La visualizzazione del portale [!DNL Adobe Success] per un utente tipo tecnico ha lo scopo di aiutare gli utenti a creare ticket, gestire casi di supporto e monitorare le prestazioni del sistema. Di seguito sono riportate le funzionalità chiave del portale per tali utenti.
