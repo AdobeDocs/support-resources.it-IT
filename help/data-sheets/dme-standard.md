@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe offre una gamma completa di risorse tecniche per supportare la tua attività, inclusa nell’abbonamento aziendale di Adobe. Il supporto standard include l’accesso 24 ore su 24, 7 giorni su 7 alle risorse di supporto autonomo, inclusi gli articoli disponibili sul sito HelpX e la community Adobe che favorisce il coinvolgimento e l’interazione con altri clienti.
 
-Puoi consultare la documentazione tecnica e dettagliata dei prodotti le note sulla versione pubblicate su <https://www.adobe.com>. Accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare richieste di assistenza tramite il nostro portale web di supporto.
+Puoi consultare la documentazione tecnica e dettagliata dei prodotti le note sulla versione pubblicate su <https://www.adobe.com/it>. Accesso 24 ore su 24, 7 giorni su 7 per gli utenti autorizzati (amministratori) ai nostri team di supporto tecnico tramite chat o telefono, nonché la possibilità di registrare richieste di assistenza tramite il nostro portale web di supporto.
 
 [Visualizza versione PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 
