@@ -167,4 +167,4 @@ Per collaborare, porre domande e chattare con altri amministratori, utilizzare l
 ## Legale e privacy
 
 - [Note legali](https://helpx.adobe.com/it/legal/legal-notices.html)
-- [Informativa sulla privacy online](https://www.adobe.com/privacy.html)
+- [Informativa sulla privacy online](https://www.adobe.com/it/privacy.html)
