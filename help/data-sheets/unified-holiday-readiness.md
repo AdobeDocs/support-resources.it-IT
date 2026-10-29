@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Durante il periodo di picco delle vendite durante le festività (da metà novemb
 
 ### Preparazione per la scalabilità
 
-Segui i consigli riportati nella guida [Pianificazione e pivot: un approccio strategico alla stagione di picco 2025](https://experienceleague.adobe.com/it/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}, che fornisce strategie utilizzabili tramite Adobe Commerce (e strumenti Adobe Experience Cloud opzionali) per aiutarti a pianificare, eseguire il pivot e fornire esperienze cliente straordinarie durante il periodo dell’anno più impegnativo.
+Segui i consigli riportati nella guida [Pianificazione e pivot: un approccio strategico alla stagione di picco 2026](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"}, che fornisce strategie utilizzabili tramite Adobe Commerce (e strumenti Adobe Experience Cloud opzionali) per aiutarti a pianificare, eseguire il pivot e fornire esperienze cliente straordinarie durante il periodo dell’anno più impegnativo.
 
 ### Best practice
 
