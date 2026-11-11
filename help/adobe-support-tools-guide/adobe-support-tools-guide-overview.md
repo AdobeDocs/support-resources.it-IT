@@ -20,7 +20,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -31,8 +31,9 @@ La **Guida al supporto e agli strumenti di Adobe** ti aiuta a utilizzare il supp
 
 Nella guida viene inoltre illustrato come **[!UICONTROL l&#39;amministratore del supporto]** e la relativa configurazione in **Adobe Admin Console** possano contattare il supporto, oltre ad articoli incentrati sul prodotto quando sono necessarie procedure o criteri più approfonditi. Utilizza il sommario di questa guida per aprire gli argomenti a livello di guida (ad esempio, l’esperienza di assistenza clienti in Experience League, la configurazione dell’adesione all’assistenza, i numeri di telefono dell’assistenza preferita e le note sulla versione del supporto Experience League).
 
-Sezioni principali di questa guida:
+## Sezioni principali di questa guida
 
 - **[Adobe Admin Console](adobe-admin-console/admin-console-overview.md)** - Amministrazione per le organizzazioni e Global Admin Console: ruoli, utenti, prodotti, criteri, reporting e attività correlate.
 - **[Supporto di Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)**: supporto di Commerce in Experience League, oltre ad articoli su strumenti, operazioni cloud, sicurezza e applicazione di patch, ticket practice, privacy e ciclo di vita della piattaforma.
 - **[Supporto Adobe Workfront](faq.md)** — Domande frequenti per Adobe Business Platform e Admin Console in un contesto Workfront.
+
