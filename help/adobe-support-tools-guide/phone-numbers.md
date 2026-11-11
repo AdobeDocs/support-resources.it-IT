@@ -14,12 +14,14 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 ---
 # Specifica un numero di telefono del supporto preferito
+
+## Prima di iniziare
 
 Quando ti viene assegnato un ruolo **Amministratore**, ad esempio **Amministratore del supporto tecnico**, ricevi un&#39;e-mail di conferma che disponi delle autorizzazioni di amministratore per gestire l&#39;istanza.
 
@@ -27,17 +29,14 @@ L&#39;e-mail contiene ora il testo in rosso riportato di seguito che spiega come
 
 ![numero di supporto preferito](assets/admin-console-1.png)
 
-Per specificare il numero di telefono preferito:
+## Impostare il numero di telefono del supporto preferito
 
 1. Fai clic sul collegamento **[!UICONTROL Profilo account]** per aprire una nuova finestra per accedere con `account.adobe.com`.
-
    ![accedi](assets/sign-in.png)
-
 1. Segui la procedura di accesso e accedi alla schermata seguente al `account.adobe.com`.
 1. Seleziona **[!UICONTROL Account e sicurezza]** > **[!UICONTROL Account]** per visualizzare il campo del numero di telefono del supporto.
 1. Aggiungi qui un numero di telefono da usare per riconoscerti in base alle tue esigenze di supporto.
-
-![specifica dettagli](assets/account-info.png)
+   ![specifica dettagli](assets/account-info.png)
 
 ![aggiungi numero di telefono](assets/enter-phone-number.png)
 
